@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lyrics TTML Index</title>
+</head>
+<body>
+  <h1>Lyrics TTML Index</h1>
+  <ul id="list"></ul>
+
+  <script>
+    async function loadIndex() {
+      const res = await fetch('./index.json');
+      const data = await res.json();
+
+      const list = document.getElementById('list');
+      data.forEach(item => {
+        const li = document.createElement('li');
+
+        const link = document.createElement('a');
+        link.textContent = `${item.artist} - ${item.title} [${item.lang}]`;
+        link.href = item.path;
+
+        li.appendChild(link);
+        list.appendChild(li);
+      });
+    }
+
+    loadIndex();
+  </script>
+</body>
+</html>
