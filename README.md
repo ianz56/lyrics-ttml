@@ -7,5 +7,7 @@ The primary purpose of this repo is **archival, experimentation, and integration
 
 ---
 
-## 📁 Repository Structure
+## Credits
+This repository makes use of **amll-ttml-tool** (https://github.com/Steve-xmh/amll-ttml-tool) to generate and edit TTML lyric files.
+
 
