@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en-GB" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:17.220" end="00:00:22.220" style="s2">Maybe I made a mistake</p>
+<p begin="00:00:23.130" end="00:00:29.180" style="s2">Choosing a heart that wasn’t truly in line</p>
+<p begin="00:00:31.150" end="00:00:36.150" style="s2">The obstacles that exist</p>
+<p begin="00:00:36.230" end="00:00:43.070" style="s2">Will come rushing by, from around us</p>
+<p begin="00:00:44.000" end="00:00:50.080" style="s2">Let my heart, convince itself</p>
+<p begin="00:00:50.190" end="00:00:56.030" style="s2">If in the future we won’t be together</p>
+<p begin="00:00:56.200" end="00:01:03.070" style="s2">I can’t choose love</p>
+<p begin="00:01:03.200" end="00:01:10.080" style="s2">If the universe separates us</p>
+<p begin="00:01:10.160" end="00:01:16.240" style="s2">I can’t force us</p>
+<p begin="00:01:17.150" end="00:01:23.240" style="s2">If the blessing was never there</p>
+<p begin="00:01:24.080" end="00:01:34.030" style="s2">God help me, truly I want him</p>
+<p begin="00:01:36.160" end="00:01:41.180" style="s2">Even though you say you can</p>
+<p begin="00:01:42.100" end="00:01:48.110" style="s2">But your heart doesn’t seem to be able to</p>
+<p begin="00:01:49.060" end="00:01:55.090" style="s2">Let my heart, convince itself</p>
+<p begin="00:01:55.220" end="00:02:01.150" style="s2">That love doesn’t have to own</p>
+<p begin="00:02:02.040" end="00:02:08.130" style="s2">I can’t choose love</p>
+<p begin="00:02:08.240" end="00:02:15.110" style="s2">If the universe separates us</p>
+<p begin="00:02:15.200" end="00:02:22.090" style="s2">I can’t force us</p>
+<p begin="00:02:22.140" end="00:02:29.040" style="s2">If the blessing was never there</p>
+<p begin="00:02:29.120" end="00:02:38.190" style="s2">God help me, truly I want him</p>
+<p begin="00:02:41.170" end="00:02:44.240" style="s2">Could this happen</p>
+<p begin="00:02:45.020" end="00:02:48.100" style="s2">You are written for me</p>
+<p begin="00:02:48.160" end="00:02:54.190" style="s2">My destiny is for you</p>
+<p begin="00:02:58.240" end="00:03:08.070" style="s2">Could it be created for me oooh</p>
+<p begin="00:03:15.170" end="00:03:19.000" style="s2">God help me</p>
+<p begin="00:03:19.030" end="00:03:29.030" style="s2">Truly I want him (I can’t force us)</p>
+<p begin="00:03:29.120" end="00:03:36.030" style="s2">If the blessing was never there</p>
+<p begin="00:03:36.050" end="00:03:46.160" style="s2">God help me, truly I want him</p>
+<p begin="00:03:50.020" end="00:03:59.010" style="s2">Truly I want him</p>
+<p begin="00:04:07.070" end="00:04:15.010" style="s2">My heart only wants him</p>
+</div>
+</body>
+</tt>
