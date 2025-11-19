@@ -6,9 +6,9 @@ on:
     paths:
       # HANYA build Pages kalau file berikut berubah:
       - "index.html"
-      - "index.json"
-      - "assets/**"
-      - ".github/workflows/pages.yml"
+      # - "index.json"
+      # - "assets/**"
+      # - ".github/workflows/pages.yml"
   workflow_dispatch:
 
 permissions:
