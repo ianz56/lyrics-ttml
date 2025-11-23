@@ -2,30 +2,137 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Lyrics TTML Index</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Lyrics TTML Index</h1>
-  <ul id="list"></ul>
+  <main class="page">
+    <header class="hero glass">
+      <div class="title">
+        <h1>Lyrics TTML Library</h1>
+        <p>Browse the TTML collection quickly. Search, filter by language, and open the document you need.</p>
+        <div class="meta">
+          <span class="badge"><span class="dot" aria-hidden="true"></span><span id="count">0</span> files</span>
+          <span class="badge">TTML index</span>
+        </div>
+      </div>
+      <div class="controls">
+        <div class="search">
+          <svg class="icon" viewBox="0 0 20 20" aria-hidden="true">
+            <path d="M12.9 12.3a5 5 0 1 0-.6.6l3.2 3.2a.5.5 0 0 0 .7-.7l-3.3-3.1ZM8.5 13a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9Z" />
+          </svg>
+          <input id="search" type="search" placeholder="Search by title, artist, or language" autocomplete="off" />
+        </div>
+        <div class="filters" id="filters" aria-label="Language filter"></div>
+      </div>
+    </header>
+
+    <p class="status">List of results</p>
+    <section class="grid" id="list"></section>
+  </main>
 
   <script>
-    async function loadIndex() {
-      const res = await fetch('./index.json');
-      const data = await res.json();
+    const listEl = document.getElementById('list');
+    const countEl = document.getElementById('count');
+    const filtersEl = document.getElementById('filters');
+    const searchEl = document.getElementById('search');
 
-      const list = document.getElementById('list');
-      data.forEach(item => {
-        const li = document.createElement('li');
+    const state = {
+      items: [],
+      activeLang: 'all'
+    };
 
-        const link = document.createElement('a');
-        link.textContent = `${item.artist} - ${item.title} [${item.lang}]`;
-        link.href = item.path;
+    const normalize = (text) => text.toLowerCase();
 
-        li.appendChild(link);
-        list.appendChild(li);
-      });
+    function renderLanguageFilters(langs) {
+      filtersEl.innerHTML = '';
+
+      const createButton = (lang, label) => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.textContent = label;
+        btn.className = lang === state.activeLang ? 'active' : '';
+        btn.addEventListener('click', () => {
+          state.activeLang = lang;
+          renderLanguageFilters(langs);
+          applyFilters();
+        });
+        return btn;
+      };
+
+      filtersEl.appendChild(createButton('all', 'All Language'));
+      langs.forEach((lang) => filtersEl.appendChild(createButton(lang, lang.toUpperCase())));
     }
 
+    function renderList(items) {
+      listEl.innerHTML = '';
+
+      if (!items.length) {
+        listEl.innerHTML = '<p class="empty">No matching results.</p>';
+        countEl.textContent = '0';
+        return;
+      }
+
+      const fragment = document.createDocumentFragment();
+      items.forEach((item) => {
+        const card = document.createElement('article');
+        card.className = 'card';
+
+        const title = document.createElement('div');
+        title.className = 'card__title';
+        title.textContent = item.title;
+
+        const meta = document.createElement('div');
+        meta.className = 'card__meta';
+        meta.textContent = `${item.artist} - ${item.lang.toUpperCase()}`;
+
+        const link = document.createElement('a');
+        link.className = 'card__link';
+        link.textContent = 'Open TTML';
+        link.href = item.path;
+        link.setAttribute('aria-label', `Open ${item.title} by ${item.artist}`);
+
+        card.append(title, meta, link);
+        fragment.appendChild(card);
+      });
+
+      listEl.appendChild(fragment);
+      countEl.textContent = String(items.length);
+    }
+
+    function applyFilters() {
+      const query = normalize(searchEl.value.trim());
+
+      const filtered = state.items.filter((item) => {
+        const matchesLang = state.activeLang === 'all' || item.lang === state.activeLang;
+        const haystack = normalize(`${item.artist} ${item.title} ${item.lang}`);
+        const matchesQuery = !query || haystack.includes(query);
+        return matchesLang && matchesQuery;
+      });
+
+      renderList(filtered);
+    }
+
+    async function loadIndex() {
+      try {
+        const res = await fetch('./index.json');
+        if (!res.ok) throw new Error('Failed to load index.json');
+
+        const data = await res.json();
+        state.items = Array.isArray(data) ? data : [];
+
+        const langs = Array.from(new Set(state.items.map((item) => item.lang))).sort((a, b) => a.localeCompare(b));
+        renderLanguageFilters(langs);
+        applyFilters();
+      } catch (err) {
+        console.error(err);
+        listEl.innerHTML = `<p class="error">${err.message}</p>`;
+        countEl.textContent = '0';
+      }
+    }
+
+    searchEl.addEventListener('input', applyFilters);
     loadIndex();
   </script>
 </body>
