@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Lyrics TTML Index</title>
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
   <main class="page">
     <header class="hero glass">
@@ -20,7 +22,8 @@
       <div class="controls">
         <div class="search">
           <svg class="icon" viewBox="0 0 20 20" aria-hidden="true">
-            <path d="M12.9 12.3a5 5 0 1 0-.6.6l3.2 3.2a.5.5 0 0 0 .7-.7l-3.3-3.1ZM8.5 13a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9Z" />
+            <path
+              d="M12.9 12.3a5 5 0 1 0-.6.6l3.2 3.2a.5.5 0 0 0 .7-.7l-3.3-3.1ZM8.5 13a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9Z" />
           </svg>
           <input id="search" type="search" placeholder="Search by title, artist, or language" autocomplete="off" />
         </div>
@@ -120,9 +123,17 @@
         if (!res.ok) throw new Error('Failed to load index.json');
 
         const data = await res.json();
-        state.items = Array.isArray(data) ? data : [];
+        state.items = (Array.isArray(data) ? data : []).sort((a, b) => {
+          if (a.lang === 'MISC' && b.lang !== 'MISC') return 1;
+          if (a.lang !== 'MISC' && b.lang === 'MISC') return -1;
+          return 0; // Keep original order for other items
+        });
 
-        const langs = Array.from(new Set(state.items.map((item) => item.lang))).sort((a, b) => a.localeCompare(b));
+        const langs = Array.from(new Set(state.items.map((item) => item.lang))).sort((a, b) => {
+          if (a === 'MISC') return 1;
+          if (b === 'MISC') return -1;
+          return a.localeCompare(b);
+        });
         renderLanguageFilters(langs);
         applyFilters();
       } catch (err) {
@@ -136,4 +147,5 @@
     loadIndex();
   </script>
 </body>
+
 </html>
