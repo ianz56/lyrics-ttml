@@ -3,12 +3,6 @@ name: GitHub Pages
 on:
   push:
     branches: ["main"]
-    paths:
-      # HANYA build Pages kalau file berikut berubah:
-      - "index.html"
-      # - "index.json"
-      # - "assets/**"
-      # - ".github/workflows/pages.yml"
   workflow_dispatch:
 
 permissions:
@@ -27,11 +21,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Karena site kamu statis, kita cukup upload root repo
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate index.json
+        run: python generate_index.py
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "."   # atau "docs" kalau nanti pindah ke folder lain
+          path: "."
 
   deploy:
     needs: build
