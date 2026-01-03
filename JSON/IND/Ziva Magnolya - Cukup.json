@@ -22,6 +22,9 @@
           "begin": 7.116,
           "end": 8.291,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -29,6 +32,9 @@
           "begin": 8.291,
           "end": 8.82,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -36,6 +42,9 @@
           "begin": 8.82,
           "end": 9.296,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -43,6 +52,9 @@
           "begin": 9.296,
           "end": 10.371,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -50,6 +62,9 @@
           "begin": 12.648,
           "end": 13.116,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -57,6 +72,9 @@
           "begin": 13.116,
           "end": 13.652,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -64,6 +82,9 @@
           "begin": 13.652,
           "end": 14.158,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -71,6 +92,9 @@
           "begin": 14.158,
           "end": 14.492,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -78,6 +102,9 @@
           "begin": 14.492,
           "end": 14.936,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -85,7 +112,10 @@
           "begin": 14.936,
           "end": 16.258,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -101,6 +131,9 @@
           "begin": 16.664,
           "end": 17.125,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -108,6 +141,9 @@
           "begin": 17.125,
           "end": 17.393,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -115,6 +151,9 @@
           "begin": 17.393,
           "end": 18.517,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -122,6 +161,9 @@
           "begin": 18.81,
           "end": 19.467,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -129,6 +171,9 @@
           "begin": 19.467,
           "end": 20.054,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -136,6 +181,9 @@
           "begin": 20.054,
           "end": 20.394,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -143,7 +191,10 @@
           "begin": 20.394,
           "end": 21.401,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -159,6 +210,9 @@
           "begin": 22.172,
           "end": 22.401,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -166,6 +220,9 @@
           "begin": 22.401,
           "end": 23.017,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -173,6 +230,9 @@
           "begin": 23.017,
           "end": 23.417,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -180,7 +240,10 @@
           "begin": 23.417,
           "end": 25.036,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -196,6 +259,9 @@
           "begin": 31.073,
           "end": 31.878,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -203,6 +269,9 @@
           "begin": 31.878,
           "end": 32.389,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -210,6 +279,9 @@
           "begin": 32.389,
           "end": 32.862,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -217,6 +289,9 @@
           "begin": 32.862,
           "end": 35.613,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -224,6 +299,9 @@
           "begin": 36.635,
           "end": 36.854,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -231,6 +309,9 @@
           "begin": 36.854,
           "end": 37.288,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -238,6 +319,9 @@
           "begin": 37.288,
           "end": 37.83,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -245,6 +329,9 @@
           "begin": 37.83,
           "end": 38.285,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -252,6 +339,9 @@
           "begin": 38.285,
           "end": 38.748,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -259,6 +349,9 @@
           "begin": 38.748,
           "end": 39.559,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -266,7 +359,10 @@
           "begin": 39.559,
           "end": 40.08,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -282,6 +378,9 @@
           "begin": 40.459,
           "end": 40.688,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -289,6 +388,9 @@
           "begin": 40.688,
           "end": 41.011,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -296,6 +398,9 @@
           "begin": 41.011,
           "end": 42.256,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -303,6 +408,9 @@
           "begin": 42.526,
           "end": 42.689,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -310,6 +418,9 @@
           "begin": 42.689,
           "end": 43.255,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -317,6 +428,9 @@
           "begin": 43.255,
           "end": 43.628,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -324,6 +438,9 @@
           "begin": 43.628,
           "end": 43.894,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -331,7 +448,10 @@
           "begin": 43.894,
           "end": 44.9,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -347,6 +467,9 @@
           "begin": 45.312,
           "end": 46.021,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -354,6 +477,9 @@
           "begin": 46.021,
           "end": 47.259,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -361,6 +487,9 @@
           "begin": 47.653,
           "end": 47.868,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -368,7 +497,10 @@
           "begin": 47.868,
           "end": 48.961,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -384,6 +516,9 @@
           "begin": 51.603,
           "end": 52.038,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -391,6 +526,9 @@
           "begin": 52.038,
           "end": 52.503,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -398,6 +536,9 @@
           "begin": 52.503,
           "end": 52.91,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -405,6 +546,9 @@
           "begin": 52.91,
           "end": 53.996,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -412,6 +556,9 @@
           "begin": 54.29,
           "end": 54.488,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -419,6 +566,9 @@
           "begin": 54.488,
           "end": 54.926,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -426,6 +576,9 @@
           "begin": 54.926,
           "end": 55.548,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -433,6 +586,9 @@
           "begin": 55.548,
           "end": 56.019,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -440,6 +596,9 @@
           "begin": 56.019,
           "end": 56.878,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -447,6 +606,9 @@
           "begin": 56.878,
           "end": 57.337,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -454,6 +616,9 @@
           "begin": 57.337,
           "end": 57.904,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -461,6 +626,9 @@
           "begin": 57.904,
           "end": 58.4,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -468,6 +636,9 @@
           "begin": 58.4,
           "end": 58.904,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -475,7 +646,10 @@
           "begin": 58.904,
           "end": 59.919,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -491,6 +665,9 @@
           "begin": 60.328,
           "end": 60.405,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -498,6 +675,9 @@
           "begin": 60.405,
           "end": 60.791,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -505,6 +685,9 @@
           "begin": 60.791,
           "end": 61.267,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -512,6 +695,9 @@
           "begin": 61.267,
           "end": 61.705,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -519,6 +705,9 @@
           "begin": 61.705,
           "end": 62.809,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -526,6 +715,9 @@
           "begin": 62.809,
           "end": 63.335,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -533,7 +725,10 @@
           "begin": 63.335,
           "end": 63.875,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -549,6 +744,9 @@
           "begin": 64.125,
           "end": 64.309,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -556,6 +754,9 @@
           "begin": 64.309,
           "end": 64.828,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -563,6 +764,9 @@
           "begin": 64.828,
           "end": 65.748,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -570,6 +774,9 @@
           "begin": 66.025,
           "end": 66.284,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -577,6 +784,9 @@
           "begin": 66.284,
           "end": 66.654,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -584,6 +794,9 @@
           "begin": 66.654,
           "end": 67.185,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -591,6 +804,9 @@
           "begin": 67.185,
           "end": 67.729,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -598,7 +814,10 @@
           "begin": 67.729,
           "end": 68.762,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -614,6 +833,9 @@
           "begin": 69.103,
           "end": 69.266,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -621,6 +843,9 @@
           "begin": 69.266,
           "end": 69.618,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -628,6 +853,9 @@
           "begin": 69.618,
           "end": 70.217,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -635,6 +863,9 @@
           "begin": 70.217,
           "end": 70.756,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -642,6 +873,9 @@
           "begin": 70.756,
           "end": 71.603,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -649,6 +883,9 @@
           "begin": 71.603,
           "end": 72.06,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -656,6 +893,9 @@
           "begin": 72.06,
           "end": 72.931,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -663,6 +903,9 @@
           "begin": 72.931,
           "end": 73.512,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -670,7 +913,10 @@
           "begin": 73.512,
           "end": 76.263,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -686,6 +932,9 @@
           "begin": 77.49,
           "end": 77.627,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -693,6 +942,9 @@
           "begin": 77.627,
           "end": 78.09100000000001,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -700,6 +952,9 @@
           "begin": 78.09100000000001,
           "end": 78.682,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -707,6 +962,9 @@
           "begin": 78.682,
           "end": 79.14699999999999,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -714,6 +972,9 @@
           "begin": 79.14699999999999,
           "end": 79.358,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -721,6 +982,9 @@
           "begin": 79.358,
           "end": 79.928,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -728,6 +992,9 @@
           "begin": 80.033,
           "end": 80.464,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -735,6 +1002,9 @@
           "begin": 80.464,
           "end": 80.729,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -742,6 +1012,9 @@
           "begin": 80.729,
           "end": 81.464,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -749,6 +1022,9 @@
           "begin": 81.464,
           "end": 81.953,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -756,6 +1032,9 @@
           "begin": 81.953,
           "end": 82.227,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -763,7 +1042,10 @@
           "begin": 82.227,
           "end": 82.75,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -779,6 +1061,9 @@
           "begin": 83.056,
           "end": 83.226,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -786,6 +1071,9 @@
           "begin": 83.226,
           "end": 83.748,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -793,6 +1081,9 @@
           "begin": 83.748,
           "end": 84.32,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -800,6 +1091,9 @@
           "begin": 84.32,
           "end": 84.889,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -807,6 +1101,9 @@
           "begin": 84.889,
           "end": 85.168,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -814,6 +1111,9 @@
           "begin": 85.168,
           "end": 85.739,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -821,6 +1121,9 @@
           "begin": 85.981,
           "end": 86.39,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -828,6 +1131,9 @@
           "begin": 86.39,
           "end": 86.715,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -835,6 +1141,9 @@
           "begin": 86.715,
           "end": 87.399,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -842,6 +1151,9 @@
           "begin": 87.399,
           "end": 87.871,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -849,6 +1161,9 @@
           "begin": 87.871,
           "end": 88.162,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -856,7 +1171,10 @@
           "begin": 88.162,
           "end": 88.71000000000001,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -872,6 +1190,9 @@
           "begin": 88.918,
           "end": 88.951,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -879,6 +1200,9 @@
           "begin": 88.951,
           "end": 89.836,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -886,6 +1210,9 @@
           "begin": 89.836,
           "end": 90.233,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -893,6 +1220,9 @@
           "begin": 90.233,
           "end": 90.812,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -900,6 +1230,9 @@
           "begin": 90.812,
           "end": 91.03399999999999,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -907,6 +1240,9 @@
           "begin": 91.03399999999999,
           "end": 91.52199999999999,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -914,6 +1250,9 @@
           "begin": 91.821,
           "end": 92.013,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -921,6 +1260,9 @@
           "begin": 92.013,
           "end": 92.7,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -928,6 +1270,9 @@
           "begin": 92.7,
           "end": 93.319,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -935,6 +1280,9 @@
           "begin": 93.319,
           "end": 93.898,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -942,6 +1290,9 @@
           "begin": 93.898,
           "end": 94.19800000000001,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -949,7 +1300,10 @@
           "begin": 94.19800000000001,
           "end": 94.696,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -965,6 +1319,9 @@
           "begin": 94.945,
           "end": 94.968,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -972,6 +1329,9 @@
           "begin": 94.968,
           "end": 95.59899999999999,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -979,6 +1339,9 @@
           "begin": 95.59899999999999,
           "end": 96.045,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -986,6 +1349,9 @@
           "begin": 96.045,
           "end": 96.66499999999999,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -993,6 +1359,9 @@
           "begin": 96.66499999999999,
           "end": 97.11500000000001,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1000,6 +1369,9 @@
           "begin": 97.11500000000001,
           "end": 97.598,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1007,6 +1379,9 @@
           "begin": 97.598,
           "end": 97.94800000000001,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1014,6 +1389,9 @@
           "begin": 97.94800000000001,
           "end": 98.581,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1021,6 +1399,9 @@
           "begin": 98.581,
           "end": 98.987,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1028,6 +1409,9 @@
           "begin": 98.987,
           "end": 99.941,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1035,6 +1419,9 @@
           "begin": 100.023,
           "end": 100.22399999999999,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1042,6 +1429,9 @@
           "begin": 100.22399999999999,
           "end": 100.593,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1049,7 +1439,10 @@
           "begin": 100.593,
           "end": 101.17,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -1065,6 +1458,9 @@
           "begin": 101.542,
           "end": 102.025,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1072,6 +1468,9 @@
           "begin": 102.025,
           "end": 102.61099999999999,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1079,6 +1478,9 @@
           "begin": 102.59899999999999,
           "end": 102.848,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1086,6 +1488,9 @@
           "begin": 102.848,
           "end": 103.348,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1093,6 +1498,9 @@
           "begin": 103.694,
           "end": 104.031,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1100,6 +1508,9 @@
           "begin": 104.031,
           "end": 104.404,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1107,6 +1518,9 @@
           "begin": 104.404,
           "end": 104.664,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1114,6 +1528,9 @@
           "begin": 105.13499999999999,
           "end": 105.463,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1121,6 +1538,9 @@
           "begin": 105.463,
           "end": 105.899,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1128,7 +1548,10 @@
           "begin": 105.899,
           "end": 106.42,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -1144,6 +1567,9 @@
           "begin": 106.56700000000001,
           "end": 106.91,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1151,6 +1577,9 @@
           "begin": 106.91,
           "end": 107.469,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1158,6 +1587,9 @@
           "begin": 107.469,
           "end": 107.913,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1165,6 +1597,9 @@
           "begin": 107.913,
           "end": 108.49000000000001,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1172,6 +1607,9 @@
           "begin": 108.49000000000001,
           "end": 108.87,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1179,6 +1617,9 @@
           "begin": 108.87,
           "end": 109.244,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1186,6 +1627,9 @@
           "begin": 109.244,
           "end": 110.062,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1193,6 +1637,9 @@
           "begin": 110.386,
           "end": 110.489,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1200,6 +1647,9 @@
           "begin": 110.489,
           "end": 110.91,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1207,6 +1657,9 @@
           "begin": 110.91,
           "end": 111.602,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1214,6 +1667,9 @@
           "begin": 111.602,
           "end": 111.846,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1221,6 +1677,9 @@
           "begin": 111.846,
           "end": 112.206,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1228,6 +1687,9 @@
           "begin": 112.206,
           "end": 112.45,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1235,7 +1697,10 @@
           "begin": 112.45,
           "end": 113.18,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -1251,6 +1716,9 @@
           "begin": 113.315,
           "end": 113.54599999999999,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1258,6 +1726,9 @@
           "begin": 113.54599999999999,
           "end": 114.08,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1265,6 +1736,9 @@
           "begin": 114.08,
           "end": 114.488,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1272,6 +1746,9 @@
           "begin": 114.589,
           "end": 114.735,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1279,6 +1756,9 @@
           "begin": 114.735,
           "end": 115.193,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1286,6 +1766,9 @@
           "begin": 115.527,
           "end": 115.932,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1293,6 +1776,9 @@
           "begin": 115.932,
           "end": 116.321,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1300,6 +1786,9 @@
           "begin": 116.321,
           "end": 116.82,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1307,6 +1796,9 @@
           "begin": 116.82,
           "end": 117.44,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1314,6 +1806,9 @@
           "begin": 117.44,
           "end": 117.65100000000001,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1321,7 +1816,10 @@
           "begin": 117.65100000000001,
           "end": 118.995,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -1337,6 +1835,9 @@
           "begin": 119.219,
           "end": 119.375,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1344,6 +1845,9 @@
           "begin": 119.375,
           "end": 119.842,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1351,6 +1855,9 @@
           "begin": 119.842,
           "end": 120.373,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1358,6 +1865,9 @@
           "begin": 120.373,
           "end": 120.784,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1365,6 +1875,9 @@
           "begin": 120.784,
           "end": 121.785,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1372,6 +1885,9 @@
           "begin": 121.706,
           "end": 122.326,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1379,6 +1895,9 @@
           "begin": 122.326,
           "end": 123.079,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1386,6 +1905,9 @@
           "begin": 123.079,
           "end": 124.071,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1393,6 +1915,9 @@
           "begin": 124.623,
           "end": 125.05,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1400,7 +1925,10 @@
           "begin": 125.05,
           "end": 125.949,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -1416,6 +1944,9 @@
           "begin": 126.681,
           "end": 126.863,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1423,7 +1954,10 @@
           "begin": 126.863,
           "end": 131.454,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -1436,6 +1970,9 @@
             "begin": 127.217,
             "end": 127.885,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": true
           },
           {
@@ -1443,6 +1980,9 @@
             "begin": 127.885,
             "end": 128.168,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": true
           },
           {
@@ -1450,6 +1990,9 @@
             "begin": 128.168,
             "end": 128.418,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": false
           },
           {
@@ -1457,6 +2000,9 @@
             "begin": 128.418,
             "end": 128.541,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": true
           },
           {
@@ -1464,6 +2010,9 @@
             "begin": 128.541,
             "end": 129.111,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": false
           },
           {
@@ -1471,6 +2020,9 @@
             "begin": 129.111,
             "end": 129.627,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": true
           },
           {
@@ -1478,6 +2030,9 @@
             "begin": 129.627,
             "end": 130.045,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": false
           },
           {
@@ -1485,6 +2040,9 @@
             "begin": 130.045,
             "end": 130.484,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": false
           },
           {
@@ -1492,6 +2050,9 @@
             "begin": 130.484,
             "end": 131.565,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": false
           }
         ]
@@ -1507,6 +2068,9 @@
           "begin": 131.734,
           "end": 132.185,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1514,6 +2078,9 @@
           "begin": 132.185,
           "end": 133.151,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1521,6 +2088,9 @@
           "begin": 133.151,
           "end": 133.619,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1528,6 +2098,9 @@
           "begin": 133.619,
           "end": 134.051,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1535,6 +2108,9 @@
           "begin": 134.051,
           "end": 134.538,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1542,6 +2118,9 @@
           "begin": 134.538,
           "end": 134.99,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1549,6 +2128,9 @@
           "begin": 134.99,
           "end": 135.448,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1556,6 +2138,9 @@
           "begin": 135.448,
           "end": 136.823,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1563,6 +2148,9 @@
           "begin": 136.823,
           "end": 137.108,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1570,6 +2158,9 @@
           "begin": 137.108,
           "end": 138.141,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
@@ -1586,6 +2177,9 @@
           "begin": 138.649,
           "end": 138.94,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1593,6 +2187,9 @@
           "begin": 139.128,
           "end": 139.73,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1600,6 +2197,9 @@
           "begin": 139.73,
           "end": 140.11,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1607,6 +2207,9 @@
           "begin": 140.11,
           "end": 140.225,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1614,6 +2217,9 @@
           "begin": 140.225,
           "end": 140.703,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1621,6 +2227,9 @@
           "begin": 141.148,
           "end": 141.306,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1628,6 +2237,9 @@
           "begin": 141.306,
           "end": 141.804,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1635,6 +2247,9 @@
           "begin": 141.804,
           "end": 142.386,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1642,6 +2257,9 @@
           "begin": 142.386,
           "end": 142.877,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1649,6 +2267,9 @@
           "begin": 142.877,
           "end": 143.286,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1656,6 +2277,9 @@
           "begin": 143.286,
           "end": 144.07,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
@@ -1672,6 +2296,9 @@
           "begin": 144.546,
           "end": 144.808,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1679,6 +2306,9 @@
           "begin": 144.808,
           "end": 145.213,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1686,6 +2316,9 @@
           "begin": 145.213,
           "end": 145.817,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1693,6 +2326,9 @@
           "begin": 145.978,
           "end": 146.357,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1700,6 +2336,9 @@
           "begin": 146.357,
           "end": 146.935,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1707,6 +2346,9 @@
           "begin": 147.268,
           "end": 147.475,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1714,7 +2356,10 @@
           "begin": 147.475,
           "end": 151.38400000000001,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -1730,6 +2375,9 @@
           "begin": 151.38400000000001,
           "end": 151.656,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1737,6 +2385,9 @@
           "begin": 151.656,
           "end": 151.835,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1744,6 +2395,9 @@
           "begin": 151.835,
           "end": 152.223,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1751,6 +2405,9 @@
           "begin": 152.223,
           "end": 152.84300000000002,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1758,6 +2415,9 @@
           "begin": 152.84300000000002,
           "end": 153.10399999999998,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1765,6 +2425,9 @@
           "begin": 153.10399999999998,
           "end": 153.624,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1772,6 +2435,9 @@
           "begin": 153.867,
           "end": 154.19299999999998,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1779,6 +2445,9 @@
           "begin": 154.19299999999998,
           "end": 154.566,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1786,6 +2455,9 @@
           "begin": 154.566,
           "end": 155.22,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1793,6 +2465,9 @@
           "begin": 155.22,
           "end": 155.614,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1800,6 +2475,9 @@
           "begin": 155.614,
           "end": 156.20600000000002,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1807,7 +2485,10 @@
           "begin": 156.20600000000002,
           "end": 157.164,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -1823,6 +2504,9 @@
           "begin": 157.332,
           "end": 157.541,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1830,6 +2514,9 @@
           "begin": 157.541,
           "end": 157.773,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1837,6 +2524,9 @@
           "begin": 157.773,
           "end": 158.12,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1844,6 +2534,9 @@
           "begin": 158.12,
           "end": 158.685,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1851,6 +2544,9 @@
           "begin": 158.685,
           "end": 158.872,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1858,6 +2554,9 @@
           "begin": 158.872,
           "end": 159.508,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1865,6 +2564,9 @@
           "begin": 159.84300000000002,
           "end": 160.156,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1872,6 +2574,9 @@
           "begin": 160.156,
           "end": 160.43,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1879,6 +2584,9 @@
           "begin": 160.43,
           "end": 161.257,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1886,6 +2594,9 @@
           "begin": 161.257,
           "end": 161.619,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1893,6 +2604,9 @@
           "begin": 161.619,
           "end": 162.016,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1900,7 +2614,10 @@
           "begin": 162.016,
           "end": 163.034,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -1916,6 +2633,9 @@
           "begin": 163.258,
           "end": 163.434,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1923,6 +2643,9 @@
           "begin": 163.434,
           "end": 163.641,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1930,6 +2653,9 @@
           "begin": 163.641,
           "end": 164.052,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1937,6 +2663,9 @@
           "begin": 164.052,
           "end": 164.558,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1944,6 +2673,9 @@
           "begin": 164.558,
           "end": 164.885,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1951,6 +2683,9 @@
           "begin": 164.885,
           "end": 165.395,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1958,6 +2693,9 @@
           "begin": 165.605,
           "end": 166.096,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1965,6 +2703,9 @@
           "begin": 166.096,
           "end": 166.394,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1972,6 +2713,9 @@
           "begin": 166.394,
           "end": 167.202,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1979,6 +2723,9 @@
           "begin": 167.202,
           "end": 167.68,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -1986,6 +2733,9 @@
           "begin": 167.68,
           "end": 167.96,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1993,7 +2743,10 @@
           "begin": 167.96,
           "end": 168.808,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -2009,6 +2762,9 @@
           "begin": 169.127,
           "end": 169.418,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2016,6 +2772,9 @@
           "begin": 169.418,
           "end": 169.70600000000002,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2023,6 +2782,9 @@
           "begin": 169.70600000000002,
           "end": 170.143,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2030,6 +2792,9 @@
           "begin": 170.143,
           "end": 170.78199999999998,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2037,6 +2802,9 @@
           "begin": 170.78199999999998,
           "end": 171.086,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2044,6 +2812,9 @@
           "begin": 171.086,
           "end": 171.538,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2051,6 +2822,9 @@
           "begin": 171.538,
           "end": 172.036,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2058,6 +2832,9 @@
           "begin": 172.036,
           "end": 172.522,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2065,6 +2842,9 @@
           "begin": 172.522,
           "end": 172.973,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2072,6 +2852,9 @@
           "begin": 172.973,
           "end": 173.599,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2079,6 +2862,9 @@
           "begin": 173.715,
           "end": 173.957,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2086,6 +2872,9 @@
           "begin": 173.957,
           "end": 174.551,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2093,7 +2882,10 @@
           "begin": 174.551,
           "end": 175.143,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -2109,6 +2901,9 @@
           "begin": 175.523,
           "end": 176.31,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2116,6 +2911,9 @@
           "begin": 176.31,
           "end": 176.768,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2123,6 +2921,9 @@
           "begin": 176.768,
           "end": 177.382,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2130,6 +2931,9 @@
           "begin": 177.382,
           "end": 178.351,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2137,6 +2941,9 @@
           "begin": 178.525,
           "end": 178.96800000000002,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2144,6 +2951,9 @@
           "begin": 178.96800000000002,
           "end": 179.615,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2151,6 +2961,9 @@
           "begin": 179.615,
           "end": 180.008,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2158,6 +2971,9 @@
           "begin": 180.008,
           "end": 180.133,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2165,6 +2981,9 @@
           "begin": 180.133,
           "end": 180.478,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2172,7 +2991,10 @@
           "begin": 180.478,
           "end": 181.109,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -2188,6 +3010,9 @@
           "begin": 181.253,
           "end": 181.417,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2195,6 +3020,9 @@
           "begin": 181.417,
           "end": 181.894,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2202,6 +3030,9 @@
           "begin": 181.894,
           "end": 182.637,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2209,6 +3040,9 @@
           "begin": 182.637,
           "end": 182.904,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2216,6 +3050,9 @@
           "begin": 182.904,
           "end": 183.136,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2223,6 +3060,9 @@
           "begin": 183.136,
           "end": 183.467,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2230,6 +3070,9 @@
           "begin": 183.467,
           "end": 183.918,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2237,6 +3080,9 @@
           "begin": 184.226,
           "end": 184.291,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2244,6 +3090,9 @@
           "begin": 184.291,
           "end": 184.829,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2251,6 +3100,9 @@
           "begin": 184.829,
           "end": 185.478,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2258,6 +3110,9 @@
           "begin": 185.478,
           "end": 185.779,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2265,6 +3120,9 @@
           "begin": 185.779,
           "end": 186.102,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2272,6 +3130,9 @@
           "begin": 186.102,
           "end": 186.385,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2279,7 +3140,10 @@
           "begin": 186.385,
           "end": 187.036,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -2295,6 +3159,9 @@
           "begin": 187.16,
           "end": 187.311,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2302,6 +3169,9 @@
           "begin": 187.311,
           "end": 187.82,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2309,6 +3179,9 @@
           "begin": 187.82,
           "end": 188.214,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2316,6 +3189,9 @@
           "begin": 188.214,
           "end": 188.561,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2323,6 +3199,9 @@
           "begin": 188.561,
           "end": 188.93,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2330,6 +3209,9 @@
           "begin": 189.267,
           "end": 189.726,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2337,6 +3219,9 @@
           "begin": 189.726,
           "end": 190.056,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2344,6 +3229,9 @@
           "begin": 190.056,
           "end": 190.427,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2351,6 +3239,9 @@
           "begin": 190.829,
           "end": 191.253,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2358,6 +3249,9 @@
           "begin": 191.253,
           "end": 191.526,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2365,7 +3259,10 @@
           "begin": 191.526,
           "end": 193.53,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -2381,6 +3278,9 @@
           "begin": 194.017,
           "end": 194.216,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2388,6 +3288,9 @@
           "begin": 194.216,
           "end": 194.469,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2395,6 +3298,9 @@
           "begin": 194.469,
           "end": 194.727,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2402,6 +3308,9 @@
           "begin": 194.727,
           "end": 195.057,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2409,6 +3318,9 @@
           "begin": 195.057,
           "end": 195.651,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2416,6 +3328,9 @@
           "begin": 195.949,
           "end": 196.125,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2423,6 +3338,9 @@
           "begin": 196.125,
           "end": 196.911,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2430,6 +3348,9 @@
           "begin": 196.911,
           "end": 198.157,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2437,6 +3358,9 @@
           "begin": 198.318,
           "end": 198.972,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2444,6 +3368,9 @@
           "begin": 198.972,
           "end": 199.9,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
@@ -2457,6 +3384,9 @@
             "begin": 193.091,
             "end": 193.234,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": true
           },
           {
@@ -2464,6 +3394,9 @@
             "begin": 193.234,
             "end": 194.128,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": true
           },
           {
@@ -2471,6 +3404,9 @@
             "begin": 194.128,
             "end": 195.669,
             "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
             "hasSpaceAfter": false
           }
         ]
@@ -2486,6 +3422,9 @@
           "begin": 200.182,
           "end": 200.535,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2493,7 +3432,10 @@
           "begin": 200.535,
           "end": 204.603,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -2509,6 +3451,9 @@
           "begin": 205.082,
           "end": 205.526,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2516,6 +3461,9 @@
           "begin": 205.526,
           "end": 206.01,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2523,6 +3471,9 @@
           "begin": 206.01,
           "end": 206.517,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2530,6 +3481,9 @@
           "begin": 206.517,
           "end": 207.364,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2537,6 +3491,9 @@
           "begin": 207.399,
           "end": 207.95,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2544,6 +3501,9 @@
           "begin": 207.95,
           "end": 208.652,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2551,6 +3511,9 @@
           "begin": 208.652,
           "end": 210.137,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": true
         },
         {
@@ -2558,6 +3521,9 @@
           "begin": 210.137,
           "end": 210.806,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2565,7 +3531,10 @@
           "begin": 210.806,
           "end": 212.324,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",
@@ -2581,6 +3550,9 @@
           "begin": 213.725,
           "end": 214.07999999999998,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2588,7 +3560,10 @@
           "begin": 214.07999999999998,
           "end": 215.567,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         }
       ],
       "agent": "v1",

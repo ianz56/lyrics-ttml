@@ -15,27 +15,36 @@
     {
       "begin": 6.355,
       "end": 9.745,
-      "text": "¿CuántaspeleasrecuerdanBerapa banyak pertarungan",
+      "text": "¿Cuántas peleas recuerdan",
       "words": [
         {
           "text": "¿Cuántas",
           "begin": 6.355,
           "end": 6.894,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "peleas",
           "begin": 6.894,
           "end": 7.478,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "recuer",
           "begin": 7.478,
           "end": 8.585,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -43,57 +52,69 @@
           "begin": 8.585,
           "end": 9.745,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Berapa banyak pertarungan",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L1"
+      "key": "L1",
+      "translation": "Berapa banyak pertarungan"
     },
     {
       "begin": 10.993,
       "end": 14.304,
-      "text": "Laslíneasdemismanos?Yang terekam di garis tanganku?",
+      "text": "Las líneas de mis manos?",
       "words": [
         {
           "text": "Las",
           "begin": 10.993,
           "end": 11.454,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "líneas",
           "begin": 11.454,
           "end": 11.822,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "de",
           "begin": 11.822,
           "end": 12.238,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mis",
           "begin": 12.238,
           "end": 12.505,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ma",
           "begin": 12.505,
           "end": 13.027,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -101,131 +122,149 @@
           "begin": 13.027,
           "end": 14.304,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Yang terekam di garis tanganku?",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L2"
+      "key": "L2",
+      "translation": "Yang terekam di garis tanganku?"
     },
     {
       "begin": 15.853,
       "end": 19.201,
-      "text": "¿CuántashistoriascabenBerapa banyak kisah",
+      "text": "¿Cuántas historias caben",
       "words": [
         {
           "text": "¿Cuántas",
           "begin": 15.853,
           "end": 16.488,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "historias",
           "begin": 16.488,
           "end": 17.323,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "caben",
           "begin": 17.323,
           "end": 19.201,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Berapa banyak kisah",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L3"
+      "key": "L3",
+      "translation": "Berapa banyak kisah"
     },
     {
       "begin": 20.46,
       "end": 23.521,
-      "text": "Metidasenveintiúngramos?Yang muat dalam 21 gram jiwa?",
+      "text": "Metidas en veintiún gramos?",
       "words": [
         {
           "text": "Metidas",
           "begin": 20.46,
           "end": 21.105,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 21.105,
           "end": 21.356,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "veintiún",
           "begin": 21.356,
           "end": 22.023,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "gramos?",
           "begin": 22.023,
           "end": 23.521,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Yang muat dalam 21 gram jiwa?",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L4"
+      "key": "L4",
+      "translation": "Yang muat dalam 21 gram jiwa?"
     },
     {
       "begin": 23.54,
       "end": 33.041,
-      "text": "Tú,queestáslejosyalavezmáscercaKau yang begitu jauh, tapi sekaligus paling dekat",
+      "text": "Tú, que estás lejos y a la vez más cerca",
       "words": [
         {
           "text": "Tú,",
           "begin": 23.54,
           "end": 24.321,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "que",
           "begin": 24.321,
           "end": 25.036,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "estás",
           "begin": 25.58,
           "end": 26.082,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "le",
           "begin": 26.082,
           "end": 26.804,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -233,48 +272,69 @@
           "begin": 26.804,
           "end": 27.73,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "y",
           "begin": 28.091,
           "end": 28.365,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "a",
           "begin": 28.365,
           "end": 28.574,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "la",
           "begin": 28.574,
           "end": 29.233,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "vez",
           "begin": 29.233,
           "end": 30.062,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "más",
           "begin": 30.261,
           "end": 30.61,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cer",
           "begin": 30.61,
           "end": 31.51,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -282,50 +342,59 @@
           "begin": 31.51,
           "end": 33.041,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Kau yang begitu jauh, tapi sekaligus paling dekat",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L5"
+      "key": "L5",
+      "translation": "Kau yang begitu jauh, tapi sekaligus paling dekat"
     },
     {
       "begin": 33.113,
       "end": 42.614,
-      "text": "Tú,queestáslejosyalavezmáscercaKau yang begitu jauh, tapi sekaligus lebih dekat",
+      "text": "Tú, que estás lejos y a la vez más cerca",
       "words": [
         {
           "text": "Tú,",
           "begin": 33.113,
           "end": 33.857,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "que",
           "begin": 33.857,
           "end": 34.609,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "estás",
           "begin": 35.218,
           "end": 35.606,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "le",
           "begin": 35.606,
           "end": 36.308,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -333,48 +402,69 @@
           "begin": 36.308,
           "end": 37.251,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "y",
           "begin": 37.664,
           "end": 37.856,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "a",
           "begin": 37.856,
           "end": 37.956,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "la",
           "begin": 37.956,
           "end": 38.591,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "vez",
           "begin": 38.591,
           "end": 39.534,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "más",
           "begin": 39.817,
           "end": 40.134,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cer",
           "begin": 40.134,
           "end": 41.036,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -382,57 +472,69 @@
           "begin": 41.036,
           "end": 42.614,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Kau yang begitu jauh, tapi sekaligus lebih dekat",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L6"
+      "key": "L6",
+      "translation": "Kau yang begitu jauh, tapi sekaligus lebih dekat"
     },
     {
       "begin": 43.008,
       "end": 46.894,
-      "text": "QuemipropiavenayugularDari urat leherku sendiri",
+      "text": "Que mi propia vena yugular",
       "words": [
         {
           "text": "Que",
           "begin": 43.008,
           "end": 43.348,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mi",
           "begin": 43.348,
           "end": 43.564,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "propia",
           "begin": 43.564,
           "end": 44.049,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "vena",
           "begin": 44.049,
           "end": 44.716,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "yugu",
           "begin": 44.716,
           "end": 45.502,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -440,205 +542,229 @@
           "begin": 45.502,
           "end": 46.894,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Dari urat leherku sendiri",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L7"
+      "key": "L7",
+      "translation": "Dari urat leherku sendiri"
     },
     {
       "begin": 47.461,
       "end": 52.363,
-      "text": "منأجلكأدمرالسماءKuhancurkan surga untukmu",
+      "text": "من أجلك أدمر السماء",
       "words": [
         {
           "text": "من",
           "begin": 47.461,
           "end": 48.235,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "أجلك",
           "begin": 48.235,
           "end": 49.525,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "أدمر",
           "begin": 49.525,
           "end": 50.815,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "السماء",
           "begin": 50.815,
           "end": 52.363,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Kuhancurkan surga untukmu",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L8"
+      "key": "L8",
+      "translation": "Kuhancurkan surga untukmu"
     },
     {
       "begin": 52.62,
       "end": 57.674,
-      "text": "منأجلكأهدمالجحيمKuhancurkan neraka untukmu",
+      "text": "من أجلك أهدم الجحيم",
       "words": [
         {
           "text": "من",
           "begin": 52.62,
           "end": 53.418,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "أجلك",
           "begin": 53.418,
           "end": 54.748,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "أهدم",
           "begin": 54.748,
           "end": 56.078,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "الجحيم",
           "begin": 56.078,
           "end": 57.674,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Kuhancurkan neraka untukmu",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L9"
+      "key": "L9",
+      "translation": "Kuhancurkan neraka untukmu"
     },
     {
       "begin": 57.682,
       "end": 62.202,
-      "text": "فلاوعودBebas dari janji",
+      "text": "فلا وعود",
       "words": [
         {
           "text": "فلا",
           "begin": 57.682,
           "end": 59.942,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "وعود",
           "begin": 59.942,
           "end": 62.202,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Bebas dari janji",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L10"
+      "key": "L10",
+      "translation": "Bebas dari janji"
     },
     {
       "begin": 63.153,
       "end": 68.201,
-      "text": "ولاوعيدBebas dari ancaman",
+      "text": "ولا وعيد",
       "words": [
         {
           "text": "ولا",
           "begin": 63.153,
           "end": 65.67699999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "وعيد",
           "begin": 65.67699999999999,
           "end": 68.201,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Bebas dari ancaman",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L11"
+      "key": "L11",
+      "translation": "Bebas dari ancaman"
     },
     {
       "begin": 70.539,
       "end": 73.841,
-      "text": "Mira,yonotengotiempoDengar, aku tak punya waktu",
+      "text": "Mira, yo no tengo tiempo",
       "words": [
         {
           "text": "Mira,",
           "begin": 70.539,
           "end": 71.078,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "yo",
           "begin": 71.078,
           "end": 71.294,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "no",
           "begin": 71.294,
           "end": 71.51,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "tengo",
           "begin": 71.51,
           "end": 71.976,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "tiem",
           "begin": 71.976,
           "end": 72.67,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -646,50 +772,59 @@
           "begin": 72.67,
           "end": 73.841,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Dengar, aku tak punya waktu",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L12"
+      "key": "L12",
+      "translation": "Dengar, aku tak punya waktu"
     },
     {
       "begin": 75.358,
       "end": 78.158,
-      "text": "ParaodiaraLuciferUntuk membenci Lucifer",
+      "text": "Para odiar a Lucifer",
       "words": [
         {
           "text": "Para",
           "begin": 75.358,
           "end": 75.71000000000001,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "odiar",
           "begin": 75.71000000000001,
           "end": 76.09100000000001,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "a",
           "begin": 76.09100000000001,
           "end": 76.358,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "Luci",
           "begin": 76.358,
           "end": 76.838,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -697,43 +832,49 @@
           "begin": 76.838,
           "end": 78.158,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Untuk membenci Lucifer",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L13"
+      "key": "L13",
+      "translation": "Untuk membenci Lucifer"
     },
     {
       "begin": 79.9,
       "end": 83.563,
-      "text": "EstoydemasiadoocupadaAku terlalu sibuk",
+      "text": "Estoy demasiado ocupada",
       "words": [
         {
           "text": "Estoy",
           "begin": 79.9,
           "end": 80.476,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "demasiado",
           "begin": 80.476,
           "end": 81.26,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocu",
           "begin": 81.26,
           "end": 81.693,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -741,6 +882,9 @@
           "begin": 81.693,
           "end": 82.277,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -748,50 +892,59 @@
           "begin": 82.277,
           "end": 83.563,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Aku terlalu sibuk",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L14"
+      "key": "L14",
+      "translation": "Aku terlalu sibuk"
     },
     {
       "begin": 84.608,
       "end": 87.065,
-      "text": "Amándoteati,UndibelMencintaimu, Tuhan",
+      "text": "Amándote a ti, Undibel",
       "words": [
         {
           "text": "Amándote",
           "begin": 84.608,
           "end": 85.402,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "a",
           "begin": 85.402,
           "end": 85.584,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ti,",
           "begin": 85.584,
           "end": 85.833,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "Undi",
           "begin": 85.833,
           "end": 86.27,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -799,122 +952,149 @@
           "begin": 86.27,
           "end": 87.065,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Mencintaimu, Tuhan",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L15"
+      "key": "L15",
+      "translation": "Mencintaimu, Tuhan"
     },
     {
       "begin": 87.108,
       "end": 91.206,
-      "text": "Micorazón,quesiempreestáenunacarreraHatiku, yang selalu seperti berlomba",
+      "text": "Mi corazón, que siempre está en una carrera",
       "words": [
         {
           "text": "Mi",
           "begin": 87.108,
           "end": 87.462,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "corazón,",
           "begin": 87.462,
           "end": 88.631,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "que",
           "begin": 88.918,
           "end": 89.18,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "siempre",
           "begin": 89.18,
           "end": 89.564,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "está",
           "begin": 89.564,
           "end": 89.703,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 89.703,
           "end": 89.846,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "una",
           "begin": 89.846,
           "end": 90.187,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "carrera",
           "begin": 90.187,
           "end": 91.206,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Hatiku, yang selalu seperti berlomba",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L16"
+      "key": "L16",
+      "translation": "Hatiku, yang selalu seperti berlomba"
     },
     {
       "begin": 91.443,
       "end": 95.995,
-      "text": "EstoycortandolasfloresantesdequeseaprimaveraKutebas bunga-bunga sebelum musim semi datang",
+      "text": "Estoy cortando las flores antes de que sea primavera",
       "words": [
         {
           "text": "Estoy",
           "begin": 91.443,
           "end": 91.85300000000001,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cortando",
           "begin": 91.85300000000001,
           "end": 92.469,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "las",
           "begin": 92.469,
           "end": 92.73599999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "flo",
           "begin": 92.73599999999999,
           "end": 93.205,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -922,41 +1102,59 @@
           "begin": 93.205,
           "end": 93.725,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "antes",
           "begin": 93.82300000000001,
           "end": 94.189,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "de",
           "begin": 94.189,
           "end": 94.37299999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "que",
           "begin": 94.37299999999999,
           "end": 94.501,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "sea",
           "begin": 94.501,
           "end": 94.72999999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "prima",
           "begin": 94.72999999999999,
           "end": 95.205,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -964,78 +1162,99 @@
           "begin": 95.205,
           "end": 95.995,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Kutebas bunga-bunga sebelum musim semi datang",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L17"
+      "key": "L17",
+      "translation": "Kutebas bunga-bunga sebelum musim semi datang"
     },
     {
       "begin": 96.326,
       "end": 100.87299999999999,
-      "text": "Dondeatanloscaballos,losmíosbienamarradosDi tempat kuda-kuda ditambatkan, punyaku terikat kuat",
+      "text": "Donde atan los caballos, los míos bien amarrados",
       "words": [
         {
           "text": "Donde",
           "begin": 96.326,
           "end": 96.686,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "atan",
           "begin": 96.686,
           "end": 97.134,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "los",
           "begin": 97.134,
           "end": 97.4,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "caballos,",
           "begin": 97.4,
           "end": 98.495,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "los",
           "begin": 98.584,
           "end": 98.967,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "míos",
           "begin": 98.967,
           "end": 99.26599999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "bien",
           "begin": 99.26599999999999,
           "end": 99.6,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ama",
           "begin": 99.6,
           "end": 99.887,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1043,6 +1262,9 @@
           "begin": 99.887,
           "end": 100.23599999999999,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1050,57 +1272,69 @@
           "begin": 100.23599999999999,
           "end": 100.87299999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Di tempat kuda-kuda ditambatkan, punyaku terikat kuat",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L18"
+      "key": "L18",
+      "translation": "Di tempat kuda-kuda ditambatkan, punyaku terikat kuat"
     },
     {
       "begin": 101.259,
       "end": 105.425,
-      "text": "LasangreylasuerteaquímehanarrastradoDarah dan nasib menyeretku ke sini",
+      "text": "La sangre y la suerte aquí me han arrastrado",
       "words": [
         {
           "text": "La",
           "begin": 101.259,
           "end": 101.547,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "sangre",
           "begin": 101.547,
           "end": 101.96000000000001,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "y",
           "begin": 101.96000000000001,
           "end": 102.062,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "la",
           "begin": 102.062,
           "end": 102.28,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "suer",
           "begin": 102.28,
           "end": 102.706,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1108,85 +1342,109 @@
           "begin": 102.706,
           "end": 103.18299999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "aquí",
           "begin": 103.479,
           "end": 103.89500000000001,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "me",
           "begin": 103.89500000000001,
           "end": 104.02199999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "han",
           "begin": 104.02199999999999,
           "end": 104.245,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "arrastrado",
           "begin": 104.245,
           "end": 105.425,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Darah dan nasib menyeretku ke sini",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L19"
+      "key": "L19",
+      "translation": "Darah dan nasib menyeretku ke sini"
     },
     {
       "begin": 105.65299999999999,
       "end": 108.612,
-      "text": "TuamoresunaavalanchaCintamu bagai longsoran",
+      "text": "Tu amor es una avalancha",
       "words": [
         {
           "text": "Tu",
           "begin": 105.65299999999999,
           "end": 105.912,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "amor",
           "begin": 105.912,
           "end": 106.194,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "es",
           "begin": 106.194,
           "end": 106.394,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "una",
           "begin": 106.394,
           "end": 106.661,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ava",
           "begin": 106.661,
           "end": 107.027,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1194,6 +1452,9 @@
           "begin": 107.027,
           "end": 107.694,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1201,71 +1462,89 @@
           "begin": 107.694,
           "end": 108.612,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Cintamu bagai longsoran",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L20"
+      "key": "L20",
+      "translation": "Cintamu bagai longsoran"
     },
     {
       "begin": 108.988,
       "end": 112.756,
-      "text": "Caeporsupropiopesoalexistirjatuh dengan beratnya sendiri saat ia ada",
+      "text": "Cae por su propio peso al existir",
       "words": [
         {
           "text": "Cae",
           "begin": 108.988,
           "end": 109.45,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "por",
           "begin": 109.45,
           "end": 109.88499999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "su",
           "begin": 109.88499999999999,
           "end": 110.167,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "propio",
           "begin": 110.167,
           "end": 110.551,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "peso",
           "begin": 110.551,
           "end": 111.11699999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "al",
           "begin": 111.11699999999999,
           "end": 111.388,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "exis",
           "begin": 111.388,
           "end": 111.815,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1273,122 +1552,149 @@
           "begin": 111.815,
           "end": 112.756,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "jatuh dengan beratnya sendiri saat ia ada",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L21"
+      "key": "L21",
+      "translation": "jatuh dengan beratnya sendiri saat ia ada"
     },
     {
       "begin": 113.689,
       "end": 116.50999999999999,
-      "text": "Ayer,hoyymañanaKemarin, hari ini, dan esok",
+      "text": "Ayer, hoy y mañana",
       "words": [
         {
           "text": "Ayer,",
           "begin": 113.689,
           "end": 114.878,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "hoy",
           "begin": 114.878,
           "end": 115.104,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "y",
           "begin": 115.104,
           "end": 115.232,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mañana",
           "begin": 115.232,
           "end": 116.50999999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Kemarin, hari ini, dan esok",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L22"
+      "key": "L22",
+      "translation": "Kemarin, hari ini, dan esok"
     },
     {
       "begin": 116.76599999999999,
       "end": 120.494,
-      "text": "LanieveenlaquemequierohundirAku ingin tenggelam di dalamnya",
+      "text": "La nieve en la que me quiero hundir",
       "words": [
         {
           "text": "La",
           "begin": 116.76599999999999,
           "end": 117.078,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "nieve",
           "begin": 117.078,
           "end": 117.529,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 117.529,
           "end": 117.795,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "la",
           "begin": 117.795,
           "end": 117.995,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "que",
           "begin": 117.995,
           "end": 118.168,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "me",
           "begin": 118.168,
           "end": 118.55199999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "quiero",
           "begin": 118.55199999999999,
           "end": 119.038,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "hun",
           "begin": 119.038,
           "end": 119.42699999999999,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -1396,612 +1702,759 @@
           "begin": 119.42699999999999,
           "end": 120.494,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Aku ingin tenggelam di dalamnya",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L23"
+      "key": "L23",
+      "translation": "Aku ingin tenggelam di dalamnya"
     },
     {
       "begin": 121.11,
       "end": 125.993,
-      "text": "منأجلكأدمرالسماءKuhancurkan surga untukmu",
+      "text": "من أجلك أدمر السماء",
       "words": [
         {
           "text": "من",
           "begin": 121.11,
           "end": 121.881,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "أجلك",
           "begin": 121.881,
           "end": 123.166,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "أدمر",
           "begin": 123.166,
           "end": 124.451,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "السماء",
           "begin": 124.451,
           "end": 125.993,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Kuhancurkan surga untukmu",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L24"
+      "key": "L24",
+      "translation": "Kuhancurkan surga untukmu"
     },
     {
       "begin": 126.404,
       "end": 131.287,
-      "text": "منأجلكأهدمالجحيمKuhancurkan neraka untukmu",
+      "text": "من أجلك أهدم الجحيم",
       "words": [
         {
           "text": "من",
           "begin": 126.404,
           "end": 127.175,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "أجلك",
           "begin": 127.175,
           "end": 128.46,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "أهدم",
           "begin": 128.46,
           "end": 129.745,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "الجحيم",
           "begin": 129.745,
           "end": 131.287,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Kuhancurkan neraka untukmu",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L25"
+      "key": "L25",
+      "translation": "Kuhancurkan neraka untukmu"
     },
     {
       "begin": 131.7,
       "end": 135.756,
-      "text": "فلاوعودBebas dari janji",
+      "text": "فلا وعود",
       "words": [
         {
           "text": "فلا",
           "begin": 131.7,
           "end": 133.728,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "وعود",
           "begin": 133.728,
           "end": 135.756,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Bebas dari janji",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L26"
+      "key": "L26",
+      "translation": "Bebas dari janji"
     },
     {
       "begin": 136.652,
       "end": 141.62,
-      "text": "ولاوعيدBebas dari ancaman",
+      "text": "ولا وعيد",
       "words": [
         {
           "text": "ولا",
           "begin": 136.652,
           "end": 139.136,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "وعيد",
           "begin": 139.136,
           "end": 141.62,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Bebas dari ancaman",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L27"
+      "key": "L27",
+      "translation": "Bebas dari ancaman"
     },
     {
       "begin": 163.89600000000002,
       "end": 168.04500000000002,
-      "text": "YoquepoenelmundoyelmundocabeenmíAku muat di dalam dunia, dan dunia muat di dalamku",
+      "text": "Yo quepo en el mundo y el mundo cabe en mí",
       "words": [
         {
           "text": "Yo",
           "begin": 163.89600000000002,
           "end": 164.273,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "quepo",
           "begin": 164.273,
           "end": 164.57999999999998,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 164.57999999999998,
           "end": 164.764,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "el",
           "begin": 164.764,
           "end": 164.98,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mundo",
           "begin": 164.98,
           "end": 165.734,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "y",
           "begin": 166.029,
           "end": 166.184,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "el",
           "begin": 166.184,
           "end": 166.393,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mundo",
           "begin": 166.393,
           "end": 166.812,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cabe",
           "begin": 166.812,
           "end": 167.262,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 167.262,
           "end": 167.463,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mí",
           "begin": 167.463,
           "end": 168.04500000000002,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Aku muat di dalam dunia, dan dunia muat di dalamku",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L28"
+      "key": "L28",
+      "translation": "Aku muat di dalam dunia, dan dunia muat di dalamku"
     },
     {
       "begin": 168.929,
       "end": 173.802,
-      "text": "YoocupoelmundoyelmundomeocupaamíAku menempati dunia, dan dunia menempatiku",
+      "text": "Yo ocupo el mundo y el mundo me ocupa a mí",
       "words": [
         {
           "text": "Yo",
           "begin": 168.929,
           "end": 169.135,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupo",
           "begin": 169.135,
           "end": 169.668,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "el",
           "begin": 169.668,
           "end": 169.951,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mundo",
           "begin": 169.951,
           "end": 170.716,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "y",
           "begin": 171.43099999999998,
           "end": 171.57999999999998,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "el",
           "begin": 171.57999999999998,
           "end": 171.857,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mundo",
           "begin": 171.857,
           "end": 172.207,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "me",
           "begin": 172.207,
           "end": 172.439,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupa",
           "begin": 172.439,
           "end": 172.959,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "a",
           "begin": 172.959,
           "end": 173.106,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mí",
           "begin": 173.106,
           "end": 173.802,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Aku menempati dunia, dan dunia menempatiku",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L29"
+      "key": "L29",
+      "translation": "Aku menempati dunia, dan dunia menempatiku"
     },
     {
       "begin": 173.948,
       "end": 178.463,
-      "text": "YoquepoenunhaikuyunhaikuocupaunpaísAku muat dalam sebuah haiku, dan haiku menempati negeri",
+      "text": "Yo quepo en un haiku y un haiku ocupa un país",
       "words": [
         {
           "text": "Yo",
           "begin": 173.948,
           "end": 174.222,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "quepo",
           "begin": 174.222,
           "end": 174.507,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 174.507,
           "end": 174.607,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 174.607,
           "end": 174.839,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "haiku",
           "begin": 174.839,
           "end": 175.546,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "y",
           "begin": 176.30700000000002,
           "end": 176.471,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 176.471,
           "end": 176.60399999999998,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "haiku",
           "begin": 176.60399999999998,
           "end": 177.055,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupa",
           "begin": 177.055,
           "end": 177.548,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 177.548,
           "end": 177.648,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "país",
           "begin": 177.648,
           "end": 178.463,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Aku muat dalam sebuah haiku, dan haiku menempati negeri",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L30"
+      "key": "L30",
+      "translation": "Aku muat dalam sebuah haiku, dan haiku menempati negeri"
     },
     {
       "begin": 178.638,
       "end": 184.204,
-      "text": "Unpaíscabeenunaastilla,unaastillaocupalagalaxiaenteraNegeri muat dalam serpihan, serpihan menempati seluruh galaksi",
+      "text": "Un país cabe en una astilla, una astilla ocupa la galaxia entera",
       "words": [
         {
           "text": "Un",
           "begin": 178.638,
           "end": 178.93099999999998,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "país",
           "begin": 178.93099999999998,
           "end": 179.296,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cabe",
           "begin": 179.296,
           "end": 179.647,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 179.647,
           "end": 179.79,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "una",
           "begin": 179.79,
           "end": 180.09,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "astilla,",
           "begin": 180.09,
           "end": 181.045,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "una",
           "begin": 181.186,
           "end": 181.498,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "astilla",
           "begin": 181.498,
           "end": 181.988,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupa",
           "begin": 181.988,
           "end": 182.506,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "la",
           "begin": 182.506,
           "end": 182.756,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "galaxia",
           "begin": 182.756,
           "end": 183.246,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "entera",
           "begin": 183.246,
           "end": 184.204,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Negeri muat dalam serpihan, serpihan menempati seluruh galaksi",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L31"
+      "key": "L31",
+      "translation": "Negeri muat dalam serpihan, serpihan menempati seluruh galaksi"
     },
     {
       "begin": 184.284,
       "end": 188.244,
-      "text": "LagalaxiaenteracabeenunagotadesalivaSeluruh galaksi muat dalam setetes air liur",
+      "text": "La galaxia entera cabe en una gota de saliva",
       "words": [
         {
           "text": "La",
           "begin": 184.284,
           "end": 184.543,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "galaxia",
           "begin": 184.543,
           "end": 185.076,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "entera",
           "begin": 185.076,
           "end": 185.882,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cabe",
           "begin": 186.122,
           "end": 186.369,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 186.369,
           "end": 186.537,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "una",
           "begin": 186.537,
           "end": 186.794,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "gota",
           "begin": 186.794,
           "end": 187.175,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "de",
           "begin": 187.175,
           "end": 187.301,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "sa",
           "begin": 187.301,
           "end": 187.561,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2009,6 +2462,9 @@
           "begin": 187.561,
           "end": 187.961,
           "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         },
         {
@@ -2016,1300 +2472,1615 @@
           "begin": 187.961,
           "end": 188.244,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Seluruh galaksi muat dalam setetes air liur",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L32"
+      "key": "L32",
+      "translation": "Seluruh galaksi muat dalam setetes air liur"
     },
     {
       "begin": 188.373,
       "end": 192.236,
-      "text": "UnagotadesalivaocupalaQuintaAvenidaSetetes liur bisa menguasai pusat dunia",
+      "text": "Una gota de saliva ocupa la Quinta Avenida",
       "words": [
         {
           "text": "Una",
           "begin": 188.373,
           "end": 188.637,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "gota",
           "begin": 188.637,
           "end": 189.088,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "de",
           "begin": 189.088,
           "end": 189.339,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "saliva",
           "begin": 189.339,
           "end": 190.072,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupa",
           "begin": 190.472,
           "end": 190.949,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "la",
           "begin": 190.949,
           "end": 191.266,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "Quinta",
           "begin": 191.266,
           "end": 191.618,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "Avenida",
           "begin": 191.618,
           "end": 192.236,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Setetes liur bisa menguasai pusat dunia",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L33"
+      "key": "L33",
+      "translation": "Setetes liur bisa menguasai pusat dunia"
     },
     {
       "begin": 192.236,
       "end": 195.647,
-      "text": "LaQuintaAvenidacabeenunpiercingPusat dunia muat dalam titik",
+      "text": "La Quinta Avenida cabe en un piercing",
       "words": [
         {
           "text": "La",
           "begin": 192.236,
           "end": 192.51,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "Quinta",
           "begin": 192.51,
           "end": 192.827,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "Avenida",
           "begin": 192.827,
           "end": 193.822,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cabe",
           "begin": 194.28,
           "end": 194.566,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 194.566,
           "end": 194.672,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 194.672,
           "end": 194.897,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "piercing",
           "begin": 194.897,
           "end": 195.647,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Pusat dunia muat dalam titik",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L34"
+      "key": "L34",
+      "translation": "Pusat dunia muat dalam titik"
     },
     {
       "begin": 195.842,
       "end": 202.735,
-      "text": "UnpiercingocupaunapirámideyunapirámidecabeenunvasodelecheTitik muat dalam piramida, piramida muat dalam segelas susu",
+      "text": "Un piercing ocupa una pirámide y una pirámide cabe en un vaso de leche",
       "words": [
         {
           "text": "Un",
           "begin": 195.842,
           "end": 196.071,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "piercing",
           "begin": 196.071,
           "end": 196.512,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupa",
           "begin": 196.512,
           "end": 196.96,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "una",
           "begin": 196.96,
           "end": 197.211,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "pirámide",
           "begin": 197.211,
           "end": 198.447,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "y",
           "begin": 198.923,
           "end": 199.162,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "una",
           "begin": 199.162,
           "end": 199.427,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "pirámide",
           "begin": 199.427,
           "end": 200.548,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cabe",
           "begin": 200.798,
           "end": 201.122,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 201.122,
           "end": 201.308,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 201.308,
           "end": 201.493,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "vaso",
           "begin": 201.493,
           "end": 201.848,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "de",
           "begin": 201.848,
           "end": 202.083,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "leche",
           "begin": 202.083,
           "end": 202.735,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Titik muat dalam piramida, piramida muat dalam segelas susu",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L35"
+      "key": "L35",
+      "translation": "Titik muat dalam piramida, piramida muat dalam segelas susu"
     },
     {
       "begin": 202.735,
       "end": 205.788,
-      "text": "YunvasodelecheocupaunejércitoSegelas susu muat untuk sebuah pasukan",
+      "text": "Y un vaso de leche ocupa un ejército",
       "words": [
         {
           "text": "Y",
           "begin": 202.735,
           "end": 203.006,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 203.006,
           "end": 203.171,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "vaso",
           "begin": 203.171,
           "end": 203.462,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "de",
           "begin": 203.462,
           "end": 203.71,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "leche",
           "begin": 203.71,
           "end": 204.258,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupa",
           "begin": 204.258,
           "end": 204.793,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 204.793,
           "end": 204.959,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ejército",
           "begin": 204.959,
           "end": 205.788,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Segelas susu muat untuk sebuah pasukan",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L36"
+      "key": "L36",
+      "translation": "Segelas susu muat untuk sebuah pasukan"
     },
     {
       "begin": 205.877,
       "end": 210.227,
-      "text": "YunejércitocabemetidoenunapelotadegolfSebuah pasukan muat dalam bola golf",
+      "text": "Y un ejército cabe metido en una pelota de golf",
       "words": [
         {
           "text": "Y",
           "begin": 205.877,
           "end": 205.992,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 205.992,
           "end": 206.192,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ejército",
           "begin": 206.192,
           "end": 206.845,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cabe",
           "begin": 206.845,
           "end": 207.56,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "metido",
           "begin": 207.832,
           "end": 208.267,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 208.267,
           "end": 208.499,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "una",
           "begin": 208.499,
           "end": 208.883,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "pelota",
           "begin": 208.883,
           "end": 209.45499999999998,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "de",
           "begin": 209.45499999999998,
           "end": 209.687,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "golf",
           "begin": 209.687,
           "end": 210.227,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Sebuah pasukan muat dalam bola golf",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L37"
+      "key": "L37",
+      "translation": "Sebuah pasukan muat dalam bola golf"
     },
     {
       "begin": 210.285,
       "end": 213.629,
-      "text": "YunapelotadegolfocupaelTitanicBola golf muat menampung Titanic",
+      "text": "Y una pelota de golf ocupa el Titanic",
       "words": [
         {
           "text": "Y",
           "begin": 210.285,
           "end": 210.394,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "una",
           "begin": 210.394,
           "end": 210.75900000000001,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "pelota",
           "begin": 210.75900000000001,
           "end": 211.309,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "de",
           "begin": 211.309,
           "end": 211.576,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "golf",
           "begin": 211.576,
           "end": 212.03,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupa",
           "begin": 212.03,
           "end": 212.542,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "el",
           "begin": 212.542,
           "end": 212.642,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "Titanic",
           "begin": 212.642,
           "end": 213.629,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Bola golf muat menampung Titanic",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L38"
+      "key": "L38",
+      "translation": "Bola golf muat menampung Titanic"
     },
     {
       "begin": 213.629,
       "end": 218.89600000000002,
-      "text": "ElTitaniccabeenunpintalabios,unpintalabiosocupaelcieloTitanic muat dalam lipstik, lipstik memuat langit",
+      "text": "El Titanic cabe en un pintalabios, un pintalabios ocupa el cielo",
       "words": [
         {
           "text": "El",
           "begin": 213.629,
           "end": 213.828,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "Titanic",
           "begin": 213.828,
           "end": 214.724,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cabe",
           "begin": 214.812,
           "end": 215.099,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 215.099,
           "end": 215.199,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 215.199,
           "end": 215.399,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "pintalabios,",
           "begin": 215.399,
           "end": 216.415,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 216.415,
           "end": 216.599,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "pintalabios",
           "begin": 216.599,
           "end": 217.449,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupa",
           "begin": 217.449,
           "end": 218.015,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "el",
           "begin": 218.015,
           "end": 218.265,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cielo",
           "begin": 218.265,
           "end": 218.89600000000002,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Titanic muat dalam lipstik, lipstik memuat langit",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L39"
+      "key": "L39",
+      "translation": "Titanic muat dalam lipstik, lipstik memuat langit"
     },
     {
       "begin": 219.13,
       "end": 223.013,
-      "text": "Elcieloeslaespina,unaespinaocupauncontinenteLangit adalah duri, sebuah duri memuat satu benua",
+      "text": "El cielo es la espina, una espina ocupa un continente",
       "words": [
         {
           "text": "El",
           "begin": 219.13,
           "end": 219.405,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cielo",
           "begin": 219.405,
           "end": 219.558,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "es",
           "begin": 219.558,
           "end": 219.65800000000002,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "la",
           "begin": 219.65800000000002,
           "end": 219.827,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "espina,",
           "begin": 219.827,
           "end": 220.597,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "una",
           "begin": 220.77,
           "end": 221.052,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "espina",
           "begin": 221.052,
           "end": 221.46800000000002,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupa",
           "begin": 221.46800000000002,
           "end": 221.857,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 221.857,
           "end": 222.017,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "continente",
           "begin": 222.017,
           "end": 223.013,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Langit adalah duri, sebuah duri memuat satu benua",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L40"
+      "key": "L40",
+      "translation": "Langit adalah duri, sebuah duri memuat satu benua"
     },
     {
       "begin": 223.311,
       "end": 228.893,
-      "text": "YuncontinentenocabeenÉl,peroÉlcabeenmipechoDan sebuah benua tak bisa memuat-Nya, tapi Dia muat di dalam dadaku",
+      "text": "Y un continente no cabe en Él, pero Él cabe en mi pecho",
       "words": [
         {
           "text": "Y",
           "begin": 223.311,
           "end": 223.43099999999998,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "un",
           "begin": 223.43099999999998,
           "end": 223.63400000000001,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "continente",
           "begin": 223.63400000000001,
           "end": 224.80700000000002,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "no",
           "begin": 225.196,
           "end": 225.43099999999998,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cabe",
           "begin": 225.43099999999998,
           "end": 225.647,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 225.647,
           "end": 225.887,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "Él,",
           "begin": 225.887,
           "end": 226.39600000000002,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "pero",
           "begin": 226.708,
           "end": 226.988,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "Él",
           "begin": 226.988,
           "end": 227.529,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "cabe",
           "begin": 227.529,
           "end": 227.785,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 227.785,
           "end": 227.906,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mi",
           "begin": 227.906,
           "end": 228.234,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "pecho",
           "begin": 228.234,
           "end": 228.893,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Dan sebuah benua tak bisa memuat-Nya, tapi Dia muat di dalam dadaku",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L41"
+      "key": "L41",
+      "translation": "Dan sebuah benua tak bisa memuat-Nya, tapi Dia muat di dalam dadaku"
     },
     {
       "begin": 229.05599999999998,
       "end": 233.44,
-      "text": "Ymipechoocupasuamor,yensuamormequieroperderDan dadaku dipenuhi kasih-Nya, dan di dalam kasih-Nya aku ingin tersesat",
+      "text": "Y mi pecho ocupa su amor, y en su amor me quiero perder",
       "words": [
         {
           "text": "Y",
           "begin": 229.05599999999998,
           "end": 229.251,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "mi",
           "begin": 229.251,
           "end": 229.483,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "pecho",
           "begin": 229.483,
           "end": 229.801,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "ocupa",
           "begin": 229.801,
           "end": 230.28300000000002,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "su",
           "begin": 230.28300000000002,
           "end": 230.438,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "amor,",
           "begin": 230.438,
           "end": 230.983,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "y",
           "begin": 231.244,
           "end": 231.428,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "en",
           "begin": 231.428,
           "end": 231.531,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "su",
           "begin": 231.531,
           "end": 231.68099999999998,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "amor",
           "begin": 231.68099999999998,
           "end": 232.031,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "me",
           "begin": 232.031,
           "end": 232.222,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "quiero",
           "begin": 232.222,
           "end": 232.588,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "perder",
           "begin": 232.588,
           "end": 233.44,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Dan dadaku dipenuhi kasih-Nya, dan di dalam kasih-Nya aku ingin tersesat",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L42"
+      "key": "L42",
+      "translation": "Dan dadaku dipenuhi kasih-Nya, dan di dalam kasih-Nya aku ingin tersesat"
     },
     {
       "begin": 240.755,
       "end": 242.505,
-      "text": "Sevenheavens,bigdeal7 tingkat surga? Bukan masalah besar",
+      "text": "Seven heavens, big deal",
       "words": [
         {
           "text": "Seven",
           "begin": 240.755,
           "end": 241.12,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "heavens,",
           "begin": 241.12,
           "end": 241.658,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "big",
           "begin": 241.869,
           "end": 242.187,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "deal",
           "begin": 242.187,
           "end": 242.505,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "7 tingkat surga? Bukan masalah besar",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L43"
+      "key": "L43",
+      "translation": "7 tingkat surga? Bukan masalah besar"
     },
     {
       "begin": 242.505,
       "end": 244.823,
-      "text": "Iwannaseetheeighthheaven,tenthheavenAku ingin melihat surga ke-8, Surga ke-10",
+      "text": "I wanna see the eighth heaven, tenth heaven",
       "words": [
         {
           "text": "I",
           "begin": 242.505,
           "end": 242.625,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "wanna",
           "begin": 242.625,
           "end": 242.876,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "see",
           "begin": 242.876,
           "end": 243.099,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "the",
           "begin": 243.099,
           "end": 243.199,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "eighth",
           "begin": 243.199,
           "end": 243.481,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "heaven,",
           "begin": 243.481,
           "end": 243.86,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "tenth",
           "begin": 244.097,
           "end": 244.313,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "heaven",
           "begin": 244.313,
           "end": 244.823,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Aku ingin melihat surga ke-8, Surga ke-10",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L44"
+      "key": "L44",
+      "translation": "Aku ingin melihat surga ke-8, Surga ke-10"
     },
     {
       "begin": 245.145,
       "end": 246.243,
-      "text": "ThousandthheavenSurga ke-seribu",
+      "text": "Thousandth heaven",
       "words": [
         {
           "text": "Thousandth",
           "begin": 245.145,
           "end": 245.788,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "heaven",
           "begin": 245.788,
           "end": 246.243,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Surga ke-seribu",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L45"
+      "key": "L45",
+      "translation": "Surga ke-seribu"
     },
     {
       "begin": 246.588,
       "end": 247.82,
-      "text": "Youknow,it'slikeKau tahu, ini seperti",
+      "text": "You know, it's like",
       "words": [
         {
           "text": "You",
           "begin": 246.588,
           "end": 246.831,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "know,",
           "begin": 246.831,
           "end": 247.053,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "it's",
           "begin": 247.053,
           "end": 247.251,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "like",
           "begin": 247.251,
           "end": 247.82,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Kau tahu, ini seperti",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L46"
+      "key": "L46",
+      "translation": "Kau tahu, ini seperti"
     },
     {
       "begin": 248.264,
       "end": 249.926,
-      "text": "BreakonthroughtheothersideMenerobos ke sisi lain",
+      "text": "Break on through the other side",
       "words": [
         {
           "text": "Break",
           "begin": 248.264,
           "end": 248.63400000000001,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "on",
           "begin": 248.63400000000001,
           "end": 248.892,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "through",
           "begin": 248.892,
           "end": 249.16,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "the",
           "begin": 249.16,
           "end": 249.369,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "other",
           "begin": 249.369,
           "end": 249.568,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "side",
           "begin": 249.568,
           "end": 249.926,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Menerobos ke sisi lain",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L47"
+      "key": "L47",
+      "translation": "Menerobos ke sisi lain"
     },
     {
       "begin": 249.926,
       "end": 252.161,
-      "text": "It'sjustlikegoingthroughonedoorRasanya seperti melewati satu pintu",
+      "text": "It's just like going through one door",
       "words": [
         {
           "text": "It's",
           "begin": 249.926,
           "end": 250.168,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "just",
           "begin": 250.168,
           "end": 250.412,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "like",
           "begin": 250.412,
           "end": 250.75,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "going",
           "begin": 250.828,
           "end": 251.24099999999999,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "through",
           "begin": 251.24099999999999,
           "end": 251.499,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "one",
           "begin": 251.499,
           "end": 251.754,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "door",
           "begin": 251.754,
           "end": 252.161,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Rasanya seperti melewati satu pintu",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L48"
+      "key": "L48",
+      "translation": "Rasanya seperti melewati satu pintu"
     },
     {
       "begin": 252.936,
       "end": 254.418,
-      "text": "Onedoorisn'tenoughSatu pintu saja tak cukup",
+      "text": "One door isn't enough",
       "words": [
         {
           "text": "One",
           "begin": 252.936,
           "end": 253.33,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "door",
           "begin": 253.33,
           "end": 253.577,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "isn't",
           "begin": 253.577,
           "end": 253.857,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "enough",
           "begin": 253.857,
           "end": 254.418,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Satu pintu saja tak cukup",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L49"
+      "key": "L49",
+      "translation": "Satu pintu saja tak cukup"
     },
     {
       "begin": 254.856,
       "end": 256.524,
-      "text": "Amilliondoorsaren'tenoughSatu juta pintu pun tak akan cukup",
+      "text": "A million doors aren't enough",
       "words": [
         {
           "text": "A",
           "begin": 254.856,
           "end": 255.151,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "million",
           "begin": 255.151,
           "end": 255.407,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "doors",
           "begin": 255.407,
           "end": 255.734,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "aren't",
           "begin": 255.734,
           "end": 255.906,
           "isBackground": false,
-          "hasSpaceAfter": false
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
         },
         {
           "text": "enough",
           "begin": 255.906,
           "end": 256.524,
           "isBackground": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Satu juta pintu pun tak akan cukup",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
           "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
-      "key": "L50"
+      "key": "L50",
+      "translation": "Satu juta pintu pun tak akan cukup"
     }
   ],
   "totalLines": 50
