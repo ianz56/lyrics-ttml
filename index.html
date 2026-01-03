@@ -90,13 +90,23 @@
         meta.className = 'card__meta';
         meta.textContent = `${item.artist} - ${item.lang.toUpperCase()}`;
 
+        const links = document.createElement('div');
+        links.className = 'card__links';
+
         const link = document.createElement('a');
         link.className = 'card__link';
-        link.textContent = 'Open TTML';
+        link.textContent = 'TTML';
         link.href = item.path;
-        link.setAttribute('aria-label', `Open ${item.title} by ${item.artist}`);
+        link.setAttribute('aria-label', `Open ${item.title} TTML`);
 
-        card.append(title, meta, link);
+        const jsonLink = document.createElement('a');
+        jsonLink.className = 'card__link card__link--json';
+        jsonLink.textContent = 'JSON';
+        jsonLink.href = item.jsonPath;
+        jsonLink.setAttribute('aria-label', `Open ${item.title} JSON`);
+
+        links.append(link, jsonLink);
+        card.append(title, meta, links);
         fragment.appendChild(card);
       });
 

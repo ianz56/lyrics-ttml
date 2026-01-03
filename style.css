@@ -202,6 +202,12 @@
       letter-spacing: 0.02em;
     }
 
+    .card__links {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
     .card__link {
       justify-self: flex-start;
       display: inline-flex;
@@ -213,6 +219,7 @@
       color: var(--text);
       text-decoration: none;
       font-weight: 600;
+      font-size: 13px;
       transition: background 0.2s ease, border 0.2s ease, transform 0.2s ease;
     }
 
@@ -220,6 +227,15 @@
       background: rgba(123, 224, 184, 0.12);
       border-color: rgba(123, 224, 184, 0.7);
       transform: translateY(-1px);
+    }
+
+    .card__link--json {
+      border-color: rgba(114, 180, 255, 0.4);
+    }
+
+    .card__link--json:hover {
+      background: rgba(114, 180, 255, 0.12);
+      border-color: rgba(114, 180, 255, 0.7);
     }
 
     .status {
