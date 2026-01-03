@@ -1,0 +1,1599 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      }
+    ],
+    "artist": "Aldo Sagala",
+    "title": "Rodok Rodok",
+    "sourceFile": "Aldo Sagala - Rodok Rodok.ttml"
+  },
+  "duration": 264.704,
+  "lines": [
+    {
+      "begin": 48.213,
+      "end": 54.169,
+      "text": "Sidi cega'nya, kao nang dara",
+      "words": [
+        {
+          "text": "Si",
+          "begin": 48.213,
+          "end": 48.607,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 48.607,
+          "end": 48.859,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ce",
+          "begin": 48.859,
+          "end": 49.274,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ga'",
+          "begin": 49.274,
+          "end": 49.686,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nya,",
+          "begin": 49.686,
+          "end": 50.524,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kao",
+          "begin": 51.749,
+          "end": 52.331,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nang",
+          "begin": 52.331,
+          "end": 52.749,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dara",
+          "begin": 52.749,
+          "end": 54.169,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 55.284,
+      "end": 61.146,
+      "text": "Mangkeh ke' ahe ngulihatn kao?",
+      "words": [
+        {
+          "text": "Mang",
+          "begin": 55.284,
+          "end": 55.667,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "keh",
+          "begin": 55.667,
+          "end": 55.957,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ke'",
+          "begin": 55.957,
+          "end": 56.359,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 56.359,
+          "end": 56.795,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "he",
+          "begin": 56.795,
+          "end": 58.791,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngulihatn",
+          "begin": 58.791,
+          "end": 59.807,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kao?",
+          "begin": 59.807,
+          "end": 61.146,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 62.406,
+      "end": 68.843,
+      "text": "Ja kata urakng, jara ngulihatnnya",
+      "words": [
+        {
+          "text": "Ja",
+          "begin": 62.406,
+          "end": 62.785,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kata",
+          "begin": 62.785,
+          "end": 63.415,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "urakng,",
+          "begin": 63.415,
+          "end": 64.995,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jara",
+          "begin": 65.917,
+          "end": 66.576,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngu",
+          "begin": 66.576,
+          "end": 66.972,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lihatn",
+          "begin": 66.972,
+          "end": 67.378,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nya",
+          "begin": 67.378,
+          "end": 68.843,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 69.453,
+      "end": 75.506,
+      "text": "Manyak nang bujakng malatn ka' kao",
+      "words": [
+        {
+          "text": "Manyak",
+          "begin": 69.453,
+          "end": 70.101,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nang",
+          "begin": 70.101,
+          "end": 70.562,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "buj",
+          "begin": 70.562,
+          "end": 70.997,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "akng",
+          "begin": 70.997,
+          "end": 72.997,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "malatn",
+          "begin": 72.997,
+          "end": 73.654,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka'",
+          "begin": 73.654,
+          "end": 74.103,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kao",
+          "begin": 74.103,
+          "end": 75.506,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 76.606,
+      "end": 78.493,
+      "text": "Aku na paduli",
+      "words": [
+        {
+          "text": "Aku",
+          "begin": 76.606,
+          "end": 77.033,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "na",
+          "begin": 77.033,
+          "end": 77.301,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "paduli",
+          "begin": 77.301,
+          "end": 78.493,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 78.846,
+      "end": 83.215,
+      "text": "Rodok, rodok, rodok, rodok",
+      "words": [
+        {
+          "text": "Rodok,",
+          "begin": 78.846,
+          "end": 79.366,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 79.656,
+          "end": 80.087,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 80.393,
+          "end": 81.05,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ro",
+          "begin": 81.328,
+          "end": 81.71000000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dok",
+          "begin": 81.71000000000001,
+          "end": 83.215,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 83.684,
+      "end": 85.648,
+      "text": "Ahe ja katanyu",
+      "words": [
+        {
+          "text": "Ahe",
+          "begin": 83.684,
+          "end": 84.168,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 84.168,
+          "end": 84.411,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kata",
+          "begin": 84.411,
+          "end": 85.22800000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nyu",
+          "begin": 85.22800000000001,
+          "end": 85.648,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 85.979,
+      "end": 90.27,
+      "text": "Rodok, rodok, rodok, rodok",
+      "words": [
+        {
+          "text": "Rodok,",
+          "begin": 85.979,
+          "end": 86.481,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 86.82,
+          "end": 87.398,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 87.741,
+          "end": 88.348,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ro",
+          "begin": 88.348,
+          "end": 88.776,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dok",
+          "begin": 88.776,
+          "end": 90.27,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 90.836,
+      "end": 92.731,
+      "text": "Kade ku mao'",
+      "words": [
+        {
+          "text": "Kade",
+          "begin": 90.836,
+          "end": 91.42,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 91.42,
+          "end": 91.866,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mao'",
+          "begin": 91.866,
+          "end": 92.731,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 93.076,
+      "end": 97.424,
+      "text": "Rodok, rodok, rodok, rodok",
+      "words": [
+        {
+          "text": "Rodok,",
+          "begin": 93.076,
+          "end": 93.548,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 93.94200000000001,
+          "end": 94.411,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 94.652,
+          "end": 95.269,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ro",
+          "begin": 95.51400000000001,
+          "end": 95.914,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dok",
+          "begin": 95.914,
+          "end": 97.424,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 97.965,
+      "end": 101.515,
+      "text": "Biar saribu urakng tatap",
+      "words": [
+        {
+          "text": "Biar",
+          "begin": 97.965,
+          "end": 98.538,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 98.538,
+          "end": 98.99600000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ribu",
+          "begin": 98.99600000000001,
+          "end": 99.85499999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "urakng",
+          "begin": 100.21600000000001,
+          "end": 100.737,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tatap",
+          "begin": 100.737,
+          "end": 101.515,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 101.515,
+      "end": 104.477,
+      "text": "Aku rodok",
+      "words": [
+        {
+          "text": "Aku",
+          "begin": 101.515,
+          "end": 102.547,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok",
+          "begin": 102.547,
+          "end": 104.477,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 119.289,
+      "end": 120.412,
+      "text": "Nak kucay",
+      "words": [
+        {
+          "text": "Nak",
+          "begin": 119.289,
+          "end": 119.69200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kucay",
+          "begin": 119.69200000000001,
+          "end": 120.412,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 152.251,
+      "end": 153.958,
+      "text": "Gigi bagingsul, kulit putihnya",
+      "words": [
+        {
+          "text": "Gigi",
+          "begin": 152.251,
+          "end": 152.707,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bagingsul,",
+          "begin": 152.707,
+          "end": 153.042,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kulit",
+          "begin": 153.042,
+          "end": 153.385,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "putihnya",
+          "begin": 153.385,
+          "end": 153.958,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 153.958,
+      "end": 155.76,
+      "text": "Manjawat jantu' cinta nele' nya",
+      "words": [
+        {
+          "text": "Manjawat",
+          "begin": 153.958,
+          "end": 154.529,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jantu'",
+          "begin": 154.529,
+          "end": 154.849,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cinta",
+          "begin": 154.849,
+          "end": 155.188,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nele'",
+          "begin": 155.188,
+          "end": 155.496,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nya",
+          "begin": 155.496,
+          "end": 155.76,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 155.916,
+      "end": 157.518,
+      "text": "Ja dangan madah susah namunya",
+      "words": [
+        {
+          "text": "Ja",
+          "begin": 155.916,
+          "end": 156.112,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dangan",
+          "begin": 156.112,
+          "end": 156.289,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "madah",
+          "begin": 156.289,
+          "end": 156.64600000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "susah",
+          "begin": 156.64600000000002,
+          "end": 156.966,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "namunya",
+          "begin": 156.966,
+          "end": 157.518,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 157.518,
+      "end": 159.211,
+      "text": "Tapi aku na' paduli jakatanya",
+      "words": [
+        {
+          "text": "Tapi",
+          "begin": 157.518,
+          "end": 157.714,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "aku",
+          "begin": 157.714,
+          "end": 157.886,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "na'",
+          "begin": 157.886,
+          "end": 158.083,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "paduli",
+          "begin": 158.083,
+          "end": 158.418,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jakatanya",
+          "begin": 158.418,
+          "end": 159.211,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 159.856,
+      "end": 161.433,
+      "text": "Biar ada saribu talino nang suka man kao",
+      "words": [
+        {
+          "text": "Biar",
+          "begin": 159.856,
+          "end": 160.058,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ada",
+          "begin": 160.058,
+          "end": 160.22,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "saribu",
+          "begin": 160.22,
+          "end": 160.433,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "talino",
+          "begin": 160.433,
+          "end": 160.70499999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nang",
+          "begin": 160.70499999999998,
+          "end": 160.875,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "suka",
+          "begin": 160.875,
+          "end": 161.079,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "man",
+          "begin": 161.079,
+          "end": 161.21800000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kao",
+          "begin": 161.21800000000002,
+          "end": 161.433,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 161.433,
+      "end": 163.434,
+      "text": "Tapi kade' ka' dalamp atiku hanya kao babaro",
+      "words": [
+        {
+          "text": "Tapi",
+          "begin": 161.433,
+          "end": 161.725,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kade'",
+          "begin": 161.725,
+          "end": 161.888,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka'",
+          "begin": 161.888,
+          "end": 162.038,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dalamp",
+          "begin": 162.038,
+          "end": 162.239,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "atiku",
+          "begin": 162.239,
+          "end": 162.474,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hanya",
+          "begin": 162.474,
+          "end": 162.671,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kao",
+          "begin": 162.671,
+          "end": 163.122,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "babaro",
+          "begin": 163.122,
+          "end": 163.434,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 163.434,
+      "end": 165.152,
+      "text": "Na' nele' kebak-kanan, tatap ku rodok, rodok",
+      "words": [
+        {
+          "text": "Na'",
+          "begin": 163.434,
+          "end": 163.652,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nele'",
+          "begin": 163.652,
+          "end": 163.817,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kebak-kanan,",
+          "begin": 163.817,
+          "end": 164.232,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tatap",
+          "begin": 164.232,
+          "end": 164.451,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 164.451,
+          "end": 164.675,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 164.675,
+          "end": 164.909,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok",
+          "begin": 164.909,
+          "end": 165.152,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 165.152,
+      "end": 167.04500000000002,
+      "text": "Sampe kao nang ku mao' jadi miliku babaro",
+      "words": [
+        {
+          "text": "Sampe",
+          "begin": 165.152,
+          "end": 165.301,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kao",
+          "begin": 165.301,
+          "end": 165.5,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nang",
+          "begin": 165.5,
+          "end": 165.725,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 165.725,
+          "end": 165.92000000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mao'",
+          "begin": 165.92000000000002,
+          "end": 166.086,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jadi",
+          "begin": 166.086,
+          "end": 166.29500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miliku",
+          "begin": 166.29500000000002,
+          "end": 166.498,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "babaro",
+          "begin": 166.498,
+          "end": 167.04500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 201.036,
+      "end": 206.828,
+      "text": "Sidi cega'nya, kao nang dara",
+      "words": [
+        {
+          "text": "Si",
+          "begin": 201.036,
+          "end": 201.39600000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 201.39600000000002,
+          "end": 201.72899999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ce",
+          "begin": 201.72899999999998,
+          "end": 202.142,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ga'",
+          "begin": 202.142,
+          "end": 202.571,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nya,",
+          "begin": 202.571,
+          "end": 203.234,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kao",
+          "begin": 204.622,
+          "end": 205.177,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nang",
+          "begin": 205.177,
+          "end": 205.636,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dara",
+          "begin": 205.636,
+          "end": 206.828,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22"
+    },
+    {
+      "begin": 208.142,
+      "end": 213.786,
+      "text": "Mangkeh ke' ahe ngulihatn kao?",
+      "words": [
+        {
+          "text": "Mang",
+          "begin": 208.142,
+          "end": 208.547,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "keh",
+          "begin": 208.547,
+          "end": 208.786,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ke'",
+          "begin": 208.786,
+          "end": 209.21699999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 209.21699999999998,
+          "end": 209.698,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "he",
+          "begin": 209.698,
+          "end": 211.657,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngulihatn",
+          "begin": 211.657,
+          "end": 212.695,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kao?",
+          "begin": 212.695,
+          "end": 213.786,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 215.269,
+      "end": 221.629,
+      "text": "Ja kata urakng, jara ngulihatnnya",
+      "words": [
+        {
+          "text": "Ja",
+          "begin": 215.269,
+          "end": 215.668,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kata",
+          "begin": 215.668,
+          "end": 216.31900000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "urakng,",
+          "begin": 216.31900000000002,
+          "end": 217.433,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jara",
+          "begin": 218.826,
+          "end": 219.395,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngu",
+          "begin": 219.395,
+          "end": 219.835,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lihatn",
+          "begin": 219.835,
+          "end": 220.303,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nya",
+          "begin": 220.303,
+          "end": 221.629,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 222.359,
+      "end": 228.346,
+      "text": "Manyak nang bujakng malatn ka' kao",
+      "words": [
+        {
+          "text": "Manyak",
+          "begin": 222.359,
+          "end": 222.985,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nang",
+          "begin": 222.985,
+          "end": 223.428,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "buj",
+          "begin": 223.428,
+          "end": 223.887,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "akng",
+          "begin": 223.887,
+          "end": 225.809,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "malatn",
+          "begin": 225.809,
+          "end": 226.486,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka'",
+          "begin": 226.486,
+          "end": 226.997,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kao",
+          "begin": 226.997,
+          "end": 228.346,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 229.472,
+      "end": 231.336,
+      "text": "Aku na paduli",
+      "words": [
+        {
+          "text": "Aku",
+          "begin": 229.472,
+          "end": 229.897,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "na",
+          "begin": 229.897,
+          "end": 230.095,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "paduli",
+          "begin": 230.095,
+          "end": 231.336,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 231.732,
+      "end": 235.995,
+      "text": "Rodok, rodok, rodok, rodok",
+      "words": [
+        {
+          "text": "Rodok,",
+          "begin": 231.732,
+          "end": 232.233,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 232.607,
+          "end": 233.042,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 233.276,
+          "end": 233.987,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ro",
+          "begin": 234.183,
+          "end": 234.586,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dok",
+          "begin": 234.586,
+          "end": 235.995,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 236.611,
+      "end": 238.53300000000002,
+      "text": "Ahe ja katanyu",
+      "words": [
+        {
+          "text": "Ahe",
+          "begin": 236.611,
+          "end": 237.054,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 237.054,
+          "end": 237.237,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kata",
+          "begin": 237.237,
+          "end": 238.058,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nyu",
+          "begin": 238.058,
+          "end": 238.53300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28"
+    },
+    {
+      "begin": 238.811,
+      "end": 243.138,
+      "text": "Rodok, rodok, rodok, rodok",
+      "words": [
+        {
+          "text": "Rodok,",
+          "begin": 238.811,
+          "end": 239.344,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 239.722,
+          "end": 240.236,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 240.561,
+          "end": 241.057,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ro",
+          "begin": 241.286,
+          "end": 241.72,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dok",
+          "begin": 241.72,
+          "end": 243.138,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    },
+    {
+      "begin": 243.658,
+      "end": 245.597,
+      "text": "Kade ku mao'",
+      "words": [
+        {
+          "text": "Kade",
+          "begin": 243.658,
+          "end": 244.325,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 244.325,
+          "end": 244.752,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mao'",
+          "begin": 244.752,
+          "end": 245.597,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30"
+    },
+    {
+      "begin": 245.976,
+      "end": 250.258,
+      "text": "Rodok, rodok, rodok, rodok",
+      "words": [
+        {
+          "text": "Rodok,",
+          "begin": 245.976,
+          "end": 246.415,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 246.852,
+          "end": 247.309,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok,",
+          "begin": 247.518,
+          "end": 248.181,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ro",
+          "begin": 248.424,
+          "end": 248.795,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dok",
+          "begin": 248.795,
+          "end": 250.258,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31"
+    },
+    {
+      "begin": 250.847,
+      "end": 254.463,
+      "text": "Biar saribu urakng tatap",
+      "words": [
+        {
+          "text": "Biar",
+          "begin": 250.847,
+          "end": 251.456,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 251.456,
+          "end": 251.923,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ribu",
+          "begin": 251.923,
+          "end": 252.731,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "urakng",
+          "begin": 253.024,
+          "end": 253.617,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tatap",
+          "begin": 253.617,
+          "end": 254.463,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32"
+    },
+    {
+      "begin": 254.463,
+      "end": 257.118,
+      "text": "Aku rodok",
+      "words": [
+        {
+          "text": "Aku",
+          "begin": 254.463,
+          "end": 255.408,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok",
+          "begin": 255.408,
+          "end": 257.118,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33"
+    },
+    {
+      "begin": 257.953,
+      "end": 261.599,
+      "text": "Biar saribu urakng tatap",
+      "words": [
+        {
+          "text": "Biar",
+          "begin": 257.953,
+          "end": 258.562,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 258.562,
+          "end": 259.014,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ribu",
+          "begin": 259.014,
+          "end": 259.827,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "urakng",
+          "begin": 260.152,
+          "end": 260.701,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tatap",
+          "begin": 260.701,
+          "end": 261.599,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L34"
+    },
+    {
+      "begin": 261.599,
+      "end": 264.704,
+      "text": "Aku rodok",
+      "words": [
+        {
+          "text": "Aku",
+          "begin": 261.599,
+          "end": 262.472,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rodok",
+          "begin": 262.472,
+          "end": 264.704,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L35"
+    }
+  ],
+  "totalLines": 35
+}

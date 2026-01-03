@@ -1,0 +1,2030 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      }
+    ],
+    "artist": "Mariah Carey",
+    "title": "My All",
+    "sourceFile": "Mariah Carey - My All.ttml"
+  },
+  "duration": 219.938,
+  "lines": [
+    {
+      "begin": 7.392,
+      "end": 14.22,
+      "text": "No, nah-ah, hm",
+      "words": [
+        {
+          "text": "No,",
+          "begin": 7.392,
+          "end": 9.791,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nah-",
+          "begin": 10.215,
+          "end": 11.898,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ah,",
+          "begin": 11.898,
+          "end": 13.158,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hm",
+          "begin": 13.158,
+          "end": 14.22,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 15.0,
+      "end": 18.736,
+      "text": "Hm",
+      "words": [
+        {
+          "text": "Hm",
+          "begin": 15.0,
+          "end": 18.736,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 20.017,
+      "end": 23.682,
+      "text": "I am thinking of you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 20.017,
+          "end": 20.27,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "am",
+          "begin": 20.27,
+          "end": 20.553,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "think",
+          "begin": 20.553,
+          "end": 21.135,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ing",
+          "begin": 21.135,
+          "end": 21.617,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 21.617,
+          "end": 22.151,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 22.151,
+          "end": 23.682,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 24.361,
+      "end": 28.837,
+      "text": "In my sleepless solitude tonight",
+      "words": [
+        {
+          "text": "In",
+          "begin": 24.361,
+          "end": 24.622,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 24.622,
+          "end": 24.903,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sleep",
+          "begin": 24.903,
+          "end": 25.42,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "less",
+          "begin": 25.42,
+          "end": 25.948,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 25.948,
+          "end": 26.474,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "li",
+          "begin": 26.474,
+          "end": 27.069,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tude",
+          "begin": 27.069,
+          "end": 27.649,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 27.649,
+          "end": 28.254,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "night",
+          "begin": 28.254,
+          "end": 28.837,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 28.837,
+      "end": 32.529,
+      "text": "If it's wrong to love you",
+      "words": [
+        {
+          "text": "If",
+          "begin": 28.837,
+          "end": 29.074,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it's",
+          "begin": 29.074,
+          "end": 29.319,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wrong",
+          "begin": 29.319,
+          "end": 30.124,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 30.124,
+          "end": 30.462,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 30.462,
+          "end": 31.011,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 31.011,
+          "end": 32.529,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 33.318,
+      "end": 37.696,
+      "text": "Then my heart just won't let me be right",
+      "words": [
+        {
+          "text": "Then",
+          "begin": 33.318,
+          "end": 33.525,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 33.525,
+          "end": 33.775,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heart",
+          "begin": 33.775,
+          "end": 34.283,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "just",
+          "begin": 34.283,
+          "end": 34.794,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "won't",
+          "begin": 34.794,
+          "end": 35.363,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "let",
+          "begin": 35.363,
+          "end": 36.005,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 36.005,
+          "end": 36.547,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 36.547,
+          "end": 37.161,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "right",
+          "begin": 37.161,
+          "end": 37.696,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 37.696,
+      "end": 39.937,
+      "text": "'Cause I've drowned in you",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 37.696,
+          "end": 37.954,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I've",
+          "begin": 37.954,
+          "end": 38.197,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "drowned",
+          "begin": 38.197,
+          "end": 38.838,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 38.838,
+          "end": 39.383,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 39.383,
+          "end": 39.937,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 39.937,
+      "end": 46.782,
+      "text": "And I won't pull through without you by my side",
+      "words": [
+        {
+          "text": "And",
+          "begin": 39.937,
+          "end": 40.219,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 40.219,
+          "end": 40.433,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "won't",
+          "begin": 40.433,
+          "end": 41.061,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pull",
+          "begin": 41.061,
+          "end": 41.57,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "through",
+          "begin": 41.57,
+          "end": 42.24,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "without",
+          "begin": 42.24,
+          "end": 42.758,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 42.758,
+          "end": 43.325,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "by",
+          "begin": 43.325,
+          "end": 43.576,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 43.576,
+          "end": 43.773,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "si",
+          "begin": 43.773,
+          "end": 46.517,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "de",
+          "begin": 46.517,
+          "end": 46.782,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 46.782,
+      "end": 55.444,
+      "text": "I'd give my all to have just one more night with you",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 46.782,
+          "end": 47.161,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 47.161,
+          "end": 47.619,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 47.619,
+          "end": 48.371,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 48.371,
+          "end": 49.76,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 50.246,
+          "end": 50.449,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 50.449,
+          "end": 51.606,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve",
+          "begin": 51.606,
+          "end": 52.219,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "just",
+          "begin": 52.689,
+          "end": 52.937,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 52.937,
+          "end": 53.534,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "more",
+          "begin": 53.534,
+          "end": 53.793,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 53.793,
+          "end": 54.33,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 54.33,
+          "end": 54.835,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 54.835,
+          "end": 55.444,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 55.444,
+      "end": 64.292,
+      "text": "I'd risk my life to feel your body next to mine",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 55.444,
+          "end": 55.936,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "risk",
+          "begin": 55.936,
+          "end": 56.436,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 56.655,
+          "end": 57.387,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "li",
+          "begin": 57.387,
+          "end": 58.407,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fe",
+          "begin": 58.407,
+          "end": 58.574,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 59.116,
+          "end": 59.33,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "feel",
+          "begin": 59.33,
+          "end": 61.076,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 61.59,
+          "end": 61.822,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bo",
+          "begin": 61.822,
+          "end": 62.395,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dy",
+          "begin": 62.395,
+          "end": 62.666,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "next",
+          "begin": 62.666,
+          "end": 63.201,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 63.201,
+          "end": 63.753,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mine",
+          "begin": 63.753,
+          "end": 64.292,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 64.472,
+      "end": 73.163,
+      "text": "'Cause I can't go on living in the memory of our song",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 64.472,
+          "end": 64.7,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 64.7,
+          "end": 64.917,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 64.917,
+          "end": 65.731,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "go",
+          "begin": 65.731,
+          "end": 65.995,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 65.995,
+          "end": 68.059,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "living",
+          "begin": 68.81700000000001,
+          "end": 69.31700000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 69.31700000000001,
+          "end": 69.895,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 69.895,
+          "end": 70.394,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "memory",
+          "begin": 70.394,
+          "end": 71.57,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 71.68,
+          "end": 72.104,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "our",
+          "begin": 72.104,
+          "end": 72.631,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 72.631,
+          "end": 73.163,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 73.32300000000001,
+      "end": 83.131,
+      "text": "I'd give my all for your love tonight",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 73.32300000000001,
+          "end": 74.607,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 74.607,
+          "end": 74.902,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 74.902,
+          "end": 75.18299999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 75.18299999999999,
+          "end": 76.43,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 76.658,
+          "end": 76.869,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 76.869,
+          "end": 77.118,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 77.118,
+          "end": 78.645,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 79.063,
+          "end": 79.386,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "night",
+          "begin": 79.386,
+          "end": 83.131,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 82.186,
+      "end": 86.07300000000001,
+      "text": "Baby, can you feel me?",
+      "words": [
+        {
+          "text": "Baby,",
+          "begin": 82.186,
+          "end": 82.588,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can",
+          "begin": 82.588,
+          "end": 83.45400000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 83.45400000000001,
+          "end": 84.02199999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "feel",
+          "begin": 84.02199999999999,
+          "end": 84.298,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me?",
+          "begin": 84.298,
+          "end": 86.07300000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 86.634,
+      "end": 90.979,
+      "text": "Imagining I'm looking in your eyes",
+      "words": [
+        {
+          "text": "Imagining",
+          "begin": 86.634,
+          "end": 87.89699999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 87.89699999999999,
+          "end": 88.199,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "look",
+          "begin": 88.199,
+          "end": 88.688,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ing",
+          "begin": 88.688,
+          "end": 89.27199999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 89.27199999999999,
+          "end": 89.819,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 89.819,
+          "end": 90.411,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "eyes",
+          "begin": 90.411,
+          "end": 90.979,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 90.979,
+      "end": 95.039,
+      "text": "I can see you clearly",
+      "words": [
+        {
+          "text": "I",
+          "begin": 90.979,
+          "end": 91.279,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can",
+          "begin": 91.279,
+          "end": 91.495,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "see",
+          "begin": 91.495,
+          "end": 92.348,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 92.348,
+          "end": 92.938,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "clear",
+          "begin": 92.938,
+          "end": 93.202,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 93.202,
+          "end": 95.039,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 95.49799999999999,
+      "end": 99.85300000000001,
+      "text": "Vividly emblazoned in my mind",
+      "words": [
+        {
+          "text": "Vivid",
+          "begin": 95.49799999999999,
+          "end": 95.957,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 95.957,
+          "end": 96.874,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "emblazoned",
+          "begin": 96.874,
+          "end": 98.066,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 98.066,
+          "end": 98.72200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 98.72200000000001,
+          "end": 99.29599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mind",
+          "begin": 99.29599999999999,
+          "end": 99.85300000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 99.85300000000001,
+      "end": 102.07,
+      "text": "And yet you're so far",
+      "words": [
+        {
+          "text": "And",
+          "begin": 99.85300000000001,
+          "end": 100.094,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yet",
+          "begin": 100.094,
+          "end": 100.382,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you're",
+          "begin": 100.382,
+          "end": 100.96600000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 100.96600000000001,
+          "end": 101.488,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "far",
+          "begin": 101.488,
+          "end": 102.07,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 102.07,
+      "end": 109.667,
+      "text": "Like a distant star I'm wishing on tonight",
+      "words": [
+        {
+          "text": "Like",
+          "begin": 102.07,
+          "end": 102.35300000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 102.35300000000001,
+          "end": 102.581,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dis",
+          "begin": 102.581,
+          "end": 103.094,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tant",
+          "begin": 103.094,
+          "end": 103.67099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "star",
+          "begin": 103.67099999999999,
+          "end": 104.288,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 104.288,
+          "end": 104.59100000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 104.59100000000001,
+          "end": 104.856,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ing",
+          "begin": 104.856,
+          "end": 105.419,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 105.419,
+          "end": 105.706,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 105.706,
+          "end": 105.977,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "night",
+          "begin": 105.977,
+          "end": 109.667,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 108.83500000000001,
+      "end": 117.58,
+      "text": "I'd give my all to have just one more night with you",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 108.83500000000001,
+          "end": 109.22,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 109.22,
+          "end": 109.832,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 109.832,
+          "end": 110.669,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 110.669,
+          "end": 112.38499999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 112.38499999999999,
+          "end": 112.61500000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 112.61500000000001,
+          "end": 113.813,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve",
+          "begin": 113.813,
+          "end": 114.24799999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "just",
+          "begin": 114.88900000000001,
+          "end": 115.098,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 115.098,
+          "end": 115.685,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "more",
+          "begin": 115.685,
+          "end": 115.956,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 115.956,
+          "end": 116.488,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 116.488,
+          "end": 117.053,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 117.053,
+          "end": 117.58,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 117.58,
+      "end": 126.387,
+      "text": "I'd risk my life to feel your body next to mine",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 117.58,
+          "end": 118.148,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "risk",
+          "begin": 118.148,
+          "end": 118.612,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 118.844,
+          "end": 119.565,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "li",
+          "begin": 119.565,
+          "end": 121.176,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fe",
+          "begin": 121.176,
+          "end": 121.416,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 121.416,
+          "end": 121.673,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "feel",
+          "begin": 121.673,
+          "end": 123.229,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 123.783,
+          "end": 124.035,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bo",
+          "begin": 124.035,
+          "end": 124.613,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dy",
+          "begin": 124.613,
+          "end": 124.884,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "next",
+          "begin": 124.884,
+          "end": 125.618,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 125.618,
+          "end": 125.958,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mine",
+          "begin": 125.958,
+          "end": 126.387,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 126.61,
+      "end": 135.386,
+      "text": "'Cause I can't go on living in the memory of our song",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 126.61,
+          "end": 126.841,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 126.841,
+          "end": 127.086,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 127.086,
+          "end": 127.93,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "go",
+          "begin": 127.93,
+          "end": 128.202,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 128.202,
+          "end": 130.447,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "living",
+          "begin": 131.026,
+          "end": 131.466,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 131.466,
+          "end": 132.143,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 132.143,
+          "end": 132.765,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "memory",
+          "begin": 132.765,
+          "end": 133.65,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 133.65,
+          "end": 134.242,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "our",
+          "begin": 134.242,
+          "end": 134.803,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 134.803,
+          "end": 135.386,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 135.386,
+      "end": 147.621,
+      "text": "I'd give my all for your love tonight",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 135.386,
+          "end": 136.836,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 136.836,
+          "end": 137.132,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 137.132,
+          "end": 137.393,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 137.393,
+          "end": 138.8,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 138.8,
+          "end": 139.026,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 139.026,
+          "end": 139.272,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 139.272,
+          "end": 140.945,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 141.323,
+          "end": 141.581,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "night",
+          "begin": 141.581,
+          "end": 147.621,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22"
+    },
+    {
+      "begin": 151.79,
+      "end": 154.969,
+      "text": "No, ooh",
+      "words": [
+        {
+          "text": "No,",
+          "begin": 151.79,
+          "end": 152.739,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ooh",
+          "begin": 152.739,
+          "end": 154.969,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 156.042,
+      "end": 162.72899999999998,
+      "text": "Ah-ah-ah, oh",
+      "words": [
+        {
+          "text": "Ah-",
+          "begin": 156.042,
+          "end": 157.178,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ah-",
+          "begin": 157.178,
+          "end": 158.234,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ah,",
+          "begin": 158.234,
+          "end": 159.399,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh",
+          "begin": 159.814,
+          "end": 162.72899999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 164.54,
+      "end": 170.971,
+      "text": "Oh, no",
+      "words": [
+        {
+          "text": "Oh,",
+          "begin": 164.54,
+          "end": 167.644,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "no",
+          "begin": 168.754,
+          "end": 170.971,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 171.02100000000002,
+      "end": 179.79500000000002,
+      "text": "I'd give my all to have just one more night with you",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 171.02100000000002,
+          "end": 171.542,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 171.542,
+          "end": 172.087,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 172.087,
+          "end": 172.891,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 172.891,
+          "end": 174.55599999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 174.55599999999998,
+          "end": 174.845,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 174.845,
+          "end": 176.102,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve",
+          "begin": 176.102,
+          "end": 176.38,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "just",
+          "begin": 176.571,
+          "end": 177.299,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 177.299,
+          "end": 177.663,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "more",
+          "begin": 177.663,
+          "end": 178.404,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 178.404,
+          "end": 179.213,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 179.213,
+          "end": 179.372,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 179.372,
+          "end": 179.79500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 179.79500000000002,
+      "end": 188.728,
+      "text": "I'd risk my life to feel your body next to mine",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 179.79500000000002,
+          "end": 180.318,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "risk",
+          "begin": 180.318,
+          "end": 180.857,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 181.064,
+          "end": 181.509,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "li",
+          "begin": 181.509,
+          "end": 183.326,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fe",
+          "begin": 183.326,
+          "end": 183.577,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 183.577,
+          "end": 183.785,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "feel",
+          "begin": 183.785,
+          "end": 185.891,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 185.891,
+          "end": 186.21,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bo",
+          "begin": 186.21,
+          "end": 186.754,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dy",
+          "begin": 186.754,
+          "end": 186.99,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "next",
+          "begin": 186.99,
+          "end": 187.598,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 187.598,
+          "end": 188.10399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mine",
+          "begin": 188.10399999999998,
+          "end": 188.728,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 188.728,
+      "end": 197.553,
+      "text": "'Cause I can't go on living in the memory of our song",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 188.728,
+          "end": 189.012,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 189.012,
+          "end": 189.281,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 189.281,
+          "end": 190.048,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "go",
+          "begin": 190.048,
+          "end": 190.325,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 190.325,
+          "end": 192.794,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "living",
+          "begin": 193.188,
+          "end": 193.684,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 193.684,
+          "end": 194.495,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 194.495,
+          "end": 195.002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "memory",
+          "begin": 195.002,
+          "end": 195.911,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 195.911,
+          "end": 196.404,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "our",
+          "begin": 196.404,
+          "end": 196.903,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 196.903,
+          "end": 197.553,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28"
+    },
+    {
+      "begin": 197.553,
+      "end": 207.549,
+      "text": "I'd give my all for your love tonight",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 197.553,
+          "end": 198.99099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 198.99099999999999,
+          "end": 199.265,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 199.265,
+          "end": 199.544,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 199.544,
+          "end": 200.91,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 200.91,
+          "end": 201.226,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 201.226,
+          "end": 201.474,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 201.474,
+          "end": 203.083,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 203.462,
+          "end": 203.688,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "night",
+          "begin": 203.688,
+          "end": 207.549,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    },
+    {
+      "begin": 207.549,
+      "end": 219.938,
+      "text": "I'd give my all for your love tonight",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 207.549,
+          "end": 207.828,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 207.828,
+          "end": 208.025,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 208.025,
+          "end": 208.246,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 208.246,
+          "end": 209.829,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 209.829,
+          "end": 210.117,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 210.117,
+          "end": 210.373,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 210.373,
+          "end": 212.808,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 213.51,
+          "end": 214.117,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "night",
+          "begin": 214.117,
+          "end": 219.938,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30"
+    }
+  ],
+  "totalLines": 30
+}

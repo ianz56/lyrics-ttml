@@ -1,0 +1,2097 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      },
+      {
+        "id": "v2",
+        "type": "other"
+      }
+    ],
+    "artist": "Rosalia",
+    "title": "Berghain",
+    "sourceFile": "Rosalia - Berghain.ttml"
+  },
+  "duration": 176.548,
+  "lines": [
+    {
+      "begin": 20.156,
+      "end": 21.936,
+      "text": "Seine Angst ist meine Angst",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 20.156,
+          "end": 20.617,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 20.617,
+          "end": 20.857,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 20.857,
+          "end": 21.137,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 21.137,
+          "end": 21.587,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 21.587,
+          "end": 21.936,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L1"
+    },
+    {
+      "begin": 22.126,
+      "end": 23.881,
+      "text": "Seine Wut ist meine Wut",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 22.126,
+          "end": 22.537,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Wut",
+          "begin": 22.537,
+          "end": 22.785,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 22.785,
+          "end": 23.058,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 23.058,
+          "end": 23.532,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Wut",
+          "begin": 23.532,
+          "end": 23.881,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L2"
+    },
+    {
+      "begin": 24.048,
+      "end": 25.901,
+      "text": "Seine Liebe ist meine Liebe",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 24.048,
+          "end": 24.5,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Liebe",
+          "begin": 24.5,
+          "end": 24.748,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 24.748,
+          "end": 25.0,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 25.0,
+          "end": 25.42,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Liebe",
+          "begin": 25.42,
+          "end": 25.901,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L3"
+    },
+    {
+      "begin": 25.901,
+      "end": 27.849,
+      "text": "Sein Blut ist mein Blut",
+      "words": [
+        {
+          "text": "Sein",
+          "begin": 25.901,
+          "end": 26.231,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blut",
+          "begin": 26.44,
+          "end": 26.666,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 26.666,
+          "end": 26.916,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mein",
+          "begin": 26.916,
+          "end": 27.268,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blut",
+          "begin": 27.412,
+          "end": 27.849,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L4"
+    },
+    {
+      "begin": 27.417,
+      "end": 31.571,
+      "text": "Die Flamme dringt in mein Gehirn ein",
+      "words": [
+        {
+          "text": "Die",
+          "begin": 27.417,
+          "end": 27.872,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Flam",
+          "begin": 27.872,
+          "end": 28.68,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "me",
+          "begin": 28.68,
+          "end": 28.875,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dringt",
+          "begin": 28.875,
+          "end": 29.605,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 29.605,
+          "end": 29.841,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mein",
+          "begin": 29.841,
+          "end": 30.494,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Gehirn",
+          "begin": 30.615,
+          "end": 31.271,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ein",
+          "begin": 31.271,
+          "end": 31.571,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 31.703,
+      "end": 35.483,
+      "text": "Wie ein Blei-Teddybär",
+      "words": [
+        {
+          "text": "Wie",
+          "begin": 31.703,
+          "end": 32.483,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ein",
+          "begin": 32.483,
+          "end": 32.76,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blei-",
+          "begin": 32.76,
+          "end": 33.971,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "Teddy",
+          "begin": 34.116,
+          "end": 34.536,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bär",
+          "begin": 34.536,
+          "end": 35.483,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 35.571,
+      "end": 39.608,
+      "text": "Ich bewahre viele Dinge in meinem Herzen auf",
+      "words": [
+        {
+          "text": "Ich",
+          "begin": 35.571,
+          "end": 35.926,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bewahre",
+          "begin": 35.926,
+          "end": 36.488,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "viele",
+          "begin": 36.488,
+          "end": 36.903,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Dinge",
+          "begin": 36.903,
+          "end": 37.44,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 37.44,
+          "end": 37.941,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meinem",
+          "begin": 37.941,
+          "end": 38.467,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Her",
+          "begin": 38.467,
+          "end": 38.824,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "zen",
+          "begin": 38.824,
+          "end": 38.993,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "auf",
+          "begin": 38.993,
+          "end": 39.608,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 39.65,
+      "end": 43.062,
+      "text": "Deshalb ist mein Herz so schwer",
+      "words": [
+        {
+          "text": "Deshalb",
+          "begin": 39.65,
+          "end": 40.106,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 40.106,
+          "end": 40.335,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mein",
+          "begin": 40.335,
+          "end": 41.185,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Herz",
+          "begin": 41.313,
+          "end": 41.793,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 41.793,
+          "end": 42.292,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "schwer",
+          "begin": 42.292,
+          "end": 43.062,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 43.234,
+      "end": 45.01,
+      "text": "Seine Angst ist meine Angst",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 43.234,
+          "end": 43.66,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 43.66,
+          "end": 43.92,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 43.92,
+          "end": 44.182,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 44.182,
+          "end": 44.626,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 44.626,
+          "end": 45.01,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L9"
+    },
+    {
+      "begin": 45.166,
+      "end": 46.887,
+      "text": "Seine Wut ist meine Wut",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 45.166,
+          "end": 45.568,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Wut",
+          "begin": 45.568,
+          "end": 45.844,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 45.844,
+          "end": 46.113,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 46.113,
+          "end": 46.55,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Wut",
+          "begin": 46.55,
+          "end": 46.887,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L10"
+    },
+    {
+      "begin": 47.09,
+      "end": 49.489,
+      "text": "Seine Liebe ist meine Liebe",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 47.09,
+          "end": 47.517,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Liebe",
+          "begin": 47.517,
+          "end": 47.831,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 47.831,
+          "end": 48.168,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 48.168,
+          "end": 48.727,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Liebe",
+          "begin": 48.727,
+          "end": 49.489,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L11"
+    },
+    {
+      "begin": 49.489,
+      "end": 53.843,
+      "text": "Sein Blut ist mein Blut",
+      "words": [
+        {
+          "text": "Sein",
+          "begin": 49.489,
+          "end": 50.002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blut",
+          "begin": 50.512,
+          "end": 50.92,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 50.92,
+          "end": 51.347,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mein",
+          "begin": 51.347,
+          "end": 52.277,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blut",
+          "begin": 52.723,
+          "end": 53.843,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L12"
+    },
+    {
+      "begin": 54.94,
+      "end": 59.576,
+      "text": "Yo sé muy bien lo que soy",
+      "words": [
+        {
+          "text": "Yo",
+          "begin": 54.94,
+          "end": 55.979,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sé",
+          "begin": 56.606,
+          "end": 56.814,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "muy",
+          "begin": 56.814,
+          "end": 57.147,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bien",
+          "begin": 57.147,
+          "end": 57.397,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lo",
+          "begin": 57.397,
+          "end": 58.197,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "que",
+          "begin": 58.298,
+          "end": 58.519,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "soy",
+          "begin": 58.519,
+          "end": 59.576,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 60.513,
+      "end": 63.42,
+      "text": "Ternura pa'l café",
+      "words": [
+        {
+          "text": "Ter",
+          "begin": 60.513,
+          "end": 60.739,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nu",
+          "begin": 60.739,
+          "end": 60.992,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 60.992,
+          "end": 61.421,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pa'l",
+          "begin": 61.421,
+          "end": 62.112,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ca",
+          "begin": 62.138,
+          "end": 62.375,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fé",
+          "begin": 62.375,
+          "end": 63.42,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 64.276,
+      "end": 70.232,
+      "text": "Solo soy un terrón de azúcar",
+      "words": [
+        {
+          "text": "Solo",
+          "begin": 64.276,
+          "end": 64.766,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "soy",
+          "begin": 64.766,
+          "end": 65.354,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "un",
+          "begin": 65.354,
+          "end": 65.82,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ter",
+          "begin": 65.82,
+          "end": 66.265,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "rón",
+          "begin": 66.265,
+          "end": 67.444,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 67.444,
+          "end": 68.157,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "azú",
+          "begin": 68.157,
+          "end": 69.315,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "car",
+          "begin": 69.315,
+          "end": 70.232,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 70.232,
+      "end": 74.99,
+      "text": "Sé que me funde el calor",
+      "words": [
+        {
+          "text": "Sé",
+          "begin": 70.232,
+          "end": 71.149,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "que",
+          "begin": 72.064,
+          "end": 72.269,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 72.269,
+          "end": 72.494,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fun",
+          "begin": 72.494,
+          "end": 72.918,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "de",
+          "begin": 72.918,
+          "end": 73.19200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "el",
+          "begin": 73.19200000000001,
+          "end": 73.653,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cal",
+          "begin": 73.653,
+          "end": 73.884,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "or",
+          "begin": 73.884,
+          "end": 74.99,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 75.872,
+      "end": 79.181,
+      "text": "Sé desaparecer",
+      "words": [
+        {
+          "text": "Sé",
+          "begin": 75.872,
+          "end": 76.143,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "desa",
+          "begin": 76.143,
+          "end": 76.713,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "par",
+          "begin": 76.898,
+          "end": 77.46600000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ecer",
+          "begin": 77.46600000000001,
+          "end": 79.181,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 79.666,
+      "end": 87.17,
+      "text": "Cuando tú vienes es cuando me voy",
+      "words": [
+        {
+          "text": "Cuando",
+          "begin": 79.666,
+          "end": 80.144,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tú",
+          "begin": 80.144,
+          "end": 80.592,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "vien",
+          "begin": 80.592,
+          "end": 81.113,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "es",
+          "begin": 81.113,
+          "end": 81.505,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "es",
+          "begin": 81.505,
+          "end": 82.795,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cuan",
+          "begin": 82.877,
+          "end": 83.854,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "do",
+          "begin": 83.854,
+          "end": 84.781,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 84.781,
+          "end": 85.47200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "voy",
+          "begin": 85.47200000000001,
+          "end": 87.17,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 85.642,
+      "end": 88.997,
+      "text": "Seine Angst ist meine Angst",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 85.642,
+          "end": 86.574,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 86.574,
+          "end": 87.013,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 87.013,
+          "end": 87.502,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 87.502,
+          "end": 88.492,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 88.492,
+          "end": 88.997,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L19"
+    },
+    {
+      "begin": 89.504,
+      "end": 92.87100000000001,
+      "text": "Seine Wut ist meine Wut",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 89.504,
+          "end": 90.412,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Wut",
+          "begin": 90.412,
+          "end": 90.861,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 90.861,
+          "end": 91.354,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 91.354,
+          "end": 92.294,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Wut",
+          "begin": 92.294,
+          "end": 92.87100000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L20"
+    },
+    {
+      "begin": 92.684,
+      "end": 102.968,
+      "text": "This is divine intervention",
+      "words": [
+        {
+          "text": "This",
+          "begin": 92.684,
+          "end": 92.937,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 92.937,
+          "end": 93.237,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 93.406,
+          "end": 94.976,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "vine",
+          "begin": 94.976,
+          "end": 96.667,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 96.667,
+          "end": 97.24600000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ter",
+          "begin": 97.24600000000001,
+          "end": 99.138,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ven",
+          "begin": 99.62299999999999,
+          "end": 100.295,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tion",
+          "begin": 100.295,
+          "end": 102.968,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 93.364,
+      "end": 98.09100000000001,
+      "text": "Seine Liebe ist meine Liebe",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 93.364,
+          "end": 94.44,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Liebe",
+          "begin": 94.44,
+          "end": 94.97200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 94.97200000000001,
+          "end": 95.595,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 95.595,
+          "end": 96.868,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Liebe",
+          "begin": 96.868,
+          "end": 98.09100000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L22"
+    },
+    {
+      "begin": 98.46000000000001,
+      "end": 106.28399999999999,
+      "text": "Sein Blut ist mein Blut",
+      "words": [
+        {
+          "text": "Sein",
+          "begin": 98.46000000000001,
+          "end": 99.40299999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blut",
+          "begin": 100.02799999999999,
+          "end": 100.88300000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 101.12,
+          "end": 101.85499999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mein",
+          "begin": 102.07,
+          "end": 103.553,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blut",
+          "begin": 104.50800000000001,
+          "end": 106.28399999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L23"
+    },
+    {
+      "begin": 115.495,
+      "end": 126.018,
+      "text": "The only way to save us is through divine",
+      "words": [
+        {
+          "text": "The",
+          "begin": 115.495,
+          "end": 116.304,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 116.304,
+          "end": 116.87100000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 116.87100000000001,
+          "end": 117.191,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way",
+          "begin": 117.191,
+          "end": 118.22200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 118.875,
+          "end": 119.384,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "save",
+          "begin": 119.384,
+          "end": 120.166,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "us",
+          "begin": 120.222,
+          "end": 121.324,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 121.936,
+          "end": 122.299,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "through",
+          "begin": 122.299,
+          "end": 123.001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 123.251,
+          "end": 124.721,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "vine",
+          "begin": 124.721,
+          "end": 126.018,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 126.018,
+      "end": 129.421,
+      "text": "Intervention",
+      "words": [
+        {
+          "text": "In",
+          "begin": 126.018,
+          "end": 126.467,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ter",
+          "begin": 126.486,
+          "end": 127.652,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ven",
+          "begin": 127.883,
+          "end": 128.283,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tion",
+          "begin": 128.283,
+          "end": 129.421,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 130.347,
+      "end": 141.256,
+      "text": "The only way I will be saved is through divine",
+      "words": [
+        {
+          "text": "The",
+          "begin": 130.347,
+          "end": 130.744,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 130.744,
+          "end": 131.63,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 132.1,
+          "end": 132.60399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way",
+          "begin": 132.60399999999998,
+          "end": 133.724,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 133.871,
+          "end": 134.208,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 134.208,
+          "end": 135.709,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 135.83,
+          "end": 136.312,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "saved",
+          "begin": 136.563,
+          "end": 137.694,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 137.694,
+          "end": 138.124,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "through",
+          "begin": 138.124,
+          "end": 138.591,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 138.591,
+          "end": 140.028,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "vine",
+          "begin": 140.028,
+          "end": 141.256,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 141.256,
+      "end": 144.789,
+      "text": "Intervention",
+      "words": [
+        {
+          "text": "In",
+          "begin": 141.256,
+          "end": 141.74,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ter",
+          "begin": 141.74,
+          "end": 142.917,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ven",
+          "begin": 143.138,
+          "end": 143.525,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tion",
+          "begin": 143.525,
+          "end": 144.789,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 146.0,
+      "end": 147.653,
+      "text": "I'll fuck you till you love me",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 146.0,
+          "end": 146.18,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fuck",
+          "begin": 146.28,
+          "end": 146.504,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 146.504,
+          "end": 146.728,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "till",
+          "begin": 146.728,
+          "end": 146.882,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 146.882,
+          "end": 147.078,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 147.078,
+          "end": 147.357,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 147.357,
+          "end": 147.653,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L28"
+    },
+    {
+      "begin": 148.203,
+      "end": 149.684,
+      "text": "I'll fuck you till you love me",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 148.203,
+          "end": 148.39600000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fuck",
+          "begin": 148.556,
+          "end": 148.718,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 148.718,
+          "end": 148.893,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "till",
+          "begin": 148.893,
+          "end": 149.068,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 149.068,
+          "end": 149.245,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 149.245,
+          "end": 149.472,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 149.472,
+          "end": 149.684,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L29"
+    },
+    {
+      "begin": 149.975,
+      "end": 151.38,
+      "text": "I'll fuck you till you love me",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 149.81,
+          "end": 150.034,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fuck",
+          "begin": 150.144,
+          "end": 150.35399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 150.35399999999998,
+          "end": 150.564,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "till",
+          "begin": 150.564,
+          "end": 150.704,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 150.704,
+          "end": 150.832,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 150.832,
+          "end": 151.084,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 151.084,
+          "end": 151.38,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L30"
+    },
+    {
+      "begin": 152.506,
+      "end": 153.28,
+      "text": "Till you love me",
+      "words": [
+        {
+          "text": "Till",
+          "begin": 152.506,
+          "end": 152.641,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 152.641,
+          "end": 152.784,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 152.784,
+          "end": 153.03300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 153.03300000000002,
+          "end": 153.28,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L31"
+    },
+    {
+      "begin": 154.537,
+      "end": 155.219,
+      "text": "Till you love me",
+      "words": [
+        {
+          "text": "Till",
+          "begin": 154.437,
+          "end": 154.564,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 154.564,
+          "end": 154.696,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 154.696,
+          "end": 154.989,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 154.989,
+          "end": 155.219,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L32"
+    },
+    {
+      "begin": 156.601,
+      "end": 157.334,
+      "text": "Till you love me",
+      "words": [
+        {
+          "text": "Till",
+          "begin": 156.601,
+          "end": 156.699,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 156.699,
+          "end": 156.804,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 156.804,
+          "end": 157.138,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 157.138,
+          "end": 157.334,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L33"
+    },
+    {
+      "begin": 158.537,
+      "end": 159.287,
+      "text": "Till you love me",
+      "words": [
+        {
+          "text": "Till",
+          "begin": 158.537,
+          "end": 158.66,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 158.66,
+          "end": 158.78,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 158.78,
+          "end": 159.039,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 159.039,
+          "end": 159.287,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L34"
+    },
+    {
+      "begin": 160.4,
+      "end": 161.213,
+      "text": "Till you love me",
+      "words": [
+        {
+          "text": "Till",
+          "begin": 160.4,
+          "end": 160.54399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 160.54399999999998,
+          "end": 160.653,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 160.653,
+          "end": 160.958,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 160.958,
+          "end": 161.213,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L35"
+    },
+    {
+      "begin": 164.607,
+      "end": 165.06,
+      "text": "Love me",
+      "words": [
+        {
+          "text": "Love",
+          "begin": 164.55700000000002,
+          "end": 164.849,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 164.849,
+          "end": 165.06,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L36"
+    },
+    {
+      "begin": 165.71699999999998,
+      "end": 166.273,
+      "text": "Till you",
+      "words": [
+        {
+          "text": "Till",
+          "begin": 165.71699999999998,
+          "end": 165.887,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 165.887,
+          "end": 166.273,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L37"
+    },
+    {
+      "begin": 166.212,
+      "end": 166.978,
+      "text": "Till you love me",
+      "words": [
+        {
+          "text": "Till",
+          "begin": 166.212,
+          "end": 166.38,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 166.38,
+          "end": 166.53300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 166.53300000000002,
+          "end": 166.758,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 166.758,
+          "end": 166.978,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L38"
+    },
+    {
+      "begin": 169.103,
+      "end": 170.523,
+      "text": "I'll fuck you till you love me",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 169.103,
+          "end": 169.224,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fuck",
+          "begin": 169.329,
+          "end": 169.553,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 169.553,
+          "end": 169.727,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "till",
+          "begin": 169.727,
+          "end": 169.875,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 169.875,
+          "end": 170.04500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 170.04500000000002,
+          "end": 170.296,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 170.296,
+          "end": 170.523,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L39"
+    },
+    {
+      "begin": 171.022,
+      "end": 172.43099999999998,
+      "text": "I'll fuck you till you love me",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 171.022,
+          "end": 171.197,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fuck",
+          "begin": 171.197,
+          "end": 171.40699999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 171.40699999999998,
+          "end": 171.642,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "till",
+          "begin": 171.642,
+          "end": 171.814,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 171.814,
+          "end": 171.961,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 171.961,
+          "end": 172.22,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 172.22,
+          "end": 172.43099999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L40"
+    },
+    {
+      "begin": 173.175,
+      "end": 173.666,
+      "text": "Love me",
+      "words": [
+        {
+          "text": "Love",
+          "begin": 173.175,
+          "end": 173.40699999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 173.40699999999998,
+          "end": 173.666,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L41"
+    },
+    {
+      "begin": 174.20499999999998,
+      "end": 174.585,
+      "text": "Love me",
+      "words": [
+        {
+          "text": "Love",
+          "begin": 174.20499999999998,
+          "end": 174.403,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 174.403,
+          "end": 174.585,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L42"
+    },
+    {
+      "begin": 175.125,
+      "end": 175.596,
+      "text": "Love me",
+      "words": [
+        {
+          "text": "Love",
+          "begin": 175.025,
+          "end": 175.33100000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 175.33100000000002,
+          "end": 175.596,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L43"
+    },
+    {
+      "begin": 176.0,
+      "end": 176.548,
+      "text": "Love me",
+      "words": [
+        {
+          "text": "Love",
+          "begin": 176.0,
+          "end": 176.324,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 176.324,
+          "end": 176.548,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L44"
+    }
+  ],
+  "totalLines": 44
+}

@@ -14,6 +14,8 @@ for root, dirs, files in os.walk("."):
     for file in files:
         if file.lower().endswith(".ttml"):
             path = os.path.join(root, file).replace("\\", "/")
+            
+            json_path = f"./JSON/{folder}/{os.path.splitext(file)[0]}.json"
 
             name = os.path.splitext(file)[0]
             parts = name.split(" - ")
@@ -24,7 +26,8 @@ for root, dirs, files in os.walk("."):
                 "artist": artist,
                 "title": title,
                 "lang": folder,
-                "path": path
+                "path": path,
+                "jsonPath": json_path
             }
             index.append(entry)
 

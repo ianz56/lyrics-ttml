@@ -1,0 +1,3436 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      },
+      {
+        "id": "v2",
+        "type": "other"
+      }
+    ],
+    "title": "lyric (46)",
+    "sourceFile": "lyric (46).ttml"
+  },
+  "duration": 304.972,
+  "lines": [
+    {
+      "begin": 25.744,
+      "end": 29.142,
+      "text": "Jangji urang rék saati",
+      "words": [
+        {
+          "text": "Jang",
+          "begin": 25.744,
+          "end": 26.13,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ji",
+          "begin": 26.13,
+          "end": 26.767,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "urang",
+          "begin": 26.991,
+          "end": 27.505,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rék",
+          "begin": 27.692,
+          "end": 27.994,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 27.994,
+          "end": 28.398,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ati",
+          "begin": 28.398,
+          "end": 29.142,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 29.712,
+      "end": 35.322,
+      "text": "Moal pada ingkar, moal rék sulaya",
+      "words": [
+        {
+          "text": "Moal",
+          "begin": 29.712,
+          "end": 30.271,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pada",
+          "begin": 30.559,
+          "end": 30.998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ing",
+          "begin": 30.998,
+          "end": 31.297,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kar,",
+          "begin": 31.297,
+          "end": 32.022,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "moal",
+          "begin": 32.511,
+          "end": 32.991,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rék",
+          "begin": 33.188,
+          "end": 34.016,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "su",
+          "begin": 34.39,
+          "end": 34.634,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "laya",
+          "begin": 34.634,
+          "end": 35.322,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 36.896,
+      "end": 40.218,
+      "text": "Tapi, jangji ukur jangji",
+      "words": [
+        {
+          "text": "Ta",
+          "begin": 36.896,
+          "end": 37.386,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pi,",
+          "begin": 37.386,
+          "end": 37.851,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jang",
+          "begin": 38.029,
+          "end": 38.268,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ji",
+          "begin": 38.268,
+          "end": 38.758,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ukur",
+          "begin": 38.951,
+          "end": 39.313,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jang",
+          "begin": 39.313,
+          "end": 39.834,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ji",
+          "begin": 39.834,
+          "end": 40.218,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 40.816,
+      "end": 46.634,
+      "text": "Sumpah tinggal sumpah, kalah jadi runtah",
+      "words": [
+        {
+          "text": "Sum",
+          "begin": 40.816,
+          "end": 41.15,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pah",
+          "begin": 41.15,
+          "end": 41.591,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ting",
+          "begin": 41.79,
+          "end": 41.988,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gal",
+          "begin": 41.988,
+          "end": 42.264,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sum",
+          "begin": 42.264,
+          "end": 42.574,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pah,",
+          "begin": 42.574,
+          "end": 43.161,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kalah",
+          "begin": 43.635,
+          "end": 44.082,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 44.082,
+          "end": 45.372,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 45.372,
+          "end": 45.612,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "run",
+          "begin": 45.612,
+          "end": 45.877,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tah",
+          "begin": 45.877,
+          "end": 46.634,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 47.323,
+      "end": 52.439,
+      "text": "Kaduhung sagedé gunung, teu ngagugu omong indung",
+      "words": [
+        {
+          "text": "Ka",
+          "begin": 47.323,
+          "end": 47.613,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "duhung",
+          "begin": 47.613,
+          "end": 48.127,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 48.288,
+          "end": 48.588,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gedé",
+          "begin": 48.588,
+          "end": 48.981,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gu",
+          "begin": 48.981,
+          "end": 49.216,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nung,",
+          "begin": 49.216,
+          "end": 49.658,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "teu",
+          "begin": 49.658,
+          "end": 50.001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nga",
+          "begin": 50.001,
+          "end": 50.616,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gugu",
+          "begin": 50.616,
+          "end": 51.035,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "omong",
+          "begin": 51.035,
+          "end": 51.716,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 51.716,
+          "end": 51.992,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dung",
+          "begin": 51.992,
+          "end": 52.439,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 52.883,
+      "end": 58.17,
+      "text": "Papatah dianggap angin, geuningan kieu jadina?",
+      "words": [
+        {
+          "text": "Pa",
+          "begin": 52.883,
+          "end": 53.167,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "patah",
+          "begin": 53.167,
+          "end": 53.692,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 53.885,
+          "end": 54.333,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "anggap",
+          "begin": 54.333,
+          "end": 54.759,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "angin,",
+          "begin": 54.759,
+          "end": 55.376,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "geuning",
+          "begin": 55.701,
+          "end": 56.069,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 56.069,
+          "end": 56.734,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kieu",
+          "begin": 56.973,
+          "end": 57.259,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jadi",
+          "begin": 57.259,
+          "end": 57.654,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na?",
+          "begin": 57.654,
+          "end": 58.17,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 58.46,
+      "end": 63.824,
+      "text": "Haté ceurik balilihan, taya nu bisa ngubaran",
+      "words": [
+        {
+          "text": "Haté",
+          "begin": 58.46,
+          "end": 58.905,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ceurik",
+          "begin": 58.905,
+          "end": 59.666,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "balilih",
+          "begin": 59.666,
+          "end": 60.216,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an,",
+          "begin": 60.216,
+          "end": 60.856,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 60.856,
+          "end": 61.147,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ya",
+          "begin": 61.147,
+          "end": 61.778,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nu",
+          "begin": 61.778,
+          "end": 61.996,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bisa",
+          "begin": 61.996,
+          "end": 62.437,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngubar",
+          "begin": 62.437,
+          "end": 62.829,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 62.829,
+          "end": 63.824,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 64.097,
+      "end": 68.757,
+      "text": "Haté asa diwewejét, rajét",
+      "words": [
+        {
+          "text": "Haté",
+          "begin": 64.097,
+          "end": 64.49,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "asa",
+          "begin": 64.49,
+          "end": 65.347,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 65.347,
+          "end": 65.615,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "wewejét,",
+          "begin": 65.615,
+          "end": 66.577,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rajét",
+          "begin": 67.404,
+          "end": 68.757,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 72.445,
+      "end": 77.776,
+      "text": "Kudu ka mana ngubarandiri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 72.445,
+          "end": 72.775,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 72.775,
+          "end": 73.104,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 73.104,
+          "end": 73.731,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 73.731,
+          "end": 74.08500000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 74.08500000000001,
+          "end": 74.95400000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngubar",
+          "begin": 75.276,
+          "end": 75.872,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 75.872,
+          "end": 76.475,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 76.475,
+          "end": 76.91,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 76.91,
+          "end": 77.776,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 78.143,
+      "end": 83.241,
+      "text": "Kudu kumaha miceun kanyeri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 78.143,
+          "end": 78.418,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 78.418,
+          "end": 78.758,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 78.758,
+          "end": 79.158,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 79.158,
+          "end": 79.747,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 79.747,
+          "end": 80.479,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miceun",
+          "begin": 80.803,
+          "end": 81.413,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 81.413,
+          "end": 81.939,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nye",
+          "begin": 81.939,
+          "end": 82.375,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 82.375,
+          "end": 83.241,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 83.613,
+      "end": 88.865,
+      "text": "Kudu ka saha nitipkeun diri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 83.613,
+          "end": 83.883,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 83.883,
+          "end": 84.25,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 84.25,
+          "end": 84.793,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 84.793,
+          "end": 85.238,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 85.238,
+          "end": 86.026,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nitip",
+          "begin": 86.394,
+          "end": 86.989,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "keun",
+          "begin": 86.989,
+          "end": 87.537,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 87.537,
+          "end": 88.029,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 88.029,
+          "end": 88.865,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 89.226,
+      "end": 95.255,
+      "text": "Kudu ka mana? Nya kumaha?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 89.226,
+          "end": 89.514,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 89.514,
+          "end": 89.842,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 89.842,
+          "end": 90.288,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 90.288,
+          "end": 90.812,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na?",
+          "begin": 90.812,
+          "end": 91.556,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nya",
+          "begin": 91.882,
+          "end": 92.66499999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 92.947,
+          "end": 93.21000000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "maha?",
+          "begin": 93.21000000000001,
+          "end": 95.255,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 98.16499999999999,
+      "end": 101.533,
+      "text": "Jangji urang rék saati",
+      "words": [
+        {
+          "text": "Jang",
+          "begin": 98.16499999999999,
+          "end": 98.688,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ji",
+          "begin": 98.688,
+          "end": 99.332,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "urang",
+          "begin": 99.507,
+          "end": 100.03399999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rék",
+          "begin": 100.27000000000001,
+          "end": 100.549,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 100.549,
+          "end": 100.91,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ati",
+          "begin": 100.91,
+          "end": 101.533,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 102.283,
+      "end": 107.923,
+      "text": "Moal pada ingkar, moal rék sulaya",
+      "words": [
+        {
+          "text": "Moal",
+          "begin": 102.283,
+          "end": 102.872,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pada",
+          "begin": 103.132,
+          "end": 103.57,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ing",
+          "begin": 103.57,
+          "end": 103.86099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kar,",
+          "begin": 103.86099999999999,
+          "end": 104.422,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "moal",
+          "begin": 105.055,
+          "end": 105.487,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rék",
+          "begin": 105.65299999999999,
+          "end": 106.30799999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "su",
+          "begin": 106.684,
+          "end": 106.94,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "laya",
+          "begin": 106.94,
+          "end": 107.923,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 109.439,
+      "end": 112.89699999999999,
+      "text": "Tapi, jangji ukur jangji",
+      "words": [
+        {
+          "text": "Ta",
+          "begin": 109.439,
+          "end": 109.886,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pi,",
+          "begin": 109.886,
+          "end": 110.357,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jang",
+          "begin": 110.481,
+          "end": 110.75999999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ji",
+          "begin": 110.75999999999999,
+          "end": 111.22999999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ukur",
+          "begin": 111.517,
+          "end": 111.914,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jang",
+          "begin": 112.12700000000001,
+          "end": 112.36699999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ji",
+          "begin": 112.36699999999999,
+          "end": 112.89699999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 113.399,
+      "end": 119.17,
+      "text": "Sumpah tinggal sumpah, kalah jadi runtah",
+      "words": [
+        {
+          "text": "Sum",
+          "begin": 113.399,
+          "end": 113.725,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pah",
+          "begin": 113.725,
+          "end": 114.27799999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ting",
+          "begin": 114.27799999999999,
+          "end": 114.559,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gal",
+          "begin": 114.559,
+          "end": 114.832,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sum",
+          "begin": 114.832,
+          "end": 115.259,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pah,",
+          "begin": 115.259,
+          "end": 115.697,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kalah",
+          "begin": 116.22399999999999,
+          "end": 116.678,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 116.678,
+          "end": 117.63300000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 117.63300000000001,
+          "end": 118.00800000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "run",
+          "begin": 118.00800000000001,
+          "end": 118.29599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tah",
+          "begin": 118.29599999999999,
+          "end": 119.17,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 148.363,
+      "end": 151.933,
+      "text": "Jangji urang rék saati",
+      "words": [
+        {
+          "text": "Jang",
+          "begin": 148.363,
+          "end": 148.927,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ji",
+          "begin": 148.927,
+          "end": 149.554,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "urang",
+          "begin": 149.772,
+          "end": 150.298,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rék",
+          "begin": 150.511,
+          "end": 150.802,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 150.802,
+          "end": 151.162,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ati",
+          "begin": 151.162,
+          "end": 151.933,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 152.53,
+      "end": 158.099,
+      "text": "Moal pada ingkar, moal rék sulaya",
+      "words": [
+        {
+          "text": "Moal",
+          "begin": 152.53,
+          "end": 153.09199999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pada",
+          "begin": 153.377,
+          "end": 153.735,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ing",
+          "begin": 153.735,
+          "end": 154.153,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kar,",
+          "begin": 154.153,
+          "end": 154.685,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "moal",
+          "begin": 155.293,
+          "end": 155.76,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rék",
+          "begin": 155.885,
+          "end": 156.962,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "su",
+          "begin": 156.962,
+          "end": 157.28300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "laya",
+          "begin": 157.28300000000002,
+          "end": 158.099,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 159.628,
+      "end": 163.119,
+      "text": "Tapi, jangji ukur jangji",
+      "words": [
+        {
+          "text": "Ta",
+          "begin": 159.628,
+          "end": 160.105,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pi,",
+          "begin": 160.105,
+          "end": 160.547,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jang",
+          "begin": 160.707,
+          "end": 160.99099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ji",
+          "begin": 160.99099999999999,
+          "end": 161.488,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ukur",
+          "begin": 161.716,
+          "end": 162.13400000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jang",
+          "begin": 162.13400000000001,
+          "end": 162.579,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ji",
+          "begin": 162.579,
+          "end": 163.119,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 163.571,
+      "end": 169.06799999999998,
+      "text": "Sumpah tinggal sumpah, kalah jadi runtah",
+      "words": [
+        {
+          "text": "Sum",
+          "begin": 163.571,
+          "end": 163.989,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pah",
+          "begin": 163.989,
+          "end": 164.387,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ting",
+          "begin": 164.54500000000002,
+          "end": 164.80599999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gal",
+          "begin": 164.80599999999998,
+          "end": 165.129,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sum",
+          "begin": 165.129,
+          "end": 165.466,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pah,",
+          "begin": 165.466,
+          "end": 165.91,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kalah",
+          "begin": 166.47899999999998,
+          "end": 166.85,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 166.85,
+          "end": 167.655,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 167.655,
+          "end": 167.958,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "run",
+          "begin": 167.958,
+          "end": 168.222,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tah",
+          "begin": 168.222,
+          "end": 169.06799999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 170.063,
+      "end": 175.302,
+      "text": "Kaduhung sagedé gunung, teu ngagugu omong indung",
+      "words": [
+        {
+          "text": "Ka",
+          "begin": 170.063,
+          "end": 170.325,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "duhung",
+          "begin": 170.325,
+          "end": 170.923,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 170.923,
+          "end": 171.367,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gedé",
+          "begin": 171.367,
+          "end": 171.663,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gu",
+          "begin": 171.663,
+          "end": 171.906,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nung,",
+          "begin": 171.906,
+          "end": 172.274,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "teu",
+          "begin": 172.484,
+          "end": 172.79500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nga",
+          "begin": 172.79500000000002,
+          "end": 173.31799999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gugu",
+          "begin": 173.31799999999998,
+          "end": 173.826,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "omong",
+          "begin": 173.826,
+          "end": 174.473,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 174.473,
+          "end": 174.845,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dung",
+          "begin": 174.845,
+          "end": 175.302,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 175.7,
+      "end": 180.815,
+      "text": "Papatah dianggap angin, geuningan kieu jadina?",
+      "words": [
+        {
+          "text": "Pa",
+          "begin": 175.7,
+          "end": 175.938,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "patah",
+          "begin": 175.938,
+          "end": 176.493,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 176.68099999999998,
+          "end": 176.912,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "anggap",
+          "begin": 176.912,
+          "end": 177.352,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "angin,",
+          "begin": 177.352,
+          "end": 177.978,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "geuning",
+          "begin": 178.225,
+          "end": 178.60399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 178.60399999999998,
+          "end": 179.325,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kieu",
+          "begin": 179.527,
+          "end": 179.79500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jadi",
+          "begin": 179.79500000000002,
+          "end": 180.183,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na?",
+          "begin": 180.183,
+          "end": 180.815,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22"
+    },
+    {
+      "begin": 181.249,
+      "end": 186.475,
+      "text": "Haté ceurik balilihan, taya nu bisa ngubaran",
+      "words": [
+        {
+          "text": "Haté",
+          "begin": 181.249,
+          "end": 181.672,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ceurik",
+          "begin": 181.672,
+          "end": 182.392,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "balilih",
+          "begin": 182.505,
+          "end": 182.939,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an,",
+          "begin": 182.939,
+          "end": 183.591,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 183.769,
+          "end": 183.904,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ya",
+          "begin": 183.904,
+          "end": 184.528,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nu",
+          "begin": 184.528,
+          "end": 184.784,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bisa",
+          "begin": 184.784,
+          "end": 185.257,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngubar",
+          "begin": 185.257,
+          "end": 185.748,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 185.748,
+          "end": 186.475,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 186.825,
+      "end": 191.85,
+      "text": "Haté asa diwewejét, rajét",
+      "words": [
+        {
+          "text": "Haté",
+          "begin": 186.825,
+          "end": 187.298,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "asa",
+          "begin": 187.298,
+          "end": 188.108,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 188.108,
+          "end": 188.427,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "wewejét,",
+          "begin": 188.427,
+          "end": 189.714,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rajét",
+          "begin": 190.177,
+          "end": 191.85,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 195.228,
+      "end": 200.506,
+      "text": "Kudu ka mana ngubarandiri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 195.228,
+          "end": 195.525,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 195.525,
+          "end": 195.857,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 195.857,
+          "end": 196.518,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 196.518,
+          "end": 196.913,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 196.913,
+          "end": 197.821,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngubar",
+          "begin": 198.047,
+          "end": 198.607,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 198.607,
+          "end": 199.152,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 199.372,
+          "end": 199.762,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 199.762,
+          "end": 200.506,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 200.841,
+      "end": 206.10399999999998,
+      "text": "Kudu kumaha miceun kanyeri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 200.841,
+          "end": 201.17000000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 201.17000000000002,
+          "end": 201.50900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 201.50900000000001,
+          "end": 202.099,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 202.099,
+          "end": 202.529,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 202.529,
+          "end": 203.248,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miceun",
+          "begin": 203.624,
+          "end": 204.182,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 204.182,
+          "end": 204.809,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nye",
+          "begin": 204.809,
+          "end": 205.254,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 205.254,
+          "end": 206.10399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 206.445,
+      "end": 211.662,
+      "text": "Kudu ka saha nitipkeun diri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 206.445,
+          "end": 206.707,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 206.707,
+          "end": 207.04500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 207.04500000000002,
+          "end": 207.657,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 207.657,
+          "end": 208.066,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 208.066,
+          "end": 208.972,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nitip",
+          "begin": 209.215,
+          "end": 209.773,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "keun",
+          "begin": 209.773,
+          "end": 210.421,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 210.421,
+          "end": 210.828,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 210.828,
+          "end": 211.662,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 212.018,
+      "end": 217.34,
+      "text": "Kudu ka mana? Nya kumaha?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 212.018,
+          "end": 212.322,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 212.322,
+          "end": 212.691,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 212.691,
+          "end": 213.151,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 213.151,
+          "end": 213.554,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na?",
+          "begin": 213.554,
+          "end": 214.131,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nya",
+          "begin": 214.636,
+          "end": 215.503,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 215.731,
+          "end": 216.052,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 216.052,
+          "end": 216.361,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha?",
+          "begin": 216.361,
+          "end": 217.34,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28"
+    },
+    {
+      "begin": 220.367,
+      "end": 225.64600000000002,
+      "text": "Kudu ka mana ngubarandiri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 220.367,
+          "end": 220.691,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 220.691,
+          "end": 221.03,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 221.03,
+          "end": 221.61,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 221.61,
+          "end": 222.007,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 222.007,
+          "end": 222.84300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngubar",
+          "begin": 223.149,
+          "end": 223.712,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 223.712,
+          "end": 224.364,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 224.364,
+          "end": 224.77,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 224.77,
+          "end": 225.64600000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    },
+    {
+      "begin": 225.977,
+      "end": 231.172,
+      "text": "Kudu kumaha miceun kanyeri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 225.977,
+          "end": 226.279,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 226.279,
+          "end": 226.633,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 226.633,
+          "end": 227.085,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 227.085,
+          "end": 227.59300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 227.59300000000002,
+          "end": 228.373,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miceun",
+          "begin": 228.70600000000002,
+          "end": 229.344,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 229.344,
+          "end": 229.911,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nye",
+          "begin": 229.911,
+          "end": 230.3,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 230.3,
+          "end": 231.172,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30"
+    },
+    {
+      "begin": 231.542,
+      "end": 236.788,
+      "text": "Kudu ka saha nitipkeun diri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 231.542,
+          "end": 231.823,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 231.823,
+          "end": 232.155,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 232.155,
+          "end": 232.629,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 232.629,
+          "end": 233.087,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 233.087,
+          "end": 234.129,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nitip",
+          "begin": 234.332,
+          "end": 234.916,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "keun",
+          "begin": 234.916,
+          "end": 235.449,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 235.449,
+          "end": 235.948,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 235.948,
+          "end": 236.788,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31"
+    },
+    {
+      "begin": 237.141,
+      "end": 242.965,
+      "text": "Kudu ka mana? Nya kumaha?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 237.141,
+          "end": 237.412,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 237.412,
+          "end": 237.787,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 237.787,
+          "end": 238.186,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 238.186,
+          "end": 238.614,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na?",
+          "begin": 238.614,
+          "end": 239.299,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nya",
+          "begin": 239.736,
+          "end": 240.451,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 240.803,
+          "end": 241.086,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 241.086,
+          "end": 241.429,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha?",
+          "begin": 241.429,
+          "end": 242.965,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32"
+    },
+    {
+      "begin": 245.472,
+      "end": 250.789,
+      "text": "Kudu ka mana ngubarandiri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 245.472,
+          "end": 245.826,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 245.826,
+          "end": 246.182,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 246.182,
+          "end": 246.694,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 246.694,
+          "end": 247.109,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 247.109,
+          "end": 247.974,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngubar",
+          "begin": 248.239,
+          "end": 248.955,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 248.955,
+          "end": 249.447,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 249.447,
+          "end": 249.894,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 249.894,
+          "end": 250.789,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L33"
+    },
+    {
+      "begin": 251.09,
+      "end": 256.515,
+      "text": "Kudu kumaha miceun kanyeri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 251.09,
+          "end": 251.403,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 251.403,
+          "end": 251.782,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 251.782,
+          "end": 252.238,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 252.238,
+          "end": 252.792,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 252.792,
+          "end": 253.52,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miceun",
+          "begin": 253.839,
+          "end": 254.557,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 254.557,
+          "end": 255.096,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nye",
+          "begin": 255.096,
+          "end": 255.524,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 255.524,
+          "end": 256.515,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L34"
+    },
+    {
+      "begin": 252.129,
+      "end": 256.34,
+      "text": "Kudu kumaha miceun kanyeri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 252.129,
+          "end": 252.447,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 252.447,
+          "end": 252.727,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 252.727,
+          "end": 252.98,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 252.98,
+          "end": 253.272,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 253.272,
+          "end": 254.727,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miceun",
+          "begin": 254.727,
+          "end": 255.363,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 255.363,
+          "end": 255.695,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nye",
+          "begin": 255.695,
+          "end": 255.906,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 255.906,
+          "end": 256.34,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L35"
+    },
+    {
+      "begin": 256.641,
+      "end": 261.98,
+      "text": "Kudu ka saha nitipkeun diri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 256.641,
+          "end": 256.956,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 256.956,
+          "end": 257.3,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 257.3,
+          "end": 257.866,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 257.866,
+          "end": 258.28,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 258.28,
+          "end": 259.136,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nitip",
+          "begin": 259.408,
+          "end": 260.221,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "keun",
+          "begin": 260.221,
+          "end": 260.573,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 260.573,
+          "end": 261.011,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 261.011,
+          "end": 261.98,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L36"
+    },
+    {
+      "begin": 256.64,
+      "end": 262.479,
+      "text": "Kudu ka saha nitipkeun diri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 256.64,
+          "end": 256.99,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 256.99,
+          "end": 257.646,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 257.646,
+          "end": 257.858,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 257.858,
+          "end": 258.12,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 258.12,
+          "end": 258.813,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ni",
+          "begin": 259.347,
+          "end": 260.474,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tip",
+          "begin": 260.474,
+          "end": 260.67,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "keun",
+          "begin": 260.67,
+          "end": 260.994,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 260.994,
+          "end": 261.279,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 261.279,
+          "end": 262.479,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L37"
+    },
+    {
+      "begin": 262.278,
+      "end": 268.633,
+      "text": "Kudu ka mana? Nya kumaha?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 262.278,
+          "end": 262.586,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 262.586,
+          "end": 262.91,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 262.91,
+          "end": 263.389,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 263.389,
+          "end": 263.77,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na?",
+          "begin": 263.77,
+          "end": 264.70799999999997,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nya",
+          "begin": 264.847,
+          "end": 265.791,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 265.791,
+          "end": 266.012,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 266.012,
+          "end": 266.267,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha?",
+          "begin": 266.267,
+          "end": 268.633,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L38"
+    },
+    {
+      "begin": 263.314,
+      "end": 266.899,
+      "text": "Kudu ka mana? Nya kumaha?",
+      "words": [
+        {
+          "text": "Kudu",
+          "begin": 263.314,
+          "end": 263.524,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 263.524,
+          "end": 263.777,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mana?",
+          "begin": 263.777,
+          "end": 264.08299999999997,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nya",
+          "begin": 264.08299999999997,
+          "end": 265.198,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 265.198,
+          "end": 265.587,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "maha?",
+          "begin": 265.587,
+          "end": 266.899,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L39"
+    },
+    {
+      "begin": 270.528,
+      "end": 275.851,
+      "text": "Kudu ka mana ngubarandiri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 270.528,
+          "end": 270.866,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 270.866,
+          "end": 271.216,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 271.216,
+          "end": 271.788,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 271.788,
+          "end": 272.176,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 272.176,
+          "end": 273.01,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngubar",
+          "begin": 273.342,
+          "end": 273.927,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 273.927,
+          "end": 274.504,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 274.504,
+          "end": 275.01,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 275.01,
+          "end": 275.851,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L40"
+    },
+    {
+      "begin": 271.656,
+      "end": 276.459,
+      "text": "Kudu ka mana ngubarandiri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 271.656,
+          "end": 271.947,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 271.947,
+          "end": 272.234,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 272.234,
+          "end": 272.5,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 272.5,
+          "end": 272.788,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 272.788,
+          "end": 273.519,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngu",
+          "begin": 274.418,
+          "end": 274.673,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bar",
+          "begin": 274.673,
+          "end": 275.084,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 275.084,
+          "end": 275.356,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 275.356,
+          "end": 275.67,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 275.67,
+          "end": 276.459,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L41"
+    },
+    {
+      "begin": 276.173,
+      "end": 281.7,
+      "text": "Kudu kumaha miceun kanyeri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 276.173,
+          "end": 276.464,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 276.464,
+          "end": 276.814,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 276.814,
+          "end": 277.261,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 277.261,
+          "end": 277.736,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 277.736,
+          "end": 278.63,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miceun",
+          "begin": 278.967,
+          "end": 279.588,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 279.588,
+          "end": 280.106,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nye",
+          "begin": 280.106,
+          "end": 280.60699999999997,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 280.60699999999997,
+          "end": 281.7,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L42"
+    },
+    {
+      "begin": 277.276,
+      "end": 281.943,
+      "text": "Kudu kumaha miceun kanyeri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 277.276,
+          "end": 277.517,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 277.517,
+          "end": 277.859,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 277.859,
+          "end": 278.14300000000003,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 278.14300000000003,
+          "end": 278.456,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 278.456,
+          "end": 279.251,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miceun",
+          "begin": 279.953,
+          "end": 280.551,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 280.683,
+          "end": 280.938,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nye",
+          "begin": 280.938,
+          "end": 281.245,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 281.245,
+          "end": 281.943,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L43"
+    },
+    {
+      "begin": 281.674,
+      "end": 287.019,
+      "text": "Kudu ka saha nitipkeun diri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 281.674,
+          "end": 282.001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 282.001,
+          "end": 282.724,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 282.724,
+          "end": 283.043,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 283.043,
+          "end": 283.442,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 283.442,
+          "end": 284.177,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nitip",
+          "begin": 284.536,
+          "end": 285.59000000000003,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "keun",
+          "begin": 285.59000000000003,
+          "end": 285.873,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 285.873,
+          "end": 286.131,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 286.131,
+          "end": 287.019,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L44"
+    },
+    {
+      "begin": 287.353,
+      "end": 293.088,
+      "text": "Kudu ka mana? Nya kumaha?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 287.353,
+          "end": 287.688,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 287.688,
+          "end": 287.984,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 287.984,
+          "end": 288.41700000000003,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 288.41700000000003,
+          "end": 288.88,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na?",
+          "begin": 288.88,
+          "end": 289.702,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nya",
+          "begin": 289.68,
+          "end": 290.46,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 290.46,
+          "end": 290.727,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 290.727,
+          "end": 291.044,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha?",
+          "begin": 291.044,
+          "end": 293.088,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L45"
+    },
+    {
+      "begin": 295.58,
+      "end": 300.907,
+      "text": "Kudu ka mana ngubarandiri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 295.58,
+          "end": 296.05899999999997,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 296.05899999999997,
+          "end": 296.446,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 296.446,
+          "end": 296.944,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 296.944,
+          "end": 297.332,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 297.332,
+          "end": 298.154,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ngubar",
+          "begin": 298.537,
+          "end": 299.093,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 299.093,
+          "end": 299.622,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 299.622,
+          "end": 300.097,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 300.097,
+          "end": 300.907,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L46"
+    },
+    {
+      "begin": 295.682,
+      "end": 299.297,
+      "text": "Kudu, kudu ka mana?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 295.682,
+          "end": 295.987,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du,",
+          "begin": 295.987,
+          "end": 296.60699999999997,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 296.79,
+          "end": 297.055,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 297.055,
+          "end": 297.331,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 297.331,
+          "end": 297.655,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 297.655,
+          "end": 298.31,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na?",
+          "begin": 298.31,
+          "end": 299.297,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L47"
+    },
+    {
+      "begin": 301.297,
+      "end": 305.909,
+      "text": "Kudu kumaha miceun kanyeri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 301.297,
+          "end": 301.617,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 301.617,
+          "end": 301.997,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 301.997,
+          "end": 302.517,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 302.517,
+          "end": 302.941,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 302.941,
+          "end": 303.777,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miceun",
+          "begin": 304.1,
+          "end": 304.675,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 304.675,
+          "end": 305.306,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nye",
+          "begin": 305.306,
+          "end": 305.747,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 305.747,
+          "end": 305.909,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L48"
+    },
+    {
+      "begin": 301.353,
+      "end": 304.972,
+      "text": "Kudu, kudu kumaha?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 301.353,
+          "end": 301.624,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du,",
+          "begin": 301.624,
+          "end": 302.151,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 302.365,
+          "end": 302.679,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 302.679,
+          "end": 302.989,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 302.989,
+          "end": 303.271,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 303.271,
+          "end": 303.986,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha?",
+          "begin": 303.986,
+          "end": 304.972,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L49"
+    }
+  ],
+  "totalLines": 49
+}

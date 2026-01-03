@@ -1,0 +1,2028 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      }
+    ],
+    "artist": "Mariah Carey",
+    "title": "Without You",
+    "sourceFile": "Mariah Carey - Without You.ttml"
+  },
+  "duration": 262.74,
+  "lines": [
+    {
+      "begin": 6.592,
+      "end": 10.216,
+      "text": "No, I can't forget this evening",
+      "words": [
+        {
+          "text": "No,",
+          "begin": 6.592,
+          "end": 6.851,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 6.851,
+          "end": 7.469,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 7.469,
+          "end": 7.94,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 7.94,
+          "end": 8.319,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "get",
+          "begin": 8.319,
+          "end": 8.841,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "this",
+          "begin": 8.841,
+          "end": 9.279,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 9.279,
+          "end": 9.58,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "vening",
+          "begin": 9.58,
+          "end": 10.216,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 10.216,
+      "end": 13.833,
+      "text": "Or your face as you were leaving",
+      "words": [
+        {
+          "text": "Or",
+          "begin": 10.216,
+          "end": 10.6,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 10.6,
+          "end": 11.253,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "face",
+          "begin": 11.253,
+          "end": 11.688,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "as",
+          "begin": 11.688,
+          "end": 11.988,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 11.988,
+          "end": 12.437,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "were",
+          "begin": 12.437,
+          "end": 12.869,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "leav",
+          "begin": 12.869,
+          "end": 13.357,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ing",
+          "begin": 13.357,
+          "end": 13.833,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 14.044,
+      "end": 20.402,
+      "text": "But I guess that's just the way the story goes",
+      "words": [
+        {
+          "text": "But",
+          "begin": 14.044,
+          "end": 14.378,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 14.378,
+          "end": 14.954,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "guess",
+          "begin": 14.954,
+          "end": 15.394,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that's",
+          "begin": 15.394,
+          "end": 15.83,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "just",
+          "begin": 15.83,
+          "end": 16.305,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 16.305,
+          "end": 16.593,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way",
+          "begin": 16.593,
+          "end": 17.191,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 17.191,
+          "end": 17.515,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sto",
+          "begin": 17.515,
+          "end": 17.993,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ry",
+          "begin": 17.993,
+          "end": 18.545,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "goes",
+          "begin": 18.545,
+          "end": 20.402,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 21.077,
+      "end": 28.183,
+      "text": "You always smile but in your eyes, your sorrow shows",
+      "words": [
+        {
+          "text": "You",
+          "begin": 21.077,
+          "end": 21.316,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "al",
+          "begin": 21.316,
+          "end": 21.721,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ways",
+          "begin": 21.721,
+          "end": 22.366,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "smile",
+          "begin": 22.366,
+          "end": 23.111,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "but",
+          "begin": 23.111,
+          "end": 23.423,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 23.423,
+          "end": 23.611,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 23.611,
+          "end": 23.885,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "eyes,",
+          "begin": 23.885,
+          "end": 24.75,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 24.75,
+          "end": 25.155,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sorrow",
+          "begin": 25.155,
+          "end": 26.277,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "shows",
+          "begin": 26.277,
+          "end": 28.183,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 28.958,
+      "end": 32.82,
+      "text": "Yes, it shows",
+      "words": [
+        {
+          "text": "Yes,",
+          "begin": 28.958,
+          "end": 29.263,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 29.263,
+          "end": 29.853,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "shows",
+          "begin": 29.853,
+          "end": 32.82,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 36.401,
+      "end": 40.192,
+      "text": "No, I can't forget tomorrow",
+      "words": [
+        {
+          "text": "No,",
+          "begin": 36.401,
+          "end": 36.735,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 36.735,
+          "end": 37.366,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 37.366,
+          "end": 37.782,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 37.782,
+          "end": 38.15,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "get",
+          "begin": 38.15,
+          "end": 38.739,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 38.739,
+          "end": 39.062,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mor",
+          "begin": 39.062,
+          "end": 39.57,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "row",
+          "begin": 39.57,
+          "end": 40.192,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 40.192,
+      "end": 43.939,
+      "text": "When I think of all my sorrow",
+      "words": [
+        {
+          "text": "When",
+          "begin": 40.192,
+          "end": 40.499,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 40.499,
+          "end": 41.026,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "think",
+          "begin": 41.026,
+          "end": 41.471,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 41.471,
+          "end": 41.84,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 41.84,
+          "end": 42.291,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 42.291,
+          "end": 42.716,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sor",
+          "begin": 42.716,
+          "end": 43.142,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "row",
+          "begin": 43.142,
+          "end": 43.939,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 44.332,
+      "end": 50.437,
+      "text": "When I had you there, but then I let you go",
+      "words": [
+        {
+          "text": "When",
+          "begin": 44.332,
+          "end": 44.57,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 44.57,
+          "end": 44.76,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "had",
+          "begin": 44.76,
+          "end": 45.037,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 45.037,
+          "end": 45.278,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "there,",
+          "begin": 45.278,
+          "end": 46.169,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "but",
+          "begin": 46.23,
+          "end": 46.648,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "then",
+          "begin": 46.648,
+          "end": 47.059,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 47.059,
+          "end": 47.544,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "let",
+          "begin": 47.544,
+          "end": 48.09,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 48.09,
+          "end": 48.36,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "go",
+          "begin": 48.36,
+          "end": 50.437,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 50.927,
+      "end": 57.55,
+      "text": "And now it's only fair that I should let you know",
+      "words": [
+        {
+          "text": "And",
+          "begin": 50.927,
+          "end": 51.237,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "now",
+          "begin": 51.237,
+          "end": 51.814,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it's",
+          "begin": 51.814,
+          "end": 52.146,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "only",
+          "begin": 52.146,
+          "end": 52.987,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fair",
+          "begin": 52.987,
+          "end": 53.691,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 53.691,
+          "end": 54.007,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 54.007,
+          "end": 54.539,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "should",
+          "begin": 54.539,
+          "end": 54.968,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "let",
+          "begin": 54.968,
+          "end": 55.468,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 55.468,
+          "end": 55.76,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 55.76,
+          "end": 57.55,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 58.348,
+      "end": 62.851,
+      "text": "What you should know?",
+      "words": [
+        {
+          "text": "What",
+          "begin": 58.348,
+          "end": 58.78,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 58.78,
+          "end": 59.174,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "should",
+          "begin": 59.174,
+          "end": 59.735,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know?",
+          "begin": 59.735,
+          "end": 62.851,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 66.58,
+      "end": 73.775,
+      "text": "I can't live, if living is without you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 66.58,
+          "end": 66.79,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 66.79,
+          "end": 67.245,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "li",
+          "begin": 67.245,
+          "end": 69.755,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 69.755,
+          "end": 70.181,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 70.664,
+          "end": 70.876,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "living",
+          "begin": 70.876,
+          "end": 71.285,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 71.285,
+          "end": 71.581,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 71.581,
+          "end": 71.82,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 71.82,
+          "end": 72.265,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 72.265,
+          "end": 73.775,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 74.045,
+      "end": 81.271,
+      "text": "I can't give, I can't give anymore",
+      "words": [
+        {
+          "text": "I",
+          "begin": 74.045,
+          "end": 74.243,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 74.243,
+          "end": 74.633,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gi",
+          "begin": 74.633,
+          "end": 77.101,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 77.101,
+          "end": 77.247,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 77.763,
+          "end": 77.934,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 77.934,
+          "end": 78.369,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 78.369,
+          "end": 78.795,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "any",
+          "begin": 78.795,
+          "end": 79.506,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "more",
+          "begin": 79.506,
+          "end": 81.271,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 81.604,
+      "end": 88.657,
+      "text": "Can't live, if living is without you",
+      "words": [
+        {
+          "text": "Can't",
+          "begin": 81.604,
+          "end": 82.004,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "li",
+          "begin": 82.004,
+          "end": 84.755,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 84.755,
+          "end": 85.206,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 85.549,
+          "end": 85.755,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "living",
+          "begin": 85.755,
+          "end": 86.205,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 86.205,
+          "end": 86.461,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 86.461,
+          "end": 86.799,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 86.799,
+          "end": 87.184,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 87.184,
+          "end": 88.657,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 89.083,
+      "end": 99.249,
+      "text": "Can't give, I can't give anymore",
+      "words": [
+        {
+          "text": "Can't",
+          "begin": 89.083,
+          "end": 89.493,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gi",
+          "begin": 89.493,
+          "end": 91.782,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 91.782,
+          "end": 92.32,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 92.815,
+          "end": 92.914,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 92.914,
+          "end": 93.327,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 93.327,
+          "end": 93.762,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "any",
+          "begin": 93.762,
+          "end": 94.405,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "more",
+          "begin": 94.405,
+          "end": 99.249,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 105.47,
+      "end": 109.217,
+      "text": "No, I can't forget this evening",
+      "words": [
+        {
+          "text": "No,",
+          "begin": 105.47,
+          "end": 105.675,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 105.675,
+          "end": 106.345,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 106.345,
+          "end": 106.818,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 106.818,
+          "end": 107.11099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "get",
+          "begin": 107.11099999999999,
+          "end": 107.65,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "this",
+          "begin": 107.65,
+          "end": 108.092,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "evening",
+          "begin": 108.092,
+          "end": 109.217,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 109.217,
+      "end": 112.738,
+      "text": "Or your face as you were leaving",
+      "words": [
+        {
+          "text": "Or",
+          "begin": 109.217,
+          "end": 109.471,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 109.471,
+          "end": 110.04599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "face",
+          "begin": 110.04599999999999,
+          "end": 110.564,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "as",
+          "begin": 110.564,
+          "end": 110.854,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 110.854,
+          "end": 111.3,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "were",
+          "begin": 111.3,
+          "end": 111.755,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "leav",
+          "begin": 111.755,
+          "end": 112.25200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ing",
+          "begin": 112.25200000000001,
+          "end": 112.738,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 112.917,
+      "end": 119.34899999999999,
+      "text": "But I guess that's just the way the story goes",
+      "words": [
+        {
+          "text": "But",
+          "begin": 112.917,
+          "end": 113.065,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 113.065,
+          "end": 113.745,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "guess",
+          "begin": 113.745,
+          "end": 114.19800000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that's",
+          "begin": 114.19800000000001,
+          "end": 114.583,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "just",
+          "begin": 114.583,
+          "end": 115.116,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 115.116,
+          "end": 115.426,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way",
+          "begin": 115.426,
+          "end": 116.015,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 116.015,
+          "end": 116.413,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sto",
+          "begin": 116.413,
+          "end": 116.86699999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ry",
+          "begin": 116.86699999999999,
+          "end": 117.413,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "goes",
+          "begin": 117.413,
+          "end": 119.34899999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 119.90299999999999,
+      "end": 126.918,
+      "text": "You always smile but in your eyes, your sorrow shows",
+      "words": [
+        {
+          "text": "You",
+          "begin": 119.90299999999999,
+          "end": 120.263,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "al",
+          "begin": 120.263,
+          "end": 120.61,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ways",
+          "begin": 120.61,
+          "end": 121.172,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "smile",
+          "begin": 121.172,
+          "end": 121.943,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "but",
+          "begin": 121.943,
+          "end": 122.255,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 122.255,
+          "end": 122.51,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 122.51,
+          "end": 122.811,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "eyes,",
+          "begin": 122.811,
+          "end": 123.608,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 123.608,
+          "end": 123.987,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sorrow",
+          "begin": 123.987,
+          "end": 124.941,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "shows",
+          "begin": 124.941,
+          "end": 126.918,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 127.727,
+      "end": 132.037,
+      "text": "Yes, it shows",
+      "words": [
+        {
+          "text": "Yes,",
+          "begin": 127.727,
+          "end": 128.097,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 128.097,
+          "end": 128.623,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "shows",
+          "begin": 128.623,
+          "end": 132.037,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 135.567,
+      "end": 142.785,
+      "text": "I can't live, if living is without you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 135.567,
+          "end": 135.76,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 135.76,
+          "end": 136.209,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "li",
+          "begin": 136.209,
+          "end": 139.177,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 139.177,
+          "end": 139.53,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 139.747,
+          "end": 139.916,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "living",
+          "begin": 139.916,
+          "end": 140.34199999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 140.34199999999998,
+          "end": 140.579,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 140.579,
+          "end": 140.904,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 140.904,
+          "end": 141.309,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 141.309,
+          "end": 142.785,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 143.066,
+      "end": 150.27100000000002,
+      "text": "I can't give, I can't give anymore",
+      "words": [
+        {
+          "text": "I",
+          "begin": 143.066,
+          "end": 143.206,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 143.206,
+          "end": 143.594,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gi",
+          "begin": 143.594,
+          "end": 145.992,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 145.992,
+          "end": 146.144,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 146.89600000000002,
+          "end": 147.006,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 147.006,
+          "end": 147.38400000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 147.38400000000001,
+          "end": 147.79500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "any",
+          "begin": 147.79500000000002,
+          "end": 148.489,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "more",
+          "begin": 148.489,
+          "end": 150.27100000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 150.608,
+      "end": 157.68099999999998,
+      "text": "Can't live, if living is without you",
+      "words": [
+        {
+          "text": "Can't",
+          "begin": 150.608,
+          "end": 151.015,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "li",
+          "begin": 151.015,
+          "end": 153.639,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 153.639,
+          "end": 153.886,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 154.673,
+          "end": 154.85,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "living",
+          "begin": 154.85,
+          "end": 155.208,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 155.208,
+          "end": 155.457,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 155.457,
+          "end": 155.784,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 155.784,
+          "end": 156.224,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 156.224,
+          "end": 157.68099999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22"
+    },
+    {
+      "begin": 158.09199999999998,
+      "end": 165.689,
+      "text": "Can't give, I can't give anymore",
+      "words": [
+        {
+          "text": "Can't",
+          "begin": 158.09199999999998,
+          "end": 158.529,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gi",
+          "begin": 158.529,
+          "end": 161.195,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 161.195,
+          "end": 161.304,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 161.76,
+          "end": 161.862,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 161.862,
+          "end": 162.34199999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 162.34199999999998,
+          "end": 162.777,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "any",
+          "begin": 162.777,
+          "end": 163.376,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "more",
+          "begin": 163.376,
+          "end": 165.689,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 198.832,
+      "end": 206.167,
+      "text": "I can't live, if living is without you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 198.832,
+          "end": 199.345,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 199.345,
+          "end": 199.664,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "li",
+          "begin": 199.664,
+          "end": 202.365,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 202.365,
+          "end": 202.649,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 203.14,
+          "end": 203.331,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "living",
+          "begin": 203.331,
+          "end": 203.70499999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 203.70499999999998,
+          "end": 203.988,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 203.988,
+          "end": 204.247,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 204.247,
+          "end": 204.663,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 204.663,
+          "end": 206.167,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 206.586,
+      "end": 213.459,
+      "text": "Can't give, I can't give anymore",
+      "words": [
+        {
+          "text": "Can't",
+          "begin": 206.586,
+          "end": 206.992,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gi",
+          "begin": 206.992,
+          "end": 209.284,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 209.284,
+          "end": 209.473,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 210.197,
+          "end": 210.35,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 210.35,
+          "end": 210.78300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 210.78300000000002,
+          "end": 211.193,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "any",
+          "begin": 211.193,
+          "end": 211.892,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "more",
+          "begin": 211.892,
+          "end": 213.459,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 213.905,
+      "end": 220.915,
+      "text": "I can't live, if living is without you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 213.905,
+          "end": 214.034,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 214.034,
+          "end": 214.484,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "li",
+          "begin": 214.484,
+          "end": 217.536,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 217.536,
+          "end": 217.677,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 218.066,
+          "end": 218.248,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "living",
+          "begin": 218.248,
+          "end": 218.637,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 218.637,
+          "end": 218.849,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 218.849,
+          "end": 219.04500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 219.04500000000002,
+          "end": 219.572,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 219.572,
+          "end": 220.915,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 221.337,
+      "end": 234.213,
+      "text": "I can't give, I can't give anymore",
+      "words": [
+        {
+          "text": "I",
+          "begin": 221.337,
+          "end": 221.465,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 221.465,
+          "end": 221.941,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gi",
+          "begin": 221.941,
+          "end": 224.245,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 224.245,
+          "end": 224.381,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 225.1,
+          "end": 225.186,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 225.186,
+          "end": 225.754,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 225.754,
+          "end": 226.168,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "any",
+          "begin": 226.168,
+          "end": 226.824,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "more",
+          "begin": 226.824,
+          "end": 234.213,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 243.698,
+      "end": 250.919,
+      "text": "I can't live, if living is without you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 243.698,
+          "end": 243.813,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 243.813,
+          "end": 244.34,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "li",
+          "begin": 244.34,
+          "end": 247.239,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 247.239,
+          "end": 247.574,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 247.882,
+          "end": 248.052,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "living",
+          "begin": 248.052,
+          "end": 248.532,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 248.532,
+          "end": 248.691,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 248.691,
+          "end": 248.958,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 248.958,
+          "end": 249.423,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 249.423,
+          "end": 250.919,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28"
+    },
+    {
+      "begin": 251.349,
+      "end": 262.74,
+      "text": "Can't give, I can't give anymore",
+      "words": [
+        {
+          "text": "Can't",
+          "begin": 251.349,
+          "end": 251.738,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gi",
+          "begin": 251.738,
+          "end": 253.973,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ve,",
+          "begin": 253.973,
+          "end": 254.296,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 254.91,
+          "end": 255.06,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 255.06,
+          "end": 255.56,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 255.56,
+          "end": 256.029,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "any",
+          "begin": 256.029,
+          "end": 256.697,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "more",
+          "begin": 256.697,
+          "end": 262.74,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    }
+  ],
+  "totalLines": 29
+}

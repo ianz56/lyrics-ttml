@@ -1,0 +1,2718 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      }
+    ],
+    "artist": "Jessica Simpson",
+    "title": "Heart of Innocence unformat",
+    "sourceFile": "Jessica Simpson - Heart of Innocence unformat.ttml"
+  },
+  "duration": 271.421,
+  "lines": [
+    {
+      "begin": 3.342,
+      "end": 11.283,
+      "text": "Oh, oh, yeah",
+      "words": [
+        {
+          "text": "Oh,",
+          "begin": 3.342,
+          "end": 6.012,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh,",
+          "begin": 7.013,
+          "end": 8.083,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yeah",
+          "begin": 8.083,
+          "end": 11.283,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 17.672,
+      "end": 23.17,
+      "text": "Sometimes I wake up in the dark night",
+      "words": [
+        {
+          "text": "Some",
+          "begin": 17.672,
+          "end": 18.053,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "times",
+          "begin": 18.053,
+          "end": 18.693,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 18.693,
+          "end": 19.185,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wake",
+          "begin": 19.185,
+          "end": 19.67,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "up",
+          "begin": 19.67,
+          "end": 20.822,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 20.985,
+          "end": 21.16,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 21.16,
+          "end": 21.259,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dark",
+          "begin": 21.259,
+          "end": 22.18,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 22.18,
+          "end": 23.17,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 26.124,
+      "end": 32.429,
+      "text": "And in my mind, there's a picture of you",
+      "words": [
+        {
+          "text": "And",
+          "begin": 26.124,
+          "end": 26.352,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 26.352,
+          "end": 26.692,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 26.692,
+          "end": 27.071,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mind,",
+          "begin": 27.071,
+          "end": 28.596,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "there's",
+          "begin": 28.91,
+          "end": 29.131,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 29.131,
+          "end": 29.385,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pic",
+          "begin": 29.385,
+          "end": 30.207,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ture",
+          "begin": 30.207,
+          "end": 30.798,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 30.798,
+          "end": 31.244,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 31.244,
+          "end": 32.429,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 33.938,
+      "end": 41.472,
+      "text": "I know someday this dream will come alive",
+      "words": [
+        {
+          "text": "I",
+          "begin": 33.938,
+          "end": 34.216,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 34.216,
+          "end": 34.74,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "some",
+          "begin": 34.74,
+          "end": 35.331,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "day",
+          "begin": 35.331,
+          "end": 35.915,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "this",
+          "begin": 35.915,
+          "end": 36.312,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dream",
+          "begin": 36.312,
+          "end": 37.315,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 37.315,
+          "end": 37.518,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "come",
+          "begin": 37.518,
+          "end": 38.471,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 38.471,
+          "end": 38.801,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "live",
+          "begin": 38.801,
+          "end": 41.472,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 42.396,
+      "end": 48.709,
+      "text": "So for now your shadow will do",
+      "words": [
+        {
+          "text": "So",
+          "begin": 42.396,
+          "end": 43.021,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 43.021,
+          "end": 43.414,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "now",
+          "begin": 43.414,
+          "end": 44.778,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 45.59,
+          "end": 45.775,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sha",
+          "begin": 45.775,
+          "end": 46.507,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dow",
+          "begin": 46.507,
+          "end": 46.93,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 46.93,
+          "end": 47.411,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "do",
+          "begin": 47.411,
+          "end": 48.709,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 49.126,
+      "end": 52.857,
+      "text": "I've never seen your face",
+      "words": [
+        {
+          "text": "I've",
+          "begin": 49.126,
+          "end": 49.259,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ne",
+          "begin": 49.259,
+          "end": 49.47,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ver",
+          "begin": 49.47,
+          "end": 49.716,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "seen",
+          "begin": 49.716,
+          "end": 50.551,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 50.551,
+          "end": 51.301,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "face",
+          "begin": 51.301,
+          "end": 52.857,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 53.413,
+      "end": 56.525,
+      "text": "But I know you're in my heart",
+      "words": [
+        {
+          "text": "But",
+          "begin": 53.413,
+          "end": 53.629,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 53.629,
+          "end": 53.825,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 53.825,
+          "end": 54.319,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you're",
+          "begin": 54.319,
+          "end": 54.596,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 54.596,
+          "end": 55.089,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 55.089,
+          "end": 55.514,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heart",
+          "begin": 55.514,
+          "end": 56.525,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 56.862,
+      "end": 60.875,
+      "text": "Baby someday, some place",
+      "words": [
+        {
+          "text": "Baby",
+          "begin": 56.862,
+          "end": 57.391,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "some",
+          "begin": 57.391,
+          "end": 57.883,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "day,",
+          "begin": 57.883,
+          "end": 58.596,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "some",
+          "begin": 58.596,
+          "end": 59.29,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "place",
+          "begin": 59.29,
+          "end": 60.875,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 61.3,
+      "end": 64.739,
+      "text": "I'll hold you in my arms",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 61.3,
+          "end": 61.431,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 61.431,
+          "end": 61.677,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 61.677,
+          "end": 61.895,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 61.895,
+          "end": 62.748,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 62.748,
+          "end": 63.574,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 63.574,
+          "end": 64.739,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 65.065,
+      "end": 68.525,
+      "text": "I have a gift for you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 65.065,
+          "end": 65.23,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "have",
+          "begin": 65.23,
+          "end": 65.535,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 65.535,
+          "end": 66.003,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gift",
+          "begin": 66.003,
+          "end": 66.717,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 66.717,
+          "end": 67.55199999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 67.55199999999999,
+          "end": 68.525,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 69.1,
+      "end": 72.784,
+      "text": "Something I've held on to",
+      "words": [
+        {
+          "text": "Some",
+          "begin": 69.1,
+          "end": 69.264,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "thing",
+          "begin": 69.264,
+          "end": 69.578,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I've",
+          "begin": 69.578,
+          "end": 70.07900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "held",
+          "begin": 70.07900000000001,
+          "end": 70.909,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 70.909,
+          "end": 71.541,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 71.541,
+          "end": 72.784,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 73.217,
+      "end": 79.729,
+      "text": "Waiting for your sweet caress",
+      "words": [
+        {
+          "text": "Wai",
+          "begin": 73.217,
+          "end": 73.438,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ting",
+          "begin": 73.438,
+          "end": 73.635,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 73.635,
+          "end": 74.123,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 74.123,
+          "end": 75.88,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sweet",
+          "begin": 76.201,
+          "end": 77.15899999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ca",
+          "begin": 77.15899999999999,
+          "end": 77.654,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ress",
+          "begin": 77.654,
+          "end": 79.729,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 78.26,
+      "end": 80.047,
+      "text": "(Sweet caress)",
+      "words": [
+        {
+          "text": "(Sweet",
+          "begin": 78.26,
+          "end": 78.765,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ca",
+          "begin": 78.765,
+          "end": 79.07,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ress)",
+          "begin": 79.07,
+          "end": 80.047,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 81.126,
+      "end": 84.93,
+      "text": "No ribbon has been untied",
+      "words": [
+        {
+          "text": "No",
+          "begin": 81.126,
+          "end": 81.257,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ribbon",
+          "begin": 81.257,
+          "end": 81.742,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "has",
+          "begin": 81.742,
+          "end": 82.287,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "been",
+          "begin": 82.287,
+          "end": 83.03399999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "un",
+          "begin": 83.03399999999999,
+          "end": 83.876,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tied",
+          "begin": 83.876,
+          "end": 84.93,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 85.139,
+      "end": 89.133,
+      "text": "From all that I hold inside",
+      "words": [
+        {
+          "text": "From",
+          "begin": 85.139,
+          "end": 85.373,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 85.373,
+          "end": 85.65,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 85.65,
+          "end": 85.867,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 85.867,
+          "end": 86.374,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 86.374,
+          "end": 87.145,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 87.145,
+          "end": 87.69800000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "side",
+          "begin": 87.69800000000001,
+          "end": 89.133,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 89.471,
+      "end": 95.72399999999999,
+      "text": "And only you will possess",
+      "words": [
+        {
+          "text": "And",
+          "begin": 89.471,
+          "end": 89.85,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "only",
+          "begin": 89.85,
+          "end": 90.449,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 90.449,
+          "end": 92.02000000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 92.488,
+          "end": 93.50800000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pos",
+          "begin": 93.50800000000001,
+          "end": 93.953,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sess",
+          "begin": 93.953,
+          "end": 95.72399999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 96.025,
+      "end": 101.512,
+      "text": "This heart of innocence",
+      "words": [
+        {
+          "text": "This",
+          "begin": 96.025,
+          "end": 96.291,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heart",
+          "begin": 96.291,
+          "end": 96.878,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 96.878,
+          "end": 97.32900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 97.32900000000001,
+          "end": 97.82,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "no",
+          "begin": 97.82,
+          "end": 98.22,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "cence",
+          "begin": 98.22,
+          "end": 101.512,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 102.544,
+      "end": 106.35,
+      "text": "Oh",
+      "words": [
+        {
+          "text": "Oh",
+          "begin": 102.544,
+          "end": 106.35,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 107.288,
+      "end": 109.556,
+      "text": "Yeah, yeah",
+      "words": [
+        {
+          "text": "Yeah,",
+          "begin": 107.288,
+          "end": 107.785,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yeah",
+          "begin": 107.785,
+          "end": 109.556,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 111.271,
+      "end": 117.642,
+      "text": "I lay my head down on a pillow of white",
+      "words": [
+        {
+          "text": "I",
+          "begin": 111.271,
+          "end": 111.485,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lay",
+          "begin": 111.485,
+          "end": 112.03,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 112.03,
+          "end": 112.52000000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "head",
+          "begin": 112.52000000000001,
+          "end": 113.023,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "down",
+          "begin": 113.023,
+          "end": 113.969,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 114.40899999999999,
+          "end": 114.59100000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 114.59100000000001,
+          "end": 114.86500000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pil",
+          "begin": 114.86500000000001,
+          "end": 115.619,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "low",
+          "begin": 115.619,
+          "end": 116.009,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 116.009,
+          "end": 116.62100000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "white",
+          "begin": 116.62100000000001,
+          "end": 117.642,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 119.483,
+      "end": 126.628,
+      "text": "Here in the dark, I am cradled in peace",
+      "words": [
+        {
+          "text": "Here",
+          "begin": 119.483,
+          "end": 119.733,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 119.733,
+          "end": 120.123,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 120.123,
+          "end": 120.632,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dark,",
+          "begin": 120.632,
+          "end": 122.133,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 122.503,
+          "end": 122.744,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "am",
+          "begin": 122.744,
+          "end": 122.953,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cra",
+          "begin": 122.953,
+          "end": 123.666,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dled",
+          "begin": 123.666,
+          "end": 124.272,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 124.272,
+          "end": 124.687,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "peace",
+          "begin": 124.687,
+          "end": 126.628,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 127.549,
+      "end": 134.308,
+      "text": "No loss from yesterday to harm me at night",
+      "words": [
+        {
+          "text": "No",
+          "begin": 127.549,
+          "end": 127.855,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "loss",
+          "begin": 127.855,
+          "end": 128.349,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "from",
+          "begin": 128.349,
+          "end": 128.818,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yes",
+          "begin": 128.818,
+          "end": 129.321,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ter",
+          "begin": 129.321,
+          "end": 130.037,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "day",
+          "begin": 130.037,
+          "end": 130.898,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 130.898,
+          "end": 131.132,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "harm",
+          "begin": 131.132,
+          "end": 131.88400000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 131.88400000000001,
+          "end": 132.343,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "at",
+          "begin": 132.343,
+          "end": 132.838,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 132.838,
+          "end": 134.308,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22"
+    },
+    {
+      "begin": 135.752,
+      "end": 142.538,
+      "text": "No tears to dry, no sad memories",
+      "words": [
+        {
+          "text": "No",
+          "begin": 135.752,
+          "end": 135.953,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tears",
+          "begin": 135.953,
+          "end": 136.494,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 136.494,
+          "end": 136.972,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dry,",
+          "begin": 136.972,
+          "end": 138.308,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "no",
+          "begin": 138.728,
+          "end": 138.992,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sad",
+          "begin": 138.992,
+          "end": 140.057,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 140.057,
+          "end": 140.458,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mo",
+          "begin": 140.458,
+          "end": 140.933,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ries",
+          "begin": 140.933,
+          "end": 142.538,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 142.748,
+      "end": 146.522,
+      "text": "There's a heart to hold",
+      "words": [
+        {
+          "text": "There's",
+          "begin": 142.748,
+          "end": 143.068,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 143.068,
+          "end": 143.29500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heart",
+          "begin": 143.29500000000002,
+          "end": 144.124,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 144.124,
+          "end": 144.893,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 144.893,
+          "end": 146.522,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 146.719,
+      "end": 150.119,
+      "text": "And I will safely keep",
+      "words": [
+        {
+          "text": "And",
+          "begin": 146.719,
+          "end": 146.93,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 146.93,
+          "end": 147.173,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 147.173,
+          "end": 147.40800000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "safe",
+          "begin": 147.40800000000002,
+          "end": 148.193,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 148.193,
+          "end": 148.964,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "keep",
+          "begin": 148.964,
+          "end": 150.119,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 149.453,
+      "end": 151.17000000000002,
+      "text": "(Safely keep)",
+      "words": [
+        {
+          "text": "(Safe",
+          "begin": 149.453,
+          "end": 149.881,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 149.881,
+          "end": 150.19,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "keep)",
+          "begin": 150.19,
+          "end": 151.17000000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 150.318,
+      "end": 154.438,
+      "text": "The strength that's in my soul",
+      "words": [
+        {
+          "text": "The",
+          "begin": 150.318,
+          "end": 150.432,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "strength",
+          "begin": 150.432,
+          "end": 150.903,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that's",
+          "begin": 150.903,
+          "end": 151.428,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 151.428,
+          "end": 152.202,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 152.202,
+          "end": 152.751,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "soul",
+          "begin": 152.751,
+          "end": 154.438,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 154.55,
+      "end": 158.183,
+      "text": "Until you come to me",
+      "words": [
+        {
+          "text": "Un",
+          "begin": 154.55,
+          "end": 154.79500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "til",
+          "begin": 154.79500000000002,
+          "end": 154.992,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 154.992,
+          "end": 155.425,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "come",
+          "begin": 155.425,
+          "end": 156.855,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 156.855,
+          "end": 157.269,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 157.269,
+          "end": 158.183,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28"
+    },
+    {
+      "begin": 158.477,
+      "end": 162.164,
+      "text": "I have a gift for you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 158.477,
+          "end": 158.79399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "have",
+          "begin": 158.79399999999998,
+          "end": 159.019,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 159.019,
+          "end": 159.588,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gift",
+          "begin": 159.588,
+          "end": 160.29399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 160.29399999999998,
+          "end": 161.05700000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 161.05700000000002,
+          "end": 162.164,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    },
+    {
+      "begin": 162.629,
+      "end": 166.34,
+      "text": "Something I've held on to",
+      "words": [
+        {
+          "text": "Some",
+          "begin": 162.629,
+          "end": 162.899,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "thing",
+          "begin": 162.899,
+          "end": 163.148,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I've",
+          "begin": 163.148,
+          "end": 163.674,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "held",
+          "begin": 163.674,
+          "end": 164.373,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 164.373,
+          "end": 165.09199999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 165.09199999999998,
+          "end": 166.34,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30"
+    },
+    {
+      "begin": 166.78300000000002,
+      "end": 174.489,
+      "text": "Waiting for your sweet caress, oh",
+      "words": [
+        {
+          "text": "Wai",
+          "begin": 166.78300000000002,
+          "end": 166.983,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ting",
+          "begin": 166.983,
+          "end": 167.203,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 167.203,
+          "end": 167.743,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 167.743,
+          "end": 169.546,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sweet",
+          "begin": 169.715,
+          "end": 170.88,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ca",
+          "begin": 170.88,
+          "end": 171.24,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ress,",
+          "begin": 171.24,
+          "end": 173.15800000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh",
+          "begin": 173.15800000000002,
+          "end": 174.489,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31"
+    },
+    {
+      "begin": 171.823,
+      "end": 173.56,
+      "text": "(Sweet caress)",
+      "words": [
+        {
+          "text": "(Sweet",
+          "begin": 171.823,
+          "end": 172.346,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ca",
+          "begin": 172.346,
+          "end": 172.636,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ress)",
+          "begin": 172.636,
+          "end": 173.56,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32"
+    },
+    {
+      "begin": 174.627,
+      "end": 178.446,
+      "text": "No ribbon has been untied",
+      "words": [
+        {
+          "text": "No",
+          "begin": 174.627,
+          "end": 174.871,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ribbon",
+          "begin": 174.871,
+          "end": 175.38,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "has",
+          "begin": 175.38,
+          "end": 175.867,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "been",
+          "begin": 175.867,
+          "end": 176.52100000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "un",
+          "begin": 176.52100000000002,
+          "end": 177.346,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tied",
+          "begin": 177.346,
+          "end": 178.446,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33"
+    },
+    {
+      "begin": 178.704,
+      "end": 182.719,
+      "text": "From all that I hold inside",
+      "words": [
+        {
+          "text": "From",
+          "begin": 178.704,
+          "end": 178.913,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 178.913,
+          "end": 179.195,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 179.195,
+          "end": 179.439,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 179.439,
+          "end": 179.915,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 179.915,
+          "end": 180.705,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 180.705,
+          "end": 181.232,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "side",
+          "begin": 181.232,
+          "end": 182.719,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L34"
+    },
+    {
+      "begin": 183.03,
+      "end": 189.294,
+      "text": "And only you will possess",
+      "words": [
+        {
+          "text": "And",
+          "begin": 183.03,
+          "end": 183.357,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "only",
+          "begin": 183.357,
+          "end": 183.947,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 183.947,
+          "end": 185.75,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 186.081,
+          "end": 187.014,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pos",
+          "begin": 187.014,
+          "end": 187.529,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sess",
+          "begin": 187.529,
+          "end": 189.294,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L35"
+    },
+    {
+      "begin": 189.731,
+      "end": 193.441,
+      "text": "This heart of innocence",
+      "words": [
+        {
+          "text": "This",
+          "begin": 189.731,
+          "end": 189.911,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heart",
+          "begin": 189.911,
+          "end": 190.395,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 190.395,
+          "end": 190.858,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 190.858,
+          "end": 191.399,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "no",
+          "begin": 191.399,
+          "end": 191.843,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "cence",
+          "begin": 191.843,
+          "end": 193.441,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L36"
+    },
+    {
+      "begin": 193.731,
+      "end": 198.827,
+      "text": "Every night, I make a wish before I fall asleep",
+      "words": [
+        {
+          "text": "Every",
+          "begin": 193.731,
+          "end": 194.079,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night,",
+          "begin": 194.079,
+          "end": 194.395,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 194.395,
+          "end": 194.596,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "make",
+          "begin": 194.596,
+          "end": 194.89,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 194.89,
+          "end": 195.205,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 195.205,
+          "end": 195.428,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 195.428,
+          "end": 195.68,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fore",
+          "begin": 195.68,
+          "end": 195.909,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 195.909,
+          "end": 196.135,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fall",
+          "begin": 196.135,
+          "end": 196.925,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 196.925,
+          "end": 197.72,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sleep",
+          "begin": 197.72,
+          "end": 198.827,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L37"
+    },
+    {
+      "begin": 198.515,
+      "end": 200.247,
+      "text": "(I make a wish)",
+      "words": [
+        {
+          "text": "(I",
+          "begin": 198.515,
+          "end": 198.74099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "make",
+          "begin": 198.74099999999999,
+          "end": 199.019,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 199.019,
+          "end": 199.27,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish)",
+          "begin": 199.27,
+          "end": 200.247,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L38"
+    },
+    {
+      "begin": 200.631,
+      "end": 203.935,
+      "text": "That destiny will take your hand",
+      "words": [
+        {
+          "text": "That",
+          "begin": 200.631,
+          "end": 200.794,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "des",
+          "begin": 200.794,
+          "end": 201.04500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tiny",
+          "begin": 201.04500000000002,
+          "end": 201.874,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 201.874,
+          "end": 202.135,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "take",
+          "begin": 202.135,
+          "end": 202.739,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 202.739,
+          "end": 203.065,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hand",
+          "begin": 203.065,
+          "end": 203.935,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L39"
+    },
+    {
+      "begin": 204.186,
+      "end": 209.376,
+      "text": "And lead you to me, oh",
+      "words": [
+        {
+          "text": "And",
+          "begin": 204.186,
+          "end": 204.29500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lead",
+          "begin": 204.29500000000002,
+          "end": 205.125,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 205.125,
+          "end": 205.543,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 205.543,
+          "end": 206.012,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me,",
+          "begin": 206.012,
+          "end": 208.214,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh",
+          "begin": 208.474,
+          "end": 209.376,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L40"
+    },
+    {
+      "begin": 209.917,
+      "end": 217.301,
+      "text": "Oh",
+      "words": [
+        {
+          "text": "Oh",
+          "begin": 209.917,
+          "end": 217.301,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L41"
+    },
+    {
+      "begin": 209.515,
+      "end": 217.25900000000001,
+      "text": "(I have a gift for you something I've held on to)",
+      "words": [
+        {
+          "text": "(I",
+          "begin": 209.515,
+          "end": 209.706,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "have",
+          "begin": 209.706,
+          "end": 209.859,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 209.859,
+          "end": 210.429,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gift",
+          "begin": 210.429,
+          "end": 211.171,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 211.171,
+          "end": 211.868,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 211.868,
+          "end": 213.165,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "some",
+          "begin": 213.534,
+          "end": 213.688,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "thing",
+          "begin": 213.688,
+          "end": 213.953,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I've",
+          "begin": 213.953,
+          "end": 214.46800000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "held",
+          "begin": 214.46800000000002,
+          "end": 215.245,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 215.245,
+          "end": 216.02,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to)",
+          "begin": 216.02,
+          "end": 217.25900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L42"
+    },
+    {
+      "begin": 217.655,
+      "end": 220.515,
+      "text": "Waiting for your",
+      "words": [
+        {
+          "text": "Wai",
+          "begin": 217.655,
+          "end": 217.846,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ting",
+          "begin": 217.846,
+          "end": 218.039,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 218.039,
+          "end": 218.524,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 218.524,
+          "end": 220.515,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L43"
+    },
+    {
+      "begin": 220.554,
+      "end": 224.355,
+      "text": "(Sweet, sweet caress)",
+      "words": [
+        {
+          "text": "(Sweet,",
+          "begin": 220.554,
+          "end": 221.812,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sweet",
+          "begin": 222.666,
+          "end": 223.054,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ca",
+          "begin": 223.054,
+          "end": 223.383,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ress)",
+          "begin": 223.383,
+          "end": 224.355,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L44"
+    },
+    {
+      "begin": 221.696,
+      "end": 225.36,
+      "text": "You know I'll be waiting here for you",
+      "words": [
+        {
+          "text": "You",
+          "begin": 221.696,
+          "end": 221.882,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 221.882,
+          "end": 222.089,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'll",
+          "begin": 222.089,
+          "end": 222.387,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 222.387,
+          "end": 222.655,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wai",
+          "begin": 222.655,
+          "end": 223.14,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ting",
+          "begin": 223.14,
+          "end": 223.349,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "here",
+          "begin": 223.349,
+          "end": 223.92000000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 223.92000000000002,
+          "end": 224.54500000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 224.54500000000002,
+          "end": 225.36,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L45"
+    },
+    {
+      "begin": 225.474,
+      "end": 229.403,
+      "text": "No ribbon has been untied",
+      "words": [
+        {
+          "text": "No",
+          "begin": 225.474,
+          "end": 225.716,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ribbon",
+          "begin": 225.716,
+          "end": 226.10399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "has",
+          "begin": 226.10399999999998,
+          "end": 226.702,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "been",
+          "begin": 226.702,
+          "end": 227.388,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "un",
+          "begin": 227.388,
+          "end": 228.225,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tied",
+          "begin": 228.225,
+          "end": 229.403,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L46"
+    },
+    {
+      "begin": 229.5,
+      "end": 234.34,
+      "text": "From all that I hold",
+      "words": [
+        {
+          "text": "From",
+          "begin": 229.5,
+          "end": 229.768,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 229.768,
+          "end": 230.03,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 230.03,
+          "end": 230.281,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 230.281,
+          "end": 230.77100000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 230.77100000000002,
+          "end": 234.34,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L47"
+    },
+    {
+      "begin": 231.55700000000002,
+      "end": 234.149,
+      "text": "(Inside)",
+      "words": [
+        {
+          "text": "(In",
+          "begin": 231.55700000000002,
+          "end": 232.149,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "side)",
+          "begin": 232.149,
+          "end": 234.149,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L48"
+    },
+    {
+      "begin": 234.41,
+      "end": 240.035,
+      "text": "And only you will possess",
+      "words": [
+        {
+          "text": "And",
+          "begin": 234.41,
+          "end": 234.785,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "only",
+          "begin": 234.785,
+          "end": 235.631,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 235.631,
+          "end": 236.47899999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 236.891,
+          "end": 238.123,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pos",
+          "begin": 238.123,
+          "end": 238.649,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sess",
+          "begin": 238.649,
+          "end": 240.035,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L49"
+    },
+    {
+      "begin": 240.464,
+      "end": 246.121,
+      "text": "This heart of innocence",
+      "words": [
+        {
+          "text": "This",
+          "begin": 240.464,
+          "end": 240.674,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heart",
+          "begin": 240.674,
+          "end": 241.158,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 241.158,
+          "end": 241.703,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 241.703,
+          "end": 242.29,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "no",
+          "begin": 242.29,
+          "end": 242.705,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "cence",
+          "begin": 242.705,
+          "end": 246.121,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L50"
+    },
+    {
+      "begin": 250.925,
+      "end": 268.136,
+      "text": "Oh, oh, oh",
+      "words": [
+        {
+          "text": "Oh,",
+          "begin": 250.925,
+          "end": 255.034,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh,",
+          "begin": 256.777,
+          "end": 262.16,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh",
+          "begin": 263.26,
+          "end": 268.136,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L51"
+    },
+    {
+      "begin": 270.266,
+      "end": 271.421,
+      "text": "I love you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 270.266,
+          "end": 270.554,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 270.554,
+          "end": 270.773,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 270.773,
+          "end": 271.421,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L52"
+    }
+  ],
+  "totalLines": 52
+}

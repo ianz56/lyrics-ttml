@@ -1,0 +1,2077 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      }
+    ],
+    "artist": "Rachel Grae",
+    "title": "It'll Be Okay",
+    "sourceFile": "Rachel Grae - It'll Be Okay.ttml"
+  },
+  "duration": 223.15699999999998,
+  "lines": [
+    {
+      "begin": 6.462,
+      "end": 9.567,
+      "text": "Hmm-mmm",
+      "words": [
+        {
+          "text": "Hmm-",
+          "begin": 6.462,
+          "end": 8.922,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mmm",
+          "begin": 8.922,
+          "end": 9.567,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 13.397,
+      "end": 17.222,
+      "text": "Are we gonna make it?",
+      "words": [
+        {
+          "text": "Are",
+          "begin": 13.397,
+          "end": 14.897,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 14.897,
+          "end": 15.28,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gon",
+          "begin": 15.28,
+          "end": 15.64,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 15.64,
+          "end": 16.03,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "make",
+          "begin": 16.03,
+          "end": 16.84,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it?",
+          "begin": 16.84,
+          "end": 17.222,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 17.83,
+      "end": 20.605,
+      "text": "Is this gonna hurt?",
+      "words": [
+        {
+          "text": "Is",
+          "begin": 17.83,
+          "end": 18.08,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "this",
+          "begin": 18.08,
+          "end": 18.445,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gon",
+          "begin": 18.445,
+          "end": 18.831,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 18.831,
+          "end": 19.141,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hurt?",
+          "begin": 19.141,
+          "end": 20.605,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 25.63,
+      "end": 29.619,
+      "text": "Oh, we can try to sedate it",
+      "words": [
+        {
+          "text": "Oh,",
+          "begin": 25.63,
+          "end": 26.881,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 26.881,
+          "end": 27.061,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can",
+          "begin": 27.061,
+          "end": 27.219,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "try",
+          "begin": 27.219,
+          "end": 27.571,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 27.571,
+          "end": 27.849,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "se",
+          "begin": 27.849,
+          "end": 28.261,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "date",
+          "begin": 28.261,
+          "end": 29.064,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 29.064,
+          "end": 29.619,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 30.141,
+      "end": 34.933,
+      "text": "But that never works",
+      "words": [
+        {
+          "text": "But",
+          "begin": 30.141,
+          "end": 30.29,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 30.29,
+          "end": 30.849,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ne",
+          "begin": 30.849,
+          "end": 31.528,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ver",
+          "begin": 31.528,
+          "end": 31.697,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "works",
+          "begin": 31.697,
+          "end": 34.933,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 37.145,
+      "end": 45.616,
+      "text": "I start to imagine a world where we don't collide",
+      "words": [
+        {
+          "text": "I",
+          "begin": 37.145,
+          "end": 37.449,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "start",
+          "begin": 37.449,
+          "end": 38.379,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 38.379,
+          "end": 38.701,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "i",
+          "begin": 38.701,
+          "end": 39.107,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 39.107,
+          "end": 39.899,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gine",
+          "begin": 39.899,
+          "end": 40.265,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 40.265,
+          "end": 40.591,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "world",
+          "begin": 40.591,
+          "end": 41.416,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "where",
+          "begin": 41.416,
+          "end": 41.754,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 41.754,
+          "end": 42.161,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 42.161,
+          "end": 42.978,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "col",
+          "begin": 42.978,
+          "end": 43.779,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lide",
+          "begin": 43.779,
+          "end": 45.616,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 49.553,
+      "end": 58.53,
+      "text": "It's making me sick, but we'll heal and the sun will rise",
+      "words": [
+        {
+          "text": "It's",
+          "begin": 49.553,
+          "end": 49.916,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 49.916,
+          "end": 50.654,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "king",
+          "begin": 50.654,
+          "end": 51.039,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 51.039,
+          "end": 51.396,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sick,",
+          "begin": 51.396,
+          "end": 52.215,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "but",
+          "begin": 52.215,
+          "end": 52.553,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we'll",
+          "begin": 52.553,
+          "end": 52.935,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heal",
+          "begin": 52.935,
+          "end": 53.685,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 53.685,
+          "end": 54.122,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 54.122,
+          "end": 54.426,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sun",
+          "begin": 54.426,
+          "end": 55.252,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 55.252,
+          "end": 55.979,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rise",
+          "begin": 55.979,
+          "end": 58.53,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 60.392,
+      "end": 63.68,
+      "text": "If you tell me you're leaving",
+      "words": [
+        {
+          "text": "If",
+          "begin": 60.392,
+          "end": 60.647,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 60.647,
+          "end": 60.981,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tell",
+          "begin": 60.981,
+          "end": 61.332,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 61.332,
+          "end": 61.758,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you're",
+          "begin": 61.758,
+          "end": 62.156,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lea",
+          "begin": 62.156,
+          "end": 63.0,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ving",
+          "begin": 63.0,
+          "end": 63.68,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 64.142,
+      "end": 71.216,
+      "text": "I'll make it easy, it'll be okay",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 64.142,
+          "end": 64.469,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "make",
+          "begin": 64.469,
+          "end": 64.851,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 64.851,
+          "end": 65.268,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ea",
+          "begin": 65.268,
+          "end": 65.912,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sy,",
+          "begin": 65.912,
+          "end": 67.301,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it'll",
+          "begin": 67.681,
+          "end": 68.006,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 68.006,
+          "end": 68.253,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "o",
+          "begin": 68.253,
+          "end": 69.108,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kay",
+          "begin": 69.108,
+          "end": 71.216,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 72.555,
+      "end": 75.857,
+      "text": "If we can't stop the bleeding",
+      "words": [
+        {
+          "text": "If",
+          "begin": 72.555,
+          "end": 72.892,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 72.892,
+          "end": 73.243,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 73.243,
+          "end": 73.605,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "stop",
+          "begin": 73.605,
+          "end": 74.018,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 74.018,
+          "end": 74.407,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "blee",
+          "begin": 74.407,
+          "end": 75.28,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ding",
+          "begin": 75.28,
+          "end": 75.857,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 76.292,
+      "end": 79.164,
+      "text": "We don't have to fix it",
+      "words": [
+        {
+          "text": "We",
+          "begin": 76.292,
+          "end": 76.44200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 76.44200000000001,
+          "end": 76.832,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "have",
+          "begin": 76.832,
+          "end": 77.22,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 77.22,
+          "end": 77.589,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fix",
+          "begin": 77.589,
+          "end": 78.369,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 78.369,
+          "end": 79.164,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 79.334,
+      "end": 84.227,
+      "text": "We don't have to stay",
+      "words": [
+        {
+          "text": "We",
+          "begin": 79.334,
+          "end": 79.517,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 79.517,
+          "end": 79.875,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "have",
+          "begin": 79.875,
+          "end": 80.27,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 80.27,
+          "end": 80.636,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "stay",
+          "begin": 80.636,
+          "end": 84.227,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 85.29599999999999,
+      "end": 92.054,
+      "text": "I will love you either way, oh",
+      "words": [
+        {
+          "text": "I",
+          "begin": 85.29599999999999,
+          "end": 85.48,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 85.48,
+          "end": 85.676,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 85.676,
+          "end": 86.024,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 86.024,
+          "end": 86.39099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ei",
+          "begin": 86.39099999999999,
+          "end": 87.024,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ther",
+          "begin": 87.024,
+          "end": 87.243,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way,",
+          "begin": 87.243,
+          "end": 88.212,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh",
+          "begin": 88.731,
+          "end": 92.054,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 92.217,
+      "end": 96.462,
+      "text": "It'll be okay",
+      "words": [
+        {
+          "text": "It'll",
+          "begin": 92.217,
+          "end": 92.592,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 92.592,
+          "end": 92.839,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "o",
+          "begin": 92.839,
+          "end": 93.691,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kay",
+          "begin": 93.691,
+          "end": 96.462,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 99.443,
+      "end": 108.18,
+      "text": "Oh, the future we dreamed of is fading to black",
+      "words": [
+        {
+          "text": "Oh,",
+          "begin": 99.443,
+          "end": 101.015,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 101.015,
+          "end": 101.126,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fu",
+          "begin": 101.126,
+          "end": 101.42,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ture",
+          "begin": 101.42,
+          "end": 101.857,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 101.857,
+          "end": 102.223,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dreamed",
+          "begin": 102.223,
+          "end": 102.95,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 102.95,
+          "end": 103.40899999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 103.991,
+          "end": 104.14699999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fa",
+          "begin": 104.14699999999999,
+          "end": 104.718,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ding",
+          "begin": 104.718,
+          "end": 105.312,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 105.312,
+          "end": 105.593,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "black",
+          "begin": 105.593,
+          "end": 108.18,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 111.791,
+      "end": 115.666,
+      "text": "Oh, there's nothing more painful",
+      "words": [
+        {
+          "text": "Oh,",
+          "begin": 111.791,
+          "end": 113.057,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "there's",
+          "begin": 113.057,
+          "end": 113.352,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "no",
+          "begin": 113.352,
+          "end": 113.697,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "thing",
+          "begin": 113.697,
+          "end": 114.041,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "more",
+          "begin": 114.041,
+          "end": 114.447,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pain",
+          "begin": 114.447,
+          "end": 115.197,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ful",
+          "begin": 115.197,
+          "end": 115.666,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 116.405,
+      "end": 121.452,
+      "text": "Nothing more painful",
+      "words": [
+        {
+          "text": "No",
+          "begin": 116.405,
+          "end": 116.803,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "thing",
+          "begin": 116.803,
+          "end": 117.166,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "more",
+          "begin": 117.166,
+          "end": 117.541,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pain",
+          "begin": 117.541,
+          "end": 118.297,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ful",
+          "begin": 118.297,
+          "end": 121.452,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 123.314,
+      "end": 131.52100000000002,
+      "text": "I start to imagine a world where we don't collide",
+      "words": [
+        {
+          "text": "I",
+          "begin": 123.314,
+          "end": 123.581,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "start",
+          "begin": 123.581,
+          "end": 124.456,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 124.456,
+          "end": 124.861,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "i",
+          "begin": 124.861,
+          "end": 125.234,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 125.234,
+          "end": 126.009,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gine",
+          "begin": 126.009,
+          "end": 126.399,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 126.399,
+          "end": 126.811,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "world",
+          "begin": 126.811,
+          "end": 127.569,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "where",
+          "begin": 127.569,
+          "end": 127.966,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 127.966,
+          "end": 128.334,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 128.334,
+          "end": 129.091,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "col",
+          "begin": 129.091,
+          "end": 129.864,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lide",
+          "begin": 129.864,
+          "end": 131.52100000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 135.661,
+      "end": 144.841,
+      "text": "It's making me sick, but we'll heal, and the sun will rise",
+      "words": [
+        {
+          "text": "It's",
+          "begin": 135.661,
+          "end": 136.051,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 136.051,
+          "end": 136.801,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "king",
+          "begin": 136.801,
+          "end": 137.169,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 137.169,
+          "end": 137.576,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sick,",
+          "begin": 137.576,
+          "end": 138.324,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "but",
+          "begin": 138.324,
+          "end": 138.691,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we'll",
+          "begin": 138.691,
+          "end": 139.089,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heal,",
+          "begin": 139.089,
+          "end": 139.826,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 139.826,
+          "end": 140.274,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 140.274,
+          "end": 140.626,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sun",
+          "begin": 140.626,
+          "end": 141.421,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 141.421,
+          "end": 142.10399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rise",
+          "begin": 142.10399999999998,
+          "end": 144.841,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 146.448,
+      "end": 149.79,
+      "text": "If you tell me you're leaving",
+      "words": [
+        {
+          "text": "If",
+          "begin": 146.448,
+          "end": 146.748,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 146.748,
+          "end": 147.123,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tell",
+          "begin": 147.123,
+          "end": 147.543,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 147.543,
+          "end": 147.971,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you're",
+          "begin": 147.971,
+          "end": 148.338,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lea",
+          "begin": 148.338,
+          "end": 149.193,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ving",
+          "begin": 149.193,
+          "end": 149.79,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 150.311,
+      "end": 157.17000000000002,
+      "text": "I'll make it easy, it'll be okay",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 150.311,
+          "end": 150.671,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "make",
+          "begin": 150.671,
+          "end": 151.072,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 151.072,
+          "end": 151.451,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ea",
+          "begin": 151.451,
+          "end": 152.131,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sy,",
+          "begin": 152.131,
+          "end": 153.371,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it'll",
+          "begin": 153.84300000000002,
+          "end": 154.113,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 154.113,
+          "end": 154.376,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "o",
+          "begin": 154.376,
+          "end": 155.28300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kay",
+          "begin": 155.28300000000002,
+          "end": 157.17000000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 158.722,
+      "end": 161.861,
+      "text": "If we can't stop the bleeding",
+      "words": [
+        {
+          "text": "If",
+          "begin": 158.722,
+          "end": 159.048,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 159.048,
+          "end": 159.416,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 159.416,
+          "end": 159.802,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "stop",
+          "begin": 159.802,
+          "end": 160.227,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 160.227,
+          "end": 160.59199999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "blee",
+          "begin": 160.59199999999998,
+          "end": 161.441,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ding",
+          "begin": 161.441,
+          "end": 161.861,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22"
+    },
+    {
+      "begin": 162.461,
+      "end": 165.176,
+      "text": "We don't have to fix it",
+      "words": [
+        {
+          "text": "We",
+          "begin": 162.461,
+          "end": 162.573,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 162.573,
+          "end": 162.941,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "have",
+          "begin": 162.941,
+          "end": 163.352,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 163.352,
+          "end": 163.751,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fix",
+          "begin": 163.751,
+          "end": 164.553,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 164.553,
+          "end": 165.176,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 165.561,
+      "end": 170.36599999999999,
+      "text": "We don't have to stay",
+      "words": [
+        {
+          "text": "We",
+          "begin": 165.561,
+          "end": 165.701,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 165.701,
+          "end": 166.06799999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "have",
+          "begin": 166.06799999999998,
+          "end": 166.473,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 166.473,
+          "end": 166.774,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "stay",
+          "begin": 166.774,
+          "end": 170.36599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 171.416,
+      "end": 178.091,
+      "text": "I will love you either way",
+      "words": [
+        {
+          "text": "I",
+          "begin": 171.416,
+          "end": 171.602,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 171.602,
+          "end": 171.821,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 171.821,
+          "end": 172.189,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 172.189,
+          "end": 172.576,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ei",
+          "begin": 172.576,
+          "end": 172.954,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ther",
+          "begin": 172.954,
+          "end": 173.389,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way",
+          "begin": 173.389,
+          "end": 178.091,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 178.691,
+      "end": 182.284,
+      "text": "Whoa-ooh",
+      "words": [
+        {
+          "text": "Whoa-",
+          "begin": 178.691,
+          "end": 181.482,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ooh",
+          "begin": 181.482,
+          "end": 182.284,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 186.015,
+      "end": 187.016,
+      "text": "So sweet",
+      "words": [
+        {
+          "text": "So",
+          "begin": 186.015,
+          "end": 186.356,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sweet",
+          "begin": 186.356,
+          "end": 187.016,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27",
+      "backgroundVocal": {
+        "text": "((It might be so sweet))",
+        "words": [
+          {
+            "text": "((It",
+            "begin": 184.024,
+            "end": 184.166,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "might",
+            "begin": 184.166,
+            "end": 184.489,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "be",
+            "begin": 184.489,
+            "end": 184.841,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "so",
+            "begin": 184.841,
+            "end": 185.201,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "sweet))",
+            "begin": 185.201,
+            "end": 186.266,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 189.11599999999999,
+      "end": 194.918,
+      "text": "So bitter, whoa-ooh",
+      "words": [
+        {
+          "text": "So",
+          "begin": 189.11599999999999,
+          "end": 189.499,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bit",
+          "begin": 189.499,
+          "end": 189.731,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ter,",
+          "begin": 189.731,
+          "end": 190.481,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "whoa-",
+          "begin": 191.014,
+          "end": 193.834,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ooh",
+          "begin": 193.834,
+          "end": 194.918,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28",
+      "backgroundVocal": {
+        "text": "((It might be so bitter))",
+        "words": [
+          {
+            "text": "((It",
+            "begin": 187.059,
+            "end": 187.211,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "might",
+            "begin": 187.211,
+            "end": 187.571,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "be",
+            "begin": 187.571,
+            "end": 187.924,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "so",
+            "begin": 187.924,
+            "end": 188.351,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "bit",
+            "begin": 188.351,
+            "end": 188.539,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "ter))",
+            "begin": 188.539,
+            "end": 189.605,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 196.046,
+      "end": 203.037,
+      "text": "I will love you either way",
+      "words": [
+        {
+          "text": "I",
+          "begin": 196.046,
+          "end": 196.219,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 196.219,
+          "end": 196.443,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 196.443,
+          "end": 196.781,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 196.781,
+          "end": 197.179,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ei",
+          "begin": 197.179,
+          "end": 197.562,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ther",
+          "begin": 197.562,
+          "end": 198.364,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way",
+          "begin": 198.687,
+          "end": 203.037,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29",
+      "backgroundVocal": {
+        "text": "((It might be so sweet))",
+        "words": [
+          {
+            "text": "((It",
+            "begin": 196.317,
+            "end": 196.52100000000002,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "might",
+            "begin": 196.52100000000002,
+            "end": 196.79500000000002,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "be",
+            "begin": 196.79500000000002,
+            "end": 197.12,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "so",
+            "begin": 197.12,
+            "end": 197.524,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "sweet))",
+            "begin": 197.524,
+            "end": 198.605,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 203.316,
+      "end": 207.291,
+      "text": "Ooh-ooh",
+      "words": [
+        {
+          "text": "Ooh-",
+          "begin": 203.316,
+          "end": 205.016,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ooh",
+          "begin": 205.016,
+          "end": 207.291,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30",
+      "backgroundVocal": {
+        "text": "((It might be so bitter))",
+        "words": [
+          {
+            "text": "((It",
+            "begin": 199.388,
+            "end": 199.538,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "might",
+            "begin": 199.538,
+            "end": 199.859,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "be",
+            "begin": 199.859,
+            "end": 200.238,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "so",
+            "begin": 200.238,
+            "end": 200.65800000000002,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "bit",
+            "begin": 200.65800000000002,
+            "end": 200.836,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "ter))",
+            "begin": 200.836,
+            "end": 202.164,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 207.959,
+      "end": 209.706,
+      "text": "Oh",
+      "words": [
+        {
+          "text": "Oh",
+          "begin": 207.959,
+          "end": 209.706,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31"
+    },
+    {
+      "begin": 210.276,
+      "end": 216.816,
+      "text": "Oh, the future we've dreamed of is fading to black",
+      "words": [
+        {
+          "text": "Oh,",
+          "begin": 210.276,
+          "end": 211.184,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 211.71699999999998,
+          "end": 211.859,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fu",
+          "begin": 211.859,
+          "end": 212.166,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ture",
+          "begin": 212.166,
+          "end": 212.654,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we've",
+          "begin": 212.654,
+          "end": 212.969,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dreamed",
+          "begin": 212.969,
+          "end": 213.756,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 213.756,
+          "end": 214.22899999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 214.799,
+          "end": 214.934,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fa",
+          "begin": 214.934,
+          "end": 215.301,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ding",
+          "begin": 215.301,
+          "end": 215.66899999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 215.66899999999998,
+          "end": 216.051,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "black",
+          "begin": 216.051,
+          "end": 216.816,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32"
+    },
+    {
+      "begin": 220.701,
+      "end": 223.15699999999998,
+      "text": "I will love you either way",
+      "words": [
+        {
+          "text": "I",
+          "begin": 220.701,
+          "end": 220.859,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 220.859,
+          "end": 221.06900000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 221.06900000000002,
+          "end": 221.462,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 221.462,
+          "end": 221.856,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ei",
+          "begin": 221.856,
+          "end": 222.47899999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ther",
+          "begin": 222.47899999999998,
+          "end": 222.697,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way",
+          "begin": 222.697,
+          "end": 223.15699999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33"
+    }
+  ],
+  "totalLines": 33
+}

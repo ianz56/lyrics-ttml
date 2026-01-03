@@ -1,0 +1,3380 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      },
+      {
+        "id": "v2",
+        "type": "other"
+      }
+    ],
+    "artist": "Mariah Carey",
+    "title": "Thank God I Found You Stargate",
+    "sourceFile": "Mariah Carey - Thank God I Found You Stargate.ttml"
+  },
+  "duration": 245.597,
+  "lines": [
+    {
+      "begin": 16.012,
+      "end": 23.315,
+      "text": "I would give up everything before I'd separate myself from you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 16.012,
+          "end": 16.252,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "would",
+          "begin": 16.252,
+          "end": 16.53,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 16.53,
+          "end": 16.897,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "up",
+          "begin": 16.897,
+          "end": 17.386,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 17.386,
+          "end": 17.845,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "very",
+          "begin": 17.845,
+          "end": 18.091,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "thing",
+          "begin": 18.091,
+          "end": 18.826,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "before",
+          "begin": 19.086,
+          "end": 19.738,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'd",
+          "begin": 19.738,
+          "end": 20.187,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "se",
+          "begin": 20.187,
+          "end": 20.601,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "parate",
+          "begin": 20.601,
+          "end": 21.5,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 21.5,
+          "end": 21.938,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "self",
+          "begin": 21.938,
+          "end": 22.421,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "from",
+          "begin": 22.421,
+          "end": 22.898,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 22.898,
+          "end": 23.315,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 23.315,
+      "end": 29.773,
+      "text": "After so much suffering, I finally found unvarnished truth",
+      "words": [
+        {
+          "text": "After",
+          "begin": 23.315,
+          "end": 23.762,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 23.762,
+          "end": 24.234,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "much",
+          "begin": 24.234,
+          "end": 24.734,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "suf",
+          "begin": 24.734,
+          "end": 25.264,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fering,",
+          "begin": 25.264,
+          "end": 26.274,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 26.469,
+          "end": 26.679,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "finally",
+          "begin": 26.679,
+          "end": 27.313,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 27.313,
+          "end": 27.751,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "un",
+          "begin": 27.751,
+          "end": 28.245,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "varnished",
+          "begin": 28.245,
+          "end": 29.114,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "truth",
+          "begin": 29.114,
+          "end": 29.773,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 29.903,
+      "end": 37.04,
+      "text": "I was all by myself for the longest time, so cold inside",
+      "words": [
+        {
+          "text": "I",
+          "begin": 29.903,
+          "end": 30.19,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 30.19,
+          "end": 30.415,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 30.415,
+          "end": 30.808,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "by",
+          "begin": 30.808,
+          "end": 31.018,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 31.018,
+          "end": 31.237,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "self",
+          "begin": 31.237,
+          "end": 31.685,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "for",
+          "begin": 31.685,
+          "end": 31.931,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 31.931,
+          "end": 32.161,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 32.161,
+          "end": 32.72,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "est",
+          "begin": 32.72,
+          "end": 32.889,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "time,",
+          "begin": 32.889,
+          "end": 33.648,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 33.877,
+          "end": 34.068,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cold",
+          "begin": 34.068,
+          "end": 34.887,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 34.887,
+          "end": 35.592,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "side",
+          "begin": 35.592,
+          "end": 37.04,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 37.286,
+      "end": 44.341,
+      "text": "And the hurt from the heartache would not subside, I felt like dying",
+      "words": [
+        {
+          "text": "And",
+          "begin": 37.286,
+          "end": 37.546,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 37.546,
+          "end": 37.762,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hurt",
+          "begin": 37.762,
+          "end": 38.178,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "from",
+          "begin": 38.178,
+          "end": 38.401,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 38.401,
+          "end": 38.604,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heart",
+          "begin": 38.604,
+          "end": 39.067,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ache",
+          "begin": 39.067,
+          "end": 39.325,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "would",
+          "begin": 39.325,
+          "end": 39.508,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "not",
+          "begin": 39.508,
+          "end": 39.963,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sub",
+          "begin": 39.963,
+          "end": 40.192,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "side,",
+          "begin": 40.192,
+          "end": 41.032,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 41.26,
+          "end": 41.385,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "felt",
+          "begin": 41.385,
+          "end": 42.363,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "like",
+          "begin": 42.363,
+          "end": 42.939,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dying",
+          "begin": 42.939,
+          "end": 44.341,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 44.612,
+      "end": 50.375,
+      "text": "Until you saved my life",
+      "words": [
+        {
+          "text": "Un",
+          "begin": 44.612,
+          "end": 45.049,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "til",
+          "begin": 45.049,
+          "end": 45.51,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 45.51,
+          "end": 45.782,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "saved",
+          "begin": 45.782,
+          "end": 46.221,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 46.221,
+          "end": 46.674,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "life",
+          "begin": 46.674,
+          "end": 50.375,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 48.828,
+      "end": 52.007,
+      "text": "Thank God I found you",
+      "words": [
+        {
+          "text": "Thank",
+          "begin": 48.828,
+          "end": 49.365,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "God",
+          "begin": 49.696,
+          "end": 50.069,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 50.069,
+          "end": 50.545,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 50.545,
+          "end": 51.447,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 51.447,
+          "end": 52.007,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6",
+      "backgroundVocal": {
+        "text": "(Yeah, yeah)",
+        "words": [
+          {
+            "text": "(Yeah,",
+            "begin": 51.109,
+            "end": 51.539,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "yeah)",
+            "begin": 51.539,
+            "end": 53.185,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 51.991,
+      "end": 55.611,
+      "text": "I was lost without you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 51.991,
+          "end": 52.397,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 52.397,
+          "end": 53.094,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lost",
+          "begin": 53.396,
+          "end": 53.792,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 53.792,
+          "end": 54.239,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 54.239,
+          "end": 55.17,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 55.17,
+          "end": 55.611,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7",
+      "backgroundVocal": {
+        "text": "(I was lost)",
+        "words": [
+          {
+            "text": "(I",
+            "begin": 54.673,
+            "end": 54.943,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "was",
+            "begin": 54.943,
+            "end": 55.422,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "lost)",
+            "begin": 55.422,
+            "end": 57.161,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 55.694,
+      "end": 59.255,
+      "text": "My every wish and every dream",
+      "words": [
+        {
+          "text": "My",
+          "begin": 55.694,
+          "end": 56.073,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 56.073,
+          "end": 56.501,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "very",
+          "begin": 56.501,
+          "end": 56.944,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 56.944,
+          "end": 57.431,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 57.431,
+          "end": 57.866,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 57.866,
+          "end": 58.341,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "very",
+          "begin": 58.341,
+          "end": 58.825,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dream",
+          "begin": 58.825,
+          "end": 59.255,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 59.255,
+      "end": 62.94,
+      "text": "Somehow became reality",
+      "words": [
+        {
+          "text": "Some",
+          "begin": 59.255,
+          "end": 59.752,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "how",
+          "begin": 59.752,
+          "end": 60.192,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 60.192,
+          "end": 60.631,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "came",
+          "begin": 60.631,
+          "end": 61.085,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "real",
+          "begin": 61.085,
+          "end": 62.068,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ity",
+          "begin": 62.068,
+          "end": 62.94,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 62.94,
+      "end": 66.647,
+      "text": "When you brought the sunlight",
+      "words": [
+        {
+          "text": "When",
+          "begin": 62.94,
+          "end": 63.417,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 63.417,
+          "end": 64.103,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "brought",
+          "begin": 64.449,
+          "end": 64.792,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 64.792,
+          "end": 65.259,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sun",
+          "begin": 65.259,
+          "end": 66.265,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "light",
+          "begin": 66.265,
+          "end": 66.647,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 66.647,
+      "end": 70.274,
+      "text": "Completed my whole life",
+      "words": [
+        {
+          "text": "Com",
+          "begin": 66.647,
+          "end": 67.082,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ple",
+          "begin": 67.082,
+          "end": 68.063,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ted",
+          "begin": 68.063,
+          "end": 68.514,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 68.514,
+          "end": 68.94,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "whole",
+          "begin": 68.94,
+          "end": 69.89,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "life",
+          "begin": 69.89,
+          "end": 70.274,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 70.274,
+      "end": 74.17,
+      "text": "I'm overwhelmed with gratitude",
+      "words": [
+        {
+          "text": "I'm",
+          "begin": 70.274,
+          "end": 70.771,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "over",
+          "begin": 70.771,
+          "end": 71.686,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "whelmed",
+          "begin": 71.686,
+          "end": 72.137,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 72.137,
+          "end": 72.631,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gratitude",
+          "begin": 72.631,
+          "end": 74.17,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 74.17,
+      "end": 80.096,
+      "text": "'Cause baby, I'm so thankful I found you",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 74.17,
+          "end": 74.515,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "baby,",
+          "begin": 74.515,
+          "end": 75.384,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 75.384,
+          "end": 75.85,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 75.85,
+          "end": 76.306,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thank",
+          "begin": 76.306,
+          "end": 76.741,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ful",
+          "begin": 76.741,
+          "end": 77.206,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 77.206,
+          "end": 77.648,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 77.648,
+          "end": 78.155,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 78.155,
+          "end": 80.096,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 86.08500000000001,
+      "end": 93.259,
+      "text": "I will give you everything, there's nothing in this world I wouldn't do",
+      "words": [
+        {
+          "text": "I",
+          "begin": 86.08500000000001,
+          "end": 86.366,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 86.366,
+          "end": 86.574,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 86.574,
+          "end": 86.97800000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 86.97800000000001,
+          "end": 87.453,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 87.453,
+          "end": 87.922,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "very",
+          "begin": 87.922,
+          "end": 88.143,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "thing,",
+          "begin": 88.143,
+          "end": 88.868,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "there's",
+          "begin": 89.156,
+          "end": 89.30199999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "no",
+          "begin": 89.30199999999999,
+          "end": 89.73,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "thing",
+          "begin": 89.73,
+          "end": 89.94200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 89.94200000000001,
+          "end": 90.402,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "this",
+          "begin": 90.402,
+          "end": 90.826,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "world",
+          "begin": 90.826,
+          "end": 91.56700000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 91.56700000000001,
+          "end": 91.889,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wouldn't",
+          "begin": 91.889,
+          "end": 92.82300000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "do",
+          "begin": 92.82300000000001,
+          "end": 93.259,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L14"
+    },
+    {
+      "begin": 93.50200000000001,
+      "end": 99.78,
+      "text": "To ensure your happiness, I'll cherish every part of you",
+      "words": [
+        {
+          "text": "To",
+          "begin": 93.50200000000001,
+          "end": 93.705,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ensure",
+          "begin": 93.705,
+          "end": 94.311,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 94.311,
+          "end": 94.791,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 94.791,
+          "end": 95.28999999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ppi",
+          "begin": 95.28999999999999,
+          "end": 95.539,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ness,",
+          "begin": 95.539,
+          "end": 96.25200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'll",
+          "begin": 96.518,
+          "end": 96.715,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "che",
+          "begin": 96.715,
+          "end": 97.201,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "rish",
+          "begin": 97.201,
+          "end": 97.426,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 97.426,
+          "end": 98.007,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "very",
+          "begin": 98.007,
+          "end": 98.307,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "part",
+          "begin": 98.307,
+          "end": 98.94,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 98.94,
+          "end": 99.233,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 99.233,
+          "end": 99.78,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L15"
+    },
+    {
+      "begin": 99.982,
+      "end": 106.968,
+      "text": "'Cause without you beside me, I can't survive, don't wanna try",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 99.982,
+          "end": 100.208,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 100.208,
+          "end": 100.43,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 100.43,
+          "end": 100.862,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 100.862,
+          "end": 101.025,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "beside",
+          "begin": 101.025,
+          "end": 101.75399999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me,",
+          "begin": 101.75399999999999,
+          "end": 101.945,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 101.945,
+          "end": 102.2,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 102.2,
+          "end": 102.708,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sur",
+          "begin": 102.708,
+          "end": 102.917,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "vive,",
+          "begin": 102.917,
+          "end": 103.63300000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 103.912,
+          "end": 104.095,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wa",
+          "begin": 104.095,
+          "end": 105.055,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nna",
+          "begin": 105.055,
+          "end": 105.481,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "try",
+          "begin": 105.72399999999999,
+          "end": 106.968,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L16"
+    },
+    {
+      "begin": 107.376,
+      "end": 114.452,
+      "text": "If you keeping me warm each and every night, I'll be alright",
+      "words": [
+        {
+          "text": "If",
+          "begin": 107.376,
+          "end": 107.578,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 107.578,
+          "end": 107.771,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kee",
+          "begin": 107.771,
+          "end": 108.244,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ping",
+          "begin": 108.244,
+          "end": 108.471,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 108.471,
+          "end": 108.644,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "warm",
+          "begin": 108.644,
+          "end": 109.106,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "each",
+          "begin": 109.106,
+          "end": 109.382,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 109.382,
+          "end": 109.58,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "every",
+          "begin": 109.58,
+          "end": 110.288,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night,",
+          "begin": 110.288,
+          "end": 111.04599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'll",
+          "begin": 111.326,
+          "end": 111.533,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 111.533,
+          "end": 112.375,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "al",
+          "begin": 112.375,
+          "end": 113.078,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "right",
+          "begin": 113.078,
+          "end": 114.452,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L17"
+    },
+    {
+      "begin": 114.703,
+      "end": 121.018,
+      "text": "'Cause I need you in my life, oh",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 114.703,
+          "end": 114.987,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 114.987,
+          "end": 115.20400000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "need",
+          "begin": 115.20400000000001,
+          "end": 115.642,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 115.642,
+          "end": 115.92099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 115.92099999999999,
+          "end": 116.652,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 116.652,
+          "end": 116.863,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "life,",
+          "begin": 116.863,
+          "end": 118.106,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh",
+          "begin": 118.106,
+          "end": 121.018,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L18"
+    },
+    {
+      "begin": 118.87,
+      "end": 121.931,
+      "text": "Thank God I found you",
+      "words": [
+        {
+          "text": "Thank",
+          "begin": 118.87,
+          "end": 119.356,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "God",
+          "begin": 119.73599999999999,
+          "end": 120.117,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 120.117,
+          "end": 120.584,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 120.584,
+          "end": 121.453,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 121.453,
+          "end": 121.931,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19",
+      "backgroundVocal": {
+        "text": "(I'm thanking you)",
+        "words": [
+          {
+            "text": "(I'm",
+            "begin": 121.285,
+            "end": 122.335,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "thanking",
+            "begin": 122.335,
+            "end": 123.163,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "you)",
+            "begin": 123.163,
+            "end": 124.616,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 122.064,
+      "end": 125.685,
+      "text": "I was lost without you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 122.064,
+          "end": 122.469,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 122.469,
+          "end": 123.11,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lost",
+          "begin": 123.425,
+          "end": 123.864,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 123.864,
+          "end": 124.337,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 124.337,
+          "end": 125.138,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 125.138,
+          "end": 125.685,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20",
+      "backgroundVocal": {
+        "text": "(So lost without you)",
+        "words": [
+          {
+            "text": "(So",
+            "begin": 125.079,
+            "end": 125.506,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "lost",
+            "begin": 125.506,
+            "end": 125.957,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "without",
+            "begin": 125.957,
+            "end": 126.765,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "you)",
+            "begin": 126.765,
+            "end": 127.52,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 125.725,
+      "end": 129.255,
+      "text": "My every wish and every dream",
+      "words": [
+        {
+          "text": "My",
+          "begin": 125.725,
+          "end": 126.129,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "every",
+          "begin": 126.129,
+          "end": 126.985,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 126.985,
+          "end": 127.449,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 127.449,
+          "end": 127.897,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "every",
+          "begin": 127.897,
+          "end": 128.842,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dream",
+          "begin": 128.842,
+          "end": 129.255,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21",
+      "backgroundVocal": {
+        "text": "(Every wish, every dream)",
+        "words": [
+          {
+            "text": "(Every",
+            "begin": 127.69800000000001,
+            "end": 128.038,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "wish,",
+            "begin": 128.038,
+            "end": 128.498,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "every",
+            "begin": 128.498,
+            "end": 128.95,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "dream)",
+            "begin": 128.95,
+            "end": 129.578,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 129.412,
+      "end": 132.986,
+      "text": "Somehow became reality",
+      "words": [
+        {
+          "text": "Some",
+          "begin": 129.412,
+          "end": 129.811,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "how",
+          "begin": 129.811,
+          "end": 130.301,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 130.301,
+          "end": 130.75900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "came",
+          "begin": 130.75900000000001,
+          "end": 131.22,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "real",
+          "begin": 131.22,
+          "end": 132.029,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ity",
+          "begin": 132.029,
+          "end": 132.986,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22"
+    },
+    {
+      "begin": 133.156,
+      "end": 136.863,
+      "text": "When you brought the sunlight",
+      "words": [
+        {
+          "text": "When",
+          "begin": 133.156,
+          "end": 133.551,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 133.551,
+          "end": 134.242,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "brought",
+          "begin": 134.504,
+          "end": 134.886,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 134.886,
+          "end": 135.338,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sun",
+          "begin": 135.338,
+          "end": 136.274,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "light",
+          "begin": 136.274,
+          "end": 136.863,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23",
+      "backgroundVocal": {
+        "text": "(Brought the sunlight)",
+        "words": [
+          {
+            "text": "(Brought",
+            "begin": 135.863,
+            "end": 136.085,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "the",
+            "begin": 136.085,
+            "end": 136.24099999999999,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "sun",
+            "begin": 136.24099999999999,
+            "end": 136.802,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "light)",
+            "begin": 136.802,
+            "end": 137.588,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 136.827,
+      "end": 140.394,
+      "text": "Completed my whole life",
+      "words": [
+        {
+          "text": "Com",
+          "begin": 136.827,
+          "end": 137.215,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ple",
+          "begin": 137.215,
+          "end": 138.151,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ted",
+          "begin": 138.151,
+          "end": 138.613,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 138.613,
+          "end": 139.044,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "whole",
+          "begin": 139.044,
+          "end": 139.941,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "life",
+          "begin": 139.941,
+          "end": 140.394,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 140.475,
+      "end": 144.106,
+      "text": "I'm overwhelmed with gratitude",
+      "words": [
+        {
+          "text": "I'm",
+          "begin": 140.475,
+          "end": 140.895,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "over",
+          "begin": 140.895,
+          "end": 141.81,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "whelmed",
+          "begin": 141.81,
+          "end": 142.315,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 142.315,
+          "end": 142.53300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gra",
+          "begin": 142.53300000000002,
+          "end": 143.324,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "titude",
+          "begin": 143.324,
+          "end": 144.106,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 144.198,
+      "end": 153.451,
+      "text": "'Cause baby, and I'm so thankful I found you, oh",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 144.198,
+          "end": 144.585,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "baby,",
+          "begin": 144.585,
+          "end": 144.885,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 144.885,
+          "end": 145.115,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 145.115,
+          "end": 145.782,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 145.782,
+          "end": 146.198,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thank",
+          "begin": 146.198,
+          "end": 146.966,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ful",
+          "begin": 146.966,
+          "end": 147.321,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 147.321,
+          "end": 147.779,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 147.779,
+          "end": 148.256,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you,",
+          "begin": 148.256,
+          "end": 149.348,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh",
+          "begin": 149.348,
+          "end": 153.451,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 151.595,
+      "end": 158.933,
+      "text": "See, I was so desolate before you came to me",
+      "words": [
+        {
+          "text": "See,",
+          "begin": 151.595,
+          "end": 151.77100000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 151.77100000000002,
+          "end": 151.983,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 151.983,
+          "end": 153.293,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 153.293,
+          "end": 153.562,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 153.562,
+          "end": 155.152,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "solate",
+          "begin": 155.152,
+          "end": 156.252,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "before",
+          "begin": 156.252,
+          "end": 157.019,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 157.019,
+          "end": 157.35,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "came",
+          "begin": 157.35,
+          "end": 157.973,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 157.973,
+          "end": 158.214,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 158.214,
+          "end": 158.933,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 158.71,
+      "end": 160.56799999999998,
+      "text": "Looking back",
+      "words": [
+        {
+          "text": "Looking",
+          "begin": 158.71,
+          "end": 159.06900000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "back",
+          "begin": 159.06900000000002,
+          "end": 160.56799999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L28",
+      "backgroundVocal": {
+        "text": "(Looking back)",
+        "words": [
+          {
+            "text": "(Looking",
+            "begin": 159.663,
+            "end": 160.059,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "back)",
+            "begin": 160.059,
+            "end": 161.21,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 160.775,
+      "end": 166.68099999999998,
+      "text": "I guess it shows that we were destined to shine",
+      "words": [
+        {
+          "text": "I",
+          "begin": 160.775,
+          "end": 160.989,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "guess",
+          "begin": 160.989,
+          "end": 162.434,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 162.614,
+          "end": 162.80700000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "shows",
+          "begin": 162.80700000000002,
+          "end": 163.492,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 163.492,
+          "end": 163.71800000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 163.71800000000002,
+          "end": 164.207,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "were",
+          "begin": 164.207,
+          "end": 164.656,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "destined",
+          "begin": 164.656,
+          "end": 165.49,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 165.49,
+          "end": 166.011,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "shine",
+          "begin": 166.011,
+          "end": 166.68099999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    },
+    {
+      "begin": 166.68099999999998,
+      "end": 173.34,
+      "text": "Over the rain to appreciate, the gift of what we have",
+      "words": [
+        {
+          "text": "Over",
+          "begin": 166.68099999999998,
+          "end": 167.19400000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 167.19400000000002,
+          "end": 167.325,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rain",
+          "begin": 167.325,
+          "end": 168.001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 168.001,
+          "end": 168.54399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "appreciate,",
+          "begin": 168.54399999999998,
+          "end": 170.024,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 170.262,
+          "end": 170.461,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gift",
+          "begin": 170.461,
+          "end": 170.906,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 170.906,
+          "end": 171.108,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "what",
+          "begin": 171.108,
+          "end": 171.709,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 171.709,
+          "end": 172.017,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "have",
+          "begin": 172.017,
+          "end": 173.34,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30"
+    },
+    {
+      "begin": 173.688,
+      "end": 176.78300000000002,
+      "text": "And I'd go through it all over again",
+      "words": [
+        {
+          "text": "And",
+          "begin": 173.688,
+          "end": 173.905,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'd",
+          "begin": 173.905,
+          "end": 174.117,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "go",
+          "begin": 174.117,
+          "end": 174.334,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "through",
+          "begin": 174.334,
+          "end": 174.564,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 174.564,
+          "end": 174.756,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 174.756,
+          "end": 175.393,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "over",
+          "begin": 175.58100000000002,
+          "end": 175.914,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "again",
+          "begin": 175.914,
+          "end": 176.78300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31"
+    },
+    {
+      "begin": 177.40699999999998,
+      "end": 181.363,
+      "text": "To be able to feel this way",
+      "words": [
+        {
+          "text": "To",
+          "begin": 177.40699999999998,
+          "end": 177.619,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 177.619,
+          "end": 177.861,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "able",
+          "begin": 177.861,
+          "end": 178.272,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 178.272,
+          "end": 178.40699999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "feel",
+          "begin": 178.40699999999998,
+          "end": 178.89600000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "this",
+          "begin": 179.107,
+          "end": 179.427,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way",
+          "begin": 179.427,
+          "end": 181.363,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L32"
+    },
+    {
+      "begin": 180.823,
+      "end": 187.411,
+      "text": "This way",
+      "words": [
+        {
+          "text": "This",
+          "begin": 180.823,
+          "end": 181.293,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way",
+          "begin": 181.293,
+          "end": 187.411,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33"
+    },
+    {
+      "begin": 181.575,
+      "end": 184.61599999999999,
+      "text": "Thank God I found you",
+      "words": [
+        {
+          "text": "Thank",
+          "begin": 181.575,
+          "end": 182.149,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "God",
+          "begin": 182.449,
+          "end": 182.786,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 182.786,
+          "end": 183.292,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 183.292,
+          "end": 184.239,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 184.239,
+          "end": 184.61599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L34"
+    },
+    {
+      "begin": 184.61599999999999,
+      "end": 188.313,
+      "text": "I was lost without you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 184.61599999999999,
+          "end": 185.065,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 185.065,
+          "end": 185.842,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lost",
+          "begin": 186.13400000000001,
+          "end": 186.5,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 186.5,
+          "end": 186.967,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 186.967,
+          "end": 187.89,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 187.89,
+          "end": 188.313,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L35",
+      "backgroundVocal": {
+        "text": "(Lost without you, baby)",
+        "words": [
+          {
+            "text": "(Lost",
+            "begin": 187.551,
+            "end": 188.054,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "with",
+            "begin": 188.054,
+            "end": 188.339,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "out",
+            "begin": 188.339,
+            "end": 188.6,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "you,",
+            "begin": 188.6,
+            "end": 189.163,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "baby)",
+            "begin": 189.163,
+            "end": 189.966,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 188.425,
+      "end": 191.986,
+      "text": "My every wish and every dream",
+      "words": [
+        {
+          "text": "My",
+          "begin": 188.425,
+          "end": 188.812,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "every",
+          "begin": 188.812,
+          "end": 189.693,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 189.693,
+          "end": 190.186,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 190.186,
+          "end": 190.623,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "every",
+          "begin": 190.623,
+          "end": 191.574,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dream",
+          "begin": 191.574,
+          "end": 191.986,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L36"
+    },
+    {
+      "begin": 191.986,
+      "end": 195.687,
+      "text": "Somehow became reality",
+      "words": [
+        {
+          "text": "Some",
+          "begin": 191.986,
+          "end": 192.525,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "how",
+          "begin": 192.525,
+          "end": 192.932,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "became",
+          "begin": 192.932,
+          "end": 193.843,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "reality",
+          "begin": 193.843,
+          "end": 195.687,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L37"
+    },
+    {
+      "begin": 195.687,
+      "end": 199.383,
+      "text": "When you brought the sunlight",
+      "words": [
+        {
+          "text": "When",
+          "begin": 195.687,
+          "end": 196.171,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 196.171,
+          "end": 196.767,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "brought",
+          "begin": 197.2,
+          "end": 197.576,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 197.576,
+          "end": 197.95499999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sun",
+          "begin": 197.95499999999998,
+          "end": 198.929,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "light",
+          "begin": 198.929,
+          "end": 199.383,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L38",
+      "backgroundVocal": {
+        "text": "(Brought the light)",
+        "words": [
+          {
+            "text": "(Brought",
+            "begin": 199.063,
+            "end": 199.373,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "the",
+            "begin": 199.373,
+            "end": 199.588,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "light)",
+            "begin": 199.588,
+            "end": 201.164,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 199.508,
+      "end": 203.178,
+      "text": "Completed my whole life",
+      "words": [
+        {
+          "text": "Com",
+          "begin": 199.508,
+          "end": 199.872,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ple",
+          "begin": 199.872,
+          "end": 200.809,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ted",
+          "begin": 200.809,
+          "end": 201.285,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 201.285,
+          "end": 201.746,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "whole",
+          "begin": 201.746,
+          "end": 202.656,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "life",
+          "begin": 202.656,
+          "end": 203.178,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L39",
+      "backgroundVocal": {
+        "text": "(My whole life)",
+        "words": [
+          {
+            "text": "(My",
+            "begin": 201.821,
+            "end": 202.129,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "whole",
+            "begin": 202.129,
+            "end": 202.789,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "life)",
+            "begin": 202.789,
+            "end": 203.645,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 203.16,
+      "end": 206.765,
+      "text": "I'm overwhelmed with gratitude",
+      "words": [
+        {
+          "text": "I'm",
+          "begin": 203.16,
+          "end": 203.556,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "over",
+          "begin": 203.556,
+          "end": 204.434,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "whelmed",
+          "begin": 204.434,
+          "end": 204.907,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 204.907,
+          "end": 205.386,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gratitude",
+          "begin": 205.386,
+          "end": 206.765,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L40"
+    },
+    {
+      "begin": 206.765,
+      "end": 211.817,
+      "text": "See baby, I'm so thankful I found you",
+      "words": [
+        {
+          "text": "See",
+          "begin": 206.765,
+          "end": 207.23,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "baby,",
+          "begin": 207.23,
+          "end": 208.226,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 208.226,
+          "end": 208.701,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 208.701,
+          "end": 209.143,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thank",
+          "begin": 209.143,
+          "end": 209.573,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ful",
+          "begin": 209.573,
+          "end": 210.031,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 210.031,
+          "end": 210.5,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 210.5,
+          "end": 210.995,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 210.995,
+          "end": 211.817,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L41"
+    },
+    {
+      "begin": 211.062,
+      "end": 214.136,
+      "text": "Thank God I found you",
+      "words": [
+        {
+          "text": "Thank",
+          "begin": 211.062,
+          "end": 211.655,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "God",
+          "begin": 212.016,
+          "end": 212.401,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 212.401,
+          "end": 212.852,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 212.852,
+          "end": 213.762,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 213.762,
+          "end": 214.136,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L42"
+    },
+    {
+      "begin": 214.136,
+      "end": 217.9,
+      "text": "I was lost without you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 214.136,
+          "end": 214.624,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 214.624,
+          "end": 215.47,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lost",
+          "begin": 215.661,
+          "end": 216.05700000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 216.05700000000002,
+          "end": 216.539,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "out",
+          "begin": 216.539,
+          "end": 217.484,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 217.484,
+          "end": 217.9,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L43"
+    },
+    {
+      "begin": 217.9,
+      "end": 221.599,
+      "text": "I'm overwhelmed with gratitude",
+      "words": [
+        {
+          "text": "I'm",
+          "begin": 217.9,
+          "end": 218.321,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "over",
+          "begin": 218.321,
+          "end": 219.232,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "whelmed",
+          "begin": 219.232,
+          "end": 219.757,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 219.757,
+          "end": 220.183,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gratitude",
+          "begin": 220.183,
+          "end": 221.599,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L44",
+      "backgroundVocal": {
+        "text": "(So overwhelmed)",
+        "words": [
+          {
+            "text": "(So",
+            "begin": 219.35399999999998,
+            "end": 219.798,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "over",
+            "begin": 219.798,
+            "end": 220.237,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "whelmed)",
+            "begin": 220.237,
+            "end": 223.036,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 221.653,
+      "end": 231.44,
+      "text": "My baby, I'm so thankful I found you",
+      "words": [
+        {
+          "text": "My",
+          "begin": 221.653,
+          "end": 222.061,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "baby,",
+          "begin": 222.061,
+          "end": 223.008,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 223.008,
+          "end": 223.596,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 223.596,
+          "end": 224.297,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thank",
+          "begin": 224.297,
+          "end": 224.894,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ful",
+          "begin": 224.894,
+          "end": 225.399,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 225.399,
+          "end": 226.136,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 226.136,
+          "end": 227.78199999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 228.461,
+          "end": 231.44,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L45"
+    },
+    {
+      "begin": 233.951,
+      "end": 236.08100000000002,
+      "text": "You",
+      "words": [
+        {
+          "text": "You",
+          "begin": 233.951,
+          "end": 236.08100000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L46"
+    },
+    {
+      "begin": 235.587,
+      "end": 239.585,
+      "text": "I'm overwhelmed with gratitude",
+      "words": [
+        {
+          "text": "I'm",
+          "begin": 235.587,
+          "end": 236.004,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "over",
+          "begin": 236.004,
+          "end": 236.942,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "whelmed",
+          "begin": 236.942,
+          "end": 237.423,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 237.423,
+          "end": 237.88,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gra",
+          "begin": 237.88,
+          "end": 238.451,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "titude",
+          "begin": 238.451,
+          "end": 239.585,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L47"
+    },
+    {
+      "begin": 239.585,
+      "end": 251.914,
+      "text": "My baby, I'm so thankful I found you",
+      "words": [
+        {
+          "text": "My",
+          "begin": 239.585,
+          "end": 240.177,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "baby,",
+          "begin": 240.177,
+          "end": 241.409,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 241.409,
+          "end": 241.898,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 241.898,
+          "end": 242.509,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thank",
+          "begin": 242.509,
+          "end": 243.066,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ful",
+          "begin": 243.066,
+          "end": 243.654,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 243.654,
+          "end": 244.5,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 244.5,
+          "end": 246.106,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 246.542,
+          "end": 251.914,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L48"
+    },
+    {
+      "begin": 245.07,
+      "end": 245.597,
+      "text": "I found you",
+      "words": [
+        {
+          "text": "I",
+          "begin": 245.07,
+          "end": 245.121,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "found",
+          "begin": 245.121,
+          "end": 245.237,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 245.237,
+          "end": 245.597,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L49"
+    }
+  ],
+  "totalLines": 49
+}

@@ -1,0 +1,2037 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      },
+      {
+        "id": "v2",
+        "type": "other"
+      }
+    ],
+    "artist": "Lyodra",
+    "title": "Sampaikan Rindu",
+    "sourceFile": "Lyodra - Sampaikan Rindu.ttml"
+  },
+  "duration": 235.04,
+  "lines": [
+    {
+      "begin": 19.72,
+      "end": 25.904,
+      "text": "Di langit ku tak lagi biru",
+      "words": [
+        {
+          "text": "Di",
+          "begin": 19.72,
+          "end": 20.192,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "la",
+          "begin": 20.192,
+          "end": 20.751,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ngit",
+          "begin": 20.751,
+          "end": 21.403,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 21.403,
+          "end": 22.494,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 22.866,
+          "end": 23.195,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lagi",
+          "begin": 23.195,
+          "end": 24.073,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bi",
+          "begin": 24.073,
+          "end": 24.919,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ru",
+          "begin": 24.919,
+          "end": 25.904,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 26.332,
+      "end": 32.867,
+      "text": "Tak lagi cerah seperti dulu",
+      "words": [
+        {
+          "text": "Tak",
+          "begin": 26.332,
+          "end": 26.665,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lagi",
+          "begin": 26.665,
+          "end": 27.593,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ce",
+          "begin": 27.593,
+          "end": 28.34,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "rah",
+          "begin": 28.34,
+          "end": 29.262,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "se",
+          "begin": 29.715,
+          "end": 30.156,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "per",
+          "begin": 30.156,
+          "end": 30.633,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ti",
+          "begin": 30.633,
+          "end": 31.085,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "du",
+          "begin": 31.085,
+          "end": 31.928,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lu",
+          "begin": 31.928,
+          "end": 32.867,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 33.682,
+      "end": 39.796,
+      "text": "Sepi ini masih di sini",
+      "words": [
+        {
+          "text": "Se",
+          "begin": 33.682,
+          "end": 34.104,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pi",
+          "begin": 34.104,
+          "end": 34.503,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 34.503,
+          "end": 35.415,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "i",
+          "begin": 35.415,
+          "end": 36.358,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 36.772,
+          "end": 37.132,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sih",
+          "begin": 37.132,
+          "end": 37.553,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 37.553,
+          "end": 38.01,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "si",
+          "begin": 38.01,
+          "end": 38.831,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ni",
+          "begin": 38.831,
+          "end": 39.796,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 40.309,
+      "end": 46.887,
+      "text": "Hanya bayangmuyang menemani",
+      "words": [
+        {
+          "text": "Hanya",
+          "begin": 40.309,
+          "end": 41.106,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 41.106,
+          "end": 41.522,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "yang",
+          "begin": 41.522,
+          "end": 42.259,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu",
+          "begin": 42.259,
+          "end": 43.224,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "yang",
+          "begin": 43.689,
+          "end": 44.11,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 44.11,
+          "end": 44.532,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ne",
+          "begin": 44.532,
+          "end": 44.959,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 44.959,
+          "end": 45.853,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ni",
+          "begin": 45.853,
+          "end": 46.887,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 49.384,
+      "end": 54.913,
+      "text": "Ku memanggil namamu",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 49.384,
+          "end": 49.751,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 49.751,
+          "end": 49.997,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mang",
+          "begin": 49.997,
+          "end": 50.677,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gil",
+          "begin": 50.677,
+          "end": 50.913,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "na",
+          "begin": 50.913,
+          "end": 51.461,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 51.461,
+          "end": 51.769,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu",
+          "begin": 51.769,
+          "end": 54.913,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 56.338,
+      "end": 59.703,
+      "text": "Tapi apa kau tahu?",
+      "words": [
+        {
+          "text": "Tapi",
+          "begin": 56.338,
+          "end": 56.91,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 56.91,
+          "end": 57.601,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pa",
+          "begin": 57.601,
+          "end": 57.875,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kau",
+          "begin": 57.875,
+          "end": 58.432,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 58.432,
+          "end": 58.742,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "hu?",
+          "begin": 58.742,
+          "end": 59.703,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 60.432,
+      "end": 69.87,
+      "text": "Atau kau tak mau tahu rasa sedihku?",
+      "words": [
+        {
+          "text": "Atau",
+          "begin": 60.432,
+          "end": 61.013,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kau",
+          "begin": 61.013,
+          "end": 61.436,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 61.436,
+          "end": 61.881,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mau",
+          "begin": 61.881,
+          "end": 62.814,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 62.814,
+          "end": 63.267,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "hu",
+          "begin": 63.267,
+          "end": 64.314,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rasa",
+          "begin": 64.974,
+          "end": 65.822,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "se",
+          "begin": 65.822,
+          "end": 66.281,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dih",
+          "begin": 66.281,
+          "end": 66.735,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku?",
+          "begin": 66.735,
+          "end": 69.87,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 71.945,
+      "end": 77.914,
+      "text": "Angin, sampaikan rindu",
+      "words": [
+        {
+          "text": "Ang",
+          "begin": 71.945,
+          "end": 72.411,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "in,",
+          "begin": 72.411,
+          "end": 74.239,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sam",
+          "begin": 74.599,
+          "end": 74.934,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pai",
+          "begin": 74.934,
+          "end": 75.339,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 75.339,
+          "end": 75.809,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rin",
+          "begin": 75.809,
+          "end": 76.663,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 76.663,
+          "end": 77.914,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 78.926,
+      "end": 84.769,
+      "text": "Hujan, rintikkan kalbu",
+      "words": [
+        {
+          "text": "Hu",
+          "begin": 78.926,
+          "end": 79.241,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "jan,",
+          "begin": 79.241,
+          "end": 81.096,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rin",
+          "begin": 81.513,
+          "end": 81.944,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tik",
+          "begin": 81.944,
+          "end": 82.311,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 82.311,
+          "end": 82.744,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kal",
+          "begin": 82.744,
+          "end": 83.538,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bu",
+          "begin": 83.538,
+          "end": 84.769,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 85.907,
+      "end": 92.116,
+      "text": "Dingin, hati membeku",
+      "words": [
+        {
+          "text": "Ding",
+          "begin": 85.907,
+          "end": 86.215,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "in,",
+          "begin": 86.215,
+          "end": 87.896,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hati",
+          "begin": 88.437,
+          "end": 89.312,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mem",
+          "begin": 89.312,
+          "end": 89.725,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "be",
+          "begin": 89.725,
+          "end": 90.60300000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku",
+          "begin": 90.60300000000001,
+          "end": 92.116,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 92.856,
+      "end": 100.10499999999999,
+      "text": "Ingin ku memelukmu",
+      "words": [
+        {
+          "text": "Ing",
+          "begin": 92.856,
+          "end": 93.231,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "in",
+          "begin": 93.231,
+          "end": 94.787,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 95.412,
+          "end": 95.75399999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 95.75399999999999,
+          "end": 96.188,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "me",
+          "begin": 96.188,
+          "end": 96.718,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "luk",
+          "begin": 96.718,
+          "end": 97.505,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu",
+          "begin": 97.505,
+          "end": 100.10499999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 113.725,
+      "end": 119.908,
+      "text": "Bersamamu menyadarkanku",
+      "words": [
+        {
+          "text": "Ber",
+          "begin": 113.725,
+          "end": 114.074,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sa",
+          "begin": 114.074,
+          "end": 114.477,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 114.477,
+          "end": 115.31,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu",
+          "begin": 115.31,
+          "end": 116.42699999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 116.792,
+          "end": 117.138,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nya",
+          "begin": 117.138,
+          "end": 117.58,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dar",
+          "begin": 117.58,
+          "end": 117.99600000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 117.99600000000001,
+          "end": 118.759,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku",
+          "begin": 118.759,
+          "end": 119.908,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 120.289,
+      "end": 126.437,
+      "text": "Kelemahanku ada di kamu",
+      "words": [
+        {
+          "text": "Ke",
+          "begin": 120.289,
+          "end": 120.673,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "le",
+          "begin": 120.673,
+          "end": 121.053,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mah",
+          "begin": 121.053,
+          "end": 121.48,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 121.48,
+          "end": 122.303,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku",
+          "begin": 122.303,
+          "end": 123.447,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 123.758,
+          "end": 124.426,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "da",
+          "begin": 124.426,
+          "end": 124.779,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 124.779,
+          "end": 124.973,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 124.973,
+          "end": 125.678,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu",
+          "begin": 125.678,
+          "end": 126.437,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 127.649,
+      "end": 133.777,
+      "text": "Mengenangmu sudah pasti sakit",
+      "words": [
+        {
+          "text": "Me",
+          "begin": 127.649,
+          "end": 128.0,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nge",
+          "begin": 128.0,
+          "end": 128.35399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nang",
+          "begin": 128.35399999999998,
+          "end": 129.222,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu",
+          "begin": 129.222,
+          "end": 130.48,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "su",
+          "begin": 130.48,
+          "end": 130.992,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dah",
+          "begin": 130.992,
+          "end": 131.452,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pasti",
+          "begin": 131.452,
+          "end": 132.353,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 132.353,
+          "end": 132.798,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kit",
+          "begin": 132.798,
+          "end": 133.777,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 134.174,
+      "end": 140.29,
+      "text": "Tapi aku cinta sakit ini",
+      "words": [
+        {
+          "text": "Ta",
+          "begin": 134.174,
+          "end": 134.587,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pi",
+          "begin": 134.587,
+          "end": 134.971,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "aku",
+          "begin": 134.971,
+          "end": 135.836,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cin",
+          "begin": 135.836,
+          "end": 136.177,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ta",
+          "begin": 136.177,
+          "end": 137.281,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sakit",
+          "begin": 137.558,
+          "end": 138.611,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "i",
+          "begin": 138.611,
+          "end": 138.879,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ni",
+          "begin": 138.879,
+          "end": 140.29,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 141.549,
+      "end": 147.964,
+      "text": "Angin, sampaikan rindu",
+      "words": [
+        {
+          "text": "A",
+          "begin": 141.549,
+          "end": 142.355,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ngin,",
+          "begin": 142.355,
+          "end": 143.956,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sampai",
+          "begin": 143.956,
+          "end": 144.897,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 144.897,
+          "end": 145.294,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rin",
+          "begin": 145.294,
+          "end": 146.044,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 146.044,
+          "end": 147.964,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 148.526,
+      "end": 154.351,
+      "text": "Hujan, rintikkan kalbu",
+      "words": [
+        {
+          "text": "Hu",
+          "begin": 148.526,
+          "end": 148.92000000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "jan,",
+          "begin": 148.92000000000002,
+          "end": 150.74099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rintik",
+          "begin": 151.133,
+          "end": 151.856,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 151.856,
+          "end": 152.269,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kal",
+          "begin": 152.269,
+          "end": 153.101,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bu",
+          "begin": 153.101,
+          "end": 154.351,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 155.465,
+      "end": 161.962,
+      "text": "Dingin, hati membeku",
+      "words": [
+        {
+          "text": "Di",
+          "begin": 155.465,
+          "end": 155.837,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ngin,",
+          "begin": 155.837,
+          "end": 157.506,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 158.03300000000002,
+          "end": 158.433,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ti",
+          "begin": 158.433,
+          "end": 158.869,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mem",
+          "begin": 158.869,
+          "end": 159.28199999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "be",
+          "begin": 159.28199999999998,
+          "end": 160.133,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku",
+          "begin": 160.133,
+          "end": 161.962,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 162.418,
+      "end": 169.909,
+      "text": "Ingin ku memelukmu",
+      "words": [
+        {
+          "text": "Ing",
+          "begin": 162.418,
+          "end": 163.21800000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "in",
+          "begin": 163.21800000000002,
+          "end": 164.239,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 165.03199999999998,
+          "end": 165.376,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 165.376,
+          "end": 165.766,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "me",
+          "begin": 165.766,
+          "end": 166.257,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "luk",
+          "begin": 166.257,
+          "end": 167.001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu",
+          "begin": 167.001,
+          "end": 169.909,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 170.246,
+      "end": 178.86599999999999,
+      "text": "Ingin ku memeluk dirimu",
+      "words": [
+        {
+          "text": "Ing",
+          "begin": 170.246,
+          "end": 170.677,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "in",
+          "begin": 170.677,
+          "end": 170.88,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 170.88,
+          "end": 171.464,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meme",
+          "begin": 171.464,
+          "end": 172.275,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "luk",
+          "begin": 172.275,
+          "end": 172.793,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 172.793,
+          "end": 173.213,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri",
+          "begin": 173.213,
+          "end": 174.004,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu",
+          "begin": 174.004,
+          "end": 178.86599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 173.204,
+      "end": 179.422,
+      "text": "Angin, sampaikan rindu",
+      "words": [
+        {
+          "text": "Ang",
+          "begin": 173.204,
+          "end": 173.502,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "in,",
+          "begin": 173.502,
+          "end": 174.852,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sam",
+          "begin": 175.395,
+          "end": 175.779,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pai",
+          "begin": 175.779,
+          "end": 176.233,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 176.233,
+          "end": 176.623,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rin",
+          "begin": 176.623,
+          "end": 178.773,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 178.773,
+          "end": 179.422,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L21"
+    },
+    {
+      "begin": 179.788,
+      "end": 185.459,
+      "text": "Hujan, rintikkan kalbu",
+      "words": [
+        {
+          "text": "Hu",
+          "begin": 179.788,
+          "end": 180.177,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "jan,",
+          "begin": 180.177,
+          "end": 181.865,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rintik",
+          "begin": 182.38,
+          "end": 183.156,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 183.156,
+          "end": 183.578,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kal",
+          "begin": 183.578,
+          "end": 184.427,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bu",
+          "begin": 184.427,
+          "end": 185.459,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L22"
+    },
+    {
+      "begin": 184.15,
+      "end": 188.98,
+      "text": "Dingin, hati ini membeku",
+      "words": [
+        {
+          "text": "Di",
+          "begin": 184.15,
+          "end": 184.44,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ngin,",
+          "begin": 184.44,
+          "end": 184.734,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 184.734,
+          "end": 185.377,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ti",
+          "begin": 185.377,
+          "end": 185.605,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "i",
+          "begin": 185.605,
+          "end": 186.184,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ni",
+          "begin": 186.184,
+          "end": 186.671,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mem",
+          "begin": 186.671,
+          "end": 187.088,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "be",
+          "begin": 187.088,
+          "end": 187.497,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku",
+          "begin": 187.497,
+          "end": 188.98,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 186.778,
+      "end": 193.35,
+      "text": "Dingin, hati membeku",
+      "words": [
+        {
+          "text": "Ding",
+          "begin": 186.778,
+          "end": 187.111,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "in,",
+          "begin": 187.111,
+          "end": 188.627,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 189.305,
+          "end": 189.716,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ti",
+          "begin": 189.716,
+          "end": 190.136,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mem",
+          "begin": 190.136,
+          "end": 190.585,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "be",
+          "begin": 190.585,
+          "end": 192.697,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku",
+          "begin": 192.697,
+          "end": 193.35,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L24"
+    },
+    {
+      "begin": 193.75900000000001,
+      "end": 199.712,
+      "text": "Ingin kumemelukmu",
+      "words": [
+        {
+          "text": "Ing",
+          "begin": 193.75900000000001,
+          "end": 194.082,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "in",
+          "begin": 194.082,
+          "end": 195.514,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 196.312,
+          "end": 196.683,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "meme",
+          "begin": 196.683,
+          "end": 197.55,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "luk",
+          "begin": 197.55,
+          "end": 198.343,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu",
+          "begin": 198.343,
+          "end": 199.712,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L25"
+    },
+    {
+      "begin": 198.07,
+      "end": 200.537,
+      "text": "Oh-oh",
+      "words": [
+        {
+          "text": "Oh-",
+          "begin": 198.07,
+          "end": 199.452,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "oh",
+          "begin": 199.452,
+          "end": 200.537,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 200.537,
+      "end": 207.368,
+      "text": "Angin, sampaikan rindu",
+      "words": [
+        {
+          "text": "A",
+          "begin": 200.537,
+          "end": 201.475,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ngin,",
+          "begin": 201.475,
+          "end": 202.812,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sam",
+          "begin": 203.143,
+          "end": 203.559,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pai",
+          "begin": 203.559,
+          "end": 203.989,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 203.989,
+          "end": 204.487,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rin",
+          "begin": 204.487,
+          "end": 205.195,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 205.195,
+          "end": 207.368,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27",
+      "backgroundVocal": {
+        "text": "(Angin, tolong sampaikan rindu)",
+        "words": [
+          {
+            "text": "(Ang",
+            "begin": 204.885,
+            "end": 205.023,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "in,",
+            "begin": 205.023,
+            "end": 205.518,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "to",
+            "begin": 205.518,
+            "end": 205.728,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "long",
+            "begin": 205.728,
+            "end": 206.285,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "sampai",
+            "begin": 206.285,
+            "end": 207.058,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "kan",
+            "begin": 207.058,
+            "end": 207.514,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "rin",
+            "begin": 207.514,
+            "end": 207.985,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "du)",
+            "begin": 207.985,
+            "end": 211.083,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 207.63,
+      "end": 213.89,
+      "text": "Hujan, rintikkan kalbu",
+      "words": [
+        {
+          "text": "Hu",
+          "begin": 207.63,
+          "end": 208.001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "jan,",
+          "begin": 208.001,
+          "end": 209.291,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rin",
+          "begin": 210.197,
+          "end": 210.561,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tik",
+          "begin": 210.561,
+          "end": 210.973,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 210.973,
+          "end": 211.414,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kal",
+          "begin": 211.414,
+          "end": 212.246,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bu",
+          "begin": 212.246,
+          "end": 213.89,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28",
+      "backgroundVocal": {
+        "text": "( Hujan, rintikkan kalbu membeku)",
+        "words": [
+          {
+            "text": "( Hujan,",
+            "begin": 211.766,
+            "end": 212.352,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "rintik",
+            "begin": 212.352,
+            "end": 213.179,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "kan",
+            "begin": 213.179,
+            "end": 213.615,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "kalbu",
+            "begin": 213.615,
+            "end": 214.448,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "mem",
+            "begin": 214.448,
+            "end": 214.858,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "be",
+            "begin": 214.858,
+            "end": 215.32,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "ku)",
+            "begin": 215.32,
+            "end": 217.314,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 214.539,
+      "end": 220.879,
+      "text": "Dingin, hatiku membeku",
+      "words": [
+        {
+          "text": "Di",
+          "begin": 214.539,
+          "end": 215.337,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ngin,",
+          "begin": 215.337,
+          "end": 216.84199999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hati",
+          "begin": 217.165,
+          "end": 218.148,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku",
+          "begin": 218.148,
+          "end": 218.393,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mem",
+          "begin": 218.393,
+          "end": 219.257,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "be",
+          "begin": 219.257,
+          "end": 219.71,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku",
+          "begin": 219.71,
+          "end": 220.879,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    },
+    {
+      "begin": 221.492,
+      "end": 227.653,
+      "text": "Ingin kumemelukmu",
+      "words": [
+        {
+          "text": "Ing",
+          "begin": 221.492,
+          "end": 222.31900000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "in",
+          "begin": 222.31900000000002,
+          "end": 223.494,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 224.106,
+          "end": 224.503,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "me",
+          "begin": 224.503,
+          "end": 224.876,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "me",
+          "begin": 224.876,
+          "end": 225.397,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "luk",
+          "begin": 225.397,
+          "end": 226.148,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu",
+          "begin": 226.148,
+          "end": 227.653,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30"
+    },
+    {
+      "begin": 228.536,
+      "end": 247.023,
+      "text": "Angin, sampaikan rindu",
+      "words": [
+        {
+          "text": "Ang",
+          "begin": 228.536,
+          "end": 228.9,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "in,",
+          "begin": 228.9,
+          "end": 232.664,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sam",
+          "begin": 234.452,
+          "end": 234.963,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pai",
+          "begin": 234.963,
+          "end": 235.506,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 235.506,
+          "end": 235.989,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rin",
+          "begin": 235.989,
+          "end": 236.779,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 236.779,
+          "end": 247.023,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31",
+      "backgroundVocal": {
+        "text": "(Angin, angin)",
+        "words": [
+          {
+            "text": "(Ang",
+            "begin": 230.226,
+            "end": 230.673,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "in,",
+            "begin": 230.673,
+            "end": 231.196,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "ang",
+            "begin": 231.927,
+            "end": 232.378,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "in)",
+            "begin": 232.378,
+            "end": 235.04,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    }
+  ],
+  "totalLines": 31
+}

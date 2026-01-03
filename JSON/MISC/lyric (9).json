@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      }
+    ],
+    "title": "lyric (9)",
+    "sourceFile": "lyric (9).ttml"
+  },
+  "duration": 92.725,
+  "lines": [
+    {
+      "begin": 65.536,
+      "end": 71.117,
+      "text": "Fall on your knees",
+      "words": [
+        {
+          "text": "Fa",
+          "begin": 65.536,
+          "end": 68.386,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ll",
+          "begin": 68.386,
+          "end": 68.819,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 68.819,
+          "end": 69.017,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 69.017,
+          "end": 69.25,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kne",
+          "begin": 69.25,
+          "end": 70.633,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "es",
+          "begin": 70.633,
+          "end": 71.117,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 72.336,
+      "end": 79.365,
+      "text": "O hear the angels' voices",
+      "words": [
+        {
+          "text": "O",
+          "begin": 72.336,
+          "end": 72.666,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "he",
+          "begin": 72.666,
+          "end": 74.871,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ar",
+          "begin": 74.871,
+          "end": 75.314,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 75.314,
+          "end": 75.53,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ang",
+          "begin": 75.53,
+          "end": 75.664,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "els'",
+          "begin": 75.664,
+          "end": 76.41,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "vo",
+          "begin": 76.41,
+          "end": 78.083,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "i",
+          "begin": 78.083,
+          "end": 78.248,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ces",
+          "begin": 78.248,
+          "end": 79.365,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 79.935,
+      "end": 85.638,
+      "text": "O God divine",
+      "words": [
+        {
+          "text": "O",
+          "begin": 79.935,
+          "end": 80.157,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Go",
+          "begin": 80.225,
+          "end": 82.993,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "d",
+          "begin": 82.993,
+          "end": 83.42699999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "divine",
+          "begin": 83.42699999999999,
+          "end": 85.638,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 86.889,
+      "end": 92.725,
+      "text": "O night divine",
+      "words": [
+        {
+          "text": "O",
+          "begin": 86.889,
+          "end": 87.367,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ni",
+          "begin": 87.452,
+          "end": 90.291,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ght",
+          "begin": 90.291,
+          "end": 90.7,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "divine",
+          "begin": 92.725,
+          "end": 92.725,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    }
+  ],
+  "totalLines": 4
+}

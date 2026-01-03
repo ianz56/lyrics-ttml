@@ -1,0 +1,3136 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      },
+      {
+        "id": "v2",
+        "type": "other"
+      }
+    ],
+    "artist": "Silet Open Up",
+    "title": "Tabola Bale",
+    "sourceFile": "Silet Open Up - Tabola Bale.ttml"
+  },
+  "duration": 247.603,
+  "lines": [
+    {
+      "begin": 2.895,
+      "end": 7.539,
+      "text": "Kaka tabola-bale lia Ade Nona e",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 2.895,
+          "end": 3.514,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 3.514,
+          "end": 3.877,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bola-",
+          "begin": 3.877,
+          "end": 4.43,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bale",
+          "begin": 4.43,
+          "end": 5.165,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lia",
+          "begin": 5.366,
+          "end": 5.863,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 5.863,
+          "end": 6.483,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nona",
+          "begin": 6.483,
+          "end": 7.088,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 7.088,
+          "end": 7.539,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 7.732,
+      "end": 12.388,
+      "text": "Su makin manyala e, kaka hati susah e",
+      "words": [
+        {
+          "text": "Su",
+          "begin": 7.732,
+          "end": 8.085,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "makin",
+          "begin": 8.085,
+          "end": 8.52,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "manyala",
+          "begin": 8.52,
+          "end": 9.361,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e,",
+          "begin": 9.361,
+          "end": 9.932,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 10.145,
+          "end": 10.686,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hati",
+          "begin": 10.686,
+          "end": 11.265,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "susah",
+          "begin": 11.265,
+          "end": 11.875,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 11.875,
+          "end": 12.388,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 12.533,
+      "end": 17.185,
+      "text": "Dulu denai lah suko mancaliak Uda bakawan",
+      "words": [
+        {
+          "text": "Dulu",
+          "begin": 12.533,
+          "end": 13.042,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "denai",
+          "begin": 13.042,
+          "end": 13.62,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lah",
+          "begin": 13.62,
+          "end": 13.999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "suko",
+          "begin": 13.999,
+          "end": 14.702,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "man",
+          "begin": 14.702,
+          "end": 14.913,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "caliak",
+          "begin": 14.913,
+          "end": 15.459,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Uda",
+          "begin": 15.459,
+          "end": 16.039,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 16.039,
+          "end": 16.61,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kawan",
+          "begin": 16.61,
+          "end": 17.185,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L3"
+    },
+    {
+      "begin": 17.185,
+      "end": 22.888,
+      "text": "Raso-raso ko ado, tapi denai diamkan",
+      "words": [
+        {
+          "text": "Raso-",
+          "begin": 17.185,
+          "end": 17.888,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "raso",
+          "begin": 17.888,
+          "end": 18.437,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ko",
+          "begin": 18.437,
+          "end": 18.74,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ado,",
+          "begin": 18.74,
+          "end": 19.93,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tapi",
+          "begin": 20.123,
+          "end": 20.39,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "denai",
+          "begin": 20.39,
+          "end": 20.901,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "diam",
+          "begin": 20.901,
+          "end": 21.482,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 21.482,
+          "end": 22.888,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L4",
+      "backgroundVocal": {
+        "text": "((Hei!))",
+        "words": [
+          {
+            "text": "((Hei!))",
+            "begin": 21.537,
+            "end": 23.133,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 22.471,
+      "end": 27.014,
+      "text": "Lia Ade Nona makin gaga, bikin kaka jadi suka",
+      "words": [
+        {
+          "text": "Lia",
+          "begin": 22.471,
+          "end": 22.65,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 22.65,
+          "end": 22.924,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nona",
+          "begin": 22.924,
+          "end": 23.298,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "makin",
+          "begin": 23.298,
+          "end": 23.832,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gaga,",
+          "begin": 23.832,
+          "end": 24.412,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bikin",
+          "begin": 24.412,
+          "end": 25.02,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 25.02,
+          "end": 25.618,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 25.618,
+          "end": 26.171,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 26.171,
+          "end": 26.366,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "suka",
+          "begin": 26.366,
+          "end": 27.014,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 27.261,
+      "end": 31.726,
+      "text": "Dulu Ade rambu kepang dua, sekarang rambu merah-merah",
+      "words": [
+        {
+          "text": "Dulu",
+          "begin": 27.261,
+          "end": 27.476,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 27.476,
+          "end": 27.751,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rambu",
+          "begin": 27.751,
+          "end": 28.065,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kepang",
+          "begin": 28.065,
+          "end": 28.643,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dua,",
+          "begin": 28.643,
+          "end": 29.227,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sekarang",
+          "begin": 29.227,
+          "end": 29.754,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rambu",
+          "begin": 29.754,
+          "end": 30.424,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 30.424,
+          "end": 30.96,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "rah-",
+          "begin": 30.96,
+          "end": 31.18,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "merah",
+          "begin": 31.18,
+          "end": 31.726,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 32.074,
+      "end": 36.557,
+      "text": "Kaka lia Ade tambah manis, pulang rantau dari mana?",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 32.074,
+          "end": 32.301,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lia",
+          "begin": 32.301,
+          "end": 32.589,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 32.589,
+          "end": 32.838,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tambah",
+          "begin": 32.838,
+          "end": 33.402,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "manis,",
+          "begin": 33.402,
+          "end": 34.003,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pulang",
+          "begin": 34.003,
+          "end": 34.624,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rantau",
+          "begin": 34.624,
+          "end": 35.219,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "da",
+          "begin": 35.219,
+          "end": 35.745,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri",
+          "begin": 35.745,
+          "end": 36.002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mana?",
+          "begin": 36.002,
+          "end": 36.557,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 36.846,
+      "end": 41.386,
+      "text": "Aduh, Ade Nona, jang talalu pasang gaya depan kaka",
+      "words": [
+        {
+          "text": "Aduh,",
+          "begin": 36.846,
+          "end": 37.071,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 37.071,
+          "end": 37.38,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nona,",
+          "begin": 37.38,
+          "end": 37.612,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jang",
+          "begin": 37.612,
+          "end": 37.984,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "talalu",
+          "begin": 37.984,
+          "end": 38.83,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pasang",
+          "begin": 38.83,
+          "end": 39.477,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gaya",
+          "begin": 39.477,
+          "end": 40.08,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 40.08,
+          "end": 40.593,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pan",
+          "begin": 40.593,
+          "end": 40.748,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 40.748,
+          "end": 41.386,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 41.664,
+      "end": 43.494,
+      "text": "Kaka jadi jatoh e",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 41.664,
+          "end": 41.938,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jadi",
+          "begin": 41.938,
+          "end": 42.522,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jatoh",
+          "begin": 42.522,
+          "end": 43.096,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 43.096,
+          "end": 43.494,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 43.733,
+      "end": 48.258,
+      "text": "Kaka tabola-bale lia Ade Nona e",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 43.733,
+          "end": 44.265,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 44.265,
+          "end": 44.596,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bola-",
+          "begin": 44.596,
+          "end": 45.217,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bale",
+          "begin": 45.217,
+          "end": 45.858,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lia",
+          "begin": 46.104,
+          "end": 46.625,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 46.625,
+          "end": 47.244,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nona",
+          "begin": 47.244,
+          "end": 47.848,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 47.848,
+          "end": 48.258,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 48.494,
+      "end": 53.068,
+      "text": "Su makin manyala e, kaka hati susah e",
+      "words": [
+        {
+          "text": "Su",
+          "begin": 48.494,
+          "end": 48.824,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "makin",
+          "begin": 48.824,
+          "end": 49.39,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "manyala",
+          "begin": 49.39,
+          "end": 50.192,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e,",
+          "begin": 50.192,
+          "end": 50.646,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 50.875,
+          "end": 51.508,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hati",
+          "begin": 51.508,
+          "end": 52.065,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "susah",
+          "begin": 52.065,
+          "end": 52.685,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 52.685,
+          "end": 53.068,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 53.046,
+      "end": 57.806,
+      "text": "Ade bikin kaka mete, tidur malam bola-bale",
+      "words": [
+        {
+          "text": "Ade",
+          "begin": 53.046,
+          "end": 53.532,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bikin",
+          "begin": 53.532,
+          "end": 54.144,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 54.144,
+          "end": 54.73,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mete,",
+          "begin": 54.73,
+          "end": 55.513,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tidur",
+          "begin": 55.66,
+          "end": 56.048,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "malam",
+          "begin": 56.048,
+          "end": 56.573,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bola-",
+          "begin": 56.573,
+          "end": 57.174,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bale",
+          "begin": 57.174,
+          "end": 57.806,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 58.022,
+      "end": 62.856,
+      "text": "Sejak kaka lia Ade, aduh, Tuhan, ampun e",
+      "words": [
+        {
+          "text": "Sejak",
+          "begin": 58.022,
+          "end": 58.39,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 58.39,
+          "end": 58.955,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lia",
+          "begin": 58.955,
+          "end": 59.563,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade,",
+          "begin": 59.563,
+          "end": 60.233,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "aduh,",
+          "begin": 60.448,
+          "end": 61.007,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Tuhan,",
+          "begin": 61.007,
+          "end": 61.628,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ampun",
+          "begin": 61.628,
+          "end": 62.215,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 62.215,
+          "end": 62.856,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 84.532,
+      "end": 86.174,
+      "text": "Ade lewat lorong depan rumah",
+      "words": [
+        {
+          "text": "Ade",
+          "begin": 84.532,
+          "end": 84.806,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lewat",
+          "begin": 84.806,
+          "end": 85.036,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lorong",
+          "begin": 85.036,
+          "end": 85.386,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "depan",
+          "begin": 85.386,
+          "end": 85.646,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rumah",
+          "begin": 85.646,
+          "end": 86.174,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 86.34100000000001,
+      "end": 88.47,
+      "text": "Kaka jadi salting sampe mood berubah",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 86.34100000000001,
+          "end": 86.568,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jadi",
+          "begin": 86.568,
+          "end": 86.856,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "salting",
+          "begin": 86.856,
+          "end": 87.143,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sampe",
+          "begin": 87.143,
+          "end": 87.752,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mood",
+          "begin": 87.752,
+          "end": 87.987,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "berubah",
+          "begin": 87.987,
+          "end": 88.47,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 88.685,
+      "end": 90.917,
+      "text": "Semangat tiba-tiba gara-gara Ade Nona",
+      "words": [
+        {
+          "text": "Semangat",
+          "begin": 88.685,
+          "end": 88.976,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tiba-",
+          "begin": 88.976,
+          "end": 89.197,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tiba",
+          "begin": 89.197,
+          "end": 89.488,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gara-",
+          "begin": 89.488,
+          "end": 89.818,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gara",
+          "begin": 89.818,
+          "end": 90.10900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 90.10900000000001,
+          "end": 90.44800000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nona",
+          "begin": 90.44800000000001,
+          "end": 90.917,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 91.162,
+      "end": 93.422,
+      "text": "Ini bidadari Timur siapa yang punya?",
+      "words": [
+        {
+          "text": "Ini",
+          "begin": 91.162,
+          "end": 91.43299999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bidadari",
+          "begin": 91.43299999999999,
+          "end": 92.074,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Timur",
+          "begin": 92.074,
+          "end": 92.279,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "siapa",
+          "begin": 92.279,
+          "end": 92.60900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yang",
+          "begin": 92.60900000000001,
+          "end": 92.896,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "punya?",
+          "begin": 92.896,
+          "end": 93.422,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 93.74000000000001,
+      "end": 95.936,
+      "text": "Kaka lacak ko pu nama",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 93.74000000000001,
+          "end": 94.084,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lacak",
+          "begin": 94.084,
+          "end": 94.74799999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ko",
+          "begin": 94.74799999999999,
+          "end": 95.12100000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pu",
+          "begin": 95.12100000000001,
+          "end": 95.36699999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nama",
+          "begin": 95.36699999999999,
+          "end": 95.936,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 96.174,
+      "end": 98.273,
+      "text": "Barang itu tra pake lama",
+      "words": [
+        {
+          "text": "Barang",
+          "begin": 96.174,
+          "end": 96.65,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "itu",
+          "begin": 96.65,
+          "end": 97.194,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tra",
+          "begin": 97.194,
+          "end": 97.49600000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pake",
+          "begin": 97.49600000000001,
+          "end": 97.648,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lama",
+          "begin": 97.648,
+          "end": 98.273,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 98.501,
+      "end": 100.625,
+      "text": "Langsung tanya di ko pu Mama",
+      "words": [
+        {
+          "text": "Langsung",
+          "begin": 98.501,
+          "end": 98.991,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tanya",
+          "begin": 98.991,
+          "end": 99.702,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 99.702,
+          "end": 99.858,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ko",
+          "begin": 99.858,
+          "end": 100.071,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pu",
+          "begin": 100.071,
+          "end": 100.267,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Mama",
+          "begin": 100.267,
+          "end": 100.625,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 100.625,
+      "end": 103.213,
+      "text": "Ternyata Ade Nona, ko pu nama Maimuna",
+      "words": [
+        {
+          "text": "Ternyata",
+          "begin": 100.625,
+          "end": 101.154,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 101.154,
+          "end": 101.31,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nona,",
+          "begin": 101.31,
+          "end": 101.62,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ko",
+          "begin": 101.62,
+          "end": 101.848,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pu",
+          "begin": 101.848,
+          "end": 102.089,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nama",
+          "begin": 102.089,
+          "end": 102.316,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Maimuna",
+          "begin": 102.316,
+          "end": 103.213,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 103.46600000000001,
+      "end": 105.928,
+      "text": "Eh, Maimuna, eh, lucunya",
+      "words": [
+        {
+          "text": "Eh,",
+          "begin": 103.46600000000001,
+          "end": 103.711,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Mai",
+          "begin": 103.711,
+          "end": 103.956,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "muna,",
+          "begin": 103.956,
+          "end": 104.708,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "eh,",
+          "begin": 104.86099999999999,
+          "end": 105.011,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lucu",
+          "begin": 105.011,
+          "end": 105.497,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nya",
+          "begin": 105.497,
+          "end": 105.928,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22"
+    },
+    {
+      "begin": 106.044,
+      "end": 108.194,
+      "text": "Kaka harap bisa satu rumah",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 106.044,
+          "end": 106.378,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "harap",
+          "begin": 106.378,
+          "end": 106.964,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bisa",
+          "begin": 106.964,
+          "end": 107.213,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "satu",
+          "begin": 107.213,
+          "end": 107.525,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rumah",
+          "begin": 107.525,
+          "end": 108.194,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 108.417,
+      "end": 110.694,
+      "text": "Kalau terima sa pu cinta",
+      "words": [
+        {
+          "text": "Kalau",
+          "begin": 108.417,
+          "end": 108.707,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "terima",
+          "begin": 108.707,
+          "end": 109.458,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 109.646,
+          "end": 109.72,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pu",
+          "begin": 109.72,
+          "end": 110.057,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cinta",
+          "begin": 110.057,
+          "end": 110.694,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 110.833,
+      "end": 113.244,
+      "text": "Kaka janji kita langsung nikah",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 110.833,
+          "end": 111.169,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "janji",
+          "begin": 111.169,
+          "end": 111.77199999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kita",
+          "begin": 111.77199999999999,
+          "end": 112.09,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "langsung",
+          "begin": 112.09,
+          "end": 112.358,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nikah",
+          "begin": 112.358,
+          "end": 113.244,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 149.273,
+      "end": 151.465,
+      "text": "Ondeh, Uda, janlah baitu bana",
+      "words": [
+        {
+          "text": "Ondeh,",
+          "begin": 149.273,
+          "end": 149.581,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Uda,",
+          "begin": 149.581,
+          "end": 149.906,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "janlah",
+          "begin": 149.906,
+          "end": 150.184,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "baitu",
+          "begin": 150.184,
+          "end": 150.776,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bana",
+          "begin": 150.776,
+          "end": 151.465,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L26"
+    },
+    {
+      "begin": 151.632,
+      "end": 153.862,
+      "text": "Denai ko indaklah nan sarupo itu",
+      "words": [
+        {
+          "text": "Denai",
+          "begin": 151.632,
+          "end": 151.849,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ko",
+          "begin": 151.849,
+          "end": 152.047,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "indaklah",
+          "begin": 152.047,
+          "end": 152.38400000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nan",
+          "begin": 152.38400000000001,
+          "end": 152.58100000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sarupo",
+          "begin": 152.58100000000002,
+          "end": 153.143,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "itu",
+          "begin": 153.143,
+          "end": 153.862,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L27"
+    },
+    {
+      "begin": 153.993,
+      "end": 156.272,
+      "text": "Dek hanyo takuik mancaliak Uda",
+      "words": [
+        {
+          "text": "Dek",
+          "begin": 153.993,
+          "end": 154.132,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hanyo",
+          "begin": 154.132,
+          "end": 154.374,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "takuik",
+          "begin": 154.374,
+          "end": 154.726,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "man",
+          "begin": 154.726,
+          "end": 154.857,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "caliak",
+          "begin": 154.857,
+          "end": 155.615,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Uda",
+          "begin": 155.615,
+          "end": 156.272,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L28"
+    },
+    {
+      "begin": 156.89600000000002,
+      "end": 158.696,
+      "text": "Acok mabuak-mabuakan",
+      "words": [
+        {
+          "text": "Acok",
+          "begin": 156.89600000000002,
+          "end": 157.118,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mabuak-",
+          "begin": 157.118,
+          "end": 157.665,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mabuakan",
+          "begin": 157.665,
+          "end": 158.696,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L29"
+    },
+    {
+      "begin": 158.914,
+      "end": 163.612,
+      "text": "Dulu denai lah suko mancaliak Uda bakawan",
+      "words": [
+        {
+          "text": "Dulu",
+          "begin": 158.914,
+          "end": 159.42000000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "denai",
+          "begin": 159.42000000000002,
+          "end": 160.022,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lah",
+          "begin": 160.022,
+          "end": 160.367,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "suko",
+          "begin": 160.367,
+          "end": 161.129,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "man",
+          "begin": 161.129,
+          "end": 161.31900000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "caliak",
+          "begin": 161.31900000000002,
+          "end": 161.898,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Uda",
+          "begin": 161.898,
+          "end": 162.471,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 162.471,
+          "end": 162.992,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kawan",
+          "begin": 162.992,
+          "end": 163.612,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L30"
+    },
+    {
+      "begin": 163.612,
+      "end": 169.624,
+      "text": "Raso-raso ko ado, tapi denai diamkan",
+      "words": [
+        {
+          "text": "Raso-",
+          "begin": 163.612,
+          "end": 164.201,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "raso",
+          "begin": 164.201,
+          "end": 164.768,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ko",
+          "begin": 164.768,
+          "end": 165.103,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ado,",
+          "begin": 165.103,
+          "end": 165.963,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tapi",
+          "begin": 166.454,
+          "end": 166.715,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "denai",
+          "begin": 166.715,
+          "end": 167.26,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "diam",
+          "begin": 167.26,
+          "end": 167.84199999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 167.84199999999998,
+          "end": 169.624,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L31"
+    },
+    {
+      "begin": 169.356,
+      "end": 171.546,
+      "text": "Ah, wadaw-wadaw, ini anak gaga lai",
+      "words": [
+        {
+          "text": "Ah,",
+          "begin": 169.356,
+          "end": 169.442,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wadaw-",
+          "begin": 169.442,
+          "end": 169.73,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "wadaw,",
+          "begin": 169.73,
+          "end": 169.972,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ini",
+          "begin": 169.972,
+          "end": 170.301,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "anak",
+          "begin": 170.301,
+          "end": 170.707,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gaga",
+          "begin": 170.707,
+          "end": 171.118,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lai",
+          "begin": 171.118,
+          "end": 171.546,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32"
+    },
+    {
+      "begin": 171.546,
+      "end": 173.965,
+      "text": "Su bale Jawa, tambah bening aja lai",
+      "words": [
+        {
+          "text": "Su",
+          "begin": 171.546,
+          "end": 171.864,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bale",
+          "begin": 171.864,
+          "end": 172.088,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Jawa,",
+          "begin": 172.088,
+          "end": 172.376,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tambah",
+          "begin": 172.376,
+          "end": 172.663,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bening",
+          "begin": 172.663,
+          "end": 173.077,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "aja",
+          "begin": 173.077,
+          "end": 173.502,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lai",
+          "begin": 173.502,
+          "end": 173.965,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33"
+    },
+    {
+      "begin": 174.125,
+      "end": 176.745,
+      "text": "Gaya semakin beda, bibir merah-merah",
+      "words": [
+        {
+          "text": "Gaya",
+          "begin": 174.125,
+          "end": 174.32999999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "semakin",
+          "begin": 174.32999999999998,
+          "end": 174.758,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "beda,",
+          "begin": 174.758,
+          "end": 175.39,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bibir",
+          "begin": 175.58100000000002,
+          "end": 175.77,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "merah-",
+          "begin": 175.77,
+          "end": 176.072,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "merah",
+          "begin": 176.072,
+          "end": 176.745,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L34"
+    },
+    {
+      "begin": 176.745,
+      "end": 180.825,
+      "text": "Aduh, Mama, Mama, ini siapa punya anak?",
+      "words": [
+        {
+          "text": "Aduh,",
+          "begin": 176.745,
+          "end": 176.958,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Mama,",
+          "begin": 176.958,
+          "end": 177.762,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Mama,",
+          "begin": 177.873,
+          "end": 178.365,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ini",
+          "begin": 178.365,
+          "end": 178.645,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "siapa",
+          "begin": 178.645,
+          "end": 178.916,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "punya",
+          "begin": 178.916,
+          "end": 179.15,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "anak?",
+          "begin": 179.15,
+          "end": 180.825,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L35"
+    },
+    {
+      "begin": 179.596,
+      "end": 181.3,
+      "text": "Dulu masih kici, kici, kici",
+      "words": [
+        {
+          "text": "Dulu",
+          "begin": 179.596,
+          "end": 179.766,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "masih",
+          "begin": 179.766,
+          "end": 180.073,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kici,",
+          "begin": 180.073,
+          "end": 180.421,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kici,",
+          "begin": 180.421,
+          "end": 180.813,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kici",
+          "begin": 180.813,
+          "end": 181.3,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L36",
+      "backgroundVocal": {
+        "text": "((Nona))",
+        "words": [
+          {
+            "text": "((Nona))",
+            "begin": 181.446,
+            "end": 183.018,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 182.03,
+      "end": 183.621,
+      "text": "Sekarang bale Jawa makin cantik",
+      "words": [
+        {
+          "text": "Sekarang",
+          "begin": 182.03,
+          "end": 182.288,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bale",
+          "begin": 182.288,
+          "end": 182.581,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Jawa",
+          "begin": 182.581,
+          "end": 182.75,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "makin",
+          "begin": 182.75,
+          "end": 183.067,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cantik",
+          "begin": 183.067,
+          "end": 183.621,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L37",
+      "backgroundVocal": {
+        "text": "((Nona))",
+        "words": [
+          {
+            "text": "((Nona))",
+            "begin": 183.857,
+            "end": 185.673,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 184.468,
+      "end": 189.85,
+      "text": "Ko perfect sekali, asli bidadari jatuh dari langit",
+      "words": [
+        {
+          "text": "Ko",
+          "begin": 184.468,
+          "end": 184.674,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "perfect",
+          "begin": 184.674,
+          "end": 185.071,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sekali,",
+          "begin": 185.071,
+          "end": 185.691,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "asli",
+          "begin": 185.941,
+          "end": 186.269,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bida",
+          "begin": 186.269,
+          "end": 187.028,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dari",
+          "begin": 187.137,
+          "end": 187.426,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jatuh",
+          "begin": 187.426,
+          "end": 188.149,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dari",
+          "begin": 188.362,
+          "end": 188.718,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "langit",
+          "begin": 188.718,
+          "end": 189.85,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L38"
+    },
+    {
+      "begin": 189.172,
+      "end": 192.268,
+      "text": "Kalau jadi deng Ade, kaka stop bamabo to",
+      "words": [
+        {
+          "text": "Kalau",
+          "begin": 189.172,
+          "end": 189.942,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jadi",
+          "begin": 190.065,
+          "end": 190.253,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "deng",
+          "begin": 190.253,
+          "end": 190.453,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade,",
+          "begin": 190.453,
+          "end": 190.673,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 190.673,
+          "end": 190.861,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "stop",
+          "begin": 190.861,
+          "end": 191.157,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bamabo",
+          "begin": 191.157,
+          "end": 191.851,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 191.851,
+          "end": 192.268,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L39"
+    },
+    {
+      "begin": 192.428,
+      "end": 194.761,
+      "text": "Su pasti kaka ni Ade pu jodoh",
+      "words": [
+        {
+          "text": "Su",
+          "begin": 192.428,
+          "end": 192.497,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pasti",
+          "begin": 192.497,
+          "end": 192.675,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 192.675,
+          "end": 192.911,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ni",
+          "begin": 192.911,
+          "end": 193.248,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 193.248,
+          "end": 193.467,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pu",
+          "begin": 193.467,
+          "end": 193.721,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jodoh",
+          "begin": 193.721,
+          "end": 194.761,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L40"
+    },
+    {
+      "begin": 194.301,
+      "end": 197.478,
+      "text": "Sumpah ni ja'o sodho, iwa mbodho",
+      "words": [
+        {
+          "text": "Sumpah",
+          "begin": 194.301,
+          "end": 194.782,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ni",
+          "begin": 194.782,
+          "end": 195.18,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja'o",
+          "begin": 195.18,
+          "end": 195.462,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sodho,",
+          "begin": 195.462,
+          "end": 195.773,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "iwa",
+          "begin": 195.773,
+          "end": 195.935,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mbodho",
+          "begin": 195.935,
+          "end": 197.478,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L41"
+    },
+    {
+      "begin": 197.659,
+      "end": 202.098,
+      "text": "Lia Ade Nona makin gaga, bikin kaka jadi suka",
+      "words": [
+        {
+          "text": "Lia",
+          "begin": 197.659,
+          "end": 197.945,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 197.945,
+          "end": 198.159,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nona",
+          "begin": 198.159,
+          "end": 198.462,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "makin",
+          "begin": 198.462,
+          "end": 199.088,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gaga,",
+          "begin": 199.088,
+          "end": 199.648,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bikin",
+          "begin": 199.648,
+          "end": 200.234,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 200.234,
+          "end": 200.788,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 200.788,
+          "end": 201.351,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 201.351,
+          "end": 201.572,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "suka",
+          "begin": 201.572,
+          "end": 202.098,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L42"
+    },
+    {
+      "begin": 202.41,
+      "end": 206.937,
+      "text": "Dulu Ade rambu kepang dua, sekarang rambu merah-merah",
+      "words": [
+        {
+          "text": "Dulu",
+          "begin": 202.41,
+          "end": 202.642,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 202.642,
+          "end": 202.938,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rambu",
+          "begin": 202.938,
+          "end": 203.168,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kepang",
+          "begin": 203.168,
+          "end": 203.839,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dua,",
+          "begin": 203.839,
+          "end": 204.356,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sekarang",
+          "begin": 204.356,
+          "end": 204.983,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rambu",
+          "begin": 204.983,
+          "end": 205.639,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 205.639,
+          "end": 206.169,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "rah-",
+          "begin": 206.169,
+          "end": 206.35399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "merah",
+          "begin": 206.35399999999998,
+          "end": 206.937,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L43"
+    },
+    {
+      "begin": 207.255,
+      "end": 211.739,
+      "text": "Kaka lia Ade tambah manis, pulang rantau dari mana?",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 207.255,
+          "end": 207.503,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lia",
+          "begin": 207.503,
+          "end": 207.843,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 207.843,
+          "end": 208.125,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tambah",
+          "begin": 208.125,
+          "end": 208.662,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "manis,",
+          "begin": 208.662,
+          "end": 209.251,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pulang",
+          "begin": 209.251,
+          "end": 209.844,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rantau",
+          "begin": 209.844,
+          "end": 210.432,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "da",
+          "begin": 210.432,
+          "end": 210.971,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri",
+          "begin": 210.971,
+          "end": 211.153,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mana?",
+          "begin": 211.153,
+          "end": 211.739,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L44"
+    },
+    {
+      "begin": 212.027,
+      "end": 216.584,
+      "text": "Aduh, Ade Nona, jang talalu pasang gaya depan kaka",
+      "words": [
+        {
+          "text": "Aduh,",
+          "begin": 212.027,
+          "end": 212.258,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 212.258,
+          "end": 212.57,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nona,",
+          "begin": 212.57,
+          "end": 212.80599999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jang",
+          "begin": 212.80599999999998,
+          "end": 213.143,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "talalu",
+          "begin": 213.143,
+          "end": 214.039,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pasang",
+          "begin": 214.039,
+          "end": 214.666,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gaya",
+          "begin": 214.666,
+          "end": 215.256,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 215.256,
+          "end": 215.80700000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pan",
+          "begin": 215.80700000000002,
+          "end": 215.95,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 215.95,
+          "end": 216.584,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L45"
+    },
+    {
+      "begin": 216.882,
+      "end": 218.701,
+      "text": "Kaka jadi jatoh e",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 216.882,
+          "end": 217.105,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jadi",
+          "begin": 217.105,
+          "end": 217.659,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jatoh",
+          "begin": 217.659,
+          "end": 218.23,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 218.23,
+          "end": 218.701,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L46"
+    },
+    {
+      "begin": 218.877,
+      "end": 223.438,
+      "text": "Kaka tabola-bale lia Ade Nona e",
+      "words": [
+        {
+          "text": "Kaka",
+          "begin": 218.877,
+          "end": 219.429,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 219.429,
+          "end": 219.816,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bola-",
+          "begin": 219.816,
+          "end": 220.364,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bale",
+          "begin": 220.364,
+          "end": 221.048,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lia",
+          "begin": 221.305,
+          "end": 221.83100000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade",
+          "begin": 221.83100000000002,
+          "end": 222.41899999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Nona",
+          "begin": 222.41899999999998,
+          "end": 223.03300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 223.03300000000002,
+          "end": 223.438,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L47"
+    },
+    {
+      "begin": 223.691,
+      "end": 228.139,
+      "text": "Su makin manyala e, kaka hati susah e",
+      "words": [
+        {
+          "text": "Su",
+          "begin": 223.691,
+          "end": 223.997,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "makin",
+          "begin": 223.997,
+          "end": 224.49099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "manyala",
+          "begin": 224.49099999999999,
+          "end": 225.414,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e,",
+          "begin": 225.414,
+          "end": 225.877,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 226.123,
+          "end": 226.637,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hati",
+          "begin": 226.637,
+          "end": 227.20600000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "susah",
+          "begin": 227.20600000000002,
+          "end": 227.809,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 227.809,
+          "end": 228.139,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L48"
+    },
+    {
+      "begin": 228.139,
+      "end": 233.025,
+      "text": "Ade bikin kaka mete, tidur malam bola-bale",
+      "words": [
+        {
+          "text": "Ade",
+          "begin": 228.139,
+          "end": 228.638,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bikin",
+          "begin": 228.638,
+          "end": 229.301,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 229.301,
+          "end": 229.933,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mete,",
+          "begin": 229.933,
+          "end": 230.65,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tidur",
+          "begin": 230.81,
+          "end": 231.164,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "malam",
+          "begin": 231.164,
+          "end": 231.745,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bola-",
+          "begin": 231.745,
+          "end": 232.359,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bale",
+          "begin": 232.359,
+          "end": 233.025,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L49"
+    },
+    {
+      "begin": 233.215,
+      "end": 237.786,
+      "text": "Sejak kaka lia Ade, aduh, Tuhan, ampun e",
+      "words": [
+        {
+          "text": "Sejak",
+          "begin": 233.215,
+          "end": 233.572,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 233.572,
+          "end": 234.126,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lia",
+          "begin": 234.126,
+          "end": 234.765,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade,",
+          "begin": 234.765,
+          "end": 235.411,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "aduh,",
+          "begin": 235.685,
+          "end": 236.188,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Tuhan,",
+          "begin": 236.188,
+          "end": 236.796,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ampun",
+          "begin": 236.796,
+          "end": 237.389,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 237.389,
+          "end": 237.786,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L50"
+    },
+    {
+      "begin": 237.786,
+      "end": 242.607,
+      "text": "Ade bikin kaka mete, tidur malam bola-bale",
+      "words": [
+        {
+          "text": "Ade",
+          "begin": 237.786,
+          "end": 238.375,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bikin",
+          "begin": 238.375,
+          "end": 238.915,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 238.915,
+          "end": 239.497,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mete,",
+          "begin": 239.497,
+          "end": 240.257,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tidur",
+          "begin": 240.413,
+          "end": 240.782,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "malam",
+          "begin": 240.782,
+          "end": 241.33,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bola-",
+          "begin": 241.33,
+          "end": 241.923,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bale",
+          "begin": 241.923,
+          "end": 242.607,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L51"
+    },
+    {
+      "begin": 242.786,
+      "end": 247.603,
+      "text": "Sejak kaka lia Ade, aduh, Tuhan, ampun e",
+      "words": [
+        {
+          "text": "Sejak",
+          "begin": 242.786,
+          "end": 243.166,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kaka",
+          "begin": 243.166,
+          "end": 243.73,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lia",
+          "begin": 243.73,
+          "end": 244.346,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Ade,",
+          "begin": 244.346,
+          "end": 245.031,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "aduh,",
+          "begin": 245.317,
+          "end": 245.83,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Tuhan,",
+          "begin": 245.83,
+          "end": 246.416,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ampun",
+          "begin": 246.416,
+          "end": 246.985,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "e",
+          "begin": 246.985,
+          "end": 247.603,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L52"
+    }
+  ],
+  "totalLines": 52
+}

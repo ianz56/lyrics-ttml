@@ -1,0 +1,2760 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      },
+      {
+        "id": "v2",
+        "type": "other"
+      }
+    ],
+    "artist": "Ipank",
+    "title": "Rantau Den Pajauah",
+    "sourceFile": "Ipank - Rantau Den Pajauah.ttml"
+  },
+  "duration": 366.332,
+  "lines": [
+    {
+      "begin": 30.607,
+      "end": 37.978,
+      "text": "Dek harato mangko den jauah",
+      "words": [
+        {
+          "text": "Dek",
+          "begin": 30.607,
+          "end": 30.923,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 30.923,
+          "end": 31.372,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 31.372,
+          "end": 31.939,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "to",
+          "begin": 31.939,
+          "end": 33.611,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mang",
+          "begin": 33.892,
+          "end": 34.27,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ko",
+          "begin": 34.27,
+          "end": 34.505,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "den",
+          "begin": 34.505,
+          "end": 35.124,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 35.124,
+          "end": 35.591,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uah",
+          "begin": 35.591,
+          "end": 37.978,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 38.117,
+      "end": 45.807,
+      "text": "Nak taraso tawang den tampuah",
+      "words": [
+        {
+          "text": "Nak",
+          "begin": 38.117,
+          "end": 38.494,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 38.494,
+          "end": 38.931,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 38.931,
+          "end": 39.459,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "so",
+          "begin": 39.459,
+          "end": 41.154,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 41.456,
+          "end": 41.871,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "wang",
+          "begin": 41.871,
+          "end": 42.158,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "den",
+          "begin": 42.158,
+          "end": 42.797,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tam",
+          "begin": 42.797,
+          "end": 43.272,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pu",
+          "begin": 43.272,
+          "end": 45.447,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ah",
+          "begin": 45.447,
+          "end": 45.807,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 45.807,
+      "end": 53.723,
+      "text": "Hujan-paneh nan denai hadang",
+      "words": [
+        {
+          "text": "Hu",
+          "begin": 45.807,
+          "end": 46.25,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "jan-",
+          "begin": 46.25,
+          "end": 46.677,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pa",
+          "begin": 46.677,
+          "end": 47.131,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "neh",
+          "begin": 47.131,
+          "end": 48.886,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nan",
+          "begin": 49.073,
+          "end": 49.511,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "den",
+          "begin": 49.511,
+          "end": 49.805,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ai",
+          "begin": 49.805,
+          "end": 50.409,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 50.409,
+          "end": 50.94,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dang",
+          "begin": 50.94,
+          "end": 53.723,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 53.723,
+      "end": 61.833,
+      "text": "Coitu nasib si anak dagang",
+      "words": [
+        {
+          "text": "Coi",
+          "begin": 53.723,
+          "end": 54.704,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tu",
+          "begin": 54.704,
+          "end": 56.09,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "na",
+          "begin": 56.283,
+          "end": 56.692,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sib",
+          "begin": 56.692,
+          "end": 57.097,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "si",
+          "begin": 57.097,
+          "end": 57.567,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 57.567,
+          "end": 58.007,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nak",
+          "begin": 58.007,
+          "end": 58.498,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "da",
+          "begin": 58.498,
+          "end": 59.801,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gang",
+          "begin": 59.801,
+          "end": 61.833,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 68.66499999999999,
+      "end": 76.036,
+      "text": "Uda sayang, tolong dangakan",
+      "words": [
+        {
+          "text": "U",
+          "begin": 68.66499999999999,
+          "end": 69.065,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "da",
+          "begin": 69.065,
+          "end": 69.468,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 69.468,
+          "end": 69.986,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "yang,",
+          "begin": 69.986,
+          "end": 71.755,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 72.061,
+          "end": 72.328,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "long",
+          "begin": 72.328,
+          "end": 72.629,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "da",
+          "begin": 72.629,
+          "end": 73.19800000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nga",
+          "begin": 73.19800000000001,
+          "end": 73.732,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 73.732,
+          "end": 76.036,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L5"
+    },
+    {
+      "begin": 76.036,
+      "end": 83.706,
+      "text": "Lah suratan ditangguang badan",
+      "words": [
+        {
+          "text": "Lah",
+          "begin": 76.036,
+          "end": 76.565,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "su",
+          "begin": 76.565,
+          "end": 77.011,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 77.011,
+          "end": 77.537,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tan",
+          "begin": 77.537,
+          "end": 79.19200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 79.574,
+          "end": 79.976,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tang",
+          "begin": 79.976,
+          "end": 80.179,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "guang",
+          "begin": 80.179,
+          "end": 80.879,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 80.879,
+          "end": 81.342,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dan",
+          "begin": 81.342,
+          "end": 83.706,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L6"
+    },
+    {
+      "begin": 83.883,
+      "end": 91.31700000000001,
+      "text": "Matohari nan denai hadang",
+      "words": [
+        {
+          "text": "Ma",
+          "begin": 83.883,
+          "end": 84.306,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "to",
+          "begin": 84.306,
+          "end": 84.731,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 84.731,
+          "end": 85.213,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri",
+          "begin": 85.213,
+          "end": 86.992,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nan",
+          "begin": 87.227,
+          "end": 87.614,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 87.614,
+          "end": 87.811,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nai",
+          "begin": 87.811,
+          "end": 88.471,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 88.471,
+          "end": 89.004,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dang",
+          "begin": 89.004,
+          "end": 91.31700000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L7"
+    },
+    {
+      "begin": 91.31700000000001,
+      "end": 100.644,
+      "text": "Kandak rang tuo tak mungkin den lawan",
+      "words": [
+        {
+          "text": "Kan",
+          "begin": 91.31700000000001,
+          "end": 91.862,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dak",
+          "begin": 91.862,
+          "end": 92.32,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rang",
+          "begin": 92.32,
+          "end": 92.819,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tu",
+          "begin": 92.819,
+          "end": 93.451,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "o",
+          "begin": 93.451,
+          "end": 94.501,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 94.656,
+          "end": 94.96600000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mung",
+          "begin": 94.96600000000001,
+          "end": 95.57,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kin",
+          "begin": 95.57,
+          "end": 96.112,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "den",
+          "begin": 96.112,
+          "end": 96.55199999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "la",
+          "begin": 96.55199999999999,
+          "end": 97.78999999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "wan",
+          "begin": 97.78999999999999,
+          "end": 100.644,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L8"
+    },
+    {
+      "begin": 103.36,
+      "end": 111.312,
+      "text": "Babiduak mangko badayuang",
+      "words": [
+        {
+          "text": "Ba",
+          "begin": 103.36,
+          "end": 103.755,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bi",
+          "begin": 103.755,
+          "end": 104.247,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 104.247,
+          "end": 106.041,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ak",
+          "begin": 106.041,
+          "end": 106.32900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mang",
+          "begin": 106.32900000000001,
+          "end": 106.791,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ko",
+          "begin": 106.791,
+          "end": 107.12700000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 107.12700000000001,
+          "end": 107.562,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "da",
+          "begin": 107.562,
+          "end": 108.463,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "yu",
+          "begin": 108.463,
+          "end": 111.009,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ang",
+          "begin": 111.009,
+          "end": 111.312,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 111.312,
+      "end": 118.331,
+      "text": "Nak jaleh jo tapian",
+      "words": [
+        {
+          "text": "Nak",
+          "begin": 111.312,
+          "end": 111.63499999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 111.63499999999999,
+          "end": 111.924,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "leh",
+          "begin": 111.924,
+          "end": 113.664,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jo",
+          "begin": 113.81,
+          "end": 114.439,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 114.439,
+          "end": 115.106,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pi",
+          "begin": 115.106,
+          "end": 115.655,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 115.655,
+          "end": 118.331,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 118.673,
+      "end": 126.438,
+      "text": "Den duduak baok bamanuang",
+      "words": [
+        {
+          "text": "Den",
+          "begin": 118.673,
+          "end": 119.033,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "du",
+          "begin": 119.033,
+          "end": 119.444,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 119.444,
+          "end": 121.295,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ak",
+          "begin": 121.295,
+          "end": 121.455,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 121.455,
+          "end": 121.947,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ok",
+          "begin": 121.947,
+          "end": 122.161,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 122.161,
+          "end": 122.694,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 122.694,
+          "end": 123.236,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nu",
+          "begin": 123.236,
+          "end": 126.024,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ang",
+          "begin": 126.024,
+          "end": 126.438,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 126.438,
+      "end": 135.17,
+      "text": "Nak jaleh jo parasaian",
+      "words": [
+        {
+          "text": "Nak",
+          "begin": 126.438,
+          "end": 126.866,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 126.866,
+          "end": 127.171,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "leh",
+          "begin": 127.171,
+          "end": 128.873,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jo",
+          "begin": 129.099,
+          "end": 129.656,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pa",
+          "begin": 129.656,
+          "end": 130.316,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 130.316,
+          "end": 130.839,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sa",
+          "begin": 130.839,
+          "end": 131.847,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ian",
+          "begin": 131.847,
+          "end": 135.17,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 137.695,
+      "end": 144.9,
+      "text": "Usah uda jadikan baban",
+      "words": [
+        {
+          "text": "U",
+          "begin": 137.695,
+          "end": 138.054,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sah",
+          "begin": 138.054,
+          "end": 138.564,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "u",
+          "begin": 138.564,
+          "end": 139.281,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "da",
+          "begin": 139.281,
+          "end": 140.374,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 140.587,
+          "end": 140.997,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 140.997,
+          "end": 141.251,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 141.251,
+          "end": 141.801,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 141.801,
+          "end": 142.336,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ban",
+          "begin": 142.336,
+          "end": 144.9,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L13"
+    },
+    {
+      "begin": 145.313,
+      "end": 152.649,
+      "text": "Alah jodoh jo suratan",
+      "words": [
+        {
+          "text": "A",
+          "begin": 145.313,
+          "end": 145.711,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lah",
+          "begin": 145.711,
+          "end": 146.156,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jo",
+          "begin": 146.156,
+          "end": 146.843,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "doh",
+          "begin": 146.843,
+          "end": 147.954,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jo",
+          "begin": 148.166,
+          "end": 148.687,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "su",
+          "begin": 148.687,
+          "end": 149.421,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 149.421,
+          "end": 149.915,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tan",
+          "begin": 149.915,
+          "end": 152.649,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L14"
+    },
+    {
+      "begin": 152.886,
+      "end": 160.096,
+      "text": "Aia mato lai den tatahan",
+      "words": [
+        {
+          "text": "Aia",
+          "begin": 152.886,
+          "end": 153.742,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 153.742,
+          "end": 154.493,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "to",
+          "begin": 154.493,
+          "end": 155.498,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "la",
+          "begin": 155.789,
+          "end": 156.333,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "i",
+          "begin": 156.333,
+          "end": 157.064,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "den",
+          "begin": 157.064,
+          "end": 157.513,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 157.513,
+          "end": 158.489,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ta",
+          "begin": 158.489,
+          "end": 159.323,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "han",
+          "begin": 159.323,
+          "end": 160.096,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L15"
+    },
+    {
+      "begin": 160.526,
+      "end": 168.474,
+      "text": "Kasiah ka uda tak ka mungkin hilang",
+      "words": [
+        {
+          "text": "Ka",
+          "begin": 160.526,
+          "end": 160.954,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "siah",
+          "begin": 160.954,
+          "end": 161.367,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 161.367,
+          "end": 161.928,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "u",
+          "begin": 161.928,
+          "end": 162.19400000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "da",
+          "begin": 162.19400000000002,
+          "end": 163.163,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 163.163,
+          "end": 163.309,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 163.309,
+          "end": 163.853,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mung",
+          "begin": 163.853,
+          "end": 164.085,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kin",
+          "begin": 164.085,
+          "end": 164.769,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hi",
+          "begin": 164.769,
+          "end": 165.223,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang",
+          "begin": 165.223,
+          "end": 168.474,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L16"
+    },
+    {
+      "begin": 168.61599999999999,
+      "end": 175.978,
+      "text": "Jauah, jauah, rantau denai pajauah",
+      "words": [
+        {
+          "text": "Ja",
+          "begin": 168.61599999999999,
+          "end": 169.05700000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uah,",
+          "begin": 169.05700000000002,
+          "end": 170.428,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 170.428,
+          "end": 170.81,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uah,",
+          "begin": 170.81,
+          "end": 171.395,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ran",
+          "begin": 171.395,
+          "end": 171.649,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tau",
+          "begin": 171.649,
+          "end": 171.875,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 171.875,
+          "end": 172.409,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nai",
+          "begin": 172.409,
+          "end": 172.838,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pa",
+          "begin": 172.838,
+          "end": 173.26,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ja",
+          "begin": 173.26,
+          "end": 173.743,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uah",
+          "begin": 173.743,
+          "end": 175.978,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 176.27,
+      "end": 183.844,
+      "text": "Jalang, jalang, indak ka denai jalang",
+      "words": [
+        {
+          "text": "Ja",
+          "begin": 176.27,
+          "end": 176.665,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang,",
+          "begin": 176.665,
+          "end": 178.001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 178.141,
+          "end": 178.6,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang,",
+          "begin": 178.6,
+          "end": 179.048,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 179.048,
+          "end": 179.347,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dak",
+          "begin": 179.347,
+          "end": 179.742,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 179.742,
+          "end": 180.108,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 180.108,
+          "end": 180.542,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nai",
+          "begin": 180.542,
+          "end": 180.978,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 180.978,
+          "end": 181.414,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang",
+          "begin": 181.414,
+          "end": 183.844,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 221.047,
+      "end": 228.425,
+      "text": "Uda sayang, tolong dangakan",
+      "words": [
+        {
+          "text": "U",
+          "begin": 221.047,
+          "end": 221.462,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "da",
+          "begin": 221.462,
+          "end": 221.89600000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 221.89600000000002,
+          "end": 222.332,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "yang,",
+          "begin": 222.332,
+          "end": 224.141,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 224.382,
+          "end": 224.747,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "long",
+          "begin": 224.747,
+          "end": 225.017,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "da",
+          "begin": 225.017,
+          "end": 225.527,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nga",
+          "begin": 225.527,
+          "end": 226.098,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 226.098,
+          "end": 228.425,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L19"
+    },
+    {
+      "begin": 228.425,
+      "end": 236.085,
+      "text": "Lah suratan ditangguang badan",
+      "words": [
+        {
+          "text": "Lah",
+          "begin": 228.425,
+          "end": 228.963,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "su",
+          "begin": 228.963,
+          "end": 229.436,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 229.436,
+          "end": 229.962,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tan",
+          "begin": 229.962,
+          "end": 231.62,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 231.962,
+          "end": 232.358,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tang",
+          "begin": 232.358,
+          "end": 232.588,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "guang",
+          "begin": 232.588,
+          "end": 233.272,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 233.272,
+          "end": 233.742,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dan",
+          "begin": 233.742,
+          "end": 236.085,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L20"
+    },
+    {
+      "begin": 236.27,
+      "end": 243.661,
+      "text": "Matohari nan denai hadang",
+      "words": [
+        {
+          "text": "Ma",
+          "begin": 236.27,
+          "end": 236.677,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "to",
+          "begin": 236.677,
+          "end": 237.076,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 237.076,
+          "end": 237.57999999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri",
+          "begin": 237.57999999999998,
+          "end": 239.406,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nan",
+          "begin": 239.619,
+          "end": 240.033,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 240.033,
+          "end": 240.246,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nai",
+          "begin": 240.246,
+          "end": 240.877,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 240.877,
+          "end": 241.385,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dang",
+          "begin": 241.385,
+          "end": 243.661,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L21"
+    },
+    {
+      "begin": 243.879,
+      "end": 252.997,
+      "text": "Kandak rang tuo tak mungkin den lawan",
+      "words": [
+        {
+          "text": "Kan",
+          "begin": 243.879,
+          "end": 244.304,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dak",
+          "begin": 244.304,
+          "end": 244.738,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rang",
+          "begin": 244.738,
+          "end": 245.216,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tu",
+          "begin": 245.216,
+          "end": 245.825,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "o",
+          "begin": 245.825,
+          "end": 246.865,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 246.993,
+          "end": 247.39,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mung",
+          "begin": 247.39,
+          "end": 247.92,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kin",
+          "begin": 247.92,
+          "end": 248.448,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "den",
+          "begin": 248.448,
+          "end": 248.914,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "la",
+          "begin": 248.914,
+          "end": 250.18,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "wan",
+          "begin": 250.18,
+          "end": 252.997,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L22"
+    },
+    {
+      "begin": 255.749,
+      "end": 263.733,
+      "text": "Babiduak mangko badayuang",
+      "words": [
+        {
+          "text": "Ba",
+          "begin": 255.749,
+          "end": 256.116,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bi",
+          "begin": 256.116,
+          "end": 256.642,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 256.642,
+          "end": 258.211,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ak",
+          "begin": 258.211,
+          "end": 258.599,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mang",
+          "begin": 258.599,
+          "end": 259.066,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ko",
+          "begin": 259.066,
+          "end": 259.252,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 259.252,
+          "end": 259.884,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "da",
+          "begin": 259.884,
+          "end": 260.859,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "yu",
+          "begin": 260.859,
+          "end": 263.343,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ang",
+          "begin": 263.343,
+          "end": 263.733,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 263.733,
+      "end": 270.773,
+      "text": "Nak jaleh jo tapian",
+      "words": [
+        {
+          "text": "Nak",
+          "begin": 263.733,
+          "end": 264.019,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 264.019,
+          "end": 264.342,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "leh",
+          "begin": 264.342,
+          "end": 266.02,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jo",
+          "begin": 266.236,
+          "end": 266.875,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 266.875,
+          "end": 267.571,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pi",
+          "begin": 267.571,
+          "end": 268.051,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 268.051,
+          "end": 270.773,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 271.057,
+      "end": 278.815,
+      "text": "Den duduak baok bamanuang",
+      "words": [
+        {
+          "text": "Den",
+          "begin": 271.057,
+          "end": 271.439,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "du",
+          "begin": 271.439,
+          "end": 271.835,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 271.835,
+          "end": 273.538,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ak",
+          "begin": 273.538,
+          "end": 273.802,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 273.802,
+          "end": 274.297,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ok",
+          "begin": 274.297,
+          "end": 274.443,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 274.443,
+          "end": 275.049,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 275.049,
+          "end": 275.624,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nu",
+          "begin": 275.624,
+          "end": 278.387,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ang",
+          "begin": 278.387,
+          "end": 278.815,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 278.873,
+      "end": 287.52,
+      "text": "Nak jaleh jo parasaian",
+      "words": [
+        {
+          "text": "Nak",
+          "begin": 278.873,
+          "end": 279.258,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 279.258,
+          "end": 279.577,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "leh",
+          "begin": 279.577,
+          "end": 281.305,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jo",
+          "begin": 281.457,
+          "end": 282.04200000000003,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pa",
+          "begin": 282.04200000000003,
+          "end": 282.696,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 282.696,
+          "end": 283.24,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sa",
+          "begin": 283.24,
+          "end": 284.263,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ian",
+          "begin": 284.263,
+          "end": 287.52,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 290.028,
+      "end": 297.264,
+      "text": "Usah uda jadikan baban",
+      "words": [
+        {
+          "text": "U",
+          "begin": 290.028,
+          "end": 290.46,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sah",
+          "begin": 290.46,
+          "end": 290.968,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "u",
+          "begin": 290.968,
+          "end": 291.59000000000003,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "da",
+          "begin": 291.59000000000003,
+          "end": 292.748,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 292.978,
+          "end": 293.367,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "di",
+          "begin": 293.367,
+          "end": 293.616,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 293.616,
+          "end": 294.332,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 294.332,
+          "end": 294.763,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ban",
+          "begin": 294.763,
+          "end": 297.264,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L27"
+    },
+    {
+      "begin": 297.639,
+      "end": 305.006,
+      "text": "Alah jodoh jo suratan",
+      "words": [
+        {
+          "text": "A",
+          "begin": 297.639,
+          "end": 298.071,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lah",
+          "begin": 298.071,
+          "end": 298.557,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jo",
+          "begin": 298.557,
+          "end": 299.261,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "doh",
+          "begin": 299.261,
+          "end": 300.222,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jo",
+          "begin": 300.505,
+          "end": 301.078,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "su",
+          "begin": 301.078,
+          "end": 301.814,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 301.814,
+          "end": 302.294,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tan",
+          "begin": 302.294,
+          "end": 305.006,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L28"
+    },
+    {
+      "begin": 305.277,
+      "end": 312.48,
+      "text": "Aia mato lai den tatahan",
+      "words": [
+        {
+          "text": "Aia",
+          "begin": 305.277,
+          "end": 306.107,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 306.107,
+          "end": 306.859,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "to",
+          "begin": 306.859,
+          "end": 307.859,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "la",
+          "begin": 308.182,
+          "end": 308.729,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "i",
+          "begin": 308.729,
+          "end": 309.466,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "den",
+          "begin": 309.466,
+          "end": 309.891,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 309.891,
+          "end": 310.849,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ta",
+          "begin": 310.849,
+          "end": 311.702,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "han",
+          "begin": 311.702,
+          "end": 312.48,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L29"
+    },
+    {
+      "begin": 312.915,
+      "end": 320.763,
+      "text": "Kasiah ka uda tak ka mungkin hilang",
+      "words": [
+        {
+          "text": "Ka",
+          "begin": 312.915,
+          "end": 313.297,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "siah",
+          "begin": 313.297,
+          "end": 313.756,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 313.756,
+          "end": 314.328,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "u",
+          "begin": 314.328,
+          "end": 314.51,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "da",
+          "begin": 314.51,
+          "end": 315.546,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 315.546,
+          "end": 315.793,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 315.793,
+          "end": 316.235,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mung",
+          "begin": 316.235,
+          "end": 316.499,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kin",
+          "begin": 316.499,
+          "end": 317.063,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hi",
+          "begin": 317.063,
+          "end": 317.565,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang",
+          "begin": 317.565,
+          "end": 320.763,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L30"
+    },
+    {
+      "begin": 320.963,
+      "end": 328.35699999999997,
+      "text": "Jauah, jauah, rantau denai pajauah",
+      "words": [
+        {
+          "text": "Ja",
+          "begin": 320.963,
+          "end": 321.391,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uah,",
+          "begin": 321.391,
+          "end": 322.741,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 322.741,
+          "end": 323.181,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uah,",
+          "begin": 323.181,
+          "end": 323.731,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ran",
+          "begin": 323.731,
+          "end": 324.054,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tau",
+          "begin": 324.054,
+          "end": 324.31,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 324.31,
+          "end": 324.761,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nai",
+          "begin": 324.761,
+          "end": 325.227,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pa",
+          "begin": 325.227,
+          "end": 325.677,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ja",
+          "begin": 325.677,
+          "end": 326.141,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uah",
+          "begin": 326.141,
+          "end": 328.35699999999997,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31"
+    },
+    {
+      "begin": 328.615,
+      "end": 336.023,
+      "text": "Jalang, jalang, indak ka denai jalang",
+      "words": [
+        {
+          "text": "Ja",
+          "begin": 328.615,
+          "end": 329.034,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang,",
+          "begin": 329.034,
+          "end": 330.359,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 330.359,
+          "end": 330.859,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang,",
+          "begin": 330.859,
+          "end": 331.306,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 331.306,
+          "end": 331.645,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dak",
+          "begin": 331.645,
+          "end": 331.855,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 331.855,
+          "end": 332.376,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 332.376,
+          "end": 332.827,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nai",
+          "begin": 332.827,
+          "end": 333.273,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 333.273,
+          "end": 333.771,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang",
+          "begin": 333.771,
+          "end": 336.023,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32"
+    },
+    {
+      "begin": 336.239,
+      "end": 343.552,
+      "text": "Pulang, pulanglah, uda denai sayang",
+      "words": [
+        {
+          "text": "Pu",
+          "begin": 336.239,
+          "end": 336.681,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang,",
+          "begin": 336.681,
+          "end": 338.043,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pu",
+          "begin": 338.187,
+          "end": 338.619,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang",
+          "begin": 338.619,
+          "end": 339.028,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lah,",
+          "begin": 339.028,
+          "end": 339.32,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "u",
+          "begin": 339.32,
+          "end": 339.581,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "da",
+          "begin": 339.581,
+          "end": 339.994,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 339.994,
+          "end": 340.421,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nai",
+          "begin": 340.421,
+          "end": 340.896,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 340.896,
+          "end": 341.375,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "yang",
+          "begin": 341.375,
+          "end": 343.552,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L33"
+    },
+    {
+      "begin": 343.83,
+      "end": 351.094,
+      "text": "Maafkanlah cinto nan lah tajalin",
+      "words": [
+        {
+          "text": "Ma",
+          "begin": 343.83,
+          "end": 344.264,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "af",
+          "begin": 344.264,
+          "end": 345.623,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kan",
+          "begin": 345.623,
+          "end": 346.082,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lah",
+          "begin": 346.082,
+          "end": 346.639,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cin",
+          "begin": 346.639,
+          "end": 346.918,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "to",
+          "begin": 346.918,
+          "end": 347.141,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nan",
+          "begin": 347.141,
+          "end": 347.63,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lah",
+          "begin": 347.63,
+          "end": 348.097,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ta",
+          "begin": 348.097,
+          "end": 348.578,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ja",
+          "begin": 348.578,
+          "end": 349.041,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lin",
+          "begin": 349.041,
+          "end": 351.094,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L34"
+    },
+    {
+      "begin": 351.477,
+      "end": 358.789,
+      "text": "Jauah, jauah, rantau denai pajauah",
+      "words": [
+        {
+          "text": "Ja",
+          "begin": 351.477,
+          "end": 351.854,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uah,",
+          "begin": 351.854,
+          "end": 353.23,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 353.23,
+          "end": 353.71500000000003,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uah,",
+          "begin": 353.71500000000003,
+          "end": 354.18,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ran",
+          "begin": 354.18,
+          "end": 354.485,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tau",
+          "begin": 354.485,
+          "end": 354.749,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 354.749,
+          "end": 355.258,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nai",
+          "begin": 355.258,
+          "end": 355.705,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pa",
+          "begin": 355.705,
+          "end": 356.166,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ja",
+          "begin": 356.166,
+          "end": 356.663,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uah",
+          "begin": 356.663,
+          "end": 358.789,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L35"
+    },
+    {
+      "begin": 359.109,
+      "end": 366.332,
+      "text": "Jalang, jalang, indak ka denai jalang",
+      "words": [
+        {
+          "text": "Ja",
+          "begin": 359.109,
+          "end": 359.528,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang,",
+          "begin": 359.528,
+          "end": 360.845,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 360.845,
+          "end": 361.367,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang,",
+          "begin": 361.367,
+          "end": 361.861,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 361.861,
+          "end": 362.152,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dak",
+          "begin": 362.152,
+          "end": 362.449,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 362.449,
+          "end": 362.885,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 362.885,
+          "end": 363.358,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nai",
+          "begin": 363.358,
+          "end": 363.86,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ja",
+          "begin": 363.86,
+          "end": 364.341,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang",
+          "begin": 364.341,
+          "end": 366.332,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L36"
+    }
+  ],
+  "totalLines": 36
+}

@@ -1,0 +1,3056 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      }
+    ],
+    "artist": "Henry Moodie",
+    "title": "right person, wrong time",
+    "sourceFile": "Henry Moodie - right person, wrong time.ttml"
+  },
+  "duration": 217.303,
+  "lines": [
+    {
+      "begin": 12.066,
+      "end": 15.879,
+      "text": "I heard that you're back in town",
+      "words": [
+        {
+          "text": "I",
+          "begin": 12.066,
+          "end": 12.504,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heard",
+          "begin": 12.504,
+          "end": 12.97,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 12.97,
+          "end": 13.266,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you're",
+          "begin": 13.266,
+          "end": 13.649,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "back",
+          "begin": 13.649,
+          "end": 14.125,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 14.125,
+          "end": 14.634,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "town",
+          "begin": 14.634,
+          "end": 15.879,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 16.482,
+      "end": 20.597,
+      "text": "For the holidays at your parents' house",
+      "words": [
+        {
+          "text": "For",
+          "begin": 16.482,
+          "end": 16.676,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 16.676,
+          "end": 16.795,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "holi",
+          "begin": 16.795,
+          "end": 17.261,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "days",
+          "begin": 17.261,
+          "end": 17.8,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "at",
+          "begin": 17.8,
+          "end": 18.002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 18.002,
+          "end": 18.34,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pa",
+          "begin": 18.34,
+          "end": 18.739,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "rents'",
+          "begin": 18.739,
+          "end": 19.332,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "house",
+          "begin": 19.332,
+          "end": 20.597,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 21.353,
+      "end": 25.552,
+      "text": "The last time we spoke was three years ago",
+      "words": [
+        {
+          "text": "The",
+          "begin": 21.353,
+          "end": 21.512,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "last",
+          "begin": 21.512,
+          "end": 21.844,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "time",
+          "begin": 21.844,
+          "end": 22.352,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 22.352,
+          "end": 22.538,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "spoke",
+          "begin": 22.538,
+          "end": 23.18,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 23.18,
+          "end": 23.666,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "three",
+          "begin": 23.874,
+          "end": 24.354,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "years",
+          "begin": 24.354,
+          "end": 24.787,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ago",
+          "begin": 24.787,
+          "end": 25.552,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 25.552,
+      "end": 30.027,
+      "text": "But sometimes I still think about",
+      "words": [
+        {
+          "text": "But",
+          "begin": 25.552,
+          "end": 25.865,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "some",
+          "begin": 26.162,
+          "end": 26.629,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "times",
+          "begin": 26.629,
+          "end": 27.086,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 27.086,
+          "end": 27.302,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "still",
+          "begin": 27.302,
+          "end": 27.765,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "think",
+          "begin": 27.765,
+          "end": 28.154,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 28.154,
+          "end": 28.785,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bout",
+          "begin": 28.785,
+          "end": 30.027,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 30.799,
+      "end": 35.226,
+      "text": "Sneaking out the window when we were more than friends",
+      "words": [
+        {
+          "text": "Snea",
+          "begin": 30.799,
+          "end": 31.42,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "king",
+          "begin": 31.42,
+          "end": 31.97,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "out",
+          "begin": 31.97,
+          "end": 32.315,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 32.315,
+          "end": 32.514,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "win",
+          "begin": 32.514,
+          "end": 32.823,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dow",
+          "begin": 32.823,
+          "end": 33.169,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "when",
+          "begin": 33.169,
+          "end": 33.808,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 33.808,
+          "end": 34.314,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "were",
+          "begin": 34.314,
+          "end": 34.513,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "more",
+          "begin": 34.513,
+          "end": 34.639,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "than",
+          "begin": 34.639,
+          "end": 34.803,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "friends",
+          "begin": 34.803,
+          "end": 35.226,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 35.226,
+      "end": 38.795,
+      "text": "What if one day we start again?",
+      "words": [
+        {
+          "text": "What",
+          "begin": 35.226,
+          "end": 35.514,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 35.514,
+          "end": 36.096,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 36.096,
+          "end": 36.661,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "day",
+          "begin": 36.661,
+          "end": 36.997,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 36.997,
+          "end": 37.162,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "start",
+          "begin": 37.162,
+          "end": 37.524,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 37.524,
+          "end": 38.146,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gain?",
+          "begin": 38.146,
+          "end": 38.795,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 39.153,
+      "end": 41.01,
+      "text": "I don't know why",
+      "words": [
+        {
+          "text": "I",
+          "begin": 39.153,
+          "end": 39.516,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 39.516,
+          "end": 39.882,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 39.882,
+          "end": 40.221,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "why",
+          "begin": 40.221,
+          "end": 41.01,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 41.371,
+      "end": 45.482,
+      "text": "But I still believe in you and I",
+      "words": [
+        {
+          "text": "But",
+          "begin": 41.371,
+          "end": 41.501,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 41.501,
+          "end": 41.859,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "still",
+          "begin": 41.859,
+          "end": 42.297,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 42.297,
+          "end": 42.625,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lieve",
+          "begin": 42.625,
+          "end": 43.493,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 43.493,
+          "end": 43.817,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 43.817,
+          "end": 44.272,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 44.272,
+          "end": 44.675,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 44.675,
+          "end": 45.482,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8",
+      "backgroundVocal": {
+        "text": "((You and I))",
+        "words": [
+          {
+            "text": "((You",
+            "begin": 46.201,
+            "end": 46.575,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "and",
+            "begin": 46.575,
+            "end": 47.011,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "I))",
+            "begin": 47.011,
+            "end": 47.956,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 48.428,
+      "end": 50.445,
+      "text": "And I don't know how",
+      "words": [
+        {
+          "text": "And",
+          "begin": 48.428,
+          "end": 48.532,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 48.532,
+          "end": 48.937,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 48.937,
+          "end": 49.249,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 49.249,
+          "end": 49.663,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "how",
+          "begin": 49.663,
+          "end": 50.445,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 50.783,
+      "end": 55.362,
+      "text": "But I hope that one day you'll come back around",
+      "words": [
+        {
+          "text": "But",
+          "begin": 50.783,
+          "end": 50.937,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 50.937,
+          "end": 51.25,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hope",
+          "begin": 51.25,
+          "end": 51.698,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 51.698,
+          "end": 51.987,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 51.987,
+          "end": 52.411,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "day",
+          "begin": 52.411,
+          "end": 52.875,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'll",
+          "begin": 52.875,
+          "end": 53.202,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "come",
+          "begin": 53.202,
+          "end": 53.632,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "back",
+          "begin": 53.632,
+          "end": 54.072,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 54.072,
+          "end": 54.367,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "round",
+          "begin": 54.367,
+          "end": 55.362,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10",
+      "backgroundVocal": {
+        "text": "((Back around))",
+        "words": [
+          {
+            "text": "((Back",
+            "begin": 56.208,
+            "end": 56.473,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "around))",
+            "begin": 56.473,
+            "end": 57.326,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 57.649,
+      "end": 59.187,
+      "text": "And you'll say",
+      "words": [
+        {
+          "text": "And",
+          "begin": 57.649,
+          "end": 57.905,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'll",
+          "begin": 57.905,
+          "end": 58.399,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "say",
+          "begin": 58.399,
+          "end": 59.187,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 59.744,
+      "end": 61.798,
+      "text": "\"Every road I ever take",
+      "words": [
+        {
+          "text": "\"Every",
+          "begin": 59.744,
+          "end": 60.062,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "road",
+          "begin": 60.062,
+          "end": 60.435,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 60.435,
+          "end": 60.749,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ever",
+          "begin": 60.749,
+          "end": 61.221000000000004,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "take",
+          "begin": 61.221000000000004,
+          "end": 61.798,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 62.048,
+      "end": 64.096,
+      "text": "Leads to you, it's all the same",
+      "words": [
+        {
+          "text": "Leads",
+          "begin": 62.048,
+          "end": 62.31,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 62.31,
+          "end": 62.456,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you,",
+          "begin": 62.456,
+          "end": 62.771,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it's",
+          "begin": 62.771,
+          "end": 63.033,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 63.033,
+          "end": 63.366,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 63.366,
+          "end": 63.635,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "same",
+          "begin": 63.635,
+          "end": 64.096,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 64.415,
+      "end": 66.796,
+      "text": "You're the one that got away\"",
+      "words": [
+        {
+          "text": "You're",
+          "begin": 64.415,
+          "end": 64.704,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 64.704,
+          "end": 64.83,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 64.83,
+          "end": 65.172,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 65.172,
+          "end": 65.468,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "got",
+          "begin": 65.468,
+          "end": 65.751,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "away\"",
+          "begin": 65.751,
+          "end": 66.796,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 67.377,
+      "end": 69.328,
+      "text": "I don't know why",
+      "words": [
+        {
+          "text": "I",
+          "begin": 67.377,
+          "end": 67.751,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 67.751,
+          "end": 68.049,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 68.049,
+          "end": 68.43299999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "why",
+          "begin": 68.43299999999999,
+          "end": 69.328,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 69.602,
+      "end": 74.055,
+      "text": "But I still believe our stars will align",
+      "words": [
+        {
+          "text": "But",
+          "begin": 69.602,
+          "end": 69.749,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 69.749,
+          "end": 70.061,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "still",
+          "begin": 70.061,
+          "end": 70.505,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 70.505,
+          "end": 70.855,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lieve",
+          "begin": 70.855,
+          "end": 71.73,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "our",
+          "begin": 71.73,
+          "end": 71.978,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "stars",
+          "begin": 71.978,
+          "end": 72.438,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 72.438,
+          "end": 72.951,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "align",
+          "begin": 72.951,
+          "end": 74.055,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 74.498,
+      "end": 78.22,
+      "text": "'Cause I'm just the right person, wrong time",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 74.498,
+          "end": 74.78999999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 74.78999999999999,
+          "end": 75.022,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "just",
+          "begin": 75.022,
+          "end": 75.246,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 75.246,
+          "end": 75.774,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "right",
+          "begin": 75.916,
+          "end": 76.076,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "per",
+          "begin": 76.076,
+          "end": 76.5,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "son,",
+          "begin": 76.5,
+          "end": 76.925,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wrong",
+          "begin": 77.099,
+          "end": 77.543,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "time",
+          "begin": 77.543,
+          "end": 78.22,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17",
+      "backgroundVocal": {
+        "text": "((Two, three, let's go))",
+        "words": [
+          {
+            "text": "((Two,",
+            "begin": 78.517,
+            "end": 79.049,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "three,",
+            "begin": 79.049,
+            "end": 79.51,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "let's",
+            "begin": 79.51,
+            "end": 79.7,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "go))",
+            "begin": 79.7,
+            "end": 80.27199999999999,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 89.661,
+      "end": 93.48400000000001,
+      "text": "Sometimes when I close my eyes",
+      "words": [
+        {
+          "text": "Some",
+          "begin": 89.661,
+          "end": 90.06700000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "times",
+          "begin": 90.06700000000001,
+          "end": 90.495,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "when",
+          "begin": 90.495,
+          "end": 90.76599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 90.76599999999999,
+          "end": 91.225,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "close",
+          "begin": 91.225,
+          "end": 91.66,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 91.66,
+          "end": 92.24600000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "eyes",
+          "begin": 92.24600000000001,
+          "end": 93.48400000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 94.328,
+      "end": 98.08500000000001,
+      "text": "I picture us in 20 years time",
+      "words": [
+        {
+          "text": "I",
+          "begin": 94.328,
+          "end": 94.419,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pic",
+          "begin": 94.419,
+          "end": 94.682,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ture",
+          "begin": 94.682,
+          "end": 94.83,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "us",
+          "begin": 94.83,
+          "end": 95.128,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 95.128,
+          "end": 95.538,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "20",
+          "begin": 95.538,
+          "end": 96.402,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "years",
+          "begin": 96.402,
+          "end": 97.01599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "time",
+          "begin": 97.01599999999999,
+          "end": 98.08500000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 98.84,
+      "end": 103.399,
+      "text": "Where it all worked out, we bought a house and settled down",
+      "words": [
+        {
+          "text": "Where",
+          "begin": 98.84,
+          "end": 99.044,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 99.044,
+          "end": 99.432,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 99.593,
+          "end": 99.99600000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "worked",
+          "begin": 99.99600000000001,
+          "end": 100.307,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "out,",
+          "begin": 100.307,
+          "end": 100.73599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 100.73599999999999,
+          "end": 100.908,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bought",
+          "begin": 100.908,
+          "end": 101.35499999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 101.35499999999999,
+          "end": 101.49000000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "house",
+          "begin": 101.49000000000001,
+          "end": 101.836,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 101.836,
+          "end": 101.989,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "settled",
+          "begin": 101.989,
+          "end": 102.399,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "down",
+          "begin": 102.399,
+          "end": 103.399,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 103.561,
+      "end": 107.155,
+      "text": "I know we could do it if we tried",
+      "words": [
+        {
+          "text": "I",
+          "begin": 103.561,
+          "end": 103.735,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 103.735,
+          "end": 104.19200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 104.19200000000001,
+          "end": 104.654,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "could",
+          "begin": 104.654,
+          "end": 105.029,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "do",
+          "begin": 105.029,
+          "end": 105.457,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it",
+          "begin": 105.457,
+          "end": 105.607,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 105.607,
+          "end": 105.893,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we",
+          "begin": 105.893,
+          "end": 106.386,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tried",
+          "begin": 106.386,
+          "end": 107.155,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 107.274,
+      "end": 110.75200000000001,
+      "text": "Tried to grow a little wiser",
+      "words": [
+        {
+          "text": "Tried",
+          "begin": 107.274,
+          "end": 107.894,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 107.894,
+          "end": 108.476,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "grow",
+          "begin": 108.476,
+          "end": 108.848,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 109.06,
+          "end": 109.405,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "little",
+          "begin": 109.65299999999999,
+          "end": 109.997,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wiser",
+          "begin": 109.997,
+          "end": 110.75200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22"
+    },
+    {
+      "begin": 110.944,
+      "end": 112.918,
+      "text": "Learn from our mistakes",
+      "words": [
+        {
+          "text": "Learn",
+          "begin": 110.944,
+          "end": 111.271,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "from",
+          "begin": 111.476,
+          "end": 111.83,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "our",
+          "begin": 112.098,
+          "end": 112.382,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mistakes",
+          "begin": 112.382,
+          "end": 112.918,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 113.25999999999999,
+      "end": 116.568,
+      "text": "I can't help but wanna say",
+      "words": [
+        {
+          "text": "I",
+          "begin": 113.25999999999999,
+          "end": 113.678,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "can't",
+          "begin": 113.87100000000001,
+          "end": 114.195,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "help",
+          "begin": 114.46000000000001,
+          "end": 114.71000000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "but",
+          "begin": 114.71000000000001,
+          "end": 114.875,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wanna",
+          "begin": 114.875,
+          "end": 115.7,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "say",
+          "begin": 115.7,
+          "end": 116.568,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 116.794,
+      "end": 118.707,
+      "text": "I don't know why",
+      "words": [
+        {
+          "text": "I",
+          "begin": 116.794,
+          "end": 117.14,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 117.14,
+          "end": 117.491,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 117.491,
+          "end": 117.955,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "why",
+          "begin": 117.955,
+          "end": 118.707,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 119.038,
+      "end": 123.205,
+      "text": "But I still believe in you and I",
+      "words": [
+        {
+          "text": "But",
+          "begin": 119.038,
+          "end": 119.157,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 119.157,
+          "end": 119.509,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "still",
+          "begin": 119.509,
+          "end": 119.956,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 119.956,
+          "end": 120.263,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lieve",
+          "begin": 120.263,
+          "end": 121.222,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 121.222,
+          "end": 121.476,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 121.476,
+          "end": 121.902,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 121.902,
+          "end": 122.336,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 122.336,
+          "end": 123.205,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26",
+      "backgroundVocal": {
+        "text": "((You and I))",
+        "words": [
+          {
+            "text": "((You",
+            "begin": 123.867,
+            "end": 124.239,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "and",
+            "begin": 124.239,
+            "end": 124.701,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "I))",
+            "begin": 124.701,
+            "end": 125.774,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 126.105,
+      "end": 128.072,
+      "text": "And I don't know how",
+      "words": [
+        {
+          "text": "And",
+          "begin": 126.105,
+          "end": 126.18299999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 126.18299999999999,
+          "end": 126.568,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 126.568,
+          "end": 126.928,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 126.928,
+          "end": 127.332,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "how",
+          "begin": 127.332,
+          "end": 128.072,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 128.417,
+      "end": 132.899,
+      "text": "But I hope that one day you'll come back around",
+      "words": [
+        {
+          "text": "But",
+          "begin": 128.417,
+          "end": 128.544,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 128.544,
+          "end": 128.922,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hope",
+          "begin": 128.922,
+          "end": 129.367,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 129.367,
+          "end": 129.693,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 129.693,
+          "end": 130.108,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "day",
+          "begin": 130.108,
+          "end": 130.575,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'll",
+          "begin": 130.575,
+          "end": 130.862,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "come",
+          "begin": 130.862,
+          "end": 131.292,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "back",
+          "begin": 131.292,
+          "end": 131.717,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 131.717,
+          "end": 132.013,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "round",
+          "begin": 132.013,
+          "end": 132.899,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28",
+      "backgroundVocal": {
+        "text": "((Back around))",
+        "words": [
+          {
+            "text": "((Back",
+            "begin": 133.845,
+            "end": 134.105,
+            "isBackground": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "around))",
+            "begin": 134.105,
+            "end": 135.045,
+            "isBackground": true,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 135.31,
+      "end": 136.919,
+      "text": "And you'll say",
+      "words": [
+        {
+          "text": "And",
+          "begin": 135.31,
+          "end": 135.576,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'll",
+          "begin": 135.576,
+          "end": 136.062,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "say",
+          "begin": 136.062,
+          "end": 136.919,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    },
+    {
+      "begin": 137.358,
+      "end": 139.459,
+      "text": "\"Every road I ever take",
+      "words": [
+        {
+          "text": "\"Every",
+          "begin": 137.358,
+          "end": 137.706,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "road",
+          "begin": 137.706,
+          "end": 138.089,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 138.089,
+          "end": 138.377,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ever",
+          "begin": 138.377,
+          "end": 138.89,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "take",
+          "begin": 138.89,
+          "end": 139.459,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30"
+    },
+    {
+      "begin": 139.735,
+      "end": 141.817,
+      "text": "Leads to you, it's all the same",
+      "words": [
+        {
+          "text": "Leads",
+          "begin": 139.735,
+          "end": 139.95499999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 139.95499999999998,
+          "end": 140.103,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you,",
+          "begin": 140.103,
+          "end": 140.45,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it's",
+          "begin": 140.45,
+          "end": 140.68,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 140.68,
+          "end": 141.007,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 141.007,
+          "end": 141.247,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "same",
+          "begin": 141.247,
+          "end": 141.817,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31"
+    },
+    {
+      "begin": 142.086,
+      "end": 144.428,
+      "text": "You're the one that got away\"",
+      "words": [
+        {
+          "text": "You're",
+          "begin": 142.086,
+          "end": 142.32999999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 142.32999999999998,
+          "end": 142.465,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 142.465,
+          "end": 142.755,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 142.755,
+          "end": 143.05,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "got",
+          "begin": 143.05,
+          "end": 143.371,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "away\"",
+          "begin": 143.371,
+          "end": 144.428,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32"
+    },
+    {
+      "begin": 145.003,
+      "end": 146.901,
+      "text": "I don't know why",
+      "words": [
+        {
+          "text": "I",
+          "begin": 145.003,
+          "end": 145.429,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 145.429,
+          "end": 145.763,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 145.763,
+          "end": 146.14600000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "why",
+          "begin": 146.14600000000002,
+          "end": 146.901,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33"
+    },
+    {
+      "begin": 147.214,
+      "end": 151.751,
+      "text": "But I still believe our stars will align",
+      "words": [
+        {
+          "text": "But",
+          "begin": 147.214,
+          "end": 147.37,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 147.37,
+          "end": 147.734,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "still",
+          "begin": 147.734,
+          "end": 148.18,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 148.18,
+          "end": 148.507,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lieve",
+          "begin": 148.507,
+          "end": 149.433,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "our",
+          "begin": 149.433,
+          "end": 149.647,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "stars",
+          "begin": 149.647,
+          "end": 150.10399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 150.10399999999998,
+          "end": 150.569,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "align",
+          "begin": 150.569,
+          "end": 151.751,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L34"
+    },
+    {
+      "begin": 152.269,
+      "end": 156.037,
+      "text": "'Cause I'm just the right person, wrong time",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 152.269,
+          "end": 152.399,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 152.399,
+          "end": 152.619,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "just",
+          "begin": 152.619,
+          "end": 152.90800000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 152.90800000000002,
+          "end": 153.353,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "right",
+          "begin": 153.579,
+          "end": 153.78300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "per",
+          "begin": 153.78300000000002,
+          "end": 154.005,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "son,",
+          "begin": 154.005,
+          "end": 154.584,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wrong",
+          "begin": 154.735,
+          "end": 155.224,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "time",
+          "begin": 155.224,
+          "end": 156.037,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L35"
+    },
+    {
+      "begin": 158.43200000000002,
+      "end": 163.003,
+      "text": "London City, late nights, tipsy",
+      "words": [
+        {
+          "text": "London",
+          "begin": 158.43200000000002,
+          "end": 159.279,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "City,",
+          "begin": 159.579,
+          "end": 160.385,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "late",
+          "begin": 160.728,
+          "end": 161.061,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nights,",
+          "begin": 161.061,
+          "end": 161.777,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tipsy",
+          "begin": 161.948,
+          "end": 163.003,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L36"
+    },
+    {
+      "begin": 162.609,
+      "end": 167.663,
+      "text": "All these memories never leave me",
+      "words": [
+        {
+          "text": "All",
+          "begin": 162.609,
+          "end": 163.142,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "these",
+          "begin": 163.142,
+          "end": 163.74,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 163.74,
+          "end": 164.317,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mories",
+          "begin": 164.317,
+          "end": 165.247,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ne",
+          "begin": 165.53300000000002,
+          "end": 165.792,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ver",
+          "begin": 165.792,
+          "end": 166.464,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "leave",
+          "begin": 166.687,
+          "end": 166.981,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 166.981,
+          "end": 167.663,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L37"
+    },
+    {
+      "begin": 167.855,
+      "end": 172.636,
+      "text": "My friends, your place, young dumb mistakes",
+      "words": [
+        {
+          "text": "My",
+          "begin": 167.855,
+          "end": 168.159,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "friends,",
+          "begin": 168.159,
+          "end": 168.892,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 169.086,
+          "end": 169.358,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "place,",
+          "begin": 169.358,
+          "end": 169.975,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "young",
+          "begin": 170.221,
+          "end": 170.501,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dumb",
+          "begin": 170.501,
+          "end": 171.151,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mis",
+          "begin": 171.39,
+          "end": 171.676,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "takes",
+          "begin": 171.676,
+          "end": 172.636,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L38"
+    },
+    {
+      "begin": 172.011,
+      "end": 177.272,
+      "text": "All these memories, I wish we'd still make",
+      "words": [
+        {
+          "text": "All",
+          "begin": 172.011,
+          "end": 172.56799999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "these",
+          "begin": 172.56799999999998,
+          "end": 173.156,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 173.156,
+          "end": 173.687,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mories,",
+          "begin": 173.687,
+          "end": 174.691,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 174.801,
+          "end": 174.921,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 174.921,
+          "end": 175.209,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "we'd",
+          "begin": 175.209,
+          "end": 175.873,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "still",
+          "begin": 176.04500000000002,
+          "end": 176.393,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "make",
+          "begin": 176.393,
+          "end": 177.272,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L39"
+    },
+    {
+      "begin": 177.921,
+      "end": 179.814,
+      "text": "I don't know why",
+      "words": [
+        {
+          "text": "I",
+          "begin": 177.921,
+          "end": 178.429,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 178.429,
+          "end": 178.726,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 178.726,
+          "end": 179.163,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "why",
+          "begin": 179.163,
+          "end": 179.814,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L40"
+    },
+    {
+      "begin": 180.269,
+      "end": 184.451,
+      "text": "But I still believe in you and I",
+      "words": [
+        {
+          "text": "But",
+          "begin": 180.269,
+          "end": 180.359,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 180.359,
+          "end": 180.642,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "still",
+          "begin": 180.642,
+          "end": 181.142,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 181.142,
+          "end": 181.321,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lieve",
+          "begin": 181.321,
+          "end": 182.316,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 182.316,
+          "end": 182.626,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 182.626,
+          "end": 183.11,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 183.11,
+          "end": 183.54,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 183.54,
+          "end": 184.451,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L41"
+    },
+    {
+      "begin": 187.315,
+      "end": 189.161,
+      "text": "I don't know how",
+      "words": [
+        {
+          "text": "I",
+          "begin": 187.315,
+          "end": 187.721,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 187.721,
+          "end": 188.079,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 188.079,
+          "end": 188.446,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "how",
+          "begin": 188.446,
+          "end": 189.161,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L42"
+    },
+    {
+      "begin": 189.555,
+      "end": 193.99099999999999,
+      "text": "But I hope that one day you'll come back around",
+      "words": [
+        {
+          "text": "But",
+          "begin": 189.555,
+          "end": 189.774,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 189.774,
+          "end": 190.111,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hope",
+          "begin": 190.111,
+          "end": 190.50900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 190.50900000000001,
+          "end": 190.831,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 190.831,
+          "end": 191.235,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "day",
+          "begin": 191.235,
+          "end": 191.716,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'll",
+          "begin": 191.716,
+          "end": 191.961,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "come",
+          "begin": 191.961,
+          "end": 192.422,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "back",
+          "begin": 192.422,
+          "end": 192.912,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "around",
+          "begin": 192.912,
+          "end": 193.99099999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L43"
+    },
+    {
+      "begin": 195.047,
+      "end": 196.28300000000002,
+      "text": "Back around",
+      "words": [
+        {
+          "text": "Back",
+          "begin": 195.047,
+          "end": 195.291,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "around",
+          "begin": 195.291,
+          "end": 196.28300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L44"
+    },
+    {
+      "begin": 196.508,
+      "end": 198.216,
+      "text": "And you'll say",
+      "words": [
+        {
+          "text": "And",
+          "begin": 196.508,
+          "end": 196.745,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'll",
+          "begin": 196.745,
+          "end": 197.25900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "say",
+          "begin": 197.25900000000001,
+          "end": 198.216,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L45"
+    },
+    {
+      "begin": 198.514,
+      "end": 200.72,
+      "text": "\"Every road I ever take",
+      "words": [
+        {
+          "text": "\"Every",
+          "begin": 198.514,
+          "end": 198.832,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "road",
+          "begin": 198.832,
+          "end": 199.256,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 199.256,
+          "end": 199.552,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ever",
+          "begin": 199.552,
+          "end": 200.03300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "take",
+          "begin": 200.03300000000002,
+          "end": 200.72,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L46"
+    },
+    {
+      "begin": 200.879,
+      "end": 203.212,
+      "text": "Leads to you, it's all the same",
+      "words": [
+        {
+          "text": "Leads",
+          "begin": 200.879,
+          "end": 201.114,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 201.114,
+          "end": 201.301,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you,",
+          "begin": 201.301,
+          "end": 201.609,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it's",
+          "begin": 201.609,
+          "end": 201.848,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 201.848,
+          "end": 202.149,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 202.149,
+          "end": 202.381,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "same",
+          "begin": 202.381,
+          "end": 203.212,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L47"
+    },
+    {
+      "begin": 203.223,
+      "end": 205.74,
+      "text": "You're the one that got away\"",
+      "words": [
+        {
+          "text": "You're",
+          "begin": 203.223,
+          "end": 203.453,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 203.453,
+          "end": 203.625,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 203.625,
+          "end": 204.002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 204.002,
+          "end": 204.27,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "got",
+          "begin": 204.27,
+          "end": 204.644,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "away\"",
+          "begin": 204.644,
+          "end": 205.74,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L48"
+    },
+    {
+      "begin": 206.192,
+      "end": 208.057,
+      "text": "I don't know why",
+      "words": [
+        {
+          "text": "I",
+          "begin": 206.192,
+          "end": 206.567,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 206.567,
+          "end": 206.943,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 206.943,
+          "end": 207.246,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "why",
+          "begin": 207.246,
+          "end": 208.057,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L49"
+    },
+    {
+      "begin": 208.438,
+      "end": 212.91,
+      "text": "But I still believe our stars will align",
+      "words": [
+        {
+          "text": "But",
+          "begin": 208.438,
+          "end": 208.56,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 208.56,
+          "end": 208.928,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "still",
+          "begin": 208.928,
+          "end": 209.362,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 209.362,
+          "end": 209.668,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lieve",
+          "begin": 209.668,
+          "end": 210.53300000000002,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "our",
+          "begin": 210.53300000000002,
+          "end": 210.753,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "stars",
+          "begin": 210.753,
+          "end": 211.288,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 211.288,
+          "end": 211.751,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "align",
+          "begin": 211.751,
+          "end": 212.91,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L50"
+    },
+    {
+      "begin": 213.494,
+      "end": 217.303,
+      "text": "'Cause I'm just the right person, wrong time",
+      "words": [
+        {
+          "text": "'Cause",
+          "begin": 213.494,
+          "end": 213.594,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 213.594,
+          "end": 213.76,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "just",
+          "begin": 213.76,
+          "end": 214.03199999999998,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 214.03199999999998,
+          "end": 214.561,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "right",
+          "begin": 214.754,
+          "end": 215.003,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "per",
+          "begin": 215.003,
+          "end": 215.254,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "son,",
+          "begin": 215.254,
+          "end": 215.769,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wrong",
+          "begin": 215.945,
+          "end": 216.434,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "time",
+          "begin": 216.434,
+          "end": 217.303,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L51"
+    }
+  ],
+  "totalLines": 51
+}
