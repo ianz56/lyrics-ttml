@@ -46,11 +46,17 @@ def parse_span(span_elem, namespaces: dict) -> dict:
     role = span_elem.get(f'{{{namespaces.get("ttm", "")}}}role', '')
     is_bg = role == 'x-bg'
     
+    # Detect spaces before stripping
+    has_leading_space = text[0].isspace() if text else False
+    has_trailing_space = text[-1].isspace() if text else False
+    
     return {
         "text": text.strip() if text else "",
         "begin": parse_time(begin),
         "end": parse_time(end),
-        "isBackground": is_bg
+        "isBackground": is_bg,
+        "hasLeadingSpace": has_leading_space,
+        "hasTrailingSpace": has_trailing_space
     }
 
 
@@ -84,7 +90,10 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                     # Cek tail (text setelah span) untuk menentukan apakah ada spasi
                     # Jika tail mengandung spasi atau whitespace, tandai
                     tail = child.tail or ""
-                    word_data["hasSpaceAfter"] = bool(tail.strip() == "" and tail != "")
+                    has_tail_space = bool(tail.strip() == "" and tail != "")
+                    
+                    # Combine tail space with internal trailing space from the text itself
+                    word_data["hasSpaceAfter"] = has_tail_space or word_data.get("hasTrailingSpace", False)
                     
                     if word_data["text"]:
                         word_list.append(word_data)
@@ -100,13 +109,15 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                 result = text
             else:
                 prev_word = word_list[i - 1]
-                # Gabung tanpa spasi jika:
-                # 1. Kata sebelumnya diakhiri dengan "-"
-                # 2. Kata sebelumnya tidak punya spasi setelahnya (syllable continuation)
-                if result.endswith("-") or not prev_word.get("hasSpaceAfter", True):
-                    result += text
-                else:
+                # Check for spaces:
+                # 1. Previous word marked as having space after (tail or internal trailing)
+                # 2. Current word has leading space
+                should_add_space = prev_word.get("hasSpaceAfter", True) or w.get("hasLeadingSpace", False)
+                
+                if should_add_space:
                     result += " " + text
+                else:
+                    result += text
         return result
     
     line_text = join_words([w for w in words if not w.get("isBackground")])
