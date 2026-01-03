@@ -1,0 +1,829 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      }
+    ],
+    "artist": "Rosalia",
+    "title": "Mundo Nuevo",
+    "sourceFile": "Rosalia - Mundo Nuevo.ttml"
+  },
+  "duration": 138.399,
+  "lines": [
+    {
+      "begin": 28.053,
+      "end": 37.923,
+      "text": "Ya-ya, ah, ah, ah",
+      "words": [
+        {
+          "text": "Ya-",
+          "begin": 28.053,
+          "end": 28.333,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ya,",
+          "begin": 28.333,
+          "end": 29.908,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ah,",
+          "begin": 29.908,
+          "end": 33.534,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ah,",
+          "begin": 33.534,
+          "end": 35.469,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ah",
+          "begin": 35.469,
+          "end": 37.923,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 41.088,
+      "end": 43.348,
+      "text": "Quisiera",
+      "words": [
+        {
+          "text": "Qui",
+          "begin": 41.088,
+          "end": 41.288,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sie",
+          "begin": 41.288,
+          "end": 41.943,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 41.943,
+          "end": 43.348,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 44.801,
+      "end": 51.577,
+      "text": "Quisiera yo renegar",
+      "words": [
+        {
+          "text": "Qui",
+          "begin": 44.801,
+          "end": 44.988,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sie",
+          "begin": 44.988,
+          "end": 45.665,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 45.665,
+          "end": 46.133,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yo",
+          "begin": 46.133,
+          "end": 46.653,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "re",
+          "begin": 46.653,
+          "end": 47.765,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ne",
+          "begin": 47.765,
+          "end": 47.994,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gar",
+          "begin": 47.994,
+          "end": 51.577,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 55.261,
+      "end": 61.355,
+      "text": "Ah-ah, ah-ah, ah-ah",
+      "words": [
+        {
+          "text": "Ah-",
+          "begin": 55.261,
+          "end": 55.505,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ah,",
+          "begin": 55.505,
+          "end": 56.905,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ah-",
+          "begin": 56.905,
+          "end": 57.355,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ah,",
+          "begin": 57.355,
+          "end": 58.755,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ah-",
+          "begin": 58.755,
+          "end": 59.445,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ah",
+          "begin": 59.445,
+          "end": 61.355,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 62.674,
+      "end": 66.065,
+      "text": "Ah-ay",
+      "words": [
+        {
+          "text": "Ah-",
+          "begin": 62.674,
+          "end": 63.54,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ay",
+          "begin": 63.54,
+          "end": 66.065,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 67.338,
+      "end": 76.575,
+      "text": "Y yo quisiera renegar",
+      "words": [
+        {
+          "text": "Y",
+          "begin": 67.338,
+          "end": 70.075,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yo",
+          "begin": 70.225,
+          "end": 70.85,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "qui",
+          "begin": 70.85,
+          "end": 71.055,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sie",
+          "begin": 71.055,
+          "end": 71.595,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 71.595,
+          "end": 73.333,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "re",
+          "begin": 73.446,
+          "end": 73.868,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ne",
+          "begin": 73.868,
+          "end": 74.161,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gar",
+          "begin": 74.161,
+          "end": 76.575,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 80.154,
+      "end": 82.479,
+      "text": "De este mundo",
+      "words": [
+        {
+          "text": "De",
+          "begin": 80.154,
+          "end": 80.32900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "es",
+          "begin": 80.32900000000001,
+          "end": 80.644,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "te",
+          "begin": 80.644,
+          "end": 80.899,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mun",
+          "begin": 80.899,
+          "end": 81.404,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "do",
+          "begin": 81.404,
+          "end": 82.479,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 83.024,
+      "end": 88.851,
+      "text": "Oh-oh, oh-oh, por entero",
+      "words": [
+        {
+          "text": "Oh-",
+          "begin": 83.024,
+          "end": 83.349,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "oh,",
+          "begin": 83.349,
+          "end": 84.044,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh-",
+          "begin": 84.044,
+          "end": 84.35900000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "oh,",
+          "begin": 84.35900000000001,
+          "end": 84.589,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "por",
+          "begin": 84.729,
+          "end": 84.989,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "en",
+          "begin": 84.989,
+          "end": 85.261,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "te",
+          "begin": 85.401,
+          "end": 86.696,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ro",
+          "begin": 86.696,
+          "end": 88.851,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 88.851,
+      "end": 94.911,
+      "text": "Volver de nuevo a habitar",
+      "words": [
+        {
+          "text": "Vol",
+          "begin": 88.851,
+          "end": 89.166,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ver",
+          "begin": 89.166,
+          "end": 89.416,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 89.416,
+          "end": 89.686,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nue",
+          "begin": 89.686,
+          "end": 90.736,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "vo",
+          "begin": 90.736,
+          "end": 91.51599999999999,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a ha",
+          "begin": 91.51599999999999,
+          "end": 91.741,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bi",
+          "begin": 91.741,
+          "end": 92.081,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 92.081,
+          "end": 94.911,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 98.631,
+      "end": 108.34,
+      "text": "Madre 'e mi corazón, a-a-a-a-ay",
+      "words": [
+        {
+          "text": "Ma",
+          "begin": 98.631,
+          "end": 99.706,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dre 'e",
+          "begin": 99.706,
+          "end": 100.262,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mi",
+          "begin": 100.262,
+          "end": 101.372,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "co",
+          "begin": 101.372,
+          "end": 101.857,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 101.857,
+          "end": 102.042,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "zón,",
+          "begin": 102.042,
+          "end": 103.582,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a-",
+          "begin": 103.582,
+          "end": 103.819,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "a-",
+          "begin": 103.819,
+          "end": 104.092,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "a-",
+          "begin": 104.092,
+          "end": 104.398,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "a-",
+          "begin": 104.398,
+          "end": 104.87700000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ay",
+          "begin": 104.87700000000001,
+          "end": 108.34,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 110.864,
+      "end": 118.001,
+      "text": "Volver de nuevoa habitar",
+      "words": [
+        {
+          "text": "Vol",
+          "begin": 110.864,
+          "end": 111.73400000000001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ver",
+          "begin": 111.73400000000001,
+          "end": 111.981,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 111.981,
+          "end": 112.182,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nue",
+          "begin": 112.182,
+          "end": 114.087,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "vo",
+          "begin": 114.087,
+          "end": 114.213,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "a ha",
+          "begin": 114.213,
+          "end": 114.39699999999999,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bi",
+          "begin": 114.39699999999999,
+          "end": 114.844,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 114.844,
+          "end": 118.001,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 121.395,
+      "end": 127.142,
+      "text": "Por ver si en un mundo nuevo",
+      "words": [
+        {
+          "text": "Por",
+          "begin": 121.395,
+          "end": 121.641,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ver",
+          "begin": 121.641,
+          "end": 121.837,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "si",
+          "begin": 121.837,
+          "end": 121.987,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "en",
+          "begin": 121.987,
+          "end": 123.19200000000001,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "un",
+          "begin": 123.19200000000001,
+          "end": 123.772,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mun",
+          "begin": 123.772,
+          "end": 125.027,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "do",
+          "begin": 125.027,
+          "end": 125.357,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nue",
+          "begin": 125.357,
+          "end": 125.842,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "vo",
+          "begin": 125.842,
+          "end": 127.142,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 128.467,
+      "end": 133.334,
+      "text": "Tal vez si en un mundo nuevo, oh, ay",
+      "words": [
+        {
+          "text": "Tal",
+          "begin": 128.467,
+          "end": 128.972,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "vez",
+          "begin": 128.972,
+          "end": 129.346,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "si",
+          "begin": 129.346,
+          "end": 129.566,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "en",
+          "begin": 129.566,
+          "end": 129.831,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "un",
+          "begin": 129.831,
+          "end": 130.306,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mun",
+          "begin": 130.306,
+          "end": 130.693,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "do",
+          "begin": 130.693,
+          "end": 131.127,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nue",
+          "begin": 131.127,
+          "end": 131.495,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "vo,",
+          "begin": 131.495,
+          "end": 132.018,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh,",
+          "begin": 132.018,
+          "end": 132.62,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ay",
+          "begin": 132.62,
+          "end": 133.334,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 133.334,
+      "end": 138.399,
+      "text": "Encontraba más verdad",
+      "words": [
+        {
+          "text": "En",
+          "begin": 133.334,
+          "end": 133.607,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "con",
+          "begin": 133.607,
+          "end": 133.85399999999998,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tra",
+          "begin": 133.85399999999998,
+          "end": 134.739,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ba",
+          "begin": 134.739,
+          "end": 135.034,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "más",
+          "begin": 135.034,
+          "end": 136.069,
+          "isBackground": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ver",
+          "begin": 136.069,
+          "end": 136.305,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dad",
+          "begin": 136.305,
+          "end": 138.399,
+          "isBackground": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    }
+  ],
+  "totalLines": 14
+}
