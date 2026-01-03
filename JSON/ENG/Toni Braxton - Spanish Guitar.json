@@ -1,0 +1,5796 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      },
+      {
+        "id": "v2",
+        "type": "other"
+      }
+    ],
+    "artist": "Toni Braxton",
+    "title": "Spanish Guitar",
+    "sourceFile": "Toni Braxton - Spanish Guitar.ttml"
+  },
+  "duration": 288.454,
+  "lines": [
+    {
+      "begin": 13.807,
+      "end": 18.672,
+      "text": "​A smokey room, a small café",
+      "words": [
+        {
+          "text": "​A",
+          "begin": 13.807,
+          "end": 14.06,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "smo",
+          "begin": 14.06,
+          "end": 14.681,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "key",
+          "begin": 14.681,
+          "end": 15.116,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "room,",
+          "begin": 15.116,
+          "end": 15.808,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 15.808,
+          "end": 16.061,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "small",
+          "begin": 16.061,
+          "end": 16.644,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ca",
+          "begin": 16.644,
+          "end": 17.045,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fé",
+          "begin": 17.045,
+          "end": 18.672,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 19.246,
+      "end": 22.771,
+      "text": "They come to hear you play",
+      "words": [
+        {
+          "text": "They",
+          "begin": 19.246,
+          "end": 19.396,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "come",
+          "begin": 19.396,
+          "end": 19.87,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 19.87,
+          "end": 20.073,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hear",
+          "begin": 20.073,
+          "end": 20.642,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 20.642,
+          "end": 20.989,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "play",
+          "begin": 20.989,
+          "end": 22.771,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 23.207,
+      "end": 28.497,
+      "text": "And drink and dance the night away",
+      "words": [
+        {
+          "text": "And",
+          "begin": 23.207,
+          "end": 23.438,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "drink",
+          "begin": 23.438,
+          "end": 23.895,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 23.895,
+          "end": 24.129,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dance",
+          "begin": 24.129,
+          "end": 24.601,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 24.601,
+          "end": 24.938,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 24.938,
+          "end": 26.28,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 26.494,
+          "end": 26.936,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "way",
+          "begin": 26.936,
+          "end": 28.497,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 29.856,
+      "end": 35.104,
+      "text": "I sit out in the crowd and close my eyes",
+      "words": [
+        {
+          "text": "I",
+          "begin": 29.856,
+          "end": 30.088,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sit",
+          "begin": 30.088,
+          "end": 30.98,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "out",
+          "begin": 31.484,
+          "end": 31.665,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 31.665,
+          "end": 31.849,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 31.849,
+          "end": 32.062,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "crowd",
+          "begin": 32.062,
+          "end": 32.635,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 32.635,
+          "end": 33.207,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "close",
+          "begin": 33.411,
+          "end": 33.769,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 33.769,
+          "end": 34.123,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "eyes",
+          "begin": 34.123,
+          "end": 35.104,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 35.265,
+      "end": 38.94,
+      "text": "Dream you're mine, but you don't know",
+      "words": [
+        {
+          "text": "Dream",
+          "begin": 35.265,
+          "end": 35.924,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you're",
+          "begin": 35.924,
+          "end": 36.204,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mine,",
+          "begin": 36.204,
+          "end": 37.081,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "but",
+          "begin": 37.232,
+          "end": 37.378,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 37.378,
+          "end": 37.836,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 37.836,
+          "end": 38.124,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 38.124,
+          "end": 38.94,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 39.239,
+      "end": 43.79,
+      "text": "You don't even know that I am there",
+      "words": [
+        {
+          "text": "You",
+          "begin": 39.239,
+          "end": 39.436,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 39.436,
+          "end": 39.683,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "even",
+          "begin": 39.683,
+          "end": 40.106,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 40.106,
+          "end": 40.608,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 40.608,
+          "end": 41.166,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 41.461,
+          "end": 41.78,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "am",
+          "begin": 41.78,
+          "end": 42.055,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "there",
+          "begin": 42.055,
+          "end": 43.79,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 43.93,
+      "end": 47.886,
+      "text": "I wish that I was in your arms",
+      "words": [
+        {
+          "text": "I",
+          "begin": 43.93,
+          "end": 44.154,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 44.154,
+          "end": 44.632,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 44.632,
+          "end": 45.23,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 45.23,
+          "end": 45.783,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 45.783,
+          "end": 46.087,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 46.087,
+          "end": 46.642,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 46.642,
+          "end": 47.007,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 47.007,
+          "end": 47.886,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 48.17,
+      "end": 51.701,
+      "text": "Like that Spanish guitar",
+      "words": [
+        {
+          "text": "Like",
+          "begin": 48.17,
+          "end": 48.578,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 48.578,
+          "end": 49.127,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Span",
+          "begin": 49.363,
+          "end": 50.031,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ish",
+          "begin": 50.031,
+          "end": 50.575,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gui",
+          "begin": 50.575,
+          "end": 50.833,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 50.833,
+          "end": 51.701,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 51.952,
+      "end": 56.037,
+      "text": "And you would play me through the night",
+      "words": [
+        {
+          "text": "And",
+          "begin": 51.952,
+          "end": 52.131,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 52.131,
+          "end": 52.574,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "would",
+          "begin": 52.574,
+          "end": 53.155,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "play",
+          "begin": 53.155,
+          "end": 53.843,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 53.843,
+          "end": 54.102,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "through",
+          "begin": 54.102,
+          "end": 54.583,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 54.583,
+          "end": 55.072,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 55.072,
+          "end": 56.037,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 56.17,
+      "end": 59.273,
+      "text": "'Til the dawn",
+      "words": [
+        {
+          "text": "'Til",
+          "begin": 56.17,
+          "end": 56.59,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 56.59,
+          "end": 57.057,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dawn",
+          "begin": 57.057,
+          "end": 59.273,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L10"
+    },
+    {
+      "begin": 57.985,
+      "end": 59.732,
+      "text": "Ooh",
+      "words": [
+        {
+          "text": "Ooh",
+          "begin": 57.985,
+          "end": 59.732,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 59.732,
+      "end": 63.953,
+      "text": "I wish you'd hold me in your arms",
+      "words": [
+        {
+          "text": "I",
+          "begin": 59.732,
+          "end": 60.095,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 60.095,
+          "end": 60.584,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'd",
+          "begin": 60.584,
+          "end": 61.302,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 61.302,
+          "end": 61.851,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 61.851,
+          "end": 62.092,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 62.092,
+          "end": 62.664,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 62.664,
+          "end": 63.092,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 63.092,
+          "end": 63.953,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 64.147,
+      "end": 67.803,
+      "text": "Like that Spanish guitar",
+      "words": [
+        {
+          "text": "Like",
+          "begin": 64.147,
+          "end": 64.596,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 64.596,
+          "end": 65.153,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Span",
+          "begin": 65.359,
+          "end": 66.051,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ish",
+          "begin": 66.051,
+          "end": 66.531,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gui",
+          "begin": 66.531,
+          "end": 66.831,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 66.831,
+          "end": 67.803,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 68.152,
+      "end": 71.895,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 68.152,
+          "end": 68.583,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 68.583,
+          "end": 69.451,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 70.138,
+          "end": 71.895,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 68.166,
+      "end": 71.274,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 68.166,
+          "end": 68.594,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 68.594,
+          "end": 69.086,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 69.086,
+          "end": 71.274,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L15"
+    },
+    {
+      "begin": 72.189,
+      "end": 75.034,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 72.189,
+          "end": 72.593,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 72.593,
+          "end": 73.08500000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 73.08500000000001,
+          "end": 75.034,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L16"
+    },
+    {
+      "begin": 74.194,
+      "end": 75.803,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 74.194,
+          "end": 74.597,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 74.597,
+          "end": 75.045,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 75.045,
+          "end": 75.803,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 75.803,
+      "end": 78.805,
+      "text": "I'd be your song",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 75.803,
+          "end": 76.128,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 76.128,
+          "end": 76.629,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 76.629,
+          "end": 77.001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 77.001,
+          "end": 78.805,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 79.90899999999999,
+      "end": 81.543,
+      "text": "I'd be your song",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 79.90899999999999,
+          "end": 80.18299999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 80.18299999999999,
+          "end": 80.639,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 80.639,
+          "end": 81.025,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 81.025,
+          "end": 81.543,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 81.543,
+      "end": 86.636,
+      "text": "Steal my heart with every note you play",
+      "words": [
+        {
+          "text": "Steal",
+          "begin": 81.543,
+          "end": 82.03,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 82.03,
+          "end": 82.245,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heart",
+          "begin": 82.245,
+          "end": 82.672,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 82.672,
+          "end": 83.12,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ev",
+          "begin": 83.44800000000001,
+          "end": 83.80799999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ery",
+          "begin": 83.80799999999999,
+          "end": 84.224,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "note",
+          "begin": 84.224,
+          "end": 84.636,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 84.636,
+          "end": 84.968,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "play",
+          "begin": 84.968,
+          "end": 86.636,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 87.16499999999999,
+      "end": 90.495,
+      "text": "I pray you'll look my way",
+      "words": [
+        {
+          "text": "I",
+          "begin": 87.16499999999999,
+          "end": 87.35300000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pray",
+          "begin": 87.35300000000001,
+          "end": 87.819,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'll",
+          "begin": 87.819,
+          "end": 88.111,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "look",
+          "begin": 88.111,
+          "end": 88.55,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 88.693,
+          "end": 89.119,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "way",
+          "begin": 89.119,
+          "end": 90.495,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 91.205,
+      "end": 97.487,
+      "text": "And hold me to your heart someday, yeah",
+      "words": [
+        {
+          "text": "And",
+          "begin": 91.205,
+          "end": 91.42099999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 91.42099999999999,
+          "end": 91.876,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 91.876,
+          "end": 92.137,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 92.137,
+          "end": 92.592,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 92.592,
+          "end": 93.072,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heart",
+          "begin": 93.2,
+          "end": 94.304,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "some",
+          "begin": 94.388,
+          "end": 94.97800000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "day,",
+          "begin": 94.97800000000001,
+          "end": 96.72200000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yeah",
+          "begin": 96.935,
+          "end": 97.487,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22"
+    },
+    {
+      "begin": 97.80799999999999,
+      "end": 102.82,
+      "text": "I long to be the one that you caress",
+      "words": [
+        {
+          "text": "I",
+          "begin": 97.80799999999999,
+          "end": 98.05199999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 98.05199999999999,
+          "end": 98.709,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 99.443,
+          "end": 99.598,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 99.598,
+          "end": 99.85300000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 99.85300000000001,
+          "end": 99.99600000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "one",
+          "begin": 99.99600000000001,
+          "end": 100.53399999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 100.53399999999999,
+          "end": 101.146,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 101.417,
+          "end": 101.85900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ca",
+          "begin": 101.85900000000001,
+          "end": 102.119,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ress",
+          "begin": 102.119,
+          "end": 102.82,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 103.148,
+      "end": 106.956,
+      "text": "With a tenderness, and you don't know",
+      "words": [
+        {
+          "text": "With",
+          "begin": 103.148,
+          "end": 103.273,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 103.273,
+          "end": 103.40899999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ten",
+          "begin": 103.40899999999999,
+          "end": 103.694,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "der",
+          "begin": 103.694,
+          "end": 104.118,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ness,",
+          "begin": 104.118,
+          "end": 105.136,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 105.201,
+          "end": 105.364,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 105.364,
+          "end": 105.837,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 105.837,
+          "end": 106.093,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 106.093,
+          "end": 106.956,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 107.164,
+      "end": 111.74000000000001,
+      "text": "You don't even know that I exist",
+      "words": [
+        {
+          "text": "You",
+          "begin": 107.164,
+          "end": 107.38499999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 107.38499999999999,
+          "end": 107.701,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "even",
+          "begin": 107.701,
+          "end": 107.957,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 107.957,
+          "end": 108.541,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 108.541,
+          "end": 109.09700000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 109.394,
+          "end": 109.797,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "exist",
+          "begin": 109.797,
+          "end": 111.74000000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 111.894,
+      "end": 115.773,
+      "text": "I wish that I was in your arms",
+      "words": [
+        {
+          "text": "I",
+          "begin": 111.894,
+          "end": 112.128,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 112.128,
+          "end": 112.545,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 112.545,
+          "end": 113.28999999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 113.28999999999999,
+          "end": 113.88900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 113.88900000000001,
+          "end": 114.168,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 114.168,
+          "end": 114.58,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 114.58,
+          "end": 115.012,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 115.012,
+          "end": 115.773,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L26"
+    },
+    {
+      "begin": 111.905,
+      "end": 118.82,
+      "text": "I wish that I, ooh, your arms",
+      "words": [
+        {
+          "text": "I",
+          "begin": 111.905,
+          "end": 112.076,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 112.076,
+          "end": 112.588,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 112.588,
+          "end": 113.288,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I,",
+          "begin": 113.288,
+          "end": 114.842,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ooh,",
+          "begin": 115.089,
+          "end": 116.568,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 116.664,
+          "end": 117.075,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 117.075,
+          "end": 118.82,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 116.116,
+      "end": 119.616,
+      "text": "Like that Spanish guitar",
+      "words": [
+        {
+          "text": "Like",
+          "begin": 116.116,
+          "end": 116.56,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 116.56,
+          "end": 117.12,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Span",
+          "begin": 117.36099999999999,
+          "end": 117.973,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ish",
+          "begin": 117.973,
+          "end": 118.50399999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gui",
+          "begin": 118.50399999999999,
+          "end": 118.833,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 118.833,
+          "end": 119.616,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L28"
+    },
+    {
+      "begin": 119.911,
+      "end": 123.976,
+      "text": "And you would play me through the night",
+      "words": [
+        {
+          "text": "And",
+          "begin": 119.911,
+          "end": 120.096,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 120.096,
+          "end": 120.608,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "would",
+          "begin": 120.608,
+          "end": 121.2,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "play",
+          "begin": 121.2,
+          "end": 121.888,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 121.888,
+          "end": 122.052,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "through",
+          "begin": 122.052,
+          "end": 122.641,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 122.641,
+          "end": 122.929,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 122.929,
+          "end": 123.976,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    },
+    {
+      "begin": 124.134,
+      "end": 126.869,
+      "text": "'Til the dawn",
+      "words": [
+        {
+          "text": "'Til",
+          "begin": 124.134,
+          "end": 124.598,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 124.598,
+          "end": 125.053,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dawn",
+          "begin": 125.053,
+          "end": 126.869,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L30"
+    },
+    {
+      "begin": 125.589,
+      "end": 127.832,
+      "text": "'Til the dawn",
+      "words": [
+        {
+          "text": "'Til",
+          "begin": 125.589,
+          "end": 126.06700000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 126.06700000000001,
+          "end": 126.241,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dawn",
+          "begin": 126.241,
+          "end": 127.832,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31"
+    },
+    {
+      "begin": 127.832,
+      "end": 131.514,
+      "text": "I wish you'd hold me",
+      "words": [
+        {
+          "text": "I",
+          "begin": 127.832,
+          "end": 128.094,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 128.094,
+          "end": 128.594,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'd",
+          "begin": 128.594,
+          "end": 129.36599999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 129.36599999999999,
+          "end": 130.557,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 130.557,
+          "end": 131.514,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32"
+    },
+    {
+      "begin": 127.9,
+      "end": 131.847,
+      "text": "I wish you'd hold me in your arms",
+      "words": [
+        {
+          "text": "I",
+          "begin": 127.9,
+          "end": 128.14600000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 128.14600000000002,
+          "end": 128.537,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'd",
+          "begin": 128.537,
+          "end": 129.31,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 129.31,
+          "end": 129.818,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 129.818,
+          "end": 130.049,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 130.049,
+          "end": 130.651,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 130.651,
+          "end": 131.053,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 131.053,
+          "end": 131.847,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L33"
+    },
+    {
+      "begin": 132.162,
+      "end": 135.848,
+      "text": "Like that Spanish guitar",
+      "words": [
+        {
+          "text": "Like",
+          "begin": 132.162,
+          "end": 132.535,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 132.535,
+          "end": 133.167,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Span",
+          "begin": 133.269,
+          "end": 134.11,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ish",
+          "begin": 134.11,
+          "end": 134.554,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gui",
+          "begin": 134.554,
+          "end": 134.794,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 134.794,
+          "end": 135.848,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L34"
+    },
+    {
+      "begin": 136.137,
+      "end": 140.2,
+      "text": "All night, all night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 136.137,
+          "end": 136.54,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night,",
+          "begin": 136.54,
+          "end": 137.716,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 138.091,
+          "end": 138.618,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 138.618,
+          "end": 139.059,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 139.059,
+          "end": 140.2,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L35"
+    },
+    {
+      "begin": 136.164,
+      "end": 139.421,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 136.164,
+          "end": 136.566,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 136.566,
+          "end": 137.017,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 137.017,
+          "end": 139.421,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L36"
+    },
+    {
+      "begin": 140.208,
+      "end": 143.004,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 140.208,
+          "end": 140.612,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 140.612,
+          "end": 141.061,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 141.061,
+          "end": 143.004,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L37"
+    },
+    {
+      "begin": 142.123,
+      "end": 144.555,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 142.123,
+          "end": 142.548,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 142.548,
+          "end": 143.094,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 143.094,
+          "end": 144.555,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L38"
+    },
+    {
+      "begin": 143.867,
+      "end": 146.926,
+      "text": "I'd be your song",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 143.867,
+          "end": 144.147,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 144.147,
+          "end": 144.63400000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 144.63400000000001,
+          "end": 145.034,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 145.034,
+          "end": 146.926,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L39"
+    },
+    {
+      "begin": 145.878,
+      "end": 149.734,
+      "text": "I'd be your song",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 145.878,
+          "end": 146.13,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 146.13,
+          "end": 146.617,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 146.617,
+          "end": 146.918,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 146.918,
+          "end": 149.734,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L40"
+    },
+    {
+      "begin": 151.649,
+      "end": 153.489,
+      "text": "Te sientes entre la gente",
+      "words": [
+        {
+          "text": "Te",
+          "begin": 151.649,
+          "end": 151.893,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sientes",
+          "begin": 151.893,
+          "end": 152.375,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "entre",
+          "begin": 152.375,
+          "end": 152.575,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "la",
+          "begin": 152.575,
+          "end": 152.735,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gente",
+          "begin": 152.735,
+          "end": 153.489,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L41"
+    },
+    {
+      "begin": 154.904,
+      "end": 156.357,
+      "text": "Cierras tus ojos",
+      "words": [
+        {
+          "text": "Cierras",
+          "begin": 154.904,
+          "end": 155.31900000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tus",
+          "begin": 155.31900000000002,
+          "end": 155.573,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ojos",
+          "begin": 155.573,
+          "end": 156.357,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L42"
+    },
+    {
+      "begin": 158.141,
+      "end": 159.826,
+      "text": "Y sueñas que soy tuyo",
+      "words": [
+        {
+          "text": "Y",
+          "begin": 158.141,
+          "end": 158.38,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sueñas",
+          "begin": 158.38,
+          "end": 158.72,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "que",
+          "begin": 158.72,
+          "end": 158.942,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "soy",
+          "begin": 158.942,
+          "end": 159.188,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tuyo",
+          "begin": 159.188,
+          "end": 159.826,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L43"
+    },
+    {
+      "begin": 160.934,
+      "end": 162.022,
+      "text": "Pero yo no sé",
+      "words": [
+        {
+          "text": "Pero",
+          "begin": 160.934,
+          "end": 161.20499999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yo",
+          "begin": 161.20499999999998,
+          "end": 161.344,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "no",
+          "begin": 161.344,
+          "end": 161.536,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sé",
+          "begin": 161.536,
+          "end": 162.022,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L44"
+    },
+    {
+      "begin": 163.636,
+      "end": 165.336,
+      "text": "Ni siquiera que estás ahí",
+      "words": [
+        {
+          "text": "Ni",
+          "begin": 163.636,
+          "end": 163.861,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "siquiera",
+          "begin": 163.861,
+          "end": 164.374,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "que",
+          "begin": 164.374,
+          "end": 164.577,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "estás",
+          "begin": 164.577,
+          "end": 164.781,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ahí",
+          "begin": 164.781,
+          "end": 165.336,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L45"
+    },
+    {
+      "begin": 165.626,
+      "end": 171.484,
+      "text": "Me gustaría tenerte en mis brazos, amor",
+      "words": [
+        {
+          "text": "Me",
+          "begin": 165.626,
+          "end": 165.834,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gus",
+          "begin": 165.834,
+          "end": 166.011,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ta",
+          "begin": 166.011,
+          "end": 166.311,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "rí",
+          "begin": 166.311,
+          "end": 166.752,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "a",
+          "begin": 166.752,
+          "end": 167.071,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tenerte",
+          "begin": 167.071,
+          "end": 167.94299999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "en",
+          "begin": 167.94299999999998,
+          "end": 168.135,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mis",
+          "begin": 168.135,
+          "end": 168.297,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bra",
+          "begin": 168.297,
+          "end": 168.754,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "zos,",
+          "begin": 168.754,
+          "end": 169.102,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 169.102,
+          "end": 169.302,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mor",
+          "begin": 169.302,
+          "end": 171.484,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L46"
+    },
+    {
+      "begin": 171.86599999999999,
+      "end": 176.885,
+      "text": "I sit out in the crowd and close my eyes",
+      "words": [
+        {
+          "text": "I",
+          "begin": 171.86599999999999,
+          "end": 172.132,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sit",
+          "begin": 172.132,
+          "end": 173.062,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "out",
+          "begin": 173.411,
+          "end": 173.627,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 173.627,
+          "end": 173.79500000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 173.79500000000002,
+          "end": 174.117,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "crowd",
+          "begin": 174.117,
+          "end": 174.59300000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 174.59300000000002,
+          "end": 175.077,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "close",
+          "begin": 175.373,
+          "end": 175.811,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 175.811,
+          "end": 176.123,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "eyes",
+          "begin": 176.123,
+          "end": 176.885,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L47"
+    },
+    {
+      "begin": 177.247,
+      "end": 180.973,
+      "text": "Dream you're mine, and you don't know",
+      "words": [
+        {
+          "text": "Dream",
+          "begin": 177.247,
+          "end": 177.735,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you're",
+          "begin": 177.735,
+          "end": 178.097,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mine,",
+          "begin": 178.097,
+          "end": 178.995,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 179.201,
+          "end": 179.401,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 179.401,
+          "end": 179.825,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 179.825,
+          "end": 180.131,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 180.131,
+          "end": 180.973,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L48"
+    },
+    {
+      "begin": 181.203,
+      "end": 188.372,
+      "text": "You don't even know that I exist, oh",
+      "words": [
+        {
+          "text": "You",
+          "begin": 181.203,
+          "end": 181.369,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 181.369,
+          "end": 181.631,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "even",
+          "begin": 181.631,
+          "end": 182.103,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "know",
+          "begin": 182.103,
+          "end": 182.569,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 182.569,
+          "end": 183.155,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 183.483,
+          "end": 183.967,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "exist,",
+          "begin": 183.967,
+          "end": 185.748,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "oh",
+          "begin": 185.748,
+          "end": 188.372,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L49"
+    },
+    {
+      "begin": 185.981,
+      "end": 190.034,
+      "text": "I wish that I was in your arms",
+      "words": [
+        {
+          "text": "I",
+          "begin": 185.981,
+          "end": 186.143,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 186.143,
+          "end": 186.542,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 186.542,
+          "end": 187.098,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 187.098,
+          "end": 187.722,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 187.722,
+          "end": 188.006,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 188.006,
+          "end": 188.584,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 188.584,
+          "end": 189.024,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 189.024,
+          "end": 190.034,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L50"
+    },
+    {
+      "begin": 190.172,
+      "end": 193.702,
+      "text": "Like that Spanish guitar",
+      "words": [
+        {
+          "text": "Like",
+          "begin": 190.172,
+          "end": 190.56,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 190.56,
+          "end": 191.126,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Span",
+          "begin": 191.326,
+          "end": 192.032,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ish",
+          "begin": 192.032,
+          "end": 192.534,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gui",
+          "begin": 192.534,
+          "end": 192.796,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 192.796,
+          "end": 193.702,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L51"
+    },
+    {
+      "begin": 192.79,
+      "end": 194.19,
+      "text": "Spanish guitar",
+      "words": [
+        {
+          "text": "Span",
+          "begin": 192.79,
+          "end": 192.906,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ish",
+          "begin": 192.906,
+          "end": 193.082,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gui",
+          "begin": 193.082,
+          "end": 193.238,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 193.238,
+          "end": 194.19,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L52"
+    },
+    {
+      "begin": 193.859,
+      "end": 198.064,
+      "text": "And you would play me through the night",
+      "words": [
+        {
+          "text": "And",
+          "begin": 193.859,
+          "end": 194.121,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 194.121,
+          "end": 194.589,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "would",
+          "begin": 194.589,
+          "end": 194.964,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "play",
+          "begin": 194.964,
+          "end": 195.872,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 195.872,
+          "end": 196.082,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "through",
+          "begin": 196.082,
+          "end": 196.69,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 196.69,
+          "end": 197.07,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 197.07,
+          "end": 198.064,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L53"
+    },
+    {
+      "begin": 198.236,
+      "end": 200.752,
+      "text": "'Til the dawn",
+      "words": [
+        {
+          "text": "'Til",
+          "begin": 198.236,
+          "end": 198.566,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 198.566,
+          "end": 199.008,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dawn",
+          "begin": 199.008,
+          "end": 200.752,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L54"
+    },
+    {
+      "begin": 199.627,
+      "end": 203.416,
+      "text": "'Til the dawn",
+      "words": [
+        {
+          "text": "'Til",
+          "begin": 199.627,
+          "end": 200.003,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 200.003,
+          "end": 200.287,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dawn",
+          "begin": 200.287,
+          "end": 203.416,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L55"
+    },
+    {
+      "begin": 201.922,
+      "end": 205.90800000000002,
+      "text": "I wish you'd hold me in your arms",
+      "words": [
+        {
+          "text": "I",
+          "begin": 201.922,
+          "end": 202.15,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 202.15,
+          "end": 202.534,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'd",
+          "begin": 202.534,
+          "end": 203.3,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 203.3,
+          "end": 203.844,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 203.844,
+          "end": 204.042,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 204.042,
+          "end": 204.57999999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 204.57999999999998,
+          "end": 205.058,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 205.058,
+          "end": 205.90800000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L56"
+    },
+    {
+      "begin": 206.178,
+      "end": 209.72,
+      "text": "Like that Spanish guitar",
+      "words": [
+        {
+          "text": "Like",
+          "begin": 206.178,
+          "end": 206.602,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 206.602,
+          "end": 207.178,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Span",
+          "begin": 207.364,
+          "end": 208.062,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ish",
+          "begin": 208.062,
+          "end": 208.556,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gui",
+          "begin": 208.556,
+          "end": 208.798,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 208.798,
+          "end": 209.72,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L57"
+    },
+    {
+      "begin": 209.373,
+      "end": 212.829,
+      "text": "Wish that I was in your arms",
+      "words": [
+        {
+          "text": "Wish",
+          "begin": 209.373,
+          "end": 209.605,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 209.605,
+          "end": 209.739,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 209.739,
+          "end": 210.095,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 210.095,
+          "end": 210.415,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 210.415,
+          "end": 210.887,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 210.887,
+          "end": 211.143,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 211.143,
+          "end": 212.829,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L58"
+    },
+    {
+      "begin": 214.2,
+      "end": 218.017,
+      "text": "Like that Spanish guitar",
+      "words": [
+        {
+          "text": "Like",
+          "begin": 214.2,
+          "end": 214.572,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 214.572,
+          "end": 215.227,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Span",
+          "begin": 215.44299999999998,
+          "end": 216.06900000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ish",
+          "begin": 216.06900000000002,
+          "end": 216.601,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gui",
+          "begin": 216.601,
+          "end": 216.844,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 216.844,
+          "end": 218.017,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L59"
+    },
+    {
+      "begin": 215.417,
+      "end": 217.197,
+      "text": "Your arms",
+      "words": [
+        {
+          "text": "Your",
+          "begin": 215.417,
+          "end": 216.09,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 216.09,
+          "end": 217.197,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L60"
+    },
+    {
+      "begin": 217.426,
+      "end": 219.28199999999998,
+      "text": "Spanish guitar",
+      "words": [
+        {
+          "text": "Span",
+          "begin": 217.426,
+          "end": 217.552,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ish",
+          "begin": 217.552,
+          "end": 217.723,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gui",
+          "begin": 217.723,
+          "end": 218.091,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 218.091,
+          "end": 219.28199999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L61"
+    },
+    {
+      "begin": 218.161,
+      "end": 221.476,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 218.161,
+          "end": 218.588,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 218.588,
+          "end": 219.00900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 219.00900000000001,
+          "end": 221.476,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L62"
+    },
+    {
+      "begin": 220.09199999999998,
+      "end": 222.058,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 220.09199999999998,
+          "end": 220.528,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 220.528,
+          "end": 221.011,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 221.011,
+          "end": 222.058,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L63"
+    },
+    {
+      "begin": 222.111,
+      "end": 225.197,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 222.111,
+          "end": 222.563,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 222.563,
+          "end": 222.999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 222.999,
+          "end": 225.197,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L64"
+    },
+    {
+      "begin": 224.475,
+      "end": 226.269,
+      "text": "All night long",
+      "words": [
+        {
+          "text": "All",
+          "begin": 224.475,
+          "end": 224.856,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 224.856,
+          "end": 225.109,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 225.109,
+          "end": 226.269,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L65"
+    },
+    {
+      "begin": 225.901,
+      "end": 228.692,
+      "text": "I'd be your song",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 225.901,
+          "end": 226.099,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 226.099,
+          "end": 226.61599999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 226.61599999999999,
+          "end": 227.026,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 227.026,
+          "end": 228.692,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L66"
+    },
+    {
+      "begin": 227.888,
+      "end": 231.05599999999998,
+      "text": "I'd be your song, yeah",
+      "words": [
+        {
+          "text": "I'd",
+          "begin": 227.888,
+          "end": 228.15699999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 228.15699999999998,
+          "end": 228.572,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 228.572,
+          "end": 229.036,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 229.036,
+          "end": 230.208,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yeah",
+          "begin": 230.208,
+          "end": 231.05599999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L67"
+    },
+    {
+      "begin": 232.31,
+      "end": 234.162,
+      "text": "Sería tu canción",
+      "words": [
+        {
+          "text": "Sería",
+          "begin": 232.31,
+          "end": 232.737,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tu",
+          "begin": 232.737,
+          "end": 233.171,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "canción",
+          "begin": 233.171,
+          "end": 234.162,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L68"
+    },
+    {
+      "begin": 233.881,
+      "end": 237.882,
+      "text": "I'll be your song, your song, your song",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 233.881,
+          "end": 234.106,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 234.106,
+          "end": 234.587,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 234.587,
+          "end": 235.154,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 235.154,
+          "end": 235.789,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 235.789,
+          "end": 236.04500000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 236.04500000000002,
+          "end": 236.79399999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 236.79399999999998,
+          "end": 237.131,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 237.131,
+          "end": 237.882,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L69"
+    },
+    {
+      "begin": 237.875,
+      "end": 241.815,
+      "text": "I'll be your song, yeah",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 237.875,
+          "end": 238.141,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 238.141,
+          "end": 238.675,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 238.675,
+          "end": 239.143,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 239.143,
+          "end": 240.535,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yeah",
+          "begin": 240.535,
+          "end": 241.815,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L70"
+    },
+    {
+      "begin": 241.815,
+      "end": 245.903,
+      "text": "I'll be your song, your song, your song",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 241.815,
+          "end": 242.106,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 242.106,
+          "end": 242.589,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 242.589,
+          "end": 243.326,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 243.44,
+          "end": 243.766,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 243.766,
+          "end": 244.019,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 244.019,
+          "end": 244.754,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 244.754,
+          "end": 245.091,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 245.091,
+          "end": 245.903,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L71"
+    },
+    {
+      "begin": 246.018,
+      "end": 251.151,
+      "text": "Play me all night long, yeah",
+      "words": [
+        {
+          "text": "Play",
+          "begin": 246.018,
+          "end": 246.143,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 246.143,
+          "end": 246.587,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 246.587,
+          "end": 246.896,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 246.896,
+          "end": 247.127,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long,",
+          "begin": 247.127,
+          "end": 248.393,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yeah",
+          "begin": 249.053,
+          "end": 251.151,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L72"
+    },
+    {
+      "begin": 249.919,
+      "end": 253.933,
+      "text": "I'll be your song, your song, your song",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 249.919,
+          "end": 250.099,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 250.099,
+          "end": 250.551,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 250.551,
+          "end": 251.11,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 251.11,
+          "end": 251.697,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 251.697,
+          "end": 252.02,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 252.02,
+          "end": 252.75900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 252.75900000000001,
+          "end": 253.055,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 253.055,
+          "end": 253.933,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L73"
+    },
+    {
+      "begin": 251.192,
+      "end": 254.102,
+      "text": "I wish you'd hold me in your arms",
+      "words": [
+        {
+          "text": "I",
+          "begin": 251.192,
+          "end": 251.395,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 251.395,
+          "end": 251.643,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'd",
+          "begin": 251.643,
+          "end": 251.936,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 251.936,
+          "end": 252.127,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 252.127,
+          "end": 252.591,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 252.591,
+          "end": 252.894,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 252.894,
+          "end": 253.148,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 253.148,
+          "end": 254.102,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L74"
+    },
+    {
+      "begin": 254.327,
+      "end": 257.717,
+      "text": "I'll be your song, yeah",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 254.327,
+          "end": 254.619,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 254.619,
+          "end": 254.887,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 254.887,
+          "end": 255.154,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 255.154,
+          "end": 255.848,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yeah",
+          "begin": 256.796,
+          "end": 257.717,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L75"
+    },
+    {
+      "begin": 254.406,
+      "end": 257.953,
+      "text": "You could play me like that Spanish guitar",
+      "words": [
+        {
+          "text": "You",
+          "begin": 254.406,
+          "end": 254.642,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "could",
+          "begin": 254.642,
+          "end": 254.857,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "play",
+          "begin": 254.857,
+          "end": 255.101,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 255.101,
+          "end": 255.395,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "like",
+          "begin": 255.395,
+          "end": 255.685,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 255.685,
+          "end": 255.957,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Span",
+          "begin": 255.957,
+          "end": 256.613,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ish",
+          "begin": 256.613,
+          "end": 256.901,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "gui",
+          "begin": 256.901,
+          "end": 257.056,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tar",
+          "begin": 257.056,
+          "end": 257.953,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L76"
+    },
+    {
+      "begin": 257.921,
+      "end": 261.924,
+      "text": "I'll be your song, your song, your song",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 257.921,
+          "end": 258.087,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 258.087,
+          "end": 258.568,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 258.568,
+          "end": 259.091,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 259.091,
+          "end": 259.776,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 259.776,
+          "end": 260.055,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 260.055,
+          "end": 260.827,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 260.827,
+          "end": 261.115,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 261.115,
+          "end": 261.924,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L77"
+    },
+    {
+      "begin": 261.555,
+      "end": 267.486,
+      "text": "I wanna be your song",
+      "words": [
+        {
+          "text": "I",
+          "begin": 261.555,
+          "end": 261.832,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wanna",
+          "begin": 261.832,
+          "end": 262.04200000000003,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 262.04200000000003,
+          "end": 262.57,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 262.57,
+          "end": 262.909,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 262.909,
+          "end": 267.486,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L78"
+    },
+    {
+      "begin": 265.87,
+      "end": 269.867,
+      "text": "I'll be your song, your song, your song",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 265.87,
+          "end": 266.108,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 266.108,
+          "end": 266.581,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 266.581,
+          "end": 267.302,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 267.302,
+          "end": 267.814,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 267.814,
+          "end": 268.051,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 268.051,
+          "end": 268.766,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 268.766,
+          "end": 268.991,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 268.991,
+          "end": 269.867,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L79"
+    },
+    {
+      "begin": 270.406,
+      "end": 273.629,
+      "text": "I'll be your song, yeah",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 270.406,
+          "end": 270.57,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 270.57,
+          "end": 270.769,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 270.769,
+          "end": 271.05,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 271.05,
+          "end": 271.905,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yeah",
+          "begin": 272.609,
+          "end": 273.629,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L80"
+    },
+    {
+      "begin": 273.596,
+      "end": 276.573,
+      "text": "I wish you'd hold me in your arms",
+      "words": [
+        {
+          "text": "I",
+          "begin": 273.596,
+          "end": 273.797,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 273.797,
+          "end": 274.108,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'd",
+          "begin": 274.108,
+          "end": 274.332,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hold",
+          "begin": 274.332,
+          "end": 274.594,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 274.594,
+          "end": 274.852,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 274.852,
+          "end": 275.076,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 275.076,
+          "end": 275.549,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "arms",
+          "begin": 275.781,
+          "end": 276.573,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L81"
+    },
+    {
+      "begin": 273.88,
+      "end": 277.915,
+      "text": "I'll be your song, your song, your song",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 273.88,
+          "end": 274.128,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 274.128,
+          "end": 274.562,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 274.562,
+          "end": 275.153,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 275.381,
+          "end": 275.775,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 275.775,
+          "end": 276.033,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 276.033,
+          "end": 276.761,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 276.761,
+          "end": 277.041,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 277.041,
+          "end": 277.915,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L82"
+    },
+    {
+      "begin": 276.807,
+      "end": 281.964,
+      "text": "Hold me baby all night long",
+      "words": [
+        {
+          "text": "Hold",
+          "begin": 276.807,
+          "end": 277.057,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 277.057,
+          "end": 277.65999999999997,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ba",
+          "begin": 277.926,
+          "end": 278.092,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "by",
+          "begin": 278.092,
+          "end": 278.596,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 278.596,
+          "end": 278.858,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "night",
+          "begin": 278.858,
+          "end": 279.132,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long",
+          "begin": 279.132,
+          "end": 281.964,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L83"
+    },
+    {
+      "begin": 281.845,
+      "end": 285.838,
+      "text": "I'll be your song, your song, your song",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 281.845,
+          "end": 282.095,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 282.095,
+          "end": 282.625,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 282.625,
+          "end": 283.204,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 283.204,
+          "end": 283.748,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 283.748,
+          "end": 284.09000000000003,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 284.09000000000003,
+          "end": 284.852,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 284.852,
+          "end": 285.12,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 285.12,
+          "end": 285.838,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L84"
+    },
+    {
+      "begin": 286.402,
+      "end": 288.454,
+      "text": "I'll be your song, yeah",
+      "words": [
+        {
+          "text": "I'll",
+          "begin": 286.402,
+          "end": 286.598,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "be",
+          "begin": 286.598,
+          "end": 286.856,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 286.856,
+          "end": 287.136,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song,",
+          "begin": 287.136,
+          "end": 287.87,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yeah",
+          "begin": 287.87,
+          "end": 288.454,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L85"
+    }
+  ],
+  "totalLines": 85
+}
