@@ -42,9 +42,9 @@ def parse_span(span_elem, namespaces: dict) -> dict:
     begin = span_elem.get('begin', '')
     end = span_elem.get('end', '')
     
-    # Cek apakah ini background vocal
     role = span_elem.get(f'{{{namespaces.get("ttm", "")}}}role', '')
     is_bg = role == 'x-bg'
+    is_translation = role == 'x-translation'
     
     # Detect spaces before stripping
     has_leading_space = text[0].isspace() if text else False
@@ -55,6 +55,7 @@ def parse_span(span_elem, namespaces: dict) -> dict:
         "begin": parse_time(begin),
         "end": parse_time(end),
         "isBackground": is_bg,
+        "isTranslation": is_translation,
         "hasLeadingSpace": has_leading_space,
         "hasTrailingSpace": has_trailing_space
     }
@@ -69,6 +70,7 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
     
     words = []
     background_words = []
+    translations = []
     
     # Track apakah ada spasi sebelum span berikutnya
     # Spasi ditandai oleh 'tail' property dari elemen sebelumnya
@@ -83,9 +85,20 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                 if role == 'x-bg':
                     # Background vocal - parse nested spans
                     process_spans(child, background_words, is_bg=True)
+                elif role == 'x-translation':
+                    # Translation - extract text directly, don't treat as lyric word
+                    trans_text = child.text or ""
+                    if trans_text.strip():
+                        translations.append(trans_text.strip())
                 else:
                     word_data = parse_span(child, namespaces)
                     word_data["isBackground"] = is_bg
+                    
+                    if word_data["isTranslation"]:
+                         # Should have been caught by elif, but just in case
+                         if word_data["text"]:
+                            translations.append(word_data["text"])
+                         continue
                     
                     # Cek tail (text setelah span) untuk menentukan apakah ada spasi
                     # Jika tail mengandung spasi atau whitespace, tandai
@@ -139,6 +152,8 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
             "text": bg_text,
             "words": background_words
         }
+    if translations:
+        result["translation"] = " ".join(translations)
     
     return result
 
