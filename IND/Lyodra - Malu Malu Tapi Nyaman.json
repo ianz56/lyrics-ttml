@@ -1,0 +1,1933 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      },
+      {
+        "id": "v2",
+        "type": "other"
+      }
+    ],
+    "artist": "Lyodra",
+    "title": "Malu Malu Tapi Nyaman",
+    "sourceFile": "Lyodra - Malu Malu Tapi Nyaman.ttml"
+  },
+  "duration": 208.504,
+  "lines": [
+    {
+      "begin": 11.448,
+      "end": 19.953,
+      "text": "Awalnya ku tak mau kenal cinta",
+      "words": [
+        {
+          "text": "A",
+          "begin": 11.448,
+          "end": 12.661,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "walnya",
+          "begin": 12.859,
+          "end": 13.188,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 13.284,
+          "end": 14.263,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 15.198,
+          "end": 15.414,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mau",
+          "begin": 15.561,
+          "end": 16.614,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kenal",
+          "begin": 18.112,
+          "end": 19.124,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cinta",
+          "begin": 19.335,
+          "end": 19.953,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 20.616,
+      "end": 29.085,
+      "text": "Dan kau hadir merubah rasa yang ada",
+      "words": [
+        {
+          "text": "Dan",
+          "begin": 20.616,
+          "end": 21.148,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kau",
+          "begin": 22.069,
+          "end": 22.274,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hadir",
+          "begin": 22.421,
+          "end": 23.398,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meru",
+          "begin": 24.472,
+          "end": 24.728,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bah",
+          "begin": 24.866,
+          "end": 25.836,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rasa",
+          "begin": 26.756,
+          "end": 27.039,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yang",
+          "begin": 27.249,
+          "end": 27.652,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ada",
+          "begin": 27.8,
+          "end": 29.085,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 29.912,
+      "end": 38.302,
+      "text": "Kuberpura-pura biasa saat tatap mata",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 29.912,
+          "end": 30.23,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 30.422,
+          "end": 30.809,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pura-",
+          "begin": 31.019,
+          "end": 31.473,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "pura",
+          "begin": 31.589,
+          "end": 32.499,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "biasa",
+          "begin": 33.362,
+          "end": 34.254,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "saat",
+          "begin": 34.419,
+          "end": 35.428,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tatap",
+          "begin": 35.659,
+          "end": 36.025,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 36.255,
+          "end": 36.532,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ta",
+          "begin": 36.616,
+          "end": 38.302,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 39.109,
+      "end": 41.667,
+      "text": "Padahal tak bisa",
+      "words": [
+        {
+          "text": "Pada",
+          "begin": 39.109,
+          "end": 40.048,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "hal",
+          "begin": 40.258,
+          "end": 40.489,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 40.586,
+          "end": 40.83,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bisa",
+          "begin": 40.949,
+          "end": 41.667,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4",
+      "backgroundVocal": {
+        "text": "(Oh, biasa saja)",
+        "words": [
+          {
+            "text": "(Oh,",
+            "begin": 41.653,
+            "end": 42.169,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "biasa",
+            "begin": 42.316,
+            "end": 42.902,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "saja)",
+            "begin": 43.062,
+            "end": 43.971,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 43.692,
+      "end": 46.837,
+      "text": "Anehnya mencinta",
+      "words": [
+        {
+          "text": "Aneh",
+          "begin": 43.692,
+          "end": 44.633,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nya",
+          "begin": 44.755,
+          "end": 44.975,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mencin",
+          "begin": 45.14,
+          "end": 45.598,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ta",
+          "begin": 45.755,
+          "end": 46.837,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 47.182,
+      "end": 53.484,
+      "text": "Pertemuan yang tiba-tiba tak kuduga",
+      "words": [
+        {
+          "text": "Pertemu",
+          "begin": 47.182,
+          "end": 48.041,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 48.348,
+          "end": 48.741,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yang",
+          "begin": 48.939,
+          "end": 49.299,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tiba-tiba",
+          "begin": 49.522,
+          "end": 50.708,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 50.861,
+          "end": 51.344,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 51.518,
+          "end": 51.931,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 52.079,
+          "end": 52.516,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ga",
+          "begin": 52.645,
+          "end": 53.484,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 54.415,
+      "end": 60.292,
+      "text": "Kita berdua malu-malu tapi nyaman",
+      "words": [
+        {
+          "text": "Kita",
+          "begin": 54.415,
+          "end": 54.871,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ber",
+          "begin": 54.998,
+          "end": 55.721,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dua",
+          "begin": 55.866,
+          "end": 56.626,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "malu-malu",
+          "begin": 57.529,
+          "end": 58.686,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tapi",
+          "begin": 58.705,
+          "end": 59.116,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nya",
+          "begin": 59.289,
+          "end": 59.517,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "man",
+          "begin": 59.647,
+          "end": 60.292,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 60.975,
+      "end": 64.94200000000001,
+      "text": "Haruskah kuberi pertanda",
+      "words": [
+        {
+          "text": "Haruskah",
+          "begin": 60.975,
+          "end": 62.031,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 62.194,
+          "end": 62.584,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "beri",
+          "begin": 62.733,
+          "end": 63.462,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pertanda",
+          "begin": 63.608,
+          "end": 64.94200000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 65.578,
+      "end": 75.201,
+      "text": "Sampai kamu nantinya peka bila aku ada rasa?",
+      "words": [
+        {
+          "text": "Sampai",
+          "begin": 65.578,
+          "end": 66.061,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kamu",
+          "begin": 66.226,
+          "end": 67.181,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nantinya",
+          "begin": 67.38,
+          "end": 68.307,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "peka",
+          "begin": 68.472,
+          "end": 69.05799999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bila",
+          "begin": 69.334,
+          "end": 70.41,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "aku",
+          "begin": 70.571,
+          "end": 71.722,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ada",
+          "begin": 72.814,
+          "end": 73.30199999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rasa?",
+          "begin": 73.43299999999999,
+          "end": 75.201,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 75.201,
+      "end": 81.059,
+      "text": "Cepatlah sadar sebelum ku berubah",
+      "words": [
+        {
+          "text": "Cepatlah",
+          "begin": 75.201,
+          "end": 76.406,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sadar",
+          "begin": 76.599,
+          "end": 77.042,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sebelum",
+          "begin": 77.255,
+          "end": 78.041,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 78.116,
+          "end": 79.588,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "berubah",
+          "begin": 79.743,
+          "end": 81.059,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 82.979,
+      "end": 91.963,
+      "text": "Kau yang ajak bicara dan bercanda",
+      "words": [
+        {
+          "text": "Kau",
+          "begin": 82.979,
+          "end": 83.751,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yang",
+          "begin": 84.384,
+          "end": 84.617,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ajak",
+          "begin": 84.819,
+          "end": 85.76599999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bicara",
+          "begin": 86.662,
+          "end": 87.998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dan",
+          "begin": 89.584,
+          "end": 89.777,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bercanda",
+          "begin": 90.083,
+          "end": 91.963,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 92.282,
+      "end": 100.95,
+      "text": "Ku tak sadar betapa kuinginkanmu",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 92.282,
+          "end": 92.866,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 93.646,
+          "end": 93.828,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sadar",
+          "begin": 94.00999999999999,
+          "end": 94.967,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "betapa",
+          "begin": 95.953,
+          "end": 97.25999999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kuinginkanmu",
+          "begin": 98.226,
+          "end": 100.95,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 101.396,
+      "end": 109.99799999999999,
+      "text": "Ku berpura-pura biasa saat tatap mata",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 101.396,
+          "end": 101.952,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "berpura-pura",
+          "begin": 102.093,
+          "end": 103.959,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "biasa",
+          "begin": 104.828,
+          "end": 105.695,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "saat",
+          "begin": 105.969,
+          "end": 106.947,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tatap",
+          "begin": 107.193,
+          "end": 107.68,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mata",
+          "begin": 107.781,
+          "end": 109.99799999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13",
+      "backgroundVocal": {
+        "text": "(Pura-pura",
+        "words": [
+          {
+            "text": "(Pura-pura",
+            "begin": 103.804,
+            "end": 105.14,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 110.531,
+      "end": 113.144,
+      "text": "Padahal tak bisa",
+      "words": [
+        {
+          "text": "Padahal",
+          "begin": 110.531,
+          "end": 111.946,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 111.946,
+          "end": 112.39699999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bisa",
+          "begin": 112.566,
+          "end": 113.144,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14",
+      "backgroundVocal": {
+        "text": "(Oh, biasa saja)",
+        "words": [
+          {
+            "text": "(Oh,",
+            "begin": 113.288,
+            "end": 113.68,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "biasa",
+            "begin": 113.987,
+            "end": 114.184,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "saja)",
+            "begin": 114.562,
+            "end": 114.84899999999999,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 115.282,
+      "end": 118.035,
+      "text": "Anehnya mencinta",
+      "words": [
+        {
+          "text": "Anehnya",
+          "begin": 115.282,
+          "end": 116.518,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mencinta",
+          "begin": 116.699,
+          "end": 118.035,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 118.68,
+      "end": 125.186,
+      "text": "Pertemuan yang tiba-tiba tak kuduga",
+      "words": [
+        {
+          "text": "Pertemuan",
+          "begin": 118.68,
+          "end": 120.219,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yang",
+          "begin": 120.485,
+          "end": 120.874,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tiba-tiba",
+          "begin": 121.084,
+          "end": 122.386,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 122.514,
+          "end": 122.839,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kuduga",
+          "begin": 123.053,
+          "end": 125.186,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 125.932,
+      "end": 131.864,
+      "text": "Kita berdua malu-malu tapi nyaman",
+      "words": [
+        {
+          "text": "Kita",
+          "begin": 125.932,
+          "end": 126.326,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "berdua",
+          "begin": 126.531,
+          "end": 128.336,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "malu-malu",
+          "begin": 129.132,
+          "end": 130.178,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tapi",
+          "begin": 130.307,
+          "end": 130.629,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nyaman",
+          "begin": 130.869,
+          "end": 131.864,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 132.55,
+      "end": 136.497,
+      "text": "Haruskah kuberi pertanda",
+      "words": [
+        {
+          "text": "Haruskah",
+          "begin": 132.55,
+          "end": 133.573,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kuberi",
+          "begin": 133.781,
+          "end": 135.065,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pertanda",
+          "begin": 135.211,
+          "end": 136.497,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 137.133,
+      "end": 146.77100000000002,
+      "text": "Sampai kamu nantinya peka bila aku ada rasa?",
+      "words": [
+        {
+          "text": "Sampai",
+          "begin": 137.133,
+          "end": 137.669,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kamu",
+          "begin": 137.812,
+          "end": 138.478,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nantinya",
+          "begin": 138.997,
+          "end": 139.85,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "peka",
+          "begin": 140.071,
+          "end": 140.707,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bila",
+          "begin": 141.003,
+          "end": 141.813,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "aku",
+          "begin": 142.12,
+          "end": 143.863,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ada",
+          "begin": 144.378,
+          "end": 144.72,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rasa?",
+          "begin": 145.003,
+          "end": 146.77100000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 147.179,
+      "end": 151.921,
+      "text": "Cepatlah sadar sebelum ku berubah",
+      "words": [
+        {
+          "text": "Cepatlah",
+          "begin": 147.179,
+          "end": 147.974,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sadar",
+          "begin": 148.172,
+          "end": 148.64600000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sebelum",
+          "begin": 148.774,
+          "end": 149.485,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 149.76,
+          "end": 150.638,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "berubah",
+          "begin": 150.798,
+          "end": 151.921,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 152.161,
+      "end": 161.14600000000002,
+      "text": "Di setiap saat kupikirkan dirimu, uh-uh",
+      "words": [
+        {
+          "text": "Di",
+          "begin": 152.161,
+          "end": 153.155,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "setiap",
+          "begin": 153.373,
+          "end": 154.089,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "saat",
+          "begin": 154.256,
+          "end": 156.131,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kupikirkan",
+          "begin": 156.549,
+          "end": 158.083,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dirimu,",
+          "begin": 158.26,
+          "end": 159.78,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "uh-uh",
+          "begin": 160.208,
+          "end": 161.14600000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 161.29500000000002,
+      "end": 168.51,
+      "text": "Kuinginkan cintamu untuk selamanya",
+      "words": [
+        {
+          "text": "Kuinginkan",
+          "begin": 161.29500000000002,
+          "end": 162.962,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cintamu",
+          "begin": 163.131,
+          "end": 165.498,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "untuk",
+          "begin": 165.715,
+          "end": 166.47899999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "selamanya",
+          "begin": 166.648,
+          "end": 168.51,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22",
+      "backgroundVocal": {
+        "text": "(Untuk selamanya)",
+        "words": [
+          {
+            "text": "(Untuk",
+            "begin": 168.707,
+            "end": 169.106,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "selamanya)",
+            "begin": 169.31,
+            "end": 170.373,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 170.622,
+      "end": 172.95600000000002,
+      "text": "Anehnya mencinta",
+      "words": [
+        {
+          "text": "Anehnya",
+          "begin": 170.622,
+          "end": 171.873,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mencinta",
+          "begin": 172.118,
+          "end": 172.95600000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L23",
+      "backgroundVocal": {
+        "text": "(Mencinta",
+        "words": [
+          {
+            "text": "(Mencinta",
+            "begin": 172.95600000000002,
+            "end": 173.857,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 173.857,
+      "end": 179.74,
+      "text": "Pertemuan yang tiba-tiba tak kuduga",
+      "words": [
+        {
+          "text": "Pertemuan",
+          "begin": 173.857,
+          "end": 175.69299999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yang",
+          "begin": 175.85399999999998,
+          "end": 176.28199999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tiba-tiba",
+          "begin": 176.475,
+          "end": 177.707,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 177.863,
+          "end": 178.2,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kuduga",
+          "begin": 178.463,
+          "end": 179.74,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24",
+      "backgroundVocal": {
+        "text": "(Tak kuduga)",
+        "words": [
+          {
+            "text": "(Tak",
+            "begin": 179.916,
+            "end": 180.26,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "kuduga)",
+            "begin": 180.377,
+            "end": 181.14,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 181.257,
+      "end": 187.643,
+      "text": "Kita berdua malu-malu tapi nyaman, uh-uh",
+      "words": [
+        {
+          "text": "Kita",
+          "begin": 181.257,
+          "end": 181.886,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "berdua",
+          "begin": 182.017,
+          "end": 183.774,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "malu-malu",
+          "begin": 184.463,
+          "end": 185.58,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tapi",
+          "begin": 185.707,
+          "end": 186.035,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nyaman,",
+          "begin": 186.295,
+          "end": 187.169,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "uh-uh",
+          "begin": 187.315,
+          "end": 187.643,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 187.912,
+      "end": 192.031,
+      "text": "Haruskah kuberi pertanda",
+      "words": [
+        {
+          "text": "Haruskah",
+          "begin": 187.912,
+          "end": 188.932,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kuberi",
+          "begin": 189.16,
+          "end": 190.399,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pertanda",
+          "begin": 190.61,
+          "end": 192.031,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 192.508,
+      "end": 202.474,
+      "text": "Sampai kamu nantinya peka bila aku ada rasa?",
+      "words": [
+        {
+          "text": "Sampai",
+          "begin": 192.508,
+          "end": 193.012,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kamu",
+          "begin": 193.175,
+          "end": 194.088,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nantinya",
+          "begin": 194.347,
+          "end": 195.237,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "peka",
+          "begin": 195.451,
+          "end": 196.169,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bila",
+          "begin": 196.367,
+          "end": 197.304,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "aku",
+          "begin": 197.5,
+          "end": 198.899,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ada",
+          "begin": 199.746,
+          "end": 200.165,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rasa?",
+          "begin": 200.346,
+          "end": 202.474,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 202.659,
+      "end": 208.504,
+      "text": "Cepatlah sadar sebelum ku berubah",
+      "words": [
+        {
+          "text": "Cepatlah",
+          "begin": 202.659,
+          "end": 203.26,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sadar",
+          "begin": 203.517,
+          "end": 203.922,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sebelum",
+          "begin": 204.173,
+          "end": 204.89600000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ku",
+          "begin": 205.042,
+          "end": 205.825,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "berubah",
+          "begin": 206.459,
+          "end": 208.504,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": true,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28"
+    }
+  ],
+  "totalLines": 28
+}

@@ -91,6 +91,10 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                     if trans_text.strip():
                         translations.append(trans_text.strip())
                 else:
+                    raw_text = child.text or ""
+                    if word_list and (raw_text.startswith(" ") or raw_text.startswith("\t") or raw_text.startswith("\n")):
+                         word_list[-1]["hasSpaceAfter"] = True
+
                     word_data = parse_span(child, namespaces)
                     word_data["isBackground"] = is_bg
                     
@@ -100,8 +104,6 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                             translations.append(word_data["text"])
                          continue
                     
-                    # Cek tail (text setelah span) untuk menentukan apakah ada spasi
-                    # Jika tail mengandung spasi atau whitespace, tandai
                     tail = child.tail or ""
                     has_tail_space = bool(tail.strip() == "" and tail != "")
                     
