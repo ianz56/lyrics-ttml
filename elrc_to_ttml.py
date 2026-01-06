@@ -115,9 +115,21 @@ def parse_elrc(file_path):
             words[j]['end'] = words[j+1]['start']
             
         # Fix last word duration
+        # Fix last word duration
         if i < len(lyrics_data) - 1:
-            next_line_start = lyrics_data[i+1]['start']
-            words[-1]['end'] = next_line_start
+            # Find next non-bg line start
+            next_start = None
+            for k in range(i + 1, len(lyrics_data)):
+                if lyrics_data[k].get('role') != 'x-bg':
+                    next_start = lyrics_data[k]['start']
+                    break
+            
+            # If no next main line found, or if next main line is earlier than word start (weird),
+            # default to +3.0s or ensure validity
+            if next_start and next_start > words[-1]['start']:
+                 words[-1]['end'] = next_start
+            else:
+                 words[-1]['end'] = words[-1]['start'] + 3.0
         else:
             # Last line, last word. Arbitrary 'long enough' or +3 seconds?
              words[-1]['end'] = words[-1]['start'] + 3.0

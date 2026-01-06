@@ -231,6 +231,62 @@ def ttml_to_json(ttml_path: str, output_path: str = None) -> dict:
             for p in div.findall(f'{{{namespaces["tt"]}}}p'):
                 line_data = parse_paragraph(p, namespaces)
                 result["lines"].append(line_data)
+                
+        # Post-process: Merge background-only lines into overlapping main lines
+        merged_lines = []
+        bg_only_lines = []
+        
+        # First pass: Separate main lines and background-only lines
+        for line in result["lines"]:
+            text = line.get("text", "").strip()
+            bg_data = line.get("backgroundVocal")
+            
+            if not text and bg_data:
+                bg_only_lines.append(line)
+            else:
+                merged_lines.append(line)
+        
+        # Second pass: Try to merge background lines into main lines
+        final_lines = list(merged_lines)
+        
+        for bg_line in bg_only_lines:
+            bg_begin = bg_line["begin"]
+            bg_end = bg_line["end"]
+            best_match = None
+            max_overlap = 0
+            
+            # Find overlapping property
+            for main_line in merged_lines:
+                main_begin = main_line["begin"]
+                main_end = main_line["end"]
+                
+                # Calculate overlap
+                overlap_start = max(bg_begin, main_begin)
+                overlap_end = min(bg_end, main_end)
+                overlap = max(0, overlap_end - overlap_start)
+                
+                if overlap > max_overlap:
+                    max_overlap = overlap
+                    best_match = main_line
+            
+            # If significant overlap found (or any overlap?)
+            if best_match and max_overlap > 0:
+                # Merge into best match
+                if "backgroundVocal" not in best_match:
+                    best_match["backgroundVocal"] = bg_line["backgroundVocal"]
+                else:
+                    # Append text if already exists? Rare case.
+                    # For now, let's just append text and extend words
+                    existing_bg = best_match["backgroundVocal"]
+                    existing_bg["text"] += " " + bg_line["backgroundVocal"]["text"]
+                    existing_bg["words"].extend(bg_line["backgroundVocal"]["words"])
+            else:
+                final_lines.append(bg_line)
+        
+        # Sort lines by begin time to restore order if we appended orphans
+        final_lines.sort(key=lambda x: x["begin"])
+        
+        result["lines"] = final_lines
     
     # Extract metadata dari filename
     filename = Path(ttml_path).stem
