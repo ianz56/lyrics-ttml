@@ -2304,115 +2304,6 @@
       "key": "L23"
     },
     {
-      "begin": 146.723,
-      "end": 153.378,
-      "text": "Berharap semesta satukan kita",
-      "words": [
-        {
-          "text": "Ber",
-          "begin": 146.723,
-          "end": 147.111,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ha",
-          "begin": 147.111,
-          "end": 147.57,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "rap",
-          "begin": 147.57,
-          "end": 147.79,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "se",
-          "begin": 147.79,
-          "end": 148.179,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "mes",
-          "begin": 148.179,
-          "end": 148.848,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ta",
-          "begin": 148.848,
-          "end": 149.245,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "satu",
-          "begin": 149.245,
-          "end": 149.849,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "kan",
-          "begin": 149.849,
-          "end": 150.513,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ki",
-          "begin": 150.749,
-          "end": 151.307,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ta",
-          "begin": 151.307,
-          "end": 153.378,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v2",
-      "key": "L25"
-    },
-    {
       "begin": 146.792,
       "end": 153.904,
       "text": "Berharap semesta satukan kita",
@@ -2522,14 +2413,14 @@
       "key": "L24"
     },
     {
-      "begin": 154.266,
-      "end": 160.091,
-      "text": "Bila tak mungkin dan terikat dirinya",
+      "begin": 146.723,
+      "end": 153.378,
+      "text": "Berharap semesta satukan kita",
       "words": [
         {
-          "text": "Bi",
-          "begin": 154.266,
-          "end": 154.666,
+          "text": "Ber",
+          "begin": 146.723,
+          "end": 147.111,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2537,29 +2428,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "la",
-          "begin": 154.666,
-          "end": 154.913,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "tak",
-          "begin": 154.913,
-          "end": 155.305,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "mung",
-          "begin": 155.305,
-          "end": 155.69,
+          "text": "ha",
+          "begin": 147.111,
+          "end": 147.57,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2567,9 +2438,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "kin",
-          "begin": 155.69,
-          "end": 156.855,
+          "text": "rap",
+          "begin": 147.57,
+          "end": 147.79,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2577,9 +2448,29 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "dan",
-          "begin": 157.351,
-          "end": 157.552,
+          "text": "se",
+          "begin": 147.79,
+          "end": 148.179,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mes",
+          "begin": 148.179,
+          "end": 148.848,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ta",
+          "begin": 148.848,
+          "end": 149.245,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2587,9 +2478,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "ter",
-          "begin": 157.552,
-          "end": 157.80599999999998,
+          "text": "satu",
+          "begin": 149.245,
+          "end": 149.849,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2597,19 +2488,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "i",
-          "begin": 157.80599999999998,
-          "end": 158.20499999999998,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "kat",
-          "begin": 158.20499999999998,
-          "end": 158.441,
+          "text": "kan",
+          "begin": 149.849,
+          "end": 150.513,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2617,9 +2498,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "diri",
-          "begin": 158.441,
-          "end": 159.203,
+          "text": "ki",
+          "begin": 150.749,
+          "end": 151.307,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2627,9 +2508,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "nya",
-          "begin": 159.203,
-          "end": 160.091,
+          "text": "ta",
+          "begin": 151.307,
+          "end": 153.378,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2638,7 +2519,7 @@
         }
       ],
       "agent": "v2",
-      "key": "L27"
+      "key": "L25"
     },
     {
       "begin": 154.286,
@@ -2760,14 +2641,14 @@
       "key": "L26"
     },
     {
-      "begin": 160.398,
-      "end": 163.622,
-      "text": "Haruskah aku mengalah?",
+      "begin": 154.266,
+      "end": 160.091,
+      "text": "Bila tak mungkin dan terikat dirinya",
       "words": [
         {
-          "text": "Harus",
-          "begin": 160.398,
-          "end": 160.836,
+          "text": "Bi",
+          "begin": 154.266,
+          "end": 154.666,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2775,9 +2656,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "kah",
-          "begin": 160.836,
-          "end": 161.245,
+          "text": "la",
+          "begin": 154.666,
+          "end": 154.913,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2785,19 +2666,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "a",
-          "begin": 161.245,
-          "end": 161.71,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ku",
-          "begin": 161.71,
-          "end": 161.901,
+          "text": "tak",
+          "begin": 154.913,
+          "end": 155.305,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2805,9 +2676,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "me",
-          "begin": 161.901,
-          "end": 162.30700000000002,
+          "text": "mung",
+          "begin": 155.305,
+          "end": 155.69,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2815,9 +2686,29 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "nga",
-          "begin": 162.30700000000002,
-          "end": 162.722,
+          "text": "kin",
+          "begin": 155.69,
+          "end": 156.855,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dan",
+          "begin": 157.351,
+          "end": 157.552,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ter",
+          "begin": 157.552,
+          "end": 157.80599999999998,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2825,9 +2716,39 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "lah?",
-          "begin": 162.722,
-          "end": 163.622,
+          "text": "i",
+          "begin": 157.80599999999998,
+          "end": 158.20499999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kat",
+          "begin": 158.20499999999998,
+          "end": 158.441,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "diri",
+          "begin": 158.441,
+          "end": 159.203,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nya",
+          "begin": 159.203,
+          "end": 160.091,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2836,7 +2757,7 @@
         }
       ],
       "agent": "v2",
-      "key": "L29"
+      "key": "L27"
     },
     {
       "begin": 160.498,
@@ -2918,14 +2839,14 @@
       "key": "L28"
     },
     {
-      "begin": 163.88,
-      "end": 170.155,
-      "text": "Haruskah aku menjauh?",
+      "begin": 160.398,
+      "end": 163.622,
+      "text": "Haruskah aku mengalah?",
       "words": [
         {
           "text": "Harus",
-          "begin": 163.88,
-          "end": 164.379,
+          "begin": 160.398,
+          "end": 160.836,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2934,8 +2855,8 @@
         },
         {
           "text": "kah",
-          "begin": 164.379,
-          "end": 164.781,
+          "begin": 160.836,
+          "end": 161.245,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2944,8 +2865,8 @@
         },
         {
           "text": "a",
-          "begin": 164.781,
-          "end": 165.21699999999998,
+          "begin": 161.245,
+          "end": 161.71,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2954,8 +2875,8 @@
         },
         {
           "text": "ku",
-          "begin": 165.21699999999998,
-          "end": 165.409,
+          "begin": 161.71,
+          "end": 161.901,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2963,9 +2884,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "men",
-          "begin": 165.409,
-          "end": 165.916,
+          "text": "me",
+          "begin": 161.901,
+          "end": 162.30700000000002,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2973,9 +2894,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "ja",
-          "begin": 165.916,
-          "end": 166.55700000000002,
+          "text": "nga",
+          "begin": 162.30700000000002,
+          "end": 162.722,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2983,9 +2904,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "uh?",
-          "begin": 166.55700000000002,
-          "end": 170.155,
+          "text": "lah?",
+          "begin": 162.722,
+          "end": 163.622,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2994,7 +2915,7 @@
         }
       ],
       "agent": "v2",
-      "key": "L31"
+      "key": "L29"
     },
     {
       "begin": 163.95600000000002,
@@ -3074,6 +2995,85 @@
       ],
       "agent": "v1",
       "key": "L30"
+    },
+    {
+      "begin": 163.88,
+      "end": 170.155,
+      "text": "Haruskah aku menjauh?",
+      "words": [
+        {
+          "text": "Harus",
+          "begin": 163.88,
+          "end": 164.379,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "kah",
+          "begin": 164.379,
+          "end": 164.781,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 164.781,
+          "end": 165.21699999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku",
+          "begin": 165.21699999999998,
+          "end": 165.409,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "men",
+          "begin": 165.409,
+          "end": 165.916,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ja",
+          "begin": 165.916,
+          "end": 166.55700000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "uh?",
+          "begin": 166.55700000000002,
+          "end": 170.155,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L31"
     },
     {
       "begin": 175.222,
@@ -3205,6 +3205,65 @@
       "key": "L32"
     },
     {
+      "begin": 181.151,
+      "end": 186.808,
+      "text": "Ke mana hati",
+      "words": [
+        {
+          "text": "Ke",
+          "begin": 181.151,
+          "end": 181.531,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 181.531,
+          "end": 181.962,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 181.962,
+          "end": 182.417,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ha",
+          "begin": 182.417,
+          "end": 183.022,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ti",
+          "begin": 183.022,
+          "end": 186.808,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33"
+    },
+    {
       "begin": 181.01,
       "end": 185.533,
       "text": "Ke mana hati kaubawa?",
@@ -3292,65 +3351,6 @@
       ],
       "agent": "v2",
       "key": "L34"
-    },
-    {
-      "begin": 181.151,
-      "end": 186.808,
-      "text": "Ke mana hati",
-      "words": [
-        {
-          "text": "Ke",
-          "begin": 181.151,
-          "end": 181.531,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ma",
-          "begin": 181.531,
-          "end": 181.962,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "na",
-          "begin": 181.962,
-          "end": 182.417,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ha",
-          "begin": 182.417,
-          "end": 183.022,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ti",
-          "begin": 183.022,
-          "end": 186.808,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L33"
     },
     {
       "begin": 186.005,
@@ -3511,135 +3511,6 @@
       "key": "L36"
     },
     {
-      "begin": 189.364,
-      "end": 195.287,
-      "text": "Ku menunggu, kenyataannya kau di sana",
-      "words": [
-        {
-          "text": "Ku",
-          "begin": 189.364,
-          "end": 189.633,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "me",
-          "begin": 189.633,
-          "end": 189.932,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "nung",
-          "begin": 189.932,
-          "end": 190.341,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "gu,",
-          "begin": 190.341,
-          "end": 190.885,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "kenya",
-          "begin": 191.103,
-          "end": 191.642,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ta",
-          "begin": 191.642,
-          "end": 192.132,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "an",
-          "begin": 192.132,
-          "end": 192.36599999999999,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "nya",
-          "begin": 192.36599999999999,
-          "end": 192.582,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "kau",
-          "begin": 192.582,
-          "end": 193.01,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "di",
-          "begin": 193.01,
-          "end": 193.976,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "sa",
-          "begin": 194.34,
-          "end": 194.739,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "na",
-          "begin": 194.739,
-          "end": 195.287,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v2",
-      "key": "L38"
-    },
-    {
       "begin": 189.398,
       "end": 195.274,
       "text": "Ku menunggu, kenyataannya kau di sana",
@@ -3767,6 +3638,135 @@
       ],
       "agent": "v1",
       "key": "L37"
+    },
+    {
+      "begin": 189.364,
+      "end": 195.287,
+      "text": "Ku menunggu, kenyataannya kau di sana",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 189.364,
+          "end": 189.633,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 189.633,
+          "end": 189.932,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nung",
+          "begin": 189.932,
+          "end": 190.341,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gu,",
+          "begin": 190.341,
+          "end": 190.885,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kenya",
+          "begin": 191.103,
+          "end": 191.642,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ta",
+          "begin": 191.642,
+          "end": 192.132,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 192.132,
+          "end": 192.36599999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nya",
+          "begin": 192.36599999999999,
+          "end": 192.582,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kau",
+          "begin": 192.582,
+          "end": 193.01,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 193.01,
+          "end": 193.976,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 194.34,
+          "end": 194.739,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 194.739,
+          "end": 195.287,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L38"
     },
     {
       "begin": 195.522,
@@ -4502,85 +4502,6 @@
       "key": "L45"
     },
     {
-      "begin": 217.779,
-      "end": 220.935,
-      "text": "Tanpa pernah jelas akhirnya",
-      "words": [
-        {
-          "text": "Tanpa",
-          "begin": 217.779,
-          "end": 218.058,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "pernah",
-          "begin": 218.058,
-          "end": 218.50900000000001,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "je",
-          "begin": 218.50900000000001,
-          "end": 218.98,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "las",
-          "begin": 218.98,
-          "end": 219.47,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ak",
-          "begin": 219.47,
-          "end": 219.892,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "hir",
-          "begin": 219.892,
-          "end": 220.341,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "nya",
-          "begin": 220.341,
-          "end": 220.935,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v2",
-      "key": "L47"
-    },
-    {
       "begin": 217.784,
       "end": 220.957,
       "text": "Tanpa pernah jelas akhirnya",
@@ -4660,14 +4581,14 @@
       "key": "L46"
     },
     {
-      "begin": 221.12,
-      "end": 226.93,
-      "text": "Ku menunggu, kenyataannya kau di sana",
+      "begin": 217.779,
+      "end": 220.935,
+      "text": "Tanpa pernah jelas akhirnya",
       "words": [
         {
-          "text": "Ku",
-          "begin": 221.12,
-          "end": 221.336,
+          "text": "Tanpa",
+          "begin": 217.779,
+          "end": 218.058,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -4675,29 +4596,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "me",
-          "begin": 221.336,
-          "end": 221.683,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "nung",
-          "begin": 221.683,
-          "end": 222.088,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "gu,",
-          "begin": 222.088,
-          "end": 222.65699999999998,
+          "text": "pernah",
+          "begin": 218.058,
+          "end": 218.50900000000001,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -4705,9 +4606,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "kenya",
-          "begin": 222.88400000000001,
-          "end": 223.389,
+          "text": "je",
+          "begin": 218.50900000000001,
+          "end": 218.98,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -4715,9 +4616,19 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "ta",
-          "begin": 223.389,
-          "end": 223.903,
+          "text": "las",
+          "begin": 218.98,
+          "end": 219.47,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ak",
+          "begin": 219.47,
+          "end": 219.892,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -4725,9 +4636,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "an",
-          "begin": 223.903,
-          "end": 224.115,
+          "text": "hir",
+          "begin": 219.892,
+          "end": 220.341,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -4736,48 +4647,8 @@
         },
         {
           "text": "nya",
-          "begin": 224.115,
-          "end": 224.358,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "kau",
-          "begin": 224.358,
-          "end": 224.798,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "di",
-          "begin": 224.798,
-          "end": 225.708,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "sa",
-          "begin": 226.10399999999998,
-          "end": 226.54399999999998,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "na",
-          "begin": 226.54399999999998,
-          "end": 226.93,
+          "begin": 220.341,
+          "end": 220.935,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -4786,7 +4657,7 @@
         }
       ],
       "agent": "v2",
-      "key": "L49"
+      "key": "L47"
     },
     {
       "begin": 221.136,
@@ -4916,6 +4787,135 @@
       ],
       "agent": "v1",
       "key": "L48"
+    },
+    {
+      "begin": 221.12,
+      "end": 226.93,
+      "text": "Ku menunggu, kenyataannya kau di sana",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 221.12,
+          "end": 221.336,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 221.336,
+          "end": 221.683,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nung",
+          "begin": 221.683,
+          "end": 222.088,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "gu,",
+          "begin": 222.088,
+          "end": 222.65699999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kenya",
+          "begin": 222.88400000000001,
+          "end": 223.389,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ta",
+          "begin": 223.389,
+          "end": 223.903,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "an",
+          "begin": 223.903,
+          "end": 224.115,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nya",
+          "begin": 224.115,
+          "end": 224.358,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kau",
+          "begin": 224.358,
+          "end": 224.798,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 224.798,
+          "end": 225.708,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 226.10399999999998,
+          "end": 226.54399999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "na",
+          "begin": 226.54399999999998,
+          "end": 226.93,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L49"
     },
     {
       "begin": 227.254,

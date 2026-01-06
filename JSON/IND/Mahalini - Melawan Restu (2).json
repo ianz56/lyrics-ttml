@@ -2206,75 +2206,6 @@
       "key": "L27"
     },
     {
-      "begin": 158.07999999999998,
-      "end": 163.958,
-      "text": "Mengapa kita terlanjur t'lah mencinta?",
-      "words": [
-        {
-          "text": "Mengapa",
-          "begin": 158.07999999999998,
-          "end": 159.484,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "kita",
-          "begin": 159.484,
-          "end": 161.188,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ter",
-          "begin": 161.567,
-          "end": 161.88400000000001,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "lanjur",
-          "begin": 161.88400000000001,
-          "end": 162.53199999999998,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "t'lah",
-          "begin": 162.53199999999998,
-          "end": 162.78199999999998,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "mencinta?",
-          "begin": 162.78199999999998,
-          "end": 163.958,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L29"
-    },
-    {
       "begin": 159.074,
       "end": 168.451,
       "text": "Ho-ho-wo-oh, ho-oh",
@@ -2342,6 +2273,75 @@
       ],
       "agent": "v1",
       "key": "L28"
+    },
+    {
+      "begin": 158.07999999999998,
+      "end": 163.958,
+      "text": "Mengapa kita terlanjur t'lah mencinta?",
+      "words": [
+        {
+          "text": "Mengapa",
+          "begin": 158.07999999999998,
+          "end": 159.484,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kita",
+          "begin": 159.484,
+          "end": 161.188,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ter",
+          "begin": 161.567,
+          "end": 161.88400000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lanjur",
+          "begin": 161.88400000000001,
+          "end": 162.53199999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "t'lah",
+          "begin": 162.53199999999998,
+          "end": 162.78199999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mencinta?",
+          "begin": 162.78199999999998,
+          "end": 163.958,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
     },
     {
       "begin": 169.05700000000002,

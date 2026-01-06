@@ -2154,85 +2154,6 @@
       "key": "L19"
     },
     {
-      "begin": 151.632,
-      "end": 156.934,
-      "text": "(Jika rasa sakitku)",
-      "words": [
-        {
-          "text": "(Ji",
-          "begin": 151.632,
-          "end": 152.071,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ka",
-          "begin": 152.071,
-          "end": 153.588,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ra",
-          "begin": 153.857,
-          "end": 153.982,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "sa",
-          "begin": 153.982,
-          "end": 154.426,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "sa",
-          "begin": 154.426,
-          "end": 154.922,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "kit",
-          "begin": 154.922,
-          "end": 155.39,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ku)",
-          "begin": 155.39,
-          "end": 156.934,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L21"
-    },
-    {
       "begin": 155.728,
       "end": 162.529,
       "text": "Jika rasa sakitku",
@@ -2312,34 +2233,14 @@
       "key": "L20"
     },
     {
-      "begin": 159.277,
-      "end": 164.00900000000001,
-      "text": "(Masih tak terlihat di matamu)",
+      "begin": 151.632,
+      "end": 156.934,
+      "text": "(Jika rasa sakitku)",
       "words": [
         {
-          "text": "(Masih",
-          "begin": 159.277,
-          "end": 159.68200000000002,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "tak",
-          "begin": 159.68200000000002,
-          "end": 160.192,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ter",
-          "begin": 160.192,
-          "end": 160.442,
+          "text": "(Ji",
+          "begin": 151.632,
+          "end": 152.071,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2347,19 +2248,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "li",
-          "begin": 160.442,
-          "end": 161.128,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "hat",
-          "begin": 161.128,
-          "end": 161.448,
+          "text": "ka",
+          "begin": 152.071,
+          "end": 153.588,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2367,9 +2258,19 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "di",
-          "begin": 161.448,
-          "end": 162.097,
+          "text": "ra",
+          "begin": 153.857,
+          "end": 153.982,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sa",
+          "begin": 153.982,
+          "end": 154.426,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2377,9 +2278,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "ma",
-          "begin": 162.097,
-          "end": 162.563,
+          "text": "sa",
+          "begin": 154.426,
+          "end": 154.922,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2387,9 +2288,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "ta",
-          "begin": 162.563,
-          "end": 163.06799999999998,
+          "text": "kit",
+          "begin": 154.922,
+          "end": 155.39,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2397,9 +2298,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "mu)",
-          "begin": 163.06799999999998,
-          "end": 164.00900000000001,
+          "text": "ku)",
+          "begin": 155.39,
+          "end": 156.934,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2408,7 +2309,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L23"
+      "key": "L21"
     },
     {
       "begin": 162.65800000000002,
@@ -2508,6 +2409,105 @@
       ],
       "agent": "v1",
       "key": "L22"
+    },
+    {
+      "begin": 159.277,
+      "end": 164.00900000000001,
+      "text": "(Masih tak terlihat di matamu)",
+      "words": [
+        {
+          "text": "(Masih",
+          "begin": 159.277,
+          "end": 159.68200000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tak",
+          "begin": 159.68200000000002,
+          "end": 160.192,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ter",
+          "begin": 160.192,
+          "end": 160.442,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "li",
+          "begin": 160.442,
+          "end": 161.128,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "hat",
+          "begin": 161.128,
+          "end": 161.448,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 161.448,
+          "end": 162.097,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ma",
+          "begin": 162.097,
+          "end": 162.563,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ta",
+          "begin": 162.563,
+          "end": 163.06799999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu)",
+          "begin": 163.06799999999998,
+          "end": 164.00900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
     },
     {
       "begin": 166.941,

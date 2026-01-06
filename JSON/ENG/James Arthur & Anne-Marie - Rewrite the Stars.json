@@ -1568,7 +1568,7 @@
     },
     {
       "begin": 82.334,
-      "end": 86.164,
+      "end": 84.438,
       "text": "But there are mountains",
       "words": [
         {
@@ -1614,6 +1614,48 @@
       ],
       "agent": "v2",
       "key": "L21"
+    },
+    {
+      "begin": 84.438,
+      "end": 86.164,
+      "text": "",
+      "words": [],
+      "key": "L22",
+      "backgroundVocal": {
+        "text": "There are mountains",
+        "words": [
+          {
+            "text": "There",
+            "begin": 84.438,
+            "end": 84.732,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "are",
+            "begin": 84.732,
+            "end": 85.059,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "mountains",
+            "begin": 85.059,
+            "end": 86.294,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 86.164,
@@ -1712,42 +1754,7 @@
         }
       ],
       "agent": "v2",
-      "key": "L23",
-      "backgroundVocal": {
-        "text": "There are mountains",
-        "words": [
-          {
-            "text": "There",
-            "begin": 84.438,
-            "end": 84.732,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "are",
-            "begin": 84.732,
-            "end": 85.059,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "mountains",
-            "begin": 85.059,
-            "end": 86.294,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          }
-        ]
-      }
+      "key": "L23"
     },
     {
       "begin": 89.947,
@@ -2342,7 +2349,7 @@
     },
     {
       "begin": 119.025,
-      "end": 122.868,
+      "end": 121.745,
       "text": "And I'm not the one you were meant to find",
       "words": [
         {
@@ -2448,6 +2455,88 @@
       ],
       "agent": "v2",
       "key": "L33"
+    },
+    {
+      "begin": 121.745,
+      "end": 122.868,
+      "text": "",
+      "words": [],
+      "key": "L34",
+      "backgroundVocal": {
+        "text": "The one you were meant to find",
+        "words": [
+          {
+            "text": "The",
+            "begin": 121.745,
+            "end": 122.013,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "one",
+            "begin": 122.013,
+            "end": 122.292,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "you",
+            "begin": 122.292,
+            "end": 122.493,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "were",
+            "begin": 122.493,
+            "end": 122.706,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "meant",
+            "begin": 122.706,
+            "end": 123.145,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "to",
+            "begin": 123.145,
+            "end": 123.399,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "find",
+            "begin": 123.399,
+            "end": 123.993,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 122.868,
@@ -2566,82 +2655,7 @@
         }
       ],
       "agent": "v2",
-      "key": "L35",
-      "backgroundVocal": {
-        "text": "The one you were meant to find",
-        "words": [
-          {
-            "text": "The",
-            "begin": 121.745,
-            "end": 122.013,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "one",
-            "begin": 122.013,
-            "end": 122.292,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "you",
-            "begin": 122.292,
-            "end": 122.493,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "were",
-            "begin": 122.493,
-            "end": 122.706,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "meant",
-            "begin": 122.706,
-            "end": 123.145,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "to",
-            "begin": 123.145,
-            "end": 123.399,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "find",
-            "begin": 123.399,
-            "end": 123.993,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          }
-        ]
-      }
+      "key": "L35"
     },
     {
       "begin": 126.614,
@@ -3159,7 +3173,7 @@
     },
     {
       "begin": 151.883,
-      "end": 156.749,
+      "end": 152.779,
       "text": "It feels impossible",
       "words": [
         {
@@ -3198,7 +3212,7 @@
     },
     {
       "begin": 152.779,
-      "end": 157.686,
+      "end": 153.75900000000001,
       "text": "It's not impossible",
       "words": [
         {
@@ -4312,5 +4326,5 @@
       "key": "L57"
     }
   ],
-  "totalLines": 55
+  "totalLines": 57
 }

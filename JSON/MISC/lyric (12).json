@@ -12,140 +12,6 @@
   "duration": 215.541,
   "lines": [
     {
-      "begin": 0.0,
-      "end": 200.112,
-      "text": "Ku hanya butuh kauhargai aku",
-      "words": [
-        {
-          "text": "Ku",
-          "begin": 194.067,
-          "end": 194.286,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "hanya",
-          "begin": 194.344,
-          "end": 194.686,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "butuh",
-          "begin": 194.794,
-          "end": 195.725,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "kau",
-          "begin": 195.916,
-          "end": 196.161,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "har",
-          "begin": 196.261,
-          "end": 197.247,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ga",
-          "begin": 197.247,
-          "end": 197.904,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "i",
-          "begin": 197.904,
-          "end": 198.232,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "a",
-          "begin": 198.29,
-          "end": 198.897,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ku",
-          "begin": 198.897,
-          "end": 200.112,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L30",
-      "backgroundVocal": {
-        "text": "(Ku hanya butuh)",
-        "words": [
-          {
-            "text": "(Ku",
-            "begin": 194.067,
-            "end": 194.286,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": false,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "hanya",
-            "begin": 193.336,
-            "end": 194.138,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": false,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "butuh)",
-            "begin": 194.24099999999999,
-            "end": 195.277,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": false,
-            "hasSpaceAfter": false
-          }
-        ]
-      }
-    },
-    {
       "begin": 7.315,
       "end": 16.186,
       "text": "Hanya aku yang mampu bertahan",
@@ -2500,6 +2366,140 @@
       ],
       "agent": "v1",
       "key": "L29"
+    },
+    {
+      "begin": 0.0,
+      "end": 200.112,
+      "text": "Ku hanya butuh kauhargai aku",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 194.067,
+          "end": 194.286,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hanya",
+          "begin": 194.344,
+          "end": 194.686,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "butuh",
+          "begin": 194.794,
+          "end": 195.725,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "kau",
+          "begin": 195.916,
+          "end": 196.161,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "har",
+          "begin": 196.261,
+          "end": 197.247,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ga",
+          "begin": 197.247,
+          "end": 197.904,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "i",
+          "begin": 197.904,
+          "end": 198.232,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 198.29,
+          "end": 198.897,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ku",
+          "begin": 198.897,
+          "end": 200.112,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30",
+      "backgroundVocal": {
+        "text": "(Ku hanya butuh)",
+        "words": [
+          {
+            "text": "(Ku",
+            "begin": 194.067,
+            "end": 194.286,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "hanya",
+            "begin": 193.336,
+            "end": 194.138,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "butuh)",
+            "begin": 194.24099999999999,
+            "end": 195.277,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
     },
     {
       "begin": 200.398,

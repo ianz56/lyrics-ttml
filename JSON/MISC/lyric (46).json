@@ -3371,6 +3371,105 @@
       "key": "L35"
     },
     {
+      "begin": 256.641,
+      "end": 261.98,
+      "text": "Kudu ka saha nitipkeun diri?",
+      "words": [
+        {
+          "text": "Ku",
+          "begin": 256.641,
+          "end": 256.956,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "du",
+          "begin": 256.956,
+          "end": 257.3,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ka",
+          "begin": 257.3,
+          "end": 257.866,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sa",
+          "begin": 257.866,
+          "end": 258.28,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ha",
+          "begin": 258.28,
+          "end": 259.136,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "nitip",
+          "begin": 259.408,
+          "end": 260.221,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "keun",
+          "begin": 260.221,
+          "end": 260.573,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "di",
+          "begin": 260.573,
+          "end": 261.011,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ri?",
+          "begin": 261.011,
+          "end": 261.98,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v2",
+      "key": "L36"
+    },
+    {
       "begin": 256.64,
       "end": 262.479,
       "text": "Kudu ka saha nitipkeun diri?",
@@ -3478,105 +3577,6 @@
       ],
       "agent": "v1",
       "key": "L37"
-    },
-    {
-      "begin": 256.641,
-      "end": 261.98,
-      "text": "Kudu ka saha nitipkeun diri?",
-      "words": [
-        {
-          "text": "Ku",
-          "begin": 256.641,
-          "end": 256.956,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "du",
-          "begin": 256.956,
-          "end": 257.3,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ka",
-          "begin": 257.3,
-          "end": 257.866,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "sa",
-          "begin": 257.866,
-          "end": 258.28,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ha",
-          "begin": 258.28,
-          "end": 259.136,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "nitip",
-          "begin": 259.408,
-          "end": 260.221,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "keun",
-          "begin": 260.221,
-          "end": 260.573,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "di",
-          "begin": 260.573,
-          "end": 261.011,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ri?",
-          "begin": 261.011,
-          "end": 261.98,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v2",
-      "key": "L36"
     },
     {
       "begin": 262.278,

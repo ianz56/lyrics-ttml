@@ -2406,45 +2406,6 @@
       "key": "L27"
     },
     {
-      "begin": 180.347,
-      "end": 183.529,
-      "text": "(I still believe)",
-      "words": [
-        {
-          "text": "(I",
-          "begin": 180.347,
-          "end": 181.217,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "still",
-          "begin": 181.217,
-          "end": 181.816,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "believe)",
-          "begin": 181.816,
-          "end": 183.529,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L29"
-    },
-    {
       "begin": 182.663,
       "end": 186.158,
       "text": "Ooh, baby, I do",
@@ -2504,24 +2465,14 @@
       "key": "L28"
     },
     {
-      "begin": 184.343,
-      "end": 187.822,
-      "text": "(Someday you and me)",
+      "begin": 180.347,
+      "end": 183.529,
+      "text": "(I still believe)",
       "words": [
         {
-          "text": "(Some",
-          "begin": 184.343,
-          "end": 184.794,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "day",
-          "begin": 184.794,
-          "end": 185.359,
+          "text": "(I",
+          "begin": 180.347,
+          "end": 181.217,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2529,9 +2480,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "you",
-          "begin": 185.359,
-          "end": 185.629,
+          "text": "still",
+          "begin": 181.217,
+          "end": 181.816,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2539,19 +2490,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "and",
-          "begin": 185.629,
-          "end": 186.111,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "me)",
-          "begin": 186.111,
-          "end": 187.822,
+          "text": "believe)",
+          "begin": 181.816,
+          "end": 183.529,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2560,7 +2501,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L31"
+      "key": "L29"
     },
     {
       "begin": 186.957,
@@ -2632,6 +2573,65 @@
       "key": "L30"
     },
     {
+      "begin": 184.343,
+      "end": 187.822,
+      "text": "(Someday you and me)",
+      "words": [
+        {
+          "text": "(Some",
+          "begin": 184.343,
+          "end": 184.794,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "day",
+          "begin": 184.794,
+          "end": 185.359,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 185.359,
+          "end": 185.629,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 185.629,
+          "end": 186.111,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me)",
+          "begin": 186.111,
+          "end": 187.822,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31"
+    },
+    {
       "begin": 191.041,
       "end": 198.957,
       "text": "In love again",
@@ -2679,6 +2679,55 @@
       ],
       "agent": "v1",
       "key": "L32"
+    },
+    {
+      "begin": 199.129,
+      "end": 201.527,
+      "text": "I miss your love",
+      "words": [
+        {
+          "text": "I",
+          "begin": 199.129,
+          "end": 199.376,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miss",
+          "begin": 199.376,
+          "end": 199.812,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 199.812,
+          "end": 200.299,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "love",
+          "begin": 200.299,
+          "end": 201.527,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33"
     },
     {
       "begin": 196.573,
@@ -2730,14 +2779,14 @@
       "key": "L34"
     },
     {
-      "begin": 199.129,
-      "end": 201.527,
-      "text": "I miss your love",
+      "begin": 202.999,
+      "end": 204.341,
+      "text": "Mmm mmm",
       "words": [
         {
-          "text": "I",
-          "begin": 199.129,
-          "end": 199.376,
+          "text": "Mmm",
+          "begin": 202.999,
+          "end": 203.49,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2745,29 +2794,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "miss",
-          "begin": 199.376,
-          "end": 199.812,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "your",
-          "begin": 199.812,
-          "end": 200.299,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "love",
-          "begin": 200.299,
-          "end": 201.527,
+          "text": "mmm",
+          "begin": 203.49,
+          "end": 204.341,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2776,7 +2805,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L33"
+      "key": "L35"
     },
     {
       "begin": 200.466,
@@ -2836,35 +2865,6 @@
       ],
       "agent": "v1",
       "key": "L36"
-    },
-    {
-      "begin": 202.999,
-      "end": 204.341,
-      "text": "Mmm mmm",
-      "words": [
-        {
-          "text": "Mmm",
-          "begin": 202.999,
-          "end": 203.49,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "mmm",
-          "begin": 203.49,
-          "end": 204.341,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L35"
     },
     {
       "begin": 204.494,
