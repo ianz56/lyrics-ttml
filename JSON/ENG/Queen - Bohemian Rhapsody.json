@@ -422,7 +422,7 @@
     },
     {
       "begin": 24.961,
-      "end": 25.052,
+      "end": 28.495,
       "text": "I'm just a poor boy",
       "words": [
         {
@@ -477,14 +477,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L7"
-    },
-    {
-      "begin": 25.052,
-      "end": 28.495,
-      "text": "",
-      "words": [],
-      "key": "L8",
+      "key": "L7",
       "backgroundVocal": {
         "text": "Ooh, poor",
         "words": [
@@ -513,7 +506,7 @@
     },
     {
       "begin": 28.495,
-      "end": 28.513,
+      "end": 34.307,
       "text": "I need no sympathy",
       "words": [
         {
@@ -568,14 +561,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L9"
-    },
-    {
-      "begin": 28.513,
-      "end": 30.599,
-      "text": "",
-      "words": [],
-      "key": "L10",
+      "key": "L9",
       "backgroundVocal": {
         "text": "Boy",
         "words": [
@@ -1499,7 +1485,7 @@
     },
     {
       "begin": 97.289,
-      "end": 100.666,
+      "end": 103.666,
       "text": "Carry on, carry on",
       "words": [
         {
@@ -2020,7 +2006,7 @@
     },
     {
       "begin": 141.851,
-      "end": 145.201,
+      "end": 148.657,
       "text": "Mama, ooh-ooh-ooh-ooh",
       "words": [
         {
@@ -2085,14 +2071,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L35"
-    },
-    {
-      "begin": 145.201,
-      "end": 148.657,
-      "text": "",
-      "words": [],
-      "key": "L36",
+      "key": "L35",
       "backgroundVocal": {
         "text": "Any way the wind blows",
         "words": [
@@ -2319,7 +2298,7 @@
     },
     {
       "begin": 185.808,
-      "end": 188.639,
+      "end": 191.832,
       "text": "I see a little silhouetto of a man",
       "words": [
         {
@@ -2655,7 +2634,7 @@
     },
     {
       "begin": 195.898,
-      "end": 196.703,
+      "end": 197.45,
       "text": "Galileo",
       "words": [
         {
@@ -2673,30 +2652,8 @@
       "key": "L43"
     },
     {
-      "begin": 196.703,
-      "end": 197.45,
-      "text": "",
-      "words": [],
-      "key": "L44",
-      "backgroundVocal": {
-        "text": "Galileo",
-        "words": [
-          {
-            "text": "Galileo",
-            "begin": 196.703,
-            "end": 198.06,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          }
-        ]
-      }
-    },
-    {
       "begin": 197.45,
-      "end": 198.3,
+      "end": 199.001,
       "text": "Galileo",
       "words": [
         {
@@ -2714,30 +2671,8 @@
       "key": "L45"
     },
     {
-      "begin": 198.3,
-      "end": 199.001,
-      "text": "",
-      "words": [],
-      "key": "L46",
-      "backgroundVocal": {
-        "text": "Galileo",
-        "words": [
-          {
-            "text": "Galileo",
-            "begin": 198.3,
-            "end": 199.343,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          }
-        ]
-      }
-    },
-    {
       "begin": 199.001,
-      "end": 200.38400000000001,
+      "end": 203.85,
       "text": "Galileo, Figaro",
       "words": [
         {
@@ -2772,11 +2707,36 @@
         }
       ],
       "agent": "v1",
-      "key": "L47"
+      "key": "L47",
+      "backgroundVocal": {
+        "text": "Galileo Galileo",
+        "words": [
+          {
+            "text": "Galileo",
+            "begin": 196.703,
+            "end": 198.06,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "Galileo",
+            "begin": 198.3,
+            "end": 199.343,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 200.38400000000001,
-      "end": 201.13,
+      "end": 205.87,
       "text": "Magnifico",
       "words": [
         {
@@ -2801,14 +2761,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L48"
-    },
-    {
-      "begin": 201.13,
-      "end": 202.414,
-      "text": "",
-      "words": [],
-      "key": "L49",
+      "key": "L48",
       "backgroundVocal": {
         "text": "Oh, oh, oh, oh",
         "words": [
@@ -2857,7 +2810,7 @@
     },
     {
       "begin": 202.414,
-      "end": 205.657,
+      "end": 209.062,
       "text": "I'm just a poor boy, nobody loves me",
       "words": [
         {
@@ -3312,7 +3265,7 @@
     },
     {
       "begin": 218.357,
-      "end": 219.439,
+      "end": 220.52100000000002,
       "text": "We will not let you go",
       "words": [
         {
@@ -3380,50 +3333,8 @@
       "key": "L55"
     },
     {
-      "begin": 219.439,
-      "end": 220.52100000000002,
-      "text": "",
-      "words": [],
-      "key": "L56",
-      "backgroundVocal": {
-        "text": "Let him go",
-        "words": [
-          {
-            "text": "Let",
-            "begin": 219.439,
-            "end": 219.739,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "him",
-            "begin": 219.739,
-            "end": 219.94,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "go",
-            "begin": 219.94,
-            "end": 221.504,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          }
-        ]
-      }
-    },
-    {
       "begin": 220.52100000000002,
-      "end": 222.733,
+      "end": 223.667,
       "text": "Bismillah! We will not let you go",
       "words": [
         {
@@ -3518,21 +3429,14 @@
         }
       ],
       "agent": "v1",
-      "key": "L57"
-    },
-    {
-      "begin": 222.733,
-      "end": 223.667,
-      "text": "",
-      "words": [],
-      "key": "L58",
+      "key": "L57",
       "backgroundVocal": {
         "text": "Let him go",
         "words": [
           {
             "text": "Let",
-            "begin": 222.733,
-            "end": 222.948,
+            "begin": 219.439,
+            "end": 219.739,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
@@ -3541,8 +3445,8 @@
           },
           {
             "text": "him",
-            "begin": 222.948,
-            "end": 223.131,
+            "begin": 219.739,
+            "end": 219.94,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
@@ -3551,8 +3455,8 @@
           },
           {
             "text": "go",
-            "begin": 223.131,
-            "end": 224.353,
+            "begin": 219.94,
+            "end": 221.504,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
@@ -3564,7 +3468,7 @@
     },
     {
       "begin": 223.667,
-      "end": 225.803,
+      "end": 226.441,
       "text": "Bismillah! We will not let you go",
       "words": [
         {
@@ -3659,21 +3563,14 @@
         }
       ],
       "agent": "v1",
-      "key": "L59"
-    },
-    {
-      "begin": 225.803,
-      "end": 226.441,
-      "text": "",
-      "words": [],
-      "key": "L60",
+      "key": "L59",
       "backgroundVocal": {
-        "text": "Let me go",
+        "text": "Let him go",
         "words": [
           {
             "text": "Let",
-            "begin": 225.803,
-            "end": 226.10399999999998,
+            "begin": 222.733,
+            "end": 222.948,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
@@ -3681,9 +3578,9 @@
             "hasSpaceAfter": true
           },
           {
-            "text": "me",
-            "begin": 226.10399999999998,
-            "end": 226.304,
+            "text": "him",
+            "begin": 222.948,
+            "end": 223.131,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
@@ -3692,8 +3589,8 @@
           },
           {
             "text": "go",
-            "begin": 226.304,
-            "end": 226.726,
+            "begin": 223.131,
+            "end": 224.353,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
@@ -3705,7 +3602,7 @@
     },
     {
       "begin": 226.441,
-      "end": 227.395,
+      "end": 227.627,
       "text": "Will not let you go",
       "words": [
         {
@@ -3763,50 +3660,8 @@
       "key": "L61"
     },
     {
-      "begin": 227.395,
-      "end": 227.627,
-      "text": "",
-      "words": [],
-      "key": "L62",
-      "backgroundVocal": {
-        "text": "Let me go",
-        "words": [
-          {
-            "text": "Let",
-            "begin": 227.395,
-            "end": 227.71,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "me",
-            "begin": 227.71,
-            "end": 227.893,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          },
-          {
-            "text": "go",
-            "begin": 227.893,
-            "end": 228.457,
-            "isBackground": true,
-            "isTranslation": false,
-            "hasLeadingSpace": false,
-            "hasTrailingSpace": true,
-            "hasSpaceAfter": true
-          }
-        ]
-      }
-    },
-    {
       "begin": 227.627,
-      "end": 231.082,
+      "end": 235.115,
       "text": "Never, never, never, never let me go",
       "words": [
         {
@@ -3881,11 +3736,76 @@
         }
       ],
       "agent": "v1",
-      "key": "L63"
+      "key": "L63",
+      "backgroundVocal": {
+        "text": "Let me go Let me go",
+        "words": [
+          {
+            "text": "Let",
+            "begin": 225.803,
+            "end": 226.10399999999998,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "me",
+            "begin": 226.10399999999998,
+            "end": 226.304,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "go",
+            "begin": 226.304,
+            "end": 226.726,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "Let",
+            "begin": 227.395,
+            "end": 227.71,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "me",
+            "begin": 227.71,
+            "end": 227.893,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "go",
+            "begin": 227.893,
+            "end": 228.457,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 231.082,
-      "end": 233.727,
+      "end": 236.811,
       "text": "No, no, no, no, no, no, no",
       "words": [
         {
@@ -3964,7 +3884,7 @@
     },
     {
       "begin": 233.727,
-      "end": 235.528,
+      "end": 238.989,
       "text": "Oh, mama mia, mama mia",
       "words": [
         {
@@ -5204,5 +5124,5 @@
       "key": "L83"
     }
   ],
-  "totalLines": 83
+  "totalLines": 73
 }
