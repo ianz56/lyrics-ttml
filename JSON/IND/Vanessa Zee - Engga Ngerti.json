@@ -2163,45 +2163,6 @@
       "key": "L30"
     },
     {
-      "begin": 213.723,
-      "end": 217.253,
-      "text": "Ho-oh-ho",
-      "words": [
-        {
-          "text": "Ho-",
-          "begin": 213.723,
-          "end": 214.179,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "oh-",
-          "begin": 214.179,
-          "end": 214.972,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ho",
-          "begin": 214.972,
-          "end": 217.253,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L31"
-    },
-    {
       "begin": 212.207,
       "end": 215.827,
       "text": "(Kangen kamu)",
@@ -2251,34 +2212,14 @@
       "key": "L32"
     },
     {
-      "begin": 218.02,
-      "end": 222.087,
-      "text": "Di mana dirimu?",
+      "begin": 213.723,
+      "end": 217.253,
+      "text": "Ho-oh-ho",
       "words": [
         {
-          "text": "Di",
-          "begin": 218.02,
-          "end": 218.31,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "mana",
-          "begin": 218.31,
-          "end": 218.972,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "diri",
-          "begin": 218.972,
-          "end": 219.96,
+          "text": "Ho-",
+          "begin": 213.723,
+          "end": 214.179,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2286,9 +2227,19 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "mu?",
-          "begin": 219.96,
-          "end": 222.087,
+          "text": "oh-",
+          "begin": 214.179,
+          "end": 214.972,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ho",
+          "begin": 214.972,
+          "end": 217.253,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2297,7 +2248,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L33"
+      "key": "L31"
     },
     {
       "begin": 215.973,
@@ -2357,6 +2308,55 @@
       ],
       "agent": "v1",
       "key": "L34"
+    },
+    {
+      "begin": 218.02,
+      "end": 222.087,
+      "text": "Di mana dirimu?",
+      "words": [
+        {
+          "text": "Di",
+          "begin": 218.02,
+          "end": 218.31,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mana",
+          "begin": 218.31,
+          "end": 218.972,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "diri",
+          "begin": 218.972,
+          "end": 219.96,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mu?",
+          "begin": 219.96,
+          "end": 222.087,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33"
     },
     {
       "begin": 222.091,

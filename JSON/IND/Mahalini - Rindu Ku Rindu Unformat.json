@@ -2787,65 +2787,6 @@
       "key": "L26"
     },
     {
-      "begin": 196.739,
-      "end": 199.603,
-      "text": "Rindu, ku rindu",
-      "words": [
-        {
-          "text": "Rin",
-          "begin": 196.739,
-          "end": 197.352,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "du,",
-          "begin": 197.352,
-          "end": 197.863,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ku",
-          "begin": 197.863,
-          "end": 198.365,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "rin",
-          "begin": 198.365,
-          "end": 198.744,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "du",
-          "begin": 198.744,
-          "end": 199.603,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L27"
-    },
-    {
       "begin": 191.375,
       "end": 196.252,
       "text": "(Rindu, ku rindu)",
@@ -2905,14 +2846,14 @@
       "key": "L28"
     },
     {
-      "begin": 199.752,
-      "end": 201.829,
-      "text": "Pulang ke rumah",
+      "begin": 196.739,
+      "end": 199.603,
+      "text": "Rindu, ku rindu",
       "words": [
         {
-          "text": "Pu",
-          "begin": 199.752,
-          "end": 200.064,
+          "text": "Rin",
+          "begin": 196.739,
+          "end": 197.352,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2920,9 +2861,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "lang",
-          "begin": 200.064,
-          "end": 200.537,
+          "text": "du,",
+          "begin": 197.352,
+          "end": 197.863,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2930,9 +2871,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "ke",
-          "begin": 200.537,
-          "end": 201.026,
+          "text": "ku",
+          "begin": 197.863,
+          "end": 198.365,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2940,9 +2881,9 @@
           "hasSpaceAfter": true
         },
         {
-          "text": "ru",
-          "begin": 201.026,
-          "end": 201.416,
+          "text": "rin",
+          "begin": 198.365,
+          "end": 198.744,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2950,9 +2891,9 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "mah",
-          "begin": 201.416,
-          "end": 201.829,
+          "text": "du",
+          "begin": 198.744,
+          "end": 199.603,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
@@ -2961,7 +2902,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L29"
+      "key": "L27"
     },
     {
       "begin": 197.063,
@@ -3063,6 +3004,124 @@
       "key": "L30"
     },
     {
+      "begin": 199.752,
+      "end": 201.829,
+      "text": "Pulang ke rumah",
+      "words": [
+        {
+          "text": "Pu",
+          "begin": 199.752,
+          "end": 200.064,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "lang",
+          "begin": 200.064,
+          "end": 200.537,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ke",
+          "begin": 200.537,
+          "end": 201.026,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ru",
+          "begin": 201.026,
+          "end": 201.416,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mah",
+          "begin": 201.416,
+          "end": 201.829,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    },
+    {
+      "begin": 202.055,
+      "end": 207.084,
+      "text": "(Kala bersama)",
+      "words": [
+        {
+          "text": "(Ka",
+          "begin": 202.055,
+          "end": 202.668,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "la",
+          "begin": 202.668,
+          "end": 204.682,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ber",
+          "begin": 204.682,
+          "end": 205.304,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sa",
+          "begin": 205.304,
+          "end": 205.847,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma)",
+          "begin": 205.847,
+          "end": 207.084,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32"
+    },
+    {
       "begin": 207.704,
       "end": 212.004,
       "text": "Rindu ku pulang ke rumah",
@@ -3150,65 +3209,6 @@
       ],
       "agent": "v1",
       "key": "L31"
-    },
-    {
-      "begin": 202.055,
-      "end": 207.084,
-      "text": "(Kala bersama)",
-      "words": [
-        {
-          "text": "(Ka",
-          "begin": 202.055,
-          "end": 202.668,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "la",
-          "begin": 202.668,
-          "end": 204.682,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ber",
-          "begin": 204.682,
-          "end": 205.304,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "sa",
-          "begin": 205.304,
-          "end": 205.847,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ma)",
-          "begin": 205.847,
-          "end": 207.084,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L32"
     },
     {
       "begin": 213.09300000000002,

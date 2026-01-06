@@ -12,1327 +12,6 @@
   "duration": 0.0,
   "lines": [
     {
-      "begin": 20.259,
-      "end": 21.895,
-      "text": "Seine Angst ist meine Angst",
-      "words": [
-        {
-          "text": "Seine",
-          "begin": 20.259,
-          "end": 20.542,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Angst",
-          "begin": 20.542,
-          "end": 20.892,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ist",
-          "begin": 20.892,
-          "end": 21.071,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "meine",
-          "begin": 21.071,
-          "end": 21.521,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Angst",
-          "begin": 21.521,
-          "end": 21.895,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L1"
-    },
-    {
-      "begin": 22.113,
-      "end": 23.811,
-      "text": "Seine Wut ist meine Wut",
-      "words": [
-        {
-          "text": "Seine",
-          "begin": 22.113,
-          "end": 22.422,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Wut",
-          "begin": 22.422,
-          "end": 22.757,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ist",
-          "begin": 22.757,
-          "end": 22.971,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "meine",
-          "begin": 22.971,
-          "end": 23.417,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Wut",
-          "begin": 23.417,
-          "end": 23.811,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L2"
-    },
-    {
-      "begin": 24.02,
-      "end": 25.609,
-      "text": "Seine Liebe ist meine Liebe",
-      "words": [
-        {
-          "text": "Seine",
-          "begin": 24.02,
-          "end": 24.385,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Liebe",
-          "begin": 24.385,
-          "end": 24.652,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ist",
-          "begin": 24.652,
-          "end": 24.9,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "meine",
-          "begin": 24.9,
-          "end": 25.352,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Liebe",
-          "begin": 25.352,
-          "end": 25.609,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L3"
-    },
-    {
-      "begin": 25.609,
-      "end": 27.667,
-      "text": "Sein Blut ist mein Blut",
-      "words": [
-        {
-          "text": "Sein",
-          "begin": 25.609,
-          "end": 26.175,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Blut",
-          "begin": 26.408,
-          "end": 26.609,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ist",
-          "begin": 26.609,
-          "end": 26.794,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "mein",
-          "begin": 26.794,
-          "end": 27.155,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Blut",
-          "begin": 27.335,
-          "end": 27.667,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L4"
-    },
-    {
-      "begin": 27.3,
-      "end": 31.491,
-      "text": "Die Flamme dringt in mein Gehirn ein",
-      "words": [
-        {
-          "text": "Die",
-          "begin": 27.3,
-          "end": 27.775,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Flam",
-          "begin": 27.775,
-          "end": 28.614,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "me",
-          "begin": 28.614,
-          "end": 28.83,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "dringt",
-          "begin": 28.83,
-          "end": 29.561,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "in",
-          "begin": 29.561,
-          "end": 29.79,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "mein",
-          "begin": 29.79,
-          "end": 30.472,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Gehirn",
-          "begin": 30.472,
-          "end": 31.144,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ein",
-          "begin": 31.144,
-          "end": 31.491,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L5"
-    },
-    {
-      "begin": 31.658,
-      "end": 35.418,
-      "text": "Wie ein Blei-Teddybär",
-      "words": [
-        {
-          "text": "Wie",
-          "begin": 31.658,
-          "end": 32.376,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ein",
-          "begin": 32.376,
-          "end": 32.603,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Blei-",
-          "begin": 32.603,
-          "end": 33.828,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "Teddy",
-          "begin": 34.061,
-          "end": 34.449,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "bär",
-          "begin": 34.449,
-          "end": 35.418,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L6"
-    },
-    {
-      "begin": 35.532,
-      "end": 39.627,
-      "text": "Ich bewahre viele Dinge in meinem Herzen auf",
-      "words": [
-        {
-          "text": "Ich",
-          "begin": 35.532,
-          "end": 35.888,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "bewahre",
-          "begin": 35.888,
-          "end": 36.407,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "viele",
-          "begin": 36.407,
-          "end": 36.897,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Dinge",
-          "begin": 36.897,
-          "end": 37.34,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "in",
-          "begin": 37.34,
-          "end": 37.86,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "meinem",
-          "begin": 37.86,
-          "end": 38.356,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Her",
-          "begin": 38.356,
-          "end": 38.849,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "zen",
-          "begin": 38.849,
-          "end": 38.977,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "auf",
-          "begin": 38.977,
-          "end": 39.627,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L7"
-    },
-    {
-      "begin": 39.628,
-      "end": 43.151,
-      "text": "Deshalb ist mein Herz so schwer",
-      "words": [
-        {
-          "text": "Deshalb",
-          "begin": 39.628,
-          "end": 40.038,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ist",
-          "begin": 40.038,
-          "end": 40.341,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "mein",
-          "begin": 40.341,
-          "end": 41.174,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Herz",
-          "begin": 41.299,
-          "end": 41.705,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "so",
-          "begin": 41.705,
-          "end": 42.204,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "schwer",
-          "begin": 42.204,
-          "end": 43.151,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L8"
-    },
-    {
-      "begin": 43.136,
-      "end": 44.93,
-      "text": "Seine Angst ist meine Angst",
-      "words": [
-        {
-          "text": "Seine",
-          "begin": 43.136,
-          "end": 43.533,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Angst",
-          "begin": 43.533,
-          "end": 43.828,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ist",
-          "begin": 43.828,
-          "end": 44.092,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "meine",
-          "begin": 44.092,
-          "end": 44.469,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Angst",
-          "begin": 44.469,
-          "end": 44.93,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L9"
-    },
-    {
-      "begin": 45.115,
-      "end": 46.86,
-      "text": "Seine Wut ist meine Wut",
-      "words": [
-        {
-          "text": "Seine",
-          "begin": 45.115,
-          "end": 45.455,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Wut",
-          "begin": 45.455,
-          "end": 45.782,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ist",
-          "begin": 45.782,
-          "end": 46.049,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "meine",
-          "begin": 46.049,
-          "end": 46.452,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Wut",
-          "begin": 46.452,
-          "end": 46.86,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L10"
-    },
-    {
-      "begin": 47.079,
-      "end": 49.343,
-      "text": "Seine Liebe ist meine Liebe",
-      "words": [
-        {
-          "text": "Seine",
-          "begin": 47.079,
-          "end": 47.481,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Liebe",
-          "begin": 47.481,
-          "end": 47.797,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ist",
-          "begin": 47.797,
-          "end": 48.141,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "meine",
-          "begin": 48.141,
-          "end": 48.718,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Liebe",
-          "begin": 48.718,
-          "end": 49.343,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L11"
-    },
-    {
-      "begin": 49.476,
-      "end": 53.847,
-      "text": "Sein Blut ist mein Blut",
-      "words": [
-        {
-          "text": "Sein",
-          "begin": 49.476,
-          "end": 50.01,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Blut",
-          "begin": 50.364,
-          "end": 50.767,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ist",
-          "begin": 50.908,
-          "end": 51.334,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "mein",
-          "begin": 51.334,
-          "end": 51.943,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Blut",
-          "begin": 52.592,
-          "end": 53.847,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L12"
-    },
-    {
-      "begin": 54.974,
-      "end": 59.686,
-      "text": "Yo sé muy bien lo que soy",
-      "words": [
-        {
-          "text": "Yo",
-          "begin": 54.974,
-          "end": 55.897,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "sé",
-          "begin": 56.558,
-          "end": 56.733,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "muy",
-          "begin": 56.733,
-          "end": 57.006,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "bien",
-          "begin": 57.006,
-          "end": 57.337,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "lo",
-          "begin": 57.337,
-          "end": 58.207,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "que",
-          "begin": 58.293,
-          "end": 58.46,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "soy",
-          "begin": 58.46,
-          "end": 59.686,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L13"
-    },
-    {
-      "begin": 60.434,
-      "end": 63.405,
-      "text": "Ternura pa'l café",
-      "words": [
-        {
-          "text": "Ter",
-          "begin": 60.434,
-          "end": 60.682,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "nu",
-          "begin": 60.682,
-          "end": 60.9,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ra",
-          "begin": 60.9,
-          "end": 61.37,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "pa'l",
-          "begin": 61.37,
-          "end": 61.875,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ca",
-          "begin": 62.132,
-          "end": 62.31,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "fé",
-          "begin": 62.31,
-          "end": 63.405,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L14"
-    },
-    {
-      "begin": 64.235,
-      "end": 69.943,
-      "text": "Solo soy un terrón de azúcar",
-      "words": [
-        {
-          "text": "Solo",
-          "begin": 64.235,
-          "end": 64.707,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "soy",
-          "begin": 64.707,
-          "end": 65.136,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "un",
-          "begin": 65.136,
-          "end": 65.688,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ter",
-          "begin": 65.688,
-          "end": 66.093,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "rón",
-          "begin": 66.093,
-          "end": 67.391,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "de",
-          "begin": 67.391,
-          "end": 68.133,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "azú",
-          "begin": 68.133,
-          "end": 69.298,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "car",
-          "begin": 69.298,
-          "end": 69.943,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L15"
-    },
-    {
-      "begin": 70.19,
-      "end": 75.146,
-      "text": "Sé que me funde el calor",
-      "words": [
-        {
-          "text": "Sé",
-          "begin": 70.19,
-          "end": 71.267,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "que",
-          "begin": 72.047,
-          "end": 72.233,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "me",
-          "begin": 72.233,
-          "end": 72.488,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "fun",
-          "begin": 72.488,
-          "end": 72.92,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "de",
-          "begin": 72.92,
-          "end": 73.134,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "el",
-          "begin": 73.134,
-          "end": 73.617,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "cal",
-          "begin": 73.617,
-          "end": 73.776,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "or",
-          "begin": 73.776,
-          "end": 75.146,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L16"
-    },
-    {
-      "begin": 75.748,
-      "end": 78.989,
-      "text": "Sé desaparecer",
-      "words": [
-        {
-          "text": "Sé",
-          "begin": 75.748,
-          "end": 76.036,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "desa",
-          "begin": 76.036,
-          "end": 76.765,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "par",
-          "begin": 76.765,
-          "end": 77.469,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "ecer",
-          "begin": 77.469,
-          "end": 78.989,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L17"
-    },
-    {
-      "begin": 79.64099999999999,
-      "end": 87.099,
-      "text": "Cuando tú vienes es cuando me voy",
-      "words": [
-        {
-          "text": "Cuando",
-          "begin": 79.64099999999999,
-          "end": 80.03999999999999,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "tú",
-          "begin": 80.03999999999999,
-          "end": 80.501,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "vien",
-          "begin": 80.501,
-          "end": 80.938,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "es",
-          "begin": 80.938,
-          "end": 81.446,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "es",
-          "begin": 81.446,
-          "end": 82.73400000000001,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "cuan",
-          "begin": 82.815,
-          "end": 83.791,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        },
-        {
-          "text": "do",
-          "begin": 83.791,
-          "end": 84.783,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "me",
-          "begin": 84.783,
-          "end": 85.332,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "voy",
-          "begin": 85.332,
-          "end": 87.099,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L18"
-    },
-    {
-      "begin": 85.752,
-      "end": 0.0,
-      "text": "Seine Angst ist meine Angst",
-      "words": [
-        {
-          "text": "Seine",
-          "begin": 85.752,
-          "end": 0.0,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Angst",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ist",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "meine",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "Angst",
-          "begin": 0.0,
-          "end": 0.0,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": false
-        }
-      ],
-      "agent": "v1",
-      "key": "L19"
-    },
-    {
       "begin": 0.0,
       "end": 0.0,
       "text": "Seine Wut ist meine Wut",
@@ -2856,6 +1535,1327 @@
       ],
       "agent": "v1",
       "key": "L44"
+    },
+    {
+      "begin": 20.259,
+      "end": 21.895,
+      "text": "Seine Angst ist meine Angst",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 20.259,
+          "end": 20.542,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 20.542,
+          "end": 20.892,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 20.892,
+          "end": 21.071,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 21.071,
+          "end": 21.521,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 21.521,
+          "end": 21.895,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 22.113,
+      "end": 23.811,
+      "text": "Seine Wut ist meine Wut",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 22.113,
+          "end": 22.422,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Wut",
+          "begin": 22.422,
+          "end": 22.757,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 22.757,
+          "end": 22.971,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 22.971,
+          "end": 23.417,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Wut",
+          "begin": 23.417,
+          "end": 23.811,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 24.02,
+      "end": 25.609,
+      "text": "Seine Liebe ist meine Liebe",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 24.02,
+          "end": 24.385,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Liebe",
+          "begin": 24.385,
+          "end": 24.652,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 24.652,
+          "end": 24.9,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 24.9,
+          "end": 25.352,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Liebe",
+          "begin": 25.352,
+          "end": 25.609,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 25.609,
+      "end": 27.667,
+      "text": "Sein Blut ist mein Blut",
+      "words": [
+        {
+          "text": "Sein",
+          "begin": 25.609,
+          "end": 26.175,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blut",
+          "begin": 26.408,
+          "end": 26.609,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 26.609,
+          "end": 26.794,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mein",
+          "begin": 26.794,
+          "end": 27.155,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blut",
+          "begin": 27.335,
+          "end": 27.667,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 27.3,
+      "end": 31.491,
+      "text": "Die Flamme dringt in mein Gehirn ein",
+      "words": [
+        {
+          "text": "Die",
+          "begin": 27.3,
+          "end": 27.775,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Flam",
+          "begin": 27.775,
+          "end": 28.614,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "me",
+          "begin": 28.614,
+          "end": 28.83,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "dringt",
+          "begin": 28.83,
+          "end": 29.561,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 29.561,
+          "end": 29.79,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mein",
+          "begin": 29.79,
+          "end": 30.472,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Gehirn",
+          "begin": 30.472,
+          "end": 31.144,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ein",
+          "begin": 31.144,
+          "end": 31.491,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 31.658,
+      "end": 35.418,
+      "text": "Wie ein Blei-Teddybär",
+      "words": [
+        {
+          "text": "Wie",
+          "begin": 31.658,
+          "end": 32.376,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ein",
+          "begin": 32.376,
+          "end": 32.603,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blei-",
+          "begin": 32.603,
+          "end": 33.828,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "Teddy",
+          "begin": 34.061,
+          "end": 34.449,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "bär",
+          "begin": 34.449,
+          "end": 35.418,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6"
+    },
+    {
+      "begin": 35.532,
+      "end": 39.627,
+      "text": "Ich bewahre viele Dinge in meinem Herzen auf",
+      "words": [
+        {
+          "text": "Ich",
+          "begin": 35.532,
+          "end": 35.888,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bewahre",
+          "begin": 35.888,
+          "end": 36.407,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "viele",
+          "begin": 36.407,
+          "end": 36.897,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Dinge",
+          "begin": 36.897,
+          "end": 37.34,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 37.34,
+          "end": 37.86,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meinem",
+          "begin": 37.86,
+          "end": 38.356,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Her",
+          "begin": 38.356,
+          "end": 38.849,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "zen",
+          "begin": 38.849,
+          "end": 38.977,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "auf",
+          "begin": 38.977,
+          "end": 39.627,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7"
+    },
+    {
+      "begin": 39.628,
+      "end": 43.151,
+      "text": "Deshalb ist mein Herz so schwer",
+      "words": [
+        {
+          "text": "Deshalb",
+          "begin": 39.628,
+          "end": 40.038,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 40.038,
+          "end": 40.341,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mein",
+          "begin": 40.341,
+          "end": 41.174,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Herz",
+          "begin": 41.299,
+          "end": 41.705,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 41.705,
+          "end": 42.204,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "schwer",
+          "begin": 42.204,
+          "end": 43.151,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 43.136,
+      "end": 44.93,
+      "text": "Seine Angst ist meine Angst",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 43.136,
+          "end": 43.533,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 43.533,
+          "end": 43.828,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 43.828,
+          "end": 44.092,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 44.092,
+          "end": 44.469,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 44.469,
+          "end": 44.93,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 45.115,
+      "end": 46.86,
+      "text": "Seine Wut ist meine Wut",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 45.115,
+          "end": 45.455,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Wut",
+          "begin": 45.455,
+          "end": 45.782,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 45.782,
+          "end": 46.049,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 46.049,
+          "end": 46.452,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Wut",
+          "begin": 46.452,
+          "end": 46.86,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 47.079,
+      "end": 49.343,
+      "text": "Seine Liebe ist meine Liebe",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 47.079,
+          "end": 47.481,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Liebe",
+          "begin": 47.481,
+          "end": 47.797,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 47.797,
+          "end": 48.141,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 48.141,
+          "end": 48.718,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Liebe",
+          "begin": 48.718,
+          "end": 49.343,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 49.476,
+      "end": 53.847,
+      "text": "Sein Blut ist mein Blut",
+      "words": [
+        {
+          "text": "Sein",
+          "begin": 49.476,
+          "end": 50.01,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blut",
+          "begin": 50.364,
+          "end": 50.767,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 50.908,
+          "end": 51.334,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mein",
+          "begin": 51.334,
+          "end": 51.943,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Blut",
+          "begin": 52.592,
+          "end": 53.847,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 54.974,
+      "end": 59.686,
+      "text": "Yo sé muy bien lo que soy",
+      "words": [
+        {
+          "text": "Yo",
+          "begin": 54.974,
+          "end": 55.897,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sé",
+          "begin": 56.558,
+          "end": 56.733,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "muy",
+          "begin": 56.733,
+          "end": 57.006,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bien",
+          "begin": 57.006,
+          "end": 57.337,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lo",
+          "begin": 57.337,
+          "end": 58.207,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "que",
+          "begin": 58.293,
+          "end": 58.46,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "soy",
+          "begin": 58.46,
+          "end": 59.686,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 60.434,
+      "end": 63.405,
+      "text": "Ternura pa'l café",
+      "words": [
+        {
+          "text": "Ter",
+          "begin": 60.434,
+          "end": 60.682,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nu",
+          "begin": 60.682,
+          "end": 60.9,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ra",
+          "begin": 60.9,
+          "end": 61.37,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pa'l",
+          "begin": 61.37,
+          "end": 61.875,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ca",
+          "begin": 62.132,
+          "end": 62.31,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fé",
+          "begin": 62.31,
+          "end": 63.405,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 64.235,
+      "end": 69.943,
+      "text": "Solo soy un terrón de azúcar",
+      "words": [
+        {
+          "text": "Solo",
+          "begin": 64.235,
+          "end": 64.707,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "soy",
+          "begin": 64.707,
+          "end": 65.136,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "un",
+          "begin": 65.136,
+          "end": 65.688,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ter",
+          "begin": 65.688,
+          "end": 66.093,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "rón",
+          "begin": 66.093,
+          "end": 67.391,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "de",
+          "begin": 67.391,
+          "end": 68.133,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "azú",
+          "begin": 68.133,
+          "end": 69.298,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "car",
+          "begin": 69.298,
+          "end": 69.943,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 70.19,
+      "end": 75.146,
+      "text": "Sé que me funde el calor",
+      "words": [
+        {
+          "text": "Sé",
+          "begin": 70.19,
+          "end": 71.267,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "que",
+          "begin": 72.047,
+          "end": 72.233,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 72.233,
+          "end": 72.488,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fun",
+          "begin": 72.488,
+          "end": 72.92,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "de",
+          "begin": 72.92,
+          "end": 73.134,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "el",
+          "begin": 73.134,
+          "end": 73.617,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cal",
+          "begin": 73.617,
+          "end": 73.776,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "or",
+          "begin": 73.776,
+          "end": 75.146,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 75.748,
+      "end": 78.989,
+      "text": "Sé desaparecer",
+      "words": [
+        {
+          "text": "Sé",
+          "begin": 75.748,
+          "end": 76.036,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "desa",
+          "begin": 76.036,
+          "end": 76.765,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "par",
+          "begin": 76.765,
+          "end": 77.469,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ecer",
+          "begin": 77.469,
+          "end": 78.989,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 79.64099999999999,
+      "end": 87.099,
+      "text": "Cuando tú vienes es cuando me voy",
+      "words": [
+        {
+          "text": "Cuando",
+          "begin": 79.64099999999999,
+          "end": 80.03999999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tú",
+          "begin": 80.03999999999999,
+          "end": 80.501,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "vien",
+          "begin": 80.501,
+          "end": 80.938,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "es",
+          "begin": 80.938,
+          "end": 81.446,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "es",
+          "begin": 81.446,
+          "end": 82.73400000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cuan",
+          "begin": 82.815,
+          "end": 83.791,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "do",
+          "begin": 83.791,
+          "end": 84.783,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 84.783,
+          "end": 85.332,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "voy",
+          "begin": 85.332,
+          "end": 87.099,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 85.752,
+      "end": 0.0,
+      "text": "Seine Angst ist meine Angst",
+      "words": [
+        {
+          "text": "Seine",
+          "begin": 85.752,
+          "end": 0.0,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 0.0,
+          "end": 0.0,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ist",
+          "begin": 0.0,
+          "end": 0.0,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "meine",
+          "begin": 0.0,
+          "end": 0.0,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Angst",
+          "begin": 0.0,
+          "end": 0.0,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
     }
   ],
   "totalLines": 44
