@@ -191,11 +191,10 @@ def generate_ttml(metadata, lyrics_data, output_path):
     # Prettify and Write
     xml_str = minidom.parseString(ET.tostring(tt, encoding='utf-8')).toprettyxml(indent="  ")
     
-    # Fix the weird namespace handling in minidom if any (it sometimes duplicates xmlns)
-    # But for now let's write it.
-    
-    # Hack to remove first line <?xml ...?> if desired, or keep it. 
-    # Usually valid XML has it.
+    # Post-process to remove whitespace between spans This fixes the issue where
+    # ttml_to_json interprets whitespace between tags as a space between words.
+    # We want 'fan' + 'ta' to be 'fanta', not 'fan ta'.
+    xml_str = re.sub(r'</span>\s+<span', '</span><span', xml_str)
     
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(xml_str)
