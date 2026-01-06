@@ -113,7 +113,15 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                     if word_data["text"]:
                         word_list.append(word_data)
     
-    process_spans(p_elem, words)
+    
+    # Check if the paragraph itself is marked as background vocal
+    p_role = p_elem.get(f'{{{namespaces.get("ttm", "")}}}role', '')
+    is_p_bg = (p_role == 'x-bg')
+    
+    if is_p_bg:
+        process_spans(p_elem, background_words, is_bg=True)
+    else:
+        process_spans(p_elem, words)
     
     # Gabungkan teks untuk mendapatkan full line text
     def join_words(word_list):

@@ -78,7 +78,7 @@
     {
       "begin": 3.725,
       "end": 7.126,
-      "text": "Is this just fan ta sy?",
+      "text": "Is this just fantasy?",
       "words": [
         {
           "text": "Is",
@@ -118,7 +118,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ta",
@@ -128,7 +128,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "sy?",
@@ -147,7 +147,7 @@
     {
       "begin": 7.126,
       "end": 10.087,
-      "text": "Caught in a land slide",
+      "text": "Caught in a landslide",
       "words": [
         {
           "text": "Caught",
@@ -187,7 +187,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "slide",
@@ -206,7 +206,7 @@
     {
       "begin": 10.087,
       "end": 14.607,
-      "text": "No es cape from re al i ty",
+      "text": "No escape from reality",
       "words": [
         {
           "text": "No",
@@ -226,7 +226,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "cape",
@@ -256,7 +256,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "al",
@@ -266,7 +266,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "i",
@@ -276,7 +276,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ty",
@@ -295,7 +295,7 @@
     {
       "begin": 14.607,
       "end": 17.66,
-      "text": "Op en your eyes",
+      "text": "Open your eyes",
       "words": [
         {
           "text": "Op",
@@ -305,7 +305,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "en",
@@ -482,35 +482,39 @@
     {
       "begin": 25.052,
       "end": 28.495,
-      "text": "Ooh, poor",
-      "words": [
-        {
-          "text": "Ooh,",
-          "begin": 25.052,
-          "end": 27.549,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "poor",
-          "begin": 27.549,
-          "end": 28.418,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        }
-      ],
-      "key": "L8"
+      "text": "",
+      "words": [],
+      "key": "L8",
+      "backgroundVocal": {
+        "text": "Ooh, poor",
+        "words": [
+          {
+            "text": "Ooh,",
+            "begin": 25.052,
+            "end": 27.549,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "poor",
+            "begin": 27.549,
+            "end": 28.418,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 28.495,
       "end": 28.513,
-      "text": "I need no sym pathy",
+      "text": "I need no sympathy",
       "words": [
         {
           "text": "I",
@@ -550,7 +554,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "pathy",
@@ -569,20 +573,24 @@
     {
       "begin": 28.513,
       "end": 30.599,
-      "text": "Boy",
-      "words": [
-        {
-          "text": "Boy",
-          "begin": 28.513,
-          "end": 30.235,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        }
-      ],
-      "key": "L10"
+      "text": "",
+      "words": [],
+      "key": "L10",
+      "backgroundVocal": {
+        "text": "Boy",
+        "words": [
+          {
+            "text": "Boy",
+            "begin": 28.513,
+            "end": 30.235,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 30.599,
@@ -852,7 +860,7 @@
     {
       "begin": 55.376,
       "end": 58.242,
-      "text": "Ma ma",
+      "text": "Mama",
       "words": [
         {
           "text": "Ma",
@@ -862,7 +870,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ma",
@@ -1068,7 +1076,7 @@
     {
       "begin": 68.894,
       "end": 71.446,
-      "text": "Ma ma",
+      "text": "Mama",
       "words": [
         {
           "text": "Ma",
@@ -1078,7 +1086,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ma",
@@ -1097,7 +1105,7 @@
     {
       "begin": 71.446,
       "end": 75.259,
-      "text": "Life had just be gun",
+      "text": "Life had just begun",
       "words": [
         {
           "text": "Life",
@@ -1137,7 +1145,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "gun",
@@ -1255,7 +1263,7 @@
     {
       "begin": 82.44800000000001,
       "end": 88.889,
-      "text": "Ma ma, ooh- ooh- ooh- ooh",
+      "text": "Mama, ooh-ooh-ooh-ooh",
       "words": [
         {
           "text": "Ma",
@@ -1265,7 +1273,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ma,",
@@ -1285,7 +1293,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ooh-",
@@ -1295,7 +1303,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ooh-",
@@ -1305,7 +1313,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ooh",
@@ -1393,7 +1401,7 @@
     {
       "begin": 92.519,
       "end": 97.289,
-      "text": "If I'm not back again this time to morrow",
+      "text": "If I'm not back again this time tomorrow",
       "words": [
         {
           "text": "If",
@@ -1473,7 +1481,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "morrow",
@@ -1541,7 +1549,7 @@
     {
       "begin": 100.666,
       "end": 114.679,
-      "text": "As if not hing really mat ters",
+      "text": "As if nothing really matters",
       "words": [
         {
           "text": "As",
@@ -1571,7 +1579,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "hing",
@@ -1601,7 +1609,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ters",
@@ -1816,7 +1824,7 @@
     {
       "begin": 128.213,
       "end": 131.248,
-      "text": "Good bye, every body",
+      "text": "Goodbye, everybody",
       "words": [
         {
           "text": "Good",
@@ -1826,7 +1834,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "bye,",
@@ -1846,7 +1854,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "body",
@@ -2013,7 +2021,7 @@
     {
       "begin": 141.851,
       "end": 145.201,
-      "text": "Ma ma, ooh- ooh- ooh- ooh",
+      "text": "Mama, ooh-ooh-ooh-ooh",
       "words": [
         {
           "text": "Ma",
@@ -2023,7 +2031,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ma,",
@@ -2043,7 +2051,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ooh-",
@@ -2053,7 +2061,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ooh-",
@@ -2063,7 +2071,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ooh",
@@ -2082,70 +2090,74 @@
     {
       "begin": 145.201,
       "end": 148.657,
-      "text": "A ny way the wind blows",
-      "words": [
-        {
-          "text": "A",
-          "begin": 145.201,
-          "end": 145.701,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "ny",
-          "begin": 145.701,
-          "end": 146.13400000000001,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "way",
-          "begin": 146.13400000000001,
-          "end": 146.569,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "the",
-          "begin": 146.569,
-          "end": 147.002,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "wind",
-          "begin": 147.002,
-          "end": 147.769,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "blows",
-          "begin": 147.835,
-          "end": 148.535,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        }
-      ],
-      "key": "L36"
+      "text": "",
+      "words": [],
+      "key": "L36",
+      "backgroundVocal": {
+        "text": "Any way the wind blows",
+        "words": [
+          {
+            "text": "A",
+            "begin": 145.201,
+            "end": 145.701,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "ny",
+            "begin": 145.701,
+            "end": 146.13400000000001,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "way",
+            "begin": 146.13400000000001,
+            "end": 146.569,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "the",
+            "begin": 146.569,
+            "end": 147.002,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "wind",
+            "begin": 147.002,
+            "end": 147.769,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "blows",
+            "begin": 147.835,
+            "end": 148.535,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 148.657,
@@ -2199,7 +2211,7 @@
     {
       "begin": 151.756,
       "end": 185.808,
-      "text": "I some times wish I'd never been born at all",
+      "text": "I sometimes wish I'd never been born at all",
       "words": [
         {
           "text": "I",
@@ -2219,7 +2231,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "times",
@@ -2308,7 +2320,7 @@
     {
       "begin": 185.808,
       "end": 188.639,
-      "text": "I see a little sil hou etto of a man",
+      "text": "I see a little silhouetto of a man",
       "words": [
         {
           "text": "I",
@@ -2358,7 +2370,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "hou",
@@ -2368,7 +2380,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "etto",
@@ -2417,7 +2429,7 @@
     {
       "begin": 188.639,
       "end": 192.326,
-      "text": "Scara mouche, Scara mouche, will you do the Fan dango?",
+      "text": "Scaramouche, Scaramouche, will you do the Fandango?",
       "words": [
         {
           "text": "Scara",
@@ -2427,7 +2439,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "mouche,",
@@ -2447,7 +2459,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "mouche,",
@@ -2507,7 +2519,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "dango?",
@@ -2526,7 +2538,7 @@
     {
       "begin": 192.326,
       "end": 193.931,
-      "text": "Thunder bolt and light ning",
+      "text": "Thunderbolt and lightning",
       "words": [
         {
           "text": "Thunder",
@@ -2536,7 +2548,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "bolt",
@@ -2566,7 +2578,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ning",
@@ -2585,7 +2597,7 @@
     {
       "begin": 193.931,
       "end": 195.898,
-      "text": "Very, very fright ening me",
+      "text": "Very, very frightening me",
       "words": [
         {
           "text": "Very,",
@@ -2615,7 +2627,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ening",
@@ -2663,20 +2675,24 @@
     {
       "begin": 196.703,
       "end": 197.45,
-      "text": "Galileo",
-      "words": [
-        {
-          "text": "Galileo",
-          "begin": 196.703,
-          "end": 198.06,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        }
-      ],
-      "key": "L44"
+      "text": "",
+      "words": [],
+      "key": "L44",
+      "backgroundVocal": {
+        "text": "Galileo",
+        "words": [
+          {
+            "text": "Galileo",
+            "begin": 196.703,
+            "end": 198.06,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 197.45,
@@ -2700,25 +2716,29 @@
     {
       "begin": 198.3,
       "end": 199.001,
-      "text": "Galileo",
-      "words": [
-        {
-          "text": "Galileo",
-          "begin": 198.3,
-          "end": 199.343,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        }
-      ],
-      "key": "L46"
+      "text": "",
+      "words": [],
+      "key": "L46",
+      "backgroundVocal": {
+        "text": "Galileo",
+        "words": [
+          {
+            "text": "Galileo",
+            "begin": 198.3,
+            "end": 199.343,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 199.001,
       "end": 200.38400000000001,
-      "text": "Galileo, Fig aro",
+      "text": "Galileo, Figaro",
       "words": [
         {
           "text": "Galileo,",
@@ -2738,7 +2758,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "aro",
@@ -2757,7 +2777,7 @@
     {
       "begin": 200.38400000000001,
       "end": 201.13,
-      "text": "Magnifi co",
+      "text": "Magnifico",
       "words": [
         {
           "text": "Magnifi",
@@ -2767,7 +2787,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "co",
@@ -2786,55 +2806,59 @@
     {
       "begin": 201.13,
       "end": 202.414,
-      "text": "Oh, oh, oh, oh",
-      "words": [
-        {
-          "text": "Oh,",
-          "begin": 201.13,
-          "end": 201.532,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "oh,",
-          "begin": 201.532,
-          "end": 201.915,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "oh,",
-          "begin": 201.915,
-          "end": 202.164,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "oh",
-          "begin": 202.164,
-          "end": 202.662,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        }
-      ],
-      "key": "L49"
+      "text": "",
+      "words": [],
+      "key": "L49",
+      "backgroundVocal": {
+        "text": "Oh, oh, oh, oh",
+        "words": [
+          {
+            "text": "Oh,",
+            "begin": 201.13,
+            "end": 201.532,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "oh,",
+            "begin": 201.532,
+            "end": 201.915,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "oh,",
+            "begin": 201.915,
+            "end": 202.164,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "oh",
+            "begin": 202.164,
+            "end": 202.662,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 202.414,
       "end": 205.657,
-      "text": "I'm just a poor boy, no body loves me",
+      "text": "I'm just a poor boy, nobody loves me",
       "words": [
         {
           "text": "I'm",
@@ -2894,7 +2918,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "body",
@@ -2933,7 +2957,7 @@
     {
       "begin": 205.657,
       "end": 208.768,
-      "text": "He's just a poor boy from a poor fam i ly",
+      "text": "He's just a poor boy from a poor family",
       "words": [
         {
           "text": "He's",
@@ -3023,7 +3047,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "i",
@@ -3033,7 +3057,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ly",
@@ -3052,7 +3076,7 @@
     {
       "begin": 208.768,
       "end": 213.643,
-      "text": "Spare him his life from this mon strosity",
+      "text": "Spare him his life from this monstrosity",
       "words": [
         {
           "text": "Spare",
@@ -3122,7 +3146,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "strosity",
@@ -3240,7 +3264,7 @@
     {
       "begin": 216.539,
       "end": 218.357,
-      "text": "Bis mil lah! No",
+      "text": "Bismillah! No",
       "words": [
         {
           "text": "Bis",
@@ -3250,7 +3274,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "mil",
@@ -3260,7 +3284,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "lah!",
@@ -3358,45 +3382,49 @@
     {
       "begin": 219.439,
       "end": 220.52100000000002,
-      "text": "Let him go",
-      "words": [
-        {
-          "text": "Let",
-          "begin": 219.439,
-          "end": 219.739,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "him",
-          "begin": 219.739,
-          "end": 219.94,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "go",
-          "begin": 219.94,
-          "end": 221.504,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        }
-      ],
-      "key": "L56"
+      "text": "",
+      "words": [],
+      "key": "L56",
+      "backgroundVocal": {
+        "text": "Let him go",
+        "words": [
+          {
+            "text": "Let",
+            "begin": 219.439,
+            "end": 219.739,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "him",
+            "begin": 219.739,
+            "end": 219.94,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "go",
+            "begin": 219.94,
+            "end": 221.504,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 220.52100000000002,
       "end": 222.733,
-      "text": "Bis mil lah! We will not let you go",
+      "text": "Bismillah! We will not let you go",
       "words": [
         {
           "text": "Bis",
@@ -3406,7 +3434,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "mil",
@@ -3416,7 +3444,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "lah!",
@@ -3495,45 +3523,49 @@
     {
       "begin": 222.733,
       "end": 223.667,
-      "text": "Let him go",
-      "words": [
-        {
-          "text": "Let",
-          "begin": 222.733,
-          "end": 222.948,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "him",
-          "begin": 222.948,
-          "end": 223.131,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "go",
-          "begin": 223.131,
-          "end": 224.353,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        }
-      ],
-      "key": "L58"
+      "text": "",
+      "words": [],
+      "key": "L58",
+      "backgroundVocal": {
+        "text": "Let him go",
+        "words": [
+          {
+            "text": "Let",
+            "begin": 222.733,
+            "end": 222.948,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "him",
+            "begin": 222.948,
+            "end": 223.131,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "go",
+            "begin": 223.131,
+            "end": 224.353,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 223.667,
       "end": 225.803,
-      "text": "Bis mil lah! We will not let you go",
+      "text": "Bismillah! We will not let you go",
       "words": [
         {
           "text": "Bis",
@@ -3543,7 +3575,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "mil",
@@ -3553,7 +3585,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "lah!",
@@ -3632,40 +3664,44 @@
     {
       "begin": 225.803,
       "end": 226.441,
-      "text": "Let me go",
-      "words": [
-        {
-          "text": "Let",
-          "begin": 225.803,
-          "end": 226.10399999999998,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "me",
-          "begin": 226.10399999999998,
-          "end": 226.304,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "go",
-          "begin": 226.304,
-          "end": 226.726,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        }
-      ],
-      "key": "L60"
+      "text": "",
+      "words": [],
+      "key": "L60",
+      "backgroundVocal": {
+        "text": "Let me go",
+        "words": [
+          {
+            "text": "Let",
+            "begin": 225.803,
+            "end": 226.10399999999998,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "me",
+            "begin": 226.10399999999998,
+            "end": 226.304,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "go",
+            "begin": 226.304,
+            "end": 226.726,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 226.441,
@@ -3729,40 +3765,44 @@
     {
       "begin": 227.395,
       "end": 227.627,
-      "text": "Let me go",
-      "words": [
-        {
-          "text": "Let",
-          "begin": 227.395,
-          "end": 227.71,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "me",
-          "begin": 227.71,
-          "end": 227.893,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        },
-        {
-          "text": "go",
-          "begin": 227.893,
-          "end": 228.457,
-          "isBackground": false,
-          "isTranslation": false,
-          "hasLeadingSpace": false,
-          "hasTrailingSpace": true,
-          "hasSpaceAfter": true
-        }
-      ],
-      "key": "L62"
+      "text": "",
+      "words": [],
+      "key": "L62",
+      "backgroundVocal": {
+        "text": "Let me go",
+        "words": [
+          {
+            "text": "Let",
+            "begin": 227.395,
+            "end": 227.71,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "me",
+            "begin": 227.71,
+            "end": 227.893,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "go",
+            "begin": 227.893,
+            "end": 228.457,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          }
+        ]
+      }
     },
     {
       "begin": 227.627,
@@ -3925,7 +3965,7 @@
     {
       "begin": 233.727,
       "end": 235.528,
-      "text": "Oh, ma ma mia, ma ma mia",
+      "text": "Oh, mama mia, mama mia",
       "words": [
         {
           "text": "Oh,",
@@ -3945,7 +3985,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ma",
@@ -3975,7 +4015,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ma",
@@ -4004,7 +4044,7 @@
     {
       "begin": 235.528,
       "end": 237.065,
-      "text": "Ma ma mia, let me go",
+      "text": "Mama mia, let me go",
       "words": [
         {
           "text": "Ma",
@@ -4014,7 +4054,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ma",
@@ -4073,7 +4113,7 @@
     {
       "begin": 237.065,
       "end": 241.934,
-      "text": "Be elz e bub has a de vil put a side for me",
+      "text": "Beelzebub has a devil put aside for me",
       "words": [
         {
           "text": "Be",
@@ -4083,7 +4123,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "elz",
@@ -4093,7 +4133,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "e",
@@ -4103,7 +4143,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "bub",
@@ -4143,7 +4183,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "vil",
@@ -4173,7 +4213,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "side",
@@ -4528,7 +4568,7 @@
     {
       "begin": 265.778,
       "end": 269.63,
-      "text": "Oh, ba by",
+      "text": "Oh, baby",
       "words": [
         {
           "text": "Oh,",
@@ -4548,7 +4588,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "by",
@@ -4567,7 +4607,7 @@
     {
       "begin": 269.63,
       "end": 272.863,
-      "text": "Can't do this to me, ba by",
+      "text": "Can't do this to me, baby",
       "words": [
         {
           "text": "Can't",
@@ -4627,7 +4667,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "by",
@@ -4822,7 +4862,7 @@
     {
       "begin": 311.578,
       "end": 315.071,
-      "text": "No thing real ly mat ters",
+      "text": "Nothing really matters",
       "words": [
         {
           "text": "No",
@@ -4832,7 +4872,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "thing",
@@ -4852,7 +4892,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ly",
@@ -4872,7 +4912,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ters",
@@ -4891,7 +4931,7 @@
     {
       "begin": 315.071,
       "end": 318.58299999999997,
-      "text": "Any one can see",
+      "text": "Anyone can see",
       "words": [
         {
           "text": "Any",
@@ -4901,7 +4941,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "one",
@@ -4940,7 +4980,7 @@
     {
       "begin": 318.58299999999997,
       "end": 322.589,
-      "text": "Not hing real ly mat ters",
+      "text": "Nothing really matters",
       "words": [
         {
           "text": "Not",
@@ -4950,7 +4990,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "hing",
@@ -4970,7 +5010,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ly",
@@ -4990,7 +5030,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ters",
@@ -5009,7 +5049,7 @@
     {
       "begin": 322.589,
       "end": 325.658,
-      "text": "Not hing real ly mat ters",
+      "text": "Nothing really matters",
       "words": [
         {
           "text": "Not",
@@ -5019,7 +5059,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "hing",
@@ -5039,7 +5079,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ly",
@@ -5059,7 +5099,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ters",
