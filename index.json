@@ -532,6 +532,13 @@
     "jsonPath": "./JSON/IND/Ipank - Rantau Den Pajauah.json"
   },
   {
+    "artist": "James Arthur & Anne-Marie",
+    "title": "Rewrite the Stars",
+    "lang": "ELRC",
+    "path": "./ELRC/James Arthur & Anne-Marie - Rewrite the Stars.ttml",
+    "jsonPath": "./JSON/ELRC/James Arthur & Anne-Marie - Rewrite the Stars.json"
+  },
+  {
     "artist": "Jaz",
     "title": "Jenuh",
     "lang": "IND",
@@ -838,6 +845,13 @@
     "lang": "IND",
     "path": "./IND/Putih Abu-Abu - Cinta.ttml",
     "jsonPath": "./JSON/IND/Putih Abu-Abu - Cinta.json"
+  },
+  {
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody",
+    "lang": "ELRC",
+    "path": "./ELRC/Queen - Bohemian Rhapsody.ttml",
+    "jsonPath": "./JSON/ELRC/Queen - Bohemian Rhapsody.json"
   },
   {
     "artist": "Rachel Grae",
