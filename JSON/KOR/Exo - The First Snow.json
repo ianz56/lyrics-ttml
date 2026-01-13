@@ -1,0 +1,3383 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      }
+    ],
+    "artist": "Exo",
+    "title": "The First Snow",
+    "sourceFile": "Exo - The First Snow.ttml"
+  },
+  "duration": 207.74,
+  "lines": [
+    {
+      "begin": 12.003,
+      "end": 14.548,
+      "text": "첫눈 오는 이런 오후에",
+      "words": [
+        {
+          "text": "첫눈",
+          "begin": 12.003,
+          "end": 12.648,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "오는",
+          "begin": 12.648,
+          "end": 13.147,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "이런",
+          "begin": 13.147,
+          "end": 13.544,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "오후에",
+          "begin": 13.544,
+          "end": 14.548,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1"
+    },
+    {
+      "begin": 14.548,
+      "end": 22.767,
+      "text": "너에게 전화를 걸 수만 있다면 기쁠 텐데",
+      "words": [
+        {
+          "text": "너에게",
+          "begin": 14.548,
+          "end": 15.684,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "전화를",
+          "begin": 15.684,
+          "end": 16.449,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "걸",
+          "begin": 16.449,
+          "end": 16.748,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "수",
+          "begin": 16.748,
+          "end": 17.242,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "만",
+          "begin": 17.474,
+          "end": 18.268,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "있다면",
+          "begin": 18.268,
+          "end": 19.002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "기쁠",
+          "begin": 19.271,
+          "end": 20.071,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "텐",
+          "begin": 20.071,
+          "end": 20.441,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "데",
+          "begin": 20.441,
+          "end": 22.767,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2"
+    },
+    {
+      "begin": 23.625,
+      "end": 26.122,
+      "text": "벌써 일년이 지났는데",
+      "words": [
+        {
+          "text": "벌써",
+          "begin": 23.625,
+          "end": 24.193,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "일년이",
+          "begin": 24.193,
+          "end": 24.923,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "지났는데",
+          "begin": 24.923,
+          "end": 26.122,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3"
+    },
+    {
+      "begin": 26.147,
+      "end": 29.542,
+      "text": "난 아직 미련 가득해서",
+      "words": [
+        {
+          "text": "난",
+          "begin": 26.147,
+          "end": 26.545,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "아직",
+          "begin": 26.545,
+          "end": 27.076,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "미련",
+          "begin": 27.243,
+          "end": 28.046,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가득해서",
+          "begin": 28.046,
+          "end": 29.542,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4"
+    },
+    {
+      "begin": 29.682,
+      "end": 34.006,
+      "text": "쓸쓸해 어느새 혼잣말",
+      "words": [
+        {
+          "text": "쓸쓸해",
+          "begin": 29.682,
+          "end": 30.589,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "어느새",
+          "begin": 30.73,
+          "end": 31.455,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "혼잣",
+          "begin": 31.455,
+          "end": 31.98,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "말",
+          "begin": 31.98,
+          "end": 34.006,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5"
+    },
+    {
+      "begin": 34.006,
+      "end": 38.062,
+      "text": "1년 전으로 갈 수 있다면",
+      "words": [
+        {
+          "text": "1년",
+          "begin": 35.489,
+          "end": 35.686,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "전으로",
+          "begin": 35.686,
+          "end": 36.411,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "갈",
+          "begin": 36.411,
+          "end": 36.822,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "수",
+          "begin": 36.822,
+          "end": 37.045,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "있다",
+          "begin": 37.045,
+          "end": 37.356,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "면",
+          "begin": 37.356,
+          "end": 38.062,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        }
+      ],
+      "agent": "v1",
+      "key": "L6",
+      "backgroundVocal": {
+        "text": "(시계를 되돌려)",
+        "words": [
+          {
+            "text": "(시계를",
+            "begin": 34.006,
+            "end": 34.286,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "되돌",
+            "begin": 34.286,
+            "end": 35.134,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "려)",
+            "begin": 35.134,
+            "end": 36.649,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 37.002,
+      "end": 40.989,
+      "text": "지금 우린 달라졌을까",
+      "words": [
+        {
+          "text": "지금",
+          "begin": 38.35,
+          "end": 38.59,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "우린",
+          "begin": 38.59,
+          "end": 39.174,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "달라졌을",
+          "begin": 39.382,
+          "end": 40.304,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "까",
+          "begin": 40.304,
+          "end": 40.989,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        }
+      ],
+      "agent": "v1",
+      "key": "L7",
+      "backgroundVocal": {
+        "text": "(마음을 되돌려)",
+        "words": [
+          {
+            "text": "(마음을",
+            "begin": 37.002,
+            "end": 37.64,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "되돌",
+            "begin": 37.64,
+            "end": 38.008,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "려)",
+            "begin": 38.008,
+            "end": 39.547,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 40.447,
+      "end": 45.242,
+      "text": "Yeah 바보 같은 소리지 그래도 만약",
+      "words": [
+        {
+          "text": "Yeah",
+          "begin": 40.447,
+          "end": 40.591,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "바보",
+          "begin": 40.591,
+          "end": 40.986,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "같은",
+          "begin": 40.986,
+          "end": 41.5,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "소리지",
+          "begin": 41.5,
+          "end": 42.708,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "그래도",
+          "begin": 43.019,
+          "end": 43.456,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "만약",
+          "begin": 43.456,
+          "end": 45.242,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8"
+    },
+    {
+      "begin": 45.563,
+      "end": 48.486,
+      "text": "너를 만나면 눈물 차 올라",
+      "words": [
+        {
+          "text": "너를",
+          "begin": 45.563,
+          "end": 46.025,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "만나면",
+          "begin": 46.025,
+          "end": 46.598,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "눈물",
+          "begin": 46.721,
+          "end": 47.289,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "차",
+          "begin": 47.289,
+          "end": 47.632,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "올라",
+          "begin": 47.632,
+          "end": 48.486,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9"
+    },
+    {
+      "begin": 48.506,
+      "end": 51.287,
+      "text": "바보 같은 난 아무 말 못해",
+      "words": [
+        {
+          "text": "바보",
+          "begin": 48.506,
+          "end": 48.908,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "같은",
+          "begin": 48.908,
+          "end": 49.273,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "난",
+          "begin": 49.273,
+          "end": 49.577,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "아무",
+          "begin": 49.639,
+          "end": 50.148,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "말",
+          "begin": 50.148,
+          "end": 50.508,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "못해",
+          "begin": 50.508,
+          "end": 51.287,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10"
+    },
+    {
+      "begin": 51.407,
+      "end": 54.603,
+      "text": "말해 줘 메리 메리 크리스마스",
+      "words": [
+        {
+          "text": "말해",
+          "begin": 51.407,
+          "end": 52.148,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "줘",
+          "begin": 52.148,
+          "end": 52.556,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "메리",
+          "begin": 52.556,
+          "end": 53.082,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "메리",
+          "begin": 53.082,
+          "end": 53.623,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "크리스마",
+          "begin": 53.623,
+          "end": 54.113,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "스",
+          "begin": 54.113,
+          "end": 54.603,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11"
+    },
+    {
+      "begin": 54.703,
+      "end": 57.78,
+      "text": "안녕 잘 지내는 거지",
+      "words": [
+        {
+          "text": "안녕",
+          "begin": 54.703,
+          "end": 55.42,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "잘",
+          "begin": 55.42,
+          "end": 55.719,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "지내는",
+          "begin": 55.719,
+          "end": 56.553,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "거지",
+          "begin": 56.553,
+          "end": 57.78,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12"
+    },
+    {
+      "begin": 57.229,
+      "end": 60.229,
+      "text": "눈이 내리면 멍든 가슴이",
+      "words": [
+        {
+          "text": "눈이",
+          "begin": 57.229,
+          "end": 57.655,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "내리",
+          "begin": 57.655,
+          "end": 58.021,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "면",
+          "begin": 58.021,
+          "end": 58.348,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "멍든",
+          "begin": 58.348,
+          "end": 58.913,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가슴",
+          "begin": 58.913,
+          "end": 59.418,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "이",
+          "begin": 59.418,
+          "end": 60.229,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13"
+    },
+    {
+      "begin": 60.104,
+      "end": 63.38,
+      "text": "모두 하얗게 다 덮여지게 될까",
+      "words": [
+        {
+          "text": "모두",
+          "begin": 60.104,
+          "end": 60.506,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "하얗게",
+          "begin": 60.506,
+          "end": 61.045,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "다",
+          "begin": 61.045,
+          "end": 61.208,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "덮여지게",
+          "begin": 61.208,
+          "end": 62.307,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "될까",
+          "begin": 62.307,
+          "end": 63.38,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14"
+    },
+    {
+      "begin": 63.049,
+      "end": 66.481,
+      "text": "미안해 잘해 주지 못해",
+      "words": [
+        {
+          "text": "미안해",
+          "begin": 63.049,
+          "end": 64.08,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "잘해",
+          "begin": 64.08,
+          "end": 64.67699999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "주지",
+          "begin": 64.67699999999999,
+          "end": 65.211,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "못해",
+          "begin": 65.211,
+          "end": 66.481,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15"
+    },
+    {
+      "begin": 65.868,
+      "end": 71.283,
+      "text": "후회만 가득 가득 했던 그 크리스마스",
+      "words": [
+        {
+          "text": "후회만",
+          "begin": 65.868,
+          "end": 66.98,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가득",
+          "begin": 66.98,
+          "end": 67.513,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가득",
+          "begin": 67.513,
+          "end": 68.111,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "했던",
+          "begin": 68.111,
+          "end": 69.04599999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "그",
+          "begin": 69.53999999999999,
+          "end": 69.744,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "크리스마",
+          "begin": 69.744,
+          "end": 70.811,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "스",
+          "begin": 70.811,
+          "end": 71.283,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16"
+    },
+    {
+      "begin": 75.722,
+      "end": 78.322,
+      "text": "불빛 가득한 거리거리",
+      "words": [
+        {
+          "text": "불빛",
+          "begin": 75.722,
+          "end": 76.247,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가득한",
+          "begin": 76.247,
+          "end": 76.95,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "거리",
+          "begin": 76.95,
+          "end": 77.47800000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "거리",
+          "begin": 77.47800000000001,
+          "end": 78.322,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17"
+    },
+    {
+      "begin": 78.569,
+      "end": 85.569,
+      "text": "혼자 걸었어 다들 행복해 보여",
+      "words": [
+        {
+          "text": "혼자",
+          "begin": 78.569,
+          "end": 79.257,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "걸었어",
+          "begin": 79.257,
+          "end": 81.263,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "다들",
+          "begin": 81.79599999999999,
+          "end": 82.588,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "행복해",
+          "begin": 82.761,
+          "end": 83.625,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "보여",
+          "begin": 83.625,
+          "end": 85.569,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18"
+    },
+    {
+      "begin": 87.249,
+      "end": 89.688,
+      "text": "너는 언제나 공기처럼",
+      "words": [
+        {
+          "text": "너는",
+          "begin": 87.249,
+          "end": 87.807,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "언제나",
+          "begin": 87.807,
+          "end": 88.474,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "공기처럼",
+          "begin": 88.474,
+          "end": 89.688,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19"
+    },
+    {
+      "begin": 89.765,
+      "end": 95.46600000000001,
+      "text": "있어 줄 거란 착각에 멍청히 보내",
+      "words": [
+        {
+          "text": "있어",
+          "begin": 89.765,
+          "end": 90.451,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "줄",
+          "begin": 90.451,
+          "end": 90.792,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "거란",
+          "begin": 90.792,
+          "end": 91.517,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "착각에",
+          "begin": 91.517,
+          "end": 92.787,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "멍청히",
+          "begin": 93.352,
+          "end": 94.211,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "보내",
+          "begin": 94.507,
+          "end": 95.46600000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20"
+    },
+    {
+      "begin": 96.263,
+      "end": 98.463,
+      "text": "내가 너무 미안해",
+      "words": [
+        {
+          "text": "내가",
+          "begin": 96.263,
+          "end": 96.777,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "너무",
+          "begin": 97.343,
+          "end": 97.61500000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "미안해",
+          "begin": 97.61500000000001,
+          "end": 98.463,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21"
+    },
+    {
+      "begin": 97.803,
+      "end": 101.74600000000001,
+      "text": "지나고 나면 너무 소중해",
+      "words": [
+        {
+          "text": "지나고",
+          "begin": 99.093,
+          "end": 99.531,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "나면",
+          "begin": 99.531,
+          "end": 100.053,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "너무",
+          "begin": 100.053,
+          "end": 100.59700000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "소중",
+          "begin": 100.59700000000001,
+          "end": 100.917,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "해",
+          "begin": 100.917,
+          "end": 101.74600000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        }
+      ],
+      "agent": "v1",
+      "key": "L22",
+      "backgroundVocal": {
+        "text": "(너무 흔한 얘기)",
+        "words": [
+          {
+            "text": "(너무",
+            "begin": 97.803,
+            "end": 98.096,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "흔한",
+            "begin": 98.096,
+            "end": 98.459,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "얘기)",
+            "begin": 98.459,
+            "end": 100.295,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 100.589,
+      "end": 104.542,
+      "text": "왜 그때는 모르는 걸까",
+      "words": [
+        {
+          "text": "왜",
+          "begin": 101.918,
+          "end": 102.049,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "그때는",
+          "begin": 102.049,
+          "end": 102.75399999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "모르는",
+          "begin": 103.011,
+          "end": 103.685,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "걸",
+          "begin": 103.685,
+          "end": 103.864,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "까",
+          "begin": 103.864,
+          "end": 104.542,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        }
+      ],
+      "agent": "v1",
+      "key": "L23",
+      "backgroundVocal": {
+        "text": "(항상 지나치지)",
+        "words": [
+          {
+            "text": "(항상",
+            "begin": 100.589,
+            "end": 100.97800000000001,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "지나치",
+            "begin": 100.97800000000001,
+            "end": 101.538,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "지)",
+            "begin": 101.538,
+            "end": 102.90899999999999,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
+    },
+    {
+      "begin": 104.209,
+      "end": 109.043,
+      "text": "지금은 다를 거야 말해 주고파",
+      "words": [
+        {
+          "text": "지금은",
+          "begin": 104.209,
+          "end": 104.97200000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "다를",
+          "begin": 104.97200000000001,
+          "end": 105.57,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "거야",
+          "begin": 105.57,
+          "end": 106.369,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "말해",
+          "begin": 106.60900000000001,
+          "end": 106.97200000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "주고",
+          "begin": 106.97200000000001,
+          "end": 107.342,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "파",
+          "begin": 107.342,
+          "end": 109.043,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24"
+    },
+    {
+      "begin": 109.304,
+      "end": 112.149,
+      "text": "너를 만나면 눈물 차 올라",
+      "words": [
+        {
+          "text": "너를",
+          "begin": 109.304,
+          "end": 109.663,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "만나면",
+          "begin": 109.663,
+          "end": 110.399,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "눈물",
+          "begin": 110.399,
+          "end": 110.938,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "차",
+          "begin": 110.938,
+          "end": 111.268,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "올라",
+          "begin": 111.268,
+          "end": 112.149,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25"
+    },
+    {
+      "begin": 112.163,
+      "end": 115.025,
+      "text": "바보 같은 난 아무 말 못해",
+      "words": [
+        {
+          "text": "바보",
+          "begin": 112.163,
+          "end": 112.52000000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "같은",
+          "begin": 112.52000000000001,
+          "end": 112.854,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "난",
+          "begin": 112.854,
+          "end": 113.286,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "아무",
+          "begin": 113.286,
+          "end": 113.78999999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "말",
+          "begin": 113.78999999999999,
+          "end": 114.12299999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "못해",
+          "begin": 114.12299999999999,
+          "end": 115.025,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26"
+    },
+    {
+      "begin": 115.025,
+      "end": 118.286,
+      "text": "말해 줘 메리 메리 크리스마스",
+      "words": [
+        {
+          "text": "말해",
+          "begin": 115.025,
+          "end": 115.743,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "줘",
+          "begin": 115.743,
+          "end": 116.18299999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "메리",
+          "begin": 116.18299999999999,
+          "end": 116.751,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "메리",
+          "begin": 116.751,
+          "end": 117.27600000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "크리스마",
+          "begin": 117.27600000000001,
+          "end": 118.012,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "스",
+          "begin": 118.012,
+          "end": 118.286,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27"
+    },
+    {
+      "begin": 118.286,
+      "end": 121.385,
+      "text": "안녕 잘 지내는 거지",
+      "words": [
+        {
+          "text": "안녕",
+          "begin": 118.286,
+          "end": 119.05,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "잘",
+          "begin": 119.05,
+          "end": 119.348,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "지내는",
+          "begin": 119.348,
+          "end": 120.244,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "거지",
+          "begin": 120.244,
+          "end": 121.385,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28"
+    },
+    {
+      "begin": 120.861,
+      "end": 123.728,
+      "text": "눈이 내리면 멍든 가슴이",
+      "words": [
+        {
+          "text": "눈이",
+          "begin": 120.861,
+          "end": 121.271,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "내리",
+          "begin": 121.271,
+          "end": 121.601,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "면",
+          "begin": 121.601,
+          "end": 121.943,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "멍든",
+          "begin": 121.943,
+          "end": 122.508,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가슴",
+          "begin": 122.508,
+          "end": 123.009,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "이",
+          "begin": 123.009,
+          "end": 123.728,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29"
+    },
+    {
+      "begin": 123.728,
+      "end": 127.005,
+      "text": "모두 하얗게 다 덮여지게 될까",
+      "words": [
+        {
+          "text": "모두",
+          "begin": 123.728,
+          "end": 124.107,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "하얗게",
+          "begin": 124.107,
+          "end": 124.634,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "다",
+          "begin": 124.634,
+          "end": 124.906,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "덮여지게",
+          "begin": 124.906,
+          "end": 125.941,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "될까",
+          "begin": 125.941,
+          "end": 127.005,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30"
+    },
+    {
+      "begin": 126.645,
+      "end": 130.168,
+      "text": "눈물인지 눈 때문인지",
+      "words": [
+        {
+          "text": "눈물인지",
+          "begin": 126.645,
+          "end": 128.088,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "눈",
+          "begin": 128.088,
+          "end": 128.285,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "때문인지",
+          "begin": 128.285,
+          "end": 130.168,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31"
+    },
+    {
+      "begin": 129.52,
+      "end": 134.903,
+      "text": "점점 너 멀리 멀리 보이던 그 크리스마스",
+      "words": [
+        {
+          "text": "점점",
+          "begin": 129.52,
+          "end": 130.224,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "너",
+          "begin": 130.224,
+          "end": 130.587,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "멀리",
+          "begin": 130.587,
+          "end": 131.195,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "멀리",
+          "begin": 131.195,
+          "end": 131.685,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "보이던",
+          "begin": 131.685,
+          "end": 132.75900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "그",
+          "begin": 133.157,
+          "end": 133.36,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "크리스마",
+          "begin": 133.36,
+          "end": 134.352,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "스",
+          "begin": 134.352,
+          "end": 134.903,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32"
+    },
+    {
+      "begin": 133.869,
+      "end": 136.202,
+      "text": "정말 신기한 일이야",
+      "words": [
+        {
+          "text": "정말",
+          "begin": 133.869,
+          "end": 134.394,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "신기한",
+          "begin": 134.394,
+          "end": 135.133,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "일이야",
+          "begin": 135.133,
+          "end": 136.202,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33"
+    },
+    {
+      "begin": 136.202,
+      "end": 143.647,
+      "text": "너의 생각만으로 눈물 차 흐르니 말야",
+      "words": [
+        {
+          "text": "너의",
+          "begin": 136.202,
+          "end": 136.887,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "생각만으로",
+          "begin": 137.133,
+          "end": 138.463,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "눈물",
+          "begin": 138.463,
+          "end": 139.135,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "차",
+          "begin": 139.135,
+          "end": 140.75900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "흐르니",
+          "begin": 141.132,
+          "end": 141.762,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "말야",
+          "begin": 141.762,
+          "end": 143.647,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L34"
+    },
+    {
+      "begin": 143.209,
+      "end": 146.748,
+      "text": "Tears are falling, falling, falling",
+      "words": [
+        {
+          "text": "Tears",
+          "begin": 143.209,
+          "end": 143.419,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "are",
+          "begin": 143.419,
+          "end": 143.614,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "falling,",
+          "begin": 143.614,
+          "end": 144.183,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "falling,",
+          "begin": 144.183,
+          "end": 144.718,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "falling",
+          "begin": 144.718,
+          "end": 146.748,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L35"
+    },
+    {
+      "begin": 144.79500000000002,
+      "end": 147.361,
+      "text": "다시 너에게로 가고 싶어",
+      "words": [
+        {
+          "text": "다시",
+          "begin": 144.79500000000002,
+          "end": 145.072,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "너에게로",
+          "begin": 145.072,
+          "end": 145.84,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가고",
+          "begin": 145.84,
+          "end": 146.07999999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "싶어",
+          "begin": 146.07999999999998,
+          "end": 147.361,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L36"
+    },
+    {
+      "begin": 147.57999999999998,
+      "end": 150.286,
+      "text": "무슨 일이든 할 수 있어",
+      "words": [
+        {
+          "text": "무슨",
+          "begin": 147.57999999999998,
+          "end": 147.97,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "일이든",
+          "begin": 147.97,
+          "end": 148.637,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "할",
+          "begin": 148.637,
+          "end": 148.832,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "수",
+          "begin": 148.832,
+          "end": 149.107,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "있어",
+          "begin": 149.307,
+          "end": 150.286,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L37"
+    },
+    {
+      "begin": 150.464,
+      "end": 157.588,
+      "text": "지금까지 삶이 모두 사라진다 해도 Girl",
+      "words": [
+        {
+          "text": "지금까지",
+          "begin": 150.464,
+          "end": 152.133,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "삶이",
+          "begin": 152.133,
+          "end": 152.949,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "모두",
+          "begin": 153.003,
+          "end": 153.361,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "사라진다",
+          "begin": 153.361,
+          "end": 154.179,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "해",
+          "begin": 154.363,
+          "end": 154.51,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "도",
+          "begin": 154.51,
+          "end": 156.687,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Girl",
+          "begin": 156.687,
+          "end": 157.588,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L38"
+    },
+    {
+      "begin": 155.562,
+      "end": 158.402,
+      "text": "너를 만나면 눈물 차 올라",
+      "words": [
+        {
+          "text": "너를",
+          "begin": 155.562,
+          "end": 155.877,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "만나면",
+          "begin": 155.877,
+          "end": 156.501,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "눈물",
+          "begin": 156.645,
+          "end": 157.147,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "차",
+          "begin": 157.147,
+          "end": 157.546,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "올라",
+          "begin": 157.546,
+          "end": 158.402,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L39"
+    },
+    {
+      "begin": 158.465,
+      "end": 161.267,
+      "text": "바보 같은 난 아무 말 못해",
+      "words": [
+        {
+          "text": "바보",
+          "begin": 158.465,
+          "end": 158.79,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "같은",
+          "begin": 158.79,
+          "end": 159.156,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "난",
+          "begin": 159.156,
+          "end": 159.52100000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "아무",
+          "begin": 159.52100000000002,
+          "end": 160.05700000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "말",
+          "begin": 160.05700000000002,
+          "end": 160.39,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "못해",
+          "begin": 160.39,
+          "end": 161.267,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L40"
+    },
+    {
+      "begin": 161.324,
+      "end": 164.56,
+      "text": "말해 줘 메리 메리 크리스마스",
+      "words": [
+        {
+          "text": "말해",
+          "begin": 161.324,
+          "end": 162.00900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "줘",
+          "begin": 162.00900000000001,
+          "end": 162.449,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "메리",
+          "begin": 162.449,
+          "end": 162.975,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "메리",
+          "begin": 162.975,
+          "end": 163.714,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "크리스마",
+          "begin": 163.714,
+          "end": 164.314,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "스",
+          "begin": 164.314,
+          "end": 164.56,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L41"
+    },
+    {
+      "begin": 164.56,
+      "end": 167.724,
+      "text": "안녕 잘 지내는 거지",
+      "words": [
+        {
+          "text": "안녕",
+          "begin": 164.56,
+          "end": 165.308,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "잘",
+          "begin": 165.308,
+          "end": 165.649,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "지내는",
+          "begin": 165.649,
+          "end": 166.449,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "거지",
+          "begin": 166.449,
+          "end": 167.724,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L42"
+    },
+    {
+      "begin": 167.845,
+      "end": 172.208,
+      "text": "Baby girl, ooh- yeah-",
+      "words": [
+        {
+          "text": "Baby",
+          "begin": 167.845,
+          "end": 168.34300000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "girl,",
+          "begin": 168.34300000000002,
+          "end": 169.276,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ooh-",
+          "begin": 169.276,
+          "end": 171.149,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "yeah-",
+          "begin": 171.57,
+          "end": 172.208,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L43"
+    },
+    {
+      "begin": 167.143,
+      "end": 169.982,
+      "text": "눈이 내리면 멍든 가슴이",
+      "words": [
+        {
+          "text": "눈이",
+          "begin": 167.143,
+          "end": 167.853,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "내리",
+          "begin": 167.853,
+          "end": 168.208,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "면",
+          "begin": 168.208,
+          "end": 168.563,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "멍든",
+          "begin": 168.563,
+          "end": 169.272,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가슴",
+          "begin": 169.272,
+          "end": 169.627,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "이",
+          "begin": 169.627,
+          "end": 169.982,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L44"
+    },
+    {
+      "begin": 169.982,
+      "end": 173.20499999999998,
+      "text": "모두 하얗게 다 덮여지게 될까",
+      "words": [
+        {
+          "text": "모두",
+          "begin": 169.982,
+          "end": 170.329,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "하얗게",
+          "begin": 170.329,
+          "end": 170.89600000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "다",
+          "begin": 170.89600000000002,
+          "end": 171.133,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "덮여지게",
+          "begin": 171.133,
+          "end": 172.168,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "될까",
+          "begin": 172.168,
+          "end": 173.20499999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L45"
+    },
+    {
+      "begin": 172.903,
+      "end": 176.267,
+      "text": "미안해 잘해 주지 못해",
+      "words": [
+        {
+          "text": "미안해",
+          "begin": 172.903,
+          "end": 173.951,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "잘해",
+          "begin": 173.951,
+          "end": 174.516,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "주지",
+          "begin": 174.516,
+          "end": 175.076,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "못해",
+          "begin": 175.076,
+          "end": 176.267,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L46"
+    },
+    {
+      "begin": 175.78,
+      "end": 179.424,
+      "text": "후회만 가득 가득 했던",
+      "words": [
+        {
+          "text": "후회만",
+          "begin": 175.78,
+          "end": 176.85,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가득",
+          "begin": 176.85,
+          "end": 177.447,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가득",
+          "begin": 177.447,
+          "end": 177.98,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "했던",
+          "begin": 177.98,
+          "end": 179.424,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L47"
+    },
+    {
+      "begin": 178.667,
+      "end": 181.549,
+      "text": "너를 만나면 눈물 차 올라",
+      "words": [
+        {
+          "text": "너를",
+          "begin": 178.667,
+          "end": 179.00900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "만나면",
+          "begin": 179.00900000000001,
+          "end": 179.777,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "눈물",
+          "begin": 179.777,
+          "end": 180.311,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "차",
+          "begin": 180.311,
+          "end": 180.684,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "올라",
+          "begin": 180.684,
+          "end": 181.549,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L48"
+    },
+    {
+      "begin": 182.64,
+      "end": 184.505,
+      "text": "아무 말 못해",
+      "words": [
+        {
+          "text": "아무",
+          "begin": 182.64,
+          "end": 183.208,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "말",
+          "begin": 183.208,
+          "end": 183.539,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "못해",
+          "begin": 183.539,
+          "end": 184.505,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L49"
+    },
+    {
+      "begin": 185.543,
+      "end": 190.881,
+      "text": "메리 메리 크리스마스 잘 지내는 거지",
+      "words": [
+        {
+          "text": "메리",
+          "begin": 185.543,
+          "end": 186.122,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "메리",
+          "begin": 186.122,
+          "end": 186.687,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "크리스마",
+          "begin": 186.687,
+          "end": 187.455,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "스",
+          "begin": 187.455,
+          "end": 188.019,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "잘",
+          "begin": 188.453,
+          "end": 188.752,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "지내는",
+          "begin": 188.752,
+          "end": 189.653,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "거지",
+          "begin": 189.917,
+          "end": 190.881,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L50"
+    },
+    {
+      "begin": 190.249,
+      "end": 193.106,
+      "text": "눈이 내리면 멍든 가슴이",
+      "words": [
+        {
+          "text": "눈이",
+          "begin": 190.249,
+          "end": 190.639,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "내리",
+          "begin": 190.639,
+          "end": 190.937,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "면",
+          "begin": 190.937,
+          "end": 191.36599999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "멍든",
+          "begin": 191.36599999999999,
+          "end": 191.902,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "가슴",
+          "begin": 191.902,
+          "end": 192.404,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "이",
+          "begin": 192.404,
+          "end": 193.106,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L51"
+    },
+    {
+      "begin": 193.106,
+      "end": 196.387,
+      "text": "모두 하얗게 다 덮여지게 될까",
+      "words": [
+        {
+          "text": "모두",
+          "begin": 193.106,
+          "end": 193.503,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "하얗게",
+          "begin": 193.503,
+          "end": 194.072,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "다",
+          "begin": 194.072,
+          "end": 194.266,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "덮여지게",
+          "begin": 194.266,
+          "end": 195.301,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "될까",
+          "begin": 195.301,
+          "end": 196.387,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L52"
+    },
+    {
+      "begin": 196.026,
+      "end": 199.742,
+      "text": "눈물인지 눈 때문인지",
+      "words": [
+        {
+          "text": "눈물인지",
+          "begin": 196.026,
+          "end": 197.49,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "눈",
+          "begin": 197.49,
+          "end": 197.664,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "때문인지",
+          "begin": 197.664,
+          "end": 199.742,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L53"
+    },
+    {
+      "begin": 198.906,
+      "end": 204.267,
+      "text": "점점 너 멀리 멀리 보이던 그 크리스마스",
+      "words": [
+        {
+          "text": "점점",
+          "begin": 198.906,
+          "end": 199.666,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "너",
+          "begin": 199.666,
+          "end": 199.997,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "멀리",
+          "begin": 199.997,
+          "end": 200.562,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "멀리",
+          "begin": 200.562,
+          "end": 201.081,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "보이던",
+          "begin": 201.081,
+          "end": 202.288,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "그",
+          "begin": 202.568,
+          "end": 202.76,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "크리스마",
+          "begin": 202.76,
+          "end": 203.784,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "스",
+          "begin": 203.784,
+          "end": 204.267,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L54"
+    }
+  ],
+  "totalLines": 54
+}
