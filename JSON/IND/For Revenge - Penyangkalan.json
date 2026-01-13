@@ -1804,7 +1804,7 @@
     {
       "begin": 121.406,
       "end": 125.246,
-      "text": "Ber ka li- ka li",
+      "text": "Berkali-kali",
       "words": [
         {
           "text": "Ber",
@@ -1814,7 +1814,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ka",
@@ -1824,7 +1824,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "li-",
@@ -1834,7 +1834,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ka",
@@ -1844,7 +1844,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "li",
@@ -1854,7 +1854,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
