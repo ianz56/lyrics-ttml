@@ -14,7 +14,7 @@ from pathlib import Path
 
 
 def parse_time(time_str: str) -> float:
-    """Konversi timestamp TTML (MM:SS.mmm) ke detik."""
+    """Konversi timestamp TTML (MM:SS.mmm atau SS.mmm) ke detik."""
     if not time_str:
         return 0.0
     
@@ -26,6 +26,9 @@ def parse_time(time_str: str) -> float:
     elif len(parts) == 3:
         hours, minutes, seconds = parts
         return float(hours) * 3600 + float(minutes) * 60 + float(seconds)
+    elif len(parts) == 1:
+        # Format: SS.mmm (raw seconds)
+        return float(parts[0])
     return 0.0
 
 
