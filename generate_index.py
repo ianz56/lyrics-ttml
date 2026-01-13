@@ -75,16 +75,23 @@ sitemap_content.append(f"""  <url>
     <priority>1.0</priority>
   </url>""")
 
+from urllib.parse import quote
+
+# ... imports ...
+
 for item in index:
-    # URL encode path parts if necessary, though simple paths usually work. 
-    # Better to act simple for now. 
-    # Assuming relative paths like ./ENG/File.ttml
-    # We need to strip ./ for the URL
+    # URL encode the path parts to handle spaces and special chars like &
+    # item['path'] is like "./ENG/Artist - Title.ttml"
+    # We strip ./ and then split by / to quote each part
     clean_path = item['path']
     if clean_path.startswith("./"):
         clean_path = clean_path[2:]
     
-    url = f"{BASE_URL}/{clean_path}"
+    # Split, quote each part, and join
+    path_parts = clean_path.split('/')
+    encoded_path = "/".join(quote(part) for part in path_parts)
+    
+    url = f"{BASE_URL}/{encoded_path}"
     
     sitemap_content.append(f"""  <url>
     <loc>{url}</loc>
