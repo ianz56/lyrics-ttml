@@ -108,7 +108,10 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                          continue
                     
                     tail = child.tail or ""
-                    has_tail_space = bool(tail.strip() == "" and tail != "")
+                    # Check for tail space but exclude newlines/formatting
+                    # If tail contains newline, it's likely formatting, so we don't treat it as a space
+                    is_formatting = '\n' in tail or '\r' in tail
+                    has_tail_space = bool(tail.strip() == "" and tail != "" and not is_formatting)
                     
                     # Combine tail space with internal trailing space from the text itself
                     word_data["hasSpaceAfter"] = has_tail_space or word_data.get("hasTrailingSpace", False)

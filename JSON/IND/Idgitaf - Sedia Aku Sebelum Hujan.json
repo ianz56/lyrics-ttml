@@ -3088,7 +3088,7 @@
     {
       "begin": 135.689,
       "end": 139.723,
-      "text": "Uh- ye- eh",
+      "text": "Uh-ye-eh",
       "words": [
         {
           "text": "Uh-",
@@ -3098,7 +3098,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ye-",
@@ -3108,7 +3108,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "eh",
@@ -3118,7 +3118,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
@@ -4370,7 +4370,7 @@
     {
       "begin": 190.44,
       "end": 191.709,
-      "text": "Ku ma af kan",
+      "text": "Kumaafkan",
       "words": [
         {
           "text": "Ku",
@@ -4380,7 +4380,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "ma",
@@ -4390,7 +4390,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "af",
@@ -4400,7 +4400,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         },
         {
           "text": "kan",
@@ -4410,7 +4410,7 @@
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
+          "hasSpaceAfter": false
         }
       ],
       "agent": "v1",
