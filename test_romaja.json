@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "test_romaja",
+    "sourceFile": "test_romaja.ttml"
+  },
+  "duration": null,
+  "lines": [
+    {
+      "begin": 12.003,
+      "end": 14.548,
+      "text": "첫눈오는이런오후에",
+      "words": [
+        {
+          "text": "첫눈",
+          "begin": 12.003,
+          "end": 12.648,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "roman": "cheotnun",
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "오는",
+          "begin": 12.648,
+          "end": 13.147,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "roman": "oneun",
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "이런",
+          "begin": 13.147,
+          "end": 13.544,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "roman": "ireon",
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "오후에",
+          "begin": 13.544,
+          "end": 14.548,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "roman": "ohue",
+          "hasSpaceAfter": false
+        }
+      ],
+      "roman": "cheotnun oneun ireon ohue"
+    }
+  ],
+  "totalLines": 1
+}

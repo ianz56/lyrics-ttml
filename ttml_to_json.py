@@ -49,11 +49,14 @@ def parse_span(span_elem, namespaces: dict) -> dict:
     is_bg = role == 'x-bg'
     is_translation = role == 'x-translation'
     
+    # Extract romanization (x-roman)
+    roman = span_elem.get('x-roman', '')
+    
     # Detect spaces before stripping
     has_leading_space = text[0].isspace() if text else False
     has_trailing_space = text[-1].isspace() if text else False
     
-    return {
+    result = {
         "text": text.strip() if text else "",
         "begin": parse_time(begin),
         "end": parse_time(end),
@@ -62,6 +65,11 @@ def parse_span(span_elem, namespaces: dict) -> dict:
         "hasLeadingSpace": has_leading_space,
         "hasTrailingSpace": has_trailing_space
     }
+    
+    if roman:
+        result["roman"] = roman
+        
+    return result
 
 
 def parse_paragraph(p_elem, namespaces: dict) -> dict:
@@ -124,6 +132,9 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
     p_role = p_elem.get(f'{{{namespaces.get("ttm", "")}}}role', '')
     is_p_bg = (p_role == 'x-bg')
     
+    # Extract paragraph-level romanization
+    p_roman = p_elem.get('x-roman', '')
+    
     if is_p_bg:
         process_spans(p_elem, background_words, is_bg=True)
     else:
@@ -158,6 +169,9 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
         "text": line_text,
         "words": words
     }
+    
+    if p_roman:
+        result["roman"] = p_roman
     
     if agent:
         result["agent"] = agent

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
+  <tt:body>
+    <tt:div>
+      <tt:p begin="00:12.003" end="00:14.548" x-roman="cheotnun oneun ireon ohue">
+        <tt:span begin="00:12.003" end="00:12.648" x-roman="cheotnun">첫눈</tt:span>
+        <tt:span begin="00:12.648" end="00:13.147" x-roman="oneun">오는</tt:span>
+        <tt:span begin="00:13.147" end="00:13.544" x-roman="ireon">이런</tt:span>
+        <tt:span begin="00:13.544" end="00:14.548" x-roman="ohue">오후에</tt:span>
+      </tt:p>
+    </tt:div>
+  </tt:body>
+</tt:tt>
