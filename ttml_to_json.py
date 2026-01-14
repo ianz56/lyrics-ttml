@@ -94,8 +94,28 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                 role = child.get(f'{{{namespaces.get("ttm", "")}}}role', '')
                 
                 if role == 'x-bg':
-                    # Background vocal - parse nested spans
-                    process_spans(child, background_words, is_bg=True)
+                    # Background vocal
+                    if list(child):
+                        # Has children, recurse
+                        process_spans(child, background_words, is_bg=True)
+                    else:
+                        # Leaf node, parse as word
+                        word_data = parse_span(child, namespaces)
+                        word_data["isBackground"] = True
+                        
+                        # Handle spacing for BG words too?
+                        # Using same logic as main words
+                        raw_text = child.text or ""
+                        if background_words and (raw_text.startswith(" ") or raw_text.startswith("\t") or raw_text.startswith("\n")):
+                             background_words[-1]["hasSpaceAfter"] = True
+                             
+                        tail = child.tail or ""
+                        is_formatting = '\n' in tail or '\r' in tail
+                        has_tail_space = bool(tail.strip() == "" and tail != "" and not is_formatting)
+                        word_data["hasSpaceAfter"] = has_tail_space or word_data.get("hasTrailingSpace", False)
+
+                        if word_data["text"]:
+                            background_words.append(word_data)
                 elif role == 'x-translation':
                     # Translation - extract text directly, don't treat as lyric word
                     trans_text = child.text or ""
@@ -178,10 +198,17 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
     if key:
         result["key"] = key
     if background_words:
-        result["backgroundVocal"] = {
+        bg_obj = {
             "text": bg_text,
             "words": background_words
         }
+        # Aggregate romanization for background vocal
+        bg_roman_parts = [w.get("roman", "") for w in background_words if w.get("roman")]
+        if bg_roman_parts:
+            bg_obj["roman"] = " ".join(bg_roman_parts)
+            
+        result["backgroundVocal"] = bg_obj
+
     if translations:
         result["translation"] = " ".join(translations)
     
@@ -299,6 +326,14 @@ def ttml_to_json(ttml_path: str, output_path: str = None) -> dict:
                     else:
                          # Append if already exists
                          target_line["backgroundVocal"]["text"] += " " + bg_data["text"]
+                         # Merge roman
+                         bg_roman = bg_data.get("roman", "")
+                         if bg_roman:
+                             if "roman" not in target_line["backgroundVocal"]:
+                                 target_line["backgroundVocal"]["roman"] = bg_roman
+                             else:
+                                 target_line["backgroundVocal"]["roman"] += " " + bg_roman
+                                 
                          target_line["backgroundVocal"]["words"].extend(bg_data["words"])
                     
                     indices_to_remove.add(i)

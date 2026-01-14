@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "test_bg",
+    "sourceFile": "test_bg.ttml"
+  },
+  "duration": null,
+  "lines": [
+    {
+      "begin": 34.006,
+      "end": 38.062,
+      "text": "1년",
+      "words": [
+        {
+          "text": "1년",
+          "begin": 35.489,
+          "end": 35.686,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "roman": "1nyeon",
+          "hasSpaceAfter": false
+        }
+      ],
+      "roman": "1nyeon (sigyereul doedolryeo)",
+      "backgroundVocal": {
+        "text": "(시계를되돌려)",
+        "words": [
+          {
+            "text": "(시계를",
+            "begin": 34.006,
+            "end": 34.286,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "roman": "(sigyereul",
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "되돌려)",
+            "begin": 34.286,
+            "end": 35.134,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "roman": "doedolryeo)",
+            "hasSpaceAfter": false
+          }
+        ],
+        "roman": "(sigyereul doedolryeo)"
+      }
+    }
+  ],
+  "totalLines": 1
+}

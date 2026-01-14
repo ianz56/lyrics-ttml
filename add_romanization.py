@@ -50,52 +50,56 @@ def process_ttml(ttml_path, output_path=None, overwrite=False):
     for prefix, uri in namespaces.items():
         ET.register_namespace(prefix, uri)
         
+    def process_element_spans(element, roman_parts_accumulator):
+        """Recursively process spans to add romanization."""
+        # Check direct text of the element (unlikely for div/body, but possible for p/span)
+        # In this specific simplified logic, we iterate children.
+        
+        for child in element:
+            tag_name = child.tag.split('}')[-1]
+            if tag_name == 'span':
+                text = child.text
+                roman = ""
+                if text:
+                    if 'x-roman' not in child.attrib:
+                        roman = romanize_text(text)
+                        if roman:
+                            child.set('x-roman', roman)
+                    else:
+                        roman = child.get('x-roman')
+                
+                # Add to accumulator if we found something (text and/or roman)
+                # We prioritize roman if available, else text (for non-korean parts)?
+                # Or just accumulate roman parts? 
+                # If we want to construct the parent's full romanization string, we need to know the order.
+                # Recursive call for nested spans
+                
+                # If this span has text, we append its romanization (or text fallback)
+                if text:
+                    roman_parts_accumulator.append(roman if roman else text)
+                
+                process_element_spans(child, roman_parts_accumulator)
+
     # Process body
     body = root.find(f'{{{namespaces["tt"]}}}body')
     if body:
         for div in body.findall(f'{{{namespaces["tt"]}}}div'):
             for p in div.findall(f'{{{namespaces["tt"]}}}p'):
-                # Process paragraph (line)
                 p_text = ""
                 
-                # Check for existing x-roman
-                if 'x-roman' not in p.attrib:
-                    # Construct full text from spans for paragraph-level romanization usually? 
-                    # Or just romanize the constructed text?
-                    # Since p often contains spans, we might want to romanize the full line representation or individual words.
-                    # The user example shows:
-                    # "text": "첫눈 오는 이런 오후에", "roman": "di sini romaja"
-                    # "words": ... "roman": "..."
-                    
-                    # We should probably romanize the text content of spans individually, 
-                    # AND the full line.
-                    
-                    # But wait, p text construction in ttml_to_json constructs it from spans.
-                    # Here we might need to rely on the fact that we can iterate spans.
-                    pass
+                # We need to capture line parts in order.
+                # A simple recursive finder might lose order if we are not careful about mixing direct text and child nodes.
+                # But TTML structure usually has text in leaf spans.
                 
-                # Process spans
                 line_roman_parts = []
-                
-                for span in p.findall(f'{{{namespaces["tt"]}}}span'):
-                    text = span.text
-                    if text:
-                        # Romanize span
-                        if 'x-roman' not in span.attrib:
-                            roman = romanize_text(text)
-                            if roman:
-                                span.set('x-roman', roman)
-                                line_roman_parts.append(roman)
-                            else:
-                                line_roman_parts.append(text) # Fallback or keep original if not korean
-                        else:
-                            line_roman_parts.append(span.get('x-roman'))
+                process_element_spans(p, line_roman_parts)
                 
                 # Update p x-roman if not exists
                 if 'x-roman' not in p.attrib and line_roman_parts:
-                    # Join with spaces, but careful about spacing logic.
-                    # Ideally we re-construct from spans, but simple join is a good approximation for now.
-                    p.set('x-roman', ' '.join(line_roman_parts))
+                     # Filter out empty strings
+                    filtered_parts = [p for p in line_roman_parts if p and p.strip()]
+                    if filtered_parts:
+                        p.set('x-roman', ' '.join(filtered_parts))
 
     # Write output
     tree.write(output_path, encoding='utf-8', xml_declaration=True)

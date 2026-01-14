@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tt:tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <tt:body>
+    <tt:div>
+      <tt:p begin="00:34.006" end="00:38.062" x-roman="1nyeon (sigyereul doedolryeo)">
+        <tt:span begin="00:35.489" end="00:35.686" x-roman="1nyeon">1년</tt:span>
+        <tt:span begin="00:34.006" end="00:34.286" ttm:role="x-bg" x-roman="(sigyereul">(시계를</tt:span>
+        <tt:span begin="00:34.286" end="00:35.134" ttm:role="x-bg" x-roman="doedolryeo)">되돌려)</tt:span>
+      </tt:p>
+    </tt:div>
+  </tt:body>
+</tt:tt>
