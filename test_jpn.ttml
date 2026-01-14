@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
+  <tt:body>
+    <tt:div>
+      <tt:p begin="00:01.000" end="00:02.000" x-roman="konnichiha">
+        <tt:span begin="00:01.000" end="00:02.000" x-roman="konnichiha">こんにちは</tt:span>
+      </tt:p>
+    </tt:div>
+  </tt:body>
+</tt:tt>

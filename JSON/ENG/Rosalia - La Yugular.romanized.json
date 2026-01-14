@@ -7,8 +7,8 @@
       }
     ],
     "artist": "Rosalia",
-    "title": "La Yugular",
-    "sourceFile": "Rosalia - La Yugular.ttml"
+    "title": "La Yugular.romanized",
+    "sourceFile": "Rosalia - La Yugular.romanized.ttml"
   },
   "duration": 256.524,
   "lines": [
@@ -62,7 +62,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "?Cuantas  peleas  recuer dan",
+      "roman": "?Cuantas  peleas  recuer dan Berapa banyak pertarungan",
       "agent": "v1",
       "key": "L1",
       "translation": "Berapa banyak pertarungan"
@@ -139,7 +139,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Las  lineas  de  mis  ma nos?",
+      "roman": "Las  lineas  de  mis  ma nos? Yang terekam di garis tanganku?",
       "agent": "v1",
       "key": "L2",
       "translation": "Yang terekam di garis tanganku?"
@@ -183,7 +183,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "?Cuantas  historias  caben",
+      "roman": "?Cuantas  historias  caben Berapa banyak kisah",
       "agent": "v1",
       "key": "L3",
       "translation": "Berapa banyak kisah"
@@ -238,7 +238,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Metidas  en  veintiun  gramos?",
+      "roman": "Metidas  en  veintiun  gramos? Yang muat dalam 21 gram jiwa?",
       "agent": "v1",
       "key": "L4",
       "translation": "Yang muat dalam 21 gram jiwa?"
@@ -381,7 +381,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Tu,  que  estas  le jos  y  a  la  vez  mas  cer ca",
+      "roman": "Tu,  que  estas  le jos  y  a  la  vez  mas  cer ca Kau yang begitu jauh, tapi sekaligus paling dekat",
       "agent": "v1",
       "key": "L5",
       "translation": "Kau yang begitu jauh, tapi sekaligus paling dekat"
@@ -524,7 +524,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Tu,  que  estas  le jos  y  a  la  vez  mas  cer ca",
+      "roman": "Tu,  que  estas  le jos  y  a  la  vez  mas  cer ca Kau yang begitu jauh, tapi sekaligus lebih dekat",
       "agent": "v1",
       "key": "L6",
       "translation": "Kau yang begitu jauh, tapi sekaligus lebih dekat"
@@ -601,7 +601,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Que  mi  propia  vena  yugu lar",
+      "roman": "Que  mi  propia  vena  yugu lar Dari urat leherku sendiri",
       "agent": "v1",
       "key": "L7",
       "translation": "Dari urat leherku sendiri"
@@ -656,7 +656,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "mn  'jlk  'dmr  lsm",
+      "roman": "mn  'jlk  'dmr  lsm Kuhancurkan surga untukmu",
       "agent": "v1",
       "key": "L8",
       "translation": "Kuhancurkan surga untukmu"
@@ -711,7 +711,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "mn  'jlk  'hdm  ljHym",
+      "roman": "mn  'jlk  'hdm  ljHym Kuhancurkan neraka untukmu",
       "agent": "v1",
       "key": "L9",
       "translation": "Kuhancurkan neraka untukmu"
@@ -744,7 +744,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "fl  w`wd",
+      "roman": "fl  w`wd Bebas dari janji",
       "agent": "v1",
       "key": "L10",
       "translation": "Bebas dari janji"
@@ -777,7 +777,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "wl  w`yd",
+      "roman": "wl  w`yd Bebas dari ancaman",
       "agent": "v1",
       "key": "L11",
       "translation": "Bebas dari ancaman"
@@ -854,7 +854,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Mira,  yo  no  tengo  tiem po",
+      "roman": "Mira,  yo  no  tengo  tiem po Dengar, aku tak punya waktu",
       "agent": "v1",
       "key": "L12",
       "translation": "Dengar, aku tak punya waktu"
@@ -920,7 +920,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Para  odiar  a  Luci fer",
+      "roman": "Para  odiar  a  Luci fer Untuk membenci Lucifer",
       "agent": "v1",
       "key": "L13",
       "translation": "Untuk membenci Lucifer"
@@ -986,7 +986,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Estoy  demasiado  ocu pa da",
+      "roman": "Estoy  demasiado  ocu pa da Aku terlalu sibuk",
       "agent": "v1",
       "key": "L14",
       "translation": "Aku terlalu sibuk"
@@ -1052,7 +1052,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Amandote  a  ti,  Undi bel",
+      "roman": "Amandote  a  ti,  Undi bel Mencintaimu, Tuhan",
       "agent": "v1",
       "key": "L15",
       "translation": "Mencintaimu, Tuhan"
@@ -1151,7 +1151,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Mi  corazon,  que  siempre  esta  en  una  carrera",
+      "roman": "Mi  corazon,  que  siempre  esta  en  una  carrera Hatiku, yang selalu seperti berlomba",
       "agent": "v1",
       "key": "L16",
       "translation": "Hatiku, yang selalu seperti berlomba"
@@ -1283,7 +1283,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Estoy  cortando  las  flo res  antes  de  que  sea  prima vera",
+      "roman": "Estoy  cortando  las  flo res  antes  de  que  sea  prima vera Kutebas bunga-bunga sebelum musim semi datang",
       "agent": "v1",
       "key": "L17",
       "translation": "Kutebas bunga-bunga sebelum musim semi datang"
@@ -1404,7 +1404,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Donde  atan  los  caballos,  los  mios  bien  ama rra dos",
+      "roman": "Donde  atan  los  caballos,  los  mios  bien  ama rra dos Di tempat kuda-kuda ditambatkan, punyaku terikat kuat",
       "agent": "v1",
       "key": "L18",
       "translation": "Di tempat kuda-kuda ditambatkan, punyaku terikat kuat"
@@ -1525,7 +1525,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "La  sangre  y  la  suer te  aqui  me  han  arrastrado",
+      "roman": "La  sangre  y  la  suer te  aqui  me  han  arrastrado Darah dan nasib menyeretku ke sini",
       "agent": "v1",
       "key": "L19",
       "translation": "Darah dan nasib menyeretku ke sini"
@@ -1613,7 +1613,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Tu  amor  es  una  ava lan cha",
+      "roman": "Tu  amor  es  una  ava lan cha Cintamu bagai longsoran",
       "agent": "v1",
       "key": "L20",
       "translation": "Cintamu bagai longsoran"
@@ -1712,7 +1712,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Cae  por  su  propio  peso  al  exis tir",
+      "roman": "Cae  por  su  propio  peso  al  exis tir jatuh dengan beratnya sendiri saat ia ada",
       "agent": "v1",
       "key": "L21",
       "translation": "jatuh dengan beratnya sendiri saat ia ada"
@@ -1767,7 +1767,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Ayer,  hoy  y  manana",
+      "roman": "Ayer,  hoy  y  manana Kemarin, hari ini, dan esok",
       "agent": "v1",
       "key": "L22",
       "translation": "Kemarin, hari ini, dan esok"
@@ -1877,7 +1877,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "La  nieve  en  la  que  me  quiero  hun dir",
+      "roman": "La  nieve  en  la  que  me  quiero  hun dir Aku ingin tenggelam di dalamnya",
       "agent": "v1",
       "key": "L23",
       "translation": "Aku ingin tenggelam di dalamnya"
@@ -1932,7 +1932,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "mn  'jlk  'dmr  lsm",
+      "roman": "mn  'jlk  'dmr  lsm Kuhancurkan surga untukmu",
       "agent": "v1",
       "key": "L24",
       "translation": "Kuhancurkan surga untukmu"
@@ -1987,7 +1987,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "mn  'jlk  'hdm  ljHym",
+      "roman": "mn  'jlk  'hdm  ljHym Kuhancurkan neraka untukmu",
       "agent": "v1",
       "key": "L25",
       "translation": "Kuhancurkan neraka untukmu"
@@ -2020,7 +2020,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "fl  w`wd",
+      "roman": "fl  w`wd Bebas dari janji",
       "agent": "v1",
       "key": "L26",
       "translation": "Bebas dari janji"
@@ -2053,7 +2053,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "wl  w`yd",
+      "roman": "wl  w`yd Bebas dari ancaman",
       "agent": "v1",
       "key": "L27",
       "translation": "Bebas dari ancaman"
@@ -2185,7 +2185,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Yo  quepo  en  el  mundo  y  el  mundo  cabe  en  mi",
+      "roman": "Yo  quepo  en  el  mundo  y  el  mundo  cabe  en  mi Aku muat di dalam dunia, dan dunia muat di dalamku",
       "agent": "v1",
       "key": "L28",
       "translation": "Aku muat di dalam dunia, dan dunia muat di dalamku"
@@ -2317,7 +2317,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Yo  ocupo  el  mundo  y  el  mundo  me  ocupa  a  mi",
+      "roman": "Yo  ocupo  el  mundo  y  el  mundo  me  ocupa  a  mi Aku menempati dunia, dan dunia menempatiku",
       "agent": "v1",
       "key": "L29",
       "translation": "Aku menempati dunia, dan dunia menempatiku"
@@ -2449,7 +2449,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Yo  quepo  en  un  haiku  y  un  haiku  ocupa  un  pais",
+      "roman": "Yo  quepo  en  un  haiku  y  un  haiku  ocupa  un  pais Aku muat dalam sebuah haiku, dan haiku menempati negeri",
       "agent": "v1",
       "key": "L30",
       "translation": "Aku muat dalam sebuah haiku, dan haiku menempati negeri"
@@ -2592,7 +2592,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Un  pais  cabe  en  una  astilla,  una  astilla  ocupa  la  galaxia  entera",
+      "roman": "Un  pais  cabe  en  una  astilla,  una  astilla  ocupa  la  galaxia  entera Negeri muat dalam serpihan, serpihan menempati seluruh galaksi",
       "agent": "v1",
       "key": "L31",
       "translation": "Negeri muat dalam serpihan, serpihan menempati seluruh galaksi"
@@ -2724,7 +2724,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "La  galaxia  entera  cabe  en  una  gota  de  sa li va",
+      "roman": "La  galaxia  entera  cabe  en  una  gota  de  sa li va Seluruh galaksi muat dalam setetes air liur",
       "agent": "v1",
       "key": "L32",
       "translation": "Seluruh galaksi muat dalam setetes air liur"
@@ -2823,7 +2823,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Una  gota  de  saliva  ocupa  la  Quinta  Avenida",
+      "roman": "Una  gota  de  saliva  ocupa  la  Quinta  Avenida Setetes liur bisa menguasai pusat dunia",
       "agent": "v1",
       "key": "L33",
       "translation": "Setetes liur bisa menguasai pusat dunia"
@@ -2911,7 +2911,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "La  Quinta  Avenida  cabe  en  un  piercing",
+      "roman": "La  Quinta  Avenida  cabe  en  un  piercing Pusat dunia muat dalam titik",
       "agent": "v1",
       "key": "L34",
       "translation": "Pusat dunia muat dalam titik"
@@ -3076,7 +3076,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Un  piercing  ocupa  una  piramide  y  una  piramide  cabe  en  un  vaso  de  leche",
+      "roman": "Un  piercing  ocupa  una  piramide  y  una  piramide  cabe  en  un  vaso  de  leche Titik muat dalam piramida, piramida muat dalam segelas susu",
       "agent": "v1",
       "key": "L35",
       "translation": "Titik muat dalam piramida, piramida muat dalam segelas susu"
@@ -3175,7 +3175,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Y  un  vaso  de  leche  ocupa  un  ejercito",
+      "roman": "Y  un  vaso  de  leche  ocupa  un  ejercito Segelas susu muat untuk sebuah pasukan",
       "agent": "v1",
       "key": "L36",
       "translation": "Segelas susu muat untuk sebuah pasukan"
@@ -3296,7 +3296,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Y  un  ejercito  cabe  metido  en  una  pelota  de  golf",
+      "roman": "Y  un  ejercito  cabe  metido  en  una  pelota  de  golf Sebuah pasukan muat dalam bola golf",
       "agent": "v1",
       "key": "L37",
       "translation": "Sebuah pasukan muat dalam bola golf"
@@ -3395,7 +3395,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Y  una  pelota  de  golf  ocupa  el  Titanic",
+      "roman": "Y  una  pelota  de  golf  ocupa  el  Titanic Bola golf muat menampung Titanic",
       "agent": "v1",
       "key": "L38",
       "translation": "Bola golf muat menampung Titanic"
@@ -3527,7 +3527,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "El  Titanic  cabe  en  un  pintalabios,  un  pintalabios  ocupa  el  cielo",
+      "roman": "El  Titanic  cabe  en  un  pintalabios,  un  pintalabios  ocupa  el  cielo Titanic muat dalam lipstik, lipstik memuat langit",
       "agent": "v1",
       "key": "L39",
       "translation": "Titanic muat dalam lipstik, lipstik memuat langit"
@@ -3648,7 +3648,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "El  cielo  es  la  espina,  una  espina  ocupa  un  continente",
+      "roman": "El  cielo  es  la  espina,  una  espina  ocupa  un  continente Langit adalah duri, sebuah duri memuat satu benua",
       "agent": "v1",
       "key": "L40",
       "translation": "Langit adalah duri, sebuah duri memuat satu benua"
@@ -3802,7 +3802,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Y  un  continente  no  cabe  en  El,  pero  El  cabe  en  mi  pecho",
+      "roman": "Y  un  continente  no  cabe  en  El,  pero  El  cabe  en  mi  pecho Dan sebuah benua tak bisa memuat-Nya, tapi Dia muat di dalam dadaku",
       "agent": "v1",
       "key": "L41",
       "translation": "Dan sebuah benua tak bisa memuat-Nya, tapi Dia muat di dalam dadaku"
@@ -3956,7 +3956,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Y  mi  pecho  ocupa  su  amor,  y  en  su  amor  me  quiero  perder",
+      "roman": "Y  mi  pecho  ocupa  su  amor,  y  en  su  amor  me  quiero  perder Dan dadaku dipenuhi kasih-Nya, dan di dalam kasih-Nya aku ingin tersesat",
       "agent": "v1",
       "key": "L42",
       "translation": "Dan dadaku dipenuhi kasih-Nya, dan di dalam kasih-Nya aku ingin tersesat"
@@ -4011,7 +4011,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Seven  heavens,  big  deal",
+      "roman": "Seven  heavens,  big  deal 7 tingkat surga? Bukan masalah besar",
       "agent": "v1",
       "key": "L43",
       "translation": "7 tingkat surga? Bukan masalah besar"
@@ -4110,7 +4110,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "I  wanna  see  the  eighth  heaven,  tenth  heaven",
+      "roman": "I  wanna  see  the  eighth  heaven,  tenth  heaven Aku ingin melihat surga ke-8, Surga ke-10",
       "agent": "v1",
       "key": "L44",
       "translation": "Aku ingin melihat surga ke-8, Surga ke-10"
@@ -4143,7 +4143,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Thousandth  heaven",
+      "roman": "Thousandth  heaven Surga ke-seribu",
       "agent": "v1",
       "key": "L45",
       "translation": "Surga ke-seribu"
@@ -4198,7 +4198,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "You  know,  it's  like",
+      "roman": "You  know,  it's  like Kau tahu, ini seperti",
       "agent": "v1",
       "key": "L46",
       "translation": "Kau tahu, ini seperti"
@@ -4275,7 +4275,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "Break  on  through  the  other  side",
+      "roman": "Break  on  through  the  other  side Menerobos ke sisi lain",
       "agent": "v1",
       "key": "L47",
       "translation": "Menerobos ke sisi lain"
@@ -4363,7 +4363,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "It's  just  like  going  through  one  door",
+      "roman": "It's  just  like  going  through  one  door Rasanya seperti melewati satu pintu",
       "agent": "v1",
       "key": "L48",
       "translation": "Rasanya seperti melewati satu pintu"
@@ -4418,7 +4418,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "One  door  isn't  enough",
+      "roman": "One  door  isn't  enough Satu pintu saja tak cukup",
       "agent": "v1",
       "key": "L49",
       "translation": "Satu pintu saja tak cukup"
@@ -4484,7 +4484,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "roman": "A  million  doors  aren't  enough",
+      "roman": "A  million  doors  aren't  enough Satu juta pintu pun tak akan cukup",
       "agent": "v1",
       "key": "L50",
       "translation": "Satu juta pintu pun tak akan cukup"
