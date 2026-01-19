@@ -3369,7 +3369,192 @@
         }
       ],
       "agent": "v1",
-      "key": "L21"
+      "key": "L21",
+      "backgroundVocal": {
+        "text": "((Hanya dirimu yang bisa terima segala perbuatanku))",
+        "words": [
+          {
+            "text": "((Ha",
+            "begin": 180.851,
+            "end": 181.096,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "nya",
+            "begin": 181.096,
+            "end": 181.381,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "di",
+            "begin": 181.381,
+            "end": 181.823,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "ri",
+            "begin": 181.823,
+            "end": 182.191,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "mu",
+            "begin": 182.191,
+            "end": 182.596,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "yang",
+            "begin": 182.596,
+            "end": 183.054,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "bi",
+            "begin": 183.054,
+            "end": 183.637,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "sa",
+            "begin": 183.637,
+            "end": 184.096,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "te",
+            "begin": 184.096,
+            "end": 184.569,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "ri",
+            "begin": 184.569,
+            "end": 185.079,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "ma",
+            "begin": 185.079,
+            "end": 185.716,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "se",
+            "begin": 186.084,
+            "end": 186.526,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "ga",
+            "begin": 186.526,
+            "end": 186.999,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "la",
+            "begin": 186.999,
+            "end": 187.531,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "per",
+            "begin": 187.531,
+            "end": 188.016,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "bua",
+            "begin": 188.016,
+            "end": 188.749,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "tan",
+            "begin": 188.749,
+            "end": 189.244,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "ku))",
+            "begin": 189.244,
+            "end": 193.046,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      }
     },
     {
       "begin": 194.728,
