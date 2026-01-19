@@ -2982,8 +2982,8 @@
     },
     {
       "begin": 171.586,
-      "end": 180.637,
-      "text": "Ada hati yang seindah cara-, seindah caramu mencintaiku",
+      "end": 176.077,
+      "text": "Ada hati yang seindah cara-",
       "words": [
         {
           "text": "Ada",
@@ -3066,17 +3066,26 @@
           "hasSpaceAfter": false
         },
         {
-          "text": "ra-,",
+          "text": "ra-",
           "begin": 175.348,
           "end": 176.077,
           "isBackground": false,
           "isTranslation": false,
           "hasLeadingSpace": false,
           "hasTrailingSpace": false,
-          "hasSpaceAfter": true
-        },
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23"
+    },
+    {
+      "begin": 176.249,
+      "end": 180.637,
+      "text": "Seindah caramu mencintaiku",
+      "words": [
         {
-          "text": "se",
+          "text": "Se",
           "begin": 176.249,
           "end": 176.414,
           "isBackground": false,
@@ -3177,7 +3186,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L23"
+      "key": "L24"
     },
     {
       "begin": 180.817,
@@ -3396,7 +3405,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L24",
+      "key": "L25",
       "backgroundVocal": {
         "text": "((Hanya dirimu yang bisa terima segala perbuatanku))",
         "words": [
@@ -3720,7 +3729,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L25"
+      "key": "L26"
     },
     {
       "begin": 210.51,
@@ -3759,7 +3768,7 @@
         }
       ],
       "agent": "v1",
-      "key": "L26"
+      "key": "L27"
     },
     {
       "begin": 216.28199999999998,
@@ -3828,8 +3837,8 @@
         }
       ],
       "agent": "v1",
-      "key": "L27"
+      "key": "L28"
     }
   ],
-  "totalLines": 27
+  "totalLines": 28
 }
