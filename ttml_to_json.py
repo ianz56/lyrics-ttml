@@ -119,8 +119,12 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                 elif role == 'x-translation':
                     # Translation - extract text directly, don't treat as lyric word
                     trans_text = child.text or ""
-                    if trans_text.strip():
-                        translations.append(trans_text.strip())
+                    clean_trans = trans_text.strip()
+                    if clean_trans:
+                        # Auto-wrap background translation in parentheses if not already wrapped
+                        if is_bg and not (clean_trans.startswith('(') and clean_trans.endswith(')')):
+                            clean_trans = f"({clean_trans})"
+                        translations.append(clean_trans)
                 else:
                     raw_text = child.text or ""
                     if word_list and (raw_text.startswith(" ") or raw_text.startswith("\t") or raw_text.startswith("\n")):
@@ -231,8 +235,15 @@ def ttml_to_json(ttml_path: str, output_path: str = None) -> dict:
     root = tree.getroot()
     
     # Define namespaces
+    # Detect main namespace (tt) from root element
+    if '}' in root.tag:
+        tt_ns = root.tag.split('}')[0].strip('{')
+    else:
+        tt_ns = ''
+    
+    # Define namespaces
     namespaces = {
-        'tt': 'http://www.w3.org/ns/ttml',
+        'tt': tt_ns,
         'ttm': 'http://www.w3.org/ns/ttml#metadata',
         'amll': 'http://www.example.com/ns/amll',
         'itunes': 'http://music.apple.com/lyric-ttml-internal'
