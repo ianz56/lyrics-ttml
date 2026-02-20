@@ -1,12 +1,10 @@
 import json, time, sys, shutil, os
 
 if len(sys.argv) < 2:
-    print("Usage: python terminal-lyrics.py <file.json> [offset_seconds]")
-    print("  offset_seconds: negatif = lirik muncul lebih awal (default: -0.3)")
+    print("Usage: python script.py <file.json>")
     sys.exit(1)
 
 PATH = sys.argv[1]
-OFFSET = float(sys.argv[2]) if len(sys.argv) >= 3 else -0.3
 
 if not os.path.exists(PATH):
     print(f"File not found: {PATH}")
@@ -16,15 +14,14 @@ FPS = 50
 def clamp(x, a, b): return max(a, min(b, x))
 
 def render_line(words, now):
-    shifted = now - OFFSET  # offset negatif = lirik muncul lebih awal
     out = ""
     for w in words:
         b = float(w["begin"]); e = float(w["end"])
         t = w["text"]
-        if shifted < b:
+        if now < b:
             continue
         dur = max(1e-6, e - b)
-        p = clamp((shifted - b) / dur, 0.0, 1.0)
+        p = clamp((now - b) / dur, 0.0, 1.0)
         n = int(len(t) * p)
         out += t[:n]
         if w.get("hasSpaceAfter"):
