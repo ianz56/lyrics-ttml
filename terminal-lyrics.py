@@ -1,10 +1,12 @@
 import json, time, sys, shutil, os
 
 if len(sys.argv) < 2:
-    print("Usage: python script.py <file.json>")
+    print("Usage: python terminal-lyrics.py <file.json> [offset_seconds]")
+    print("  offset_seconds: negatif = lirik muncul lebih awal (default: -0.3)")
     sys.exit(1)
 
 PATH = sys.argv[1]
+OFFSET = float(sys.argv[2]) if len(sys.argv) >= 3 else -0.3
 
 if not os.path.exists(PATH):
     print(f"File not found: {PATH}")
@@ -14,14 +16,15 @@ FPS = 50
 def clamp(x, a, b): return max(a, min(b, x))
 
 def render_line(words, now):
+    shifted = now - OFFSET  # offset negatif = lirik muncul lebih awal
     out = ""
     for w in words:
         b = float(w["begin"]); e = float(w["end"])
         t = w["text"]
-        if now < b:
+        if shifted < b:
             continue
         dur = max(1e-6, e - b)
-        p = clamp((now - b) / dur, 0.0, 1.0)
+        p = clamp((shifted - b) / dur, 0.0, 1.0)
         n = int(len(t) * p)
         out += t[:n]
         if w.get("hasSpaceAfter"):
@@ -91,21 +94,20 @@ try:
         if last_row - first_visible_row + 1 > (visible - 1):
             first_visible_row = last_row - (visible - 1) + 1
 
-        # render
-        sys.stdout.write("\033[H")
-        sys.stdout.write("\033[2K" + f"t={now:6.2f}s" + "\n")  # debug hidup
-
-        # tampilkan window line dari atas, baru scroll kalau overflow
+        # render — kumpulkan semua ke buffer, tulis sekali (anti flicker)
+        W = shutil.get_terminal_size(fallback=(120, 30)).columns
+        buf = []
         row_to_event = {ev["_row"]: ev for ev in events if ev["_assigned"]}
-        for screen_row in range(visible - 1):
+        for screen_row in range(visible):
             actual_row = first_visible_row + screen_row
             ev = row_to_event.get(actual_row)
             if ev:
-                text = render_line(ev["words"], now)
-                sys.stdout.write("\033[2K" + text + "\n")
+                text = render_line(ev["words"], now)[:W]
             else:
-                sys.stdout.write("\033[2K\n")
+                text = ""
+            buf.append(f"\033[{screen_row + 1};1H\033[2K{text}")
 
+        sys.stdout.write("".join(buf))
         sys.stdout.flush()
         time.sleep(1.0 / FPS)
 
