@@ -1,4 +1,4 @@
-# 🎼 TTML Lyrics Collection (Personal Archive)
+# 🎼 Lyrics Collection (Personal Archive)
 
 This repository contains a curated collection of **TTML (Timed Text Markup Language) lyric files**, manually timed and formatted by me.  
 The primary purpose of this repo is **archival, experimentation, and integration** with personal tooling and projects (such as lyric players, subtitle engines, custom websites, etc.).
