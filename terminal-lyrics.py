@@ -10,21 +10,23 @@ if not os.path.exists(PATH):
     print(f"File not found: {PATH}")
     sys.exit(1)
 FPS = 50
+WORD_OFFSET = 0.8   # detik, munculkan karakter lebih awal biar gak kerasa telat
 
 def clamp(x, a, b): return max(a, min(b, x))
 
 def render_line(words, now):
     out = ""
     for w in words:
-        b = float(w["begin"]); e = float(w["end"])
+        b_orig = float(w["begin"]); e = float(w["end"])
+        b = b_orig - WORD_OFFSET          # mulai reveal lebih awal
+        dur = max(1e-6, e - b_orig)        # kecepatan reveal = durasi asli
         t = w["text"]
         if now < b:
             continue
-        dur = max(1e-6, e - b)
         p = clamp((now - b) / dur, 0.0, 1.0)
         n = int(len(t) * p)
         out += t[:n]
-        if w.get("hasSpaceAfter"):
+        if w.get("hasSpaceAfter") and n > 0:
             out += " "
     return out.rstrip()
 
@@ -36,7 +38,7 @@ events = []
 def add_event_from_words(words):
     if not words:
         return
-    b = min(float(w["begin"]) for w in words)
+    b = min(float(w["begin"]) for w in words) - WORD_OFFSET
     e = max(float(w["end"]) for w in words)
     events.append({
         "begin": b,
