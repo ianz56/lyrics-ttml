@@ -1,0 +1,25 @@
+name: Lint TTML
+
+on:
+  push:
+    paths:
+      - '**/*.ttml'
+      - 'lint_ttml.py'
+  pull_request:
+    paths:
+      - '**/*.ttml'
+      - 'lint_ttml.py'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Lint TTML files
+        run: python lint_ttml.py --check --all

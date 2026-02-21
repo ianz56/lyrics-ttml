@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word" xml:lang="en">
+<?xml version="1.0" encoding="utf-8"?>
+<tt itunes:timing="Word" xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
   <head>
     <metadata>
       <ttm:agent type="person" xml:id="v1"/>
@@ -17,56 +17,344 @@
   </head>
   <body dur="4:07.008">
     <div begin="20.091" end="36.190" itunes:songPart="Verse">
-      <p begin="20.091" end="26.235" itunes:key="L1" ttm:agent="v1"><span begin="20.091" end="20.994">A</span><span begin="21.322" end="22.078">ku</span> <span begin="22.605" end="22.986">yang</span> <span begin="22.986" end="23.370">di</span><span begin="23.370" end="23.770">pak</span><span begin="23.770" end="24.205">sa</span> <span begin="24.205" end="24.637">me</span><span begin="24.637" end="25.056">nye</span><span begin="25.056" end="26.235">rah</span></p>
-      <p begin="27.494" end="30.876" itunes:key="L2" ttm:agent="v1"><span begin="27.494" end="27.932">Ja</span><span begin="27.932" end="28.348">di</span> <span begin="28.348" end="28.766">yang</span> <span begin="28.766" end="29.164">pa</span><span begin="29.164" end="29.564">ling</span> <span begin="29.564" end="29.998">sa</span><span begin="29.998" end="30.876">lah</span></p>
-      <p begin="31.162" end="36.190" itunes:key="L3" ttm:agent="v1"><span begin="31.162" end="31.650">Se</span><span begin="31.650" end="32.066">men</span><span begin="32.066" end="32.500">ta</span><span begin="32.500" end="33.488">ra</span> <span begin="33.743" end="34.194">kau</span> <span begin="34.194" end="34.597">de</span><span begin="34.597" end="35.029">ngan</span><span begin="35.029" end="36.190">nya</span></p>
+      <p begin="20.091" end="26.235" ttm:agent="v1" itunes:key="L1">
+        <span begin="20.091" end="20.994">A</span>
+        <span begin="21.322" end="22.078">ku </span>
+        <span begin="22.605" end="22.986">yang </span>
+        <span begin="22.986" end="23.370">di</span>
+        <span begin="23.370" end="23.770">pak</span>
+        <span begin="23.770" end="24.205">sa </span>
+        <span begin="24.205" end="24.637">me</span>
+        <span begin="24.637" end="25.056">nye</span>
+        <span begin="25.056" end="26.235">rah</span>
+      </p>
+      <p begin="27.494" end="30.876" ttm:agent="v1" itunes:key="L2">
+        <span begin="27.494" end="27.932">Ja</span>
+        <span begin="27.932" end="28.348">di </span>
+        <span begin="28.348" end="28.766">yang </span>
+        <span begin="28.766" end="29.164">pa</span>
+        <span begin="29.164" end="29.564">ling </span>
+        <span begin="29.564" end="29.998">sa</span>
+        <span begin="29.998" end="30.876">lah</span>
+      </p>
+      <p begin="31.162" end="36.190" ttm:agent="v1" itunes:key="L3">
+        <span begin="31.162" end="31.650">Se</span>
+        <span begin="31.650" end="32.066">men</span>
+        <span begin="32.066" end="32.500">ta</span>
+        <span begin="32.500" end="33.488">ra </span>
+        <span begin="33.743" end="34.194">kau </span>
+        <span begin="34.194" end="34.597">de</span>
+        <span begin="34.597" end="35.029">ngan</span>
+        <span begin="35.029" end="36.190">nya</span>
+      </p>
     </div>
     <div begin="39.924" end="56.327" itunes:songPart="Verse">
-      <p begin="39.924" end="46.220" itunes:key="L4" ttm:agent="v1"><span begin="39.924" end="41.203">A</span><span begin="41.203" end="42.171">ku</span> <span begin="42.454" end="42.803">yang</span> <span begin="42.803" end="43.222">ki</span><span begin="43.222" end="43.654">ni</span> <span begin="43.654" end="44.505">ter</span><span begin="44.505" end="44.937">bu</span><span begin="44.937" end="46.220">ang</span></p>
-      <p begin="47.364" end="50.801" itunes:key="L5" ttm:agent="v1"><span begin="47.364" end="47.780">Kau</span> <span begin="47.780" end="48.196">ja</span><span begin="48.196" end="48.662">di</span><span begin="48.662" end="49.062">kan</span> <span begin="49.062" end="49.446">pe</span><span begin="49.446" end="49.929">cun</span><span begin="49.929" end="50.801">dang</span></p>
-      <p begin="51.084" end="56.327" itunes:key="L6" ttm:agent="v1"><span begin="51.084" end="51.516">Se</span><span begin="51.516" end="51.948">men</span><span begin="51.948" end="52.382">ta</span><span begin="52.382" end="53.310">ra</span> <span begin="53.598" end="53.998">kau</span> <span begin="53.998" end="54.414">ber</span><span begin="54.414" end="54.865">su</span><span begin="54.865" end="56.327">lang</span></p>
+      <p begin="39.924" end="46.220" ttm:agent="v1" itunes:key="L4">
+        <span begin="39.924" end="41.203">A</span>
+        <span begin="41.203" end="42.171">ku </span>
+        <span begin="42.454" end="42.803">yang </span>
+        <span begin="42.803" end="43.222">ki</span>
+        <span begin="43.222" end="43.654">ni </span>
+        <span begin="43.654" end="44.505">ter</span>
+        <span begin="44.505" end="44.937">bu</span>
+        <span begin="44.937" end="46.220">ang</span>
+      </p>
+      <p begin="47.364" end="50.801" ttm:agent="v1" itunes:key="L5">
+        <span begin="47.364" end="47.780">Kau </span>
+        <span begin="47.780" end="48.196">ja</span>
+        <span begin="48.196" end="48.662">di</span>
+        <span begin="48.662" end="49.062">kan </span>
+        <span begin="49.062" end="49.446">pe</span>
+        <span begin="49.446" end="49.929">cun</span>
+        <span begin="49.929" end="50.801">dang</span>
+      </p>
+      <p begin="51.084" end="56.327" ttm:agent="v1" itunes:key="L6">
+        <span begin="51.084" end="51.516">Se</span>
+        <span begin="51.516" end="51.948">men</span>
+        <span begin="51.948" end="52.382">ta</span>
+        <span begin="52.382" end="53.310">ra </span>
+        <span begin="53.598" end="53.998">kau </span>
+        <span begin="53.998" end="54.414">ber</span>
+        <span begin="54.414" end="54.865">su</span>
+        <span begin="54.865" end="56.327">lang</span>
+      </p>
     </div>
     <div begin="59.322" end="1:17.359" itunes:songPart="Chorus">
-      <p begin="59.322" end="1:07.209" itunes:key="L7" ttm:agent="v1"><span begin="59.322" end="59.821">Su</span><span begin="59.821" end="1:01.053">dah</span><span begin="1:01.053" end="1:02.315">lah,</span> <span begin="1:02.315" end="1:02.715">ka</span><span begin="1:02.715" end="1:03.131">li</span> <span begin="1:03.131" end="1:03.531">i</span><span begin="1:03.531" end="1:03.915">ni</span> <span begin="1:03.915" end="1:04.331">a</span><span begin="1:04.331" end="1:04.765">ku</span> <span begin="1:04.765" end="1:06.083">ka</span><span begin="1:06.083" end="1:07.209">lah</span></p>
-      <p begin="1:07.269" end="1:11.470" itunes:key="L8" ttm:agent="v1"><span begin="1:07.269" end="1:07.663">Ke</span><span begin="1:07.663" end="1:08.063">hi</span><span begin="1:08.063" end="1:08.482">la</span><span begin="1:08.482" end="1:08.898">ngan</span> <span begin="1:08.898" end="1:09.282">mah</span><span begin="1:09.282" end="1:09.749">ko</span><span begin="1:09.749" end="1:11.470">ta</span></p>
-      <p begin="1:12.241" end="1:17.359" itunes:key="L9" ttm:agent="v1"><span begin="1:12.241" end="1:12.644">Kau</span> <span begin="1:12.644" end="1:13.060">dan</span> <span begin="1:13.060" end="1:13.460">di</span><span begin="1:13.460" end="1:13.878">a</span> <span begin="1:13.878" end="1:14.276">pe</span><span begin="1:14.276" end="1:14.726">me</span><span begin="1:14.726" end="1:15.142">nang</span><span begin="1:15.142" end="1:17.359">nya</span></p>
+      <p begin="59.322" end="1:07.209" ttm:agent="v1" itunes:key="L7">
+        <span begin="59.322" end="59.821">Su</span>
+        <span begin="59.821" end="1:01.053">dah</span>
+        <span begin="1:01.053" end="1:02.315">lah, </span>
+        <span begin="1:02.315" end="1:02.715">ka</span>
+        <span begin="1:02.715" end="1:03.131">li </span>
+        <span begin="1:03.131" end="1:03.531">i</span>
+        <span begin="1:03.531" end="1:03.915">ni </span>
+        <span begin="1:03.915" end="1:04.331">a</span>
+        <span begin="1:04.331" end="1:04.765">ku </span>
+        <span begin="1:04.765" end="1:06.083">ka</span>
+        <span begin="1:06.083" end="1:07.209">lah</span>
+      </p>
+      <p begin="1:07.269" end="1:11.470" ttm:agent="v1" itunes:key="L8">
+        <span begin="1:07.269" end="1:07.663">Ke</span>
+        <span begin="1:07.663" end="1:08.063">hi</span>
+        <span begin="1:08.063" end="1:08.482">la</span>
+        <span begin="1:08.482" end="1:08.898">ngan </span>
+        <span begin="1:08.898" end="1:09.282">mah</span>
+        <span begin="1:09.282" end="1:09.749">ko</span>
+        <span begin="1:09.749" end="1:11.470">ta</span>
+      </p>
+      <p begin="1:12.241" end="1:17.359" ttm:agent="v1" itunes:key="L9">
+        <span begin="1:12.241" end="1:12.644">Kau </span>
+        <span begin="1:12.644" end="1:13.060">dan </span>
+        <span begin="1:13.060" end="1:13.460">di</span>
+        <span begin="1:13.460" end="1:13.878">a </span>
+        <span begin="1:13.878" end="1:14.276">pe</span>
+        <span begin="1:14.276" end="1:14.726">me</span>
+        <span begin="1:14.726" end="1:15.142">nang</span>
+        <span begin="1:15.142" end="1:17.359">nya</span>
+      </p>
     </div>
     <div begin="1:19.719" end="1:36.993" itunes:songPart="Verse">
-      <p begin="1:19.719" end="1:28.225" itunes:key="L10" ttm:agent="v1"><span begin="1:19.719" end="1:20.914">Ber</span><span begin="1:20.914" end="1:22.197">a</span><span begin="1:22.197" end="1:23.431">khir,</span> <span begin="1:23.431" end="1:23.813">tak</span> <span begin="1:23.813" end="1:24.213">u</span><span begin="1:24.213" end="1:24.613">sah</span> <span begin="1:24.613" end="1:25.863">kha</span><span begin="1:25.863" end="1:27.130">wa</span><span begin="1:27.130" end="1:28.225">tir</span></p>
-      <p begin="1:28.353" end="1:30.756" itunes:key="L11" ttm:agent="v1"><span begin="1:28.353" end="1:28.761">Tak</span> <span begin="1:28.761" end="1:29.212">me</span><span begin="1:29.212" end="1:29.628">nga</span><span begin="1:29.628" end="1:30.756">pa</span></p>
-      <p begin="1:31.694" end="1:36.993" itunes:key="L12" ttm:agent="v1"><span begin="1:31.694" end="1:32.113">Ku</span> <span begin="1:32.113" end="1:32.481">ha</span><span begin="1:32.481" end="1:33.147">nya</span> <span begin="1:33.147" end="1:33.398">ha</span><span begin="1:33.398" end="1:33.747">rus</span> <span begin="1:33.747" end="1:34.179">te</span><span begin="1:34.179" end="1:34.598">ri</span><span begin="1:34.598" end="1:36.993">ma</span></p>
+      <p begin="1:19.719" end="1:28.225" ttm:agent="v1" itunes:key="L10">
+        <span begin="1:19.719" end="1:20.914">Ber</span>
+        <span begin="1:20.914" end="1:22.197">a</span>
+        <span begin="1:22.197" end="1:23.431">khir, </span>
+        <span begin="1:23.431" end="1:23.813">tak </span>
+        <span begin="1:23.813" end="1:24.213">u</span>
+        <span begin="1:24.213" end="1:24.613">sah </span>
+        <span begin="1:24.613" end="1:25.863">kha</span>
+        <span begin="1:25.863" end="1:27.130">wa</span>
+        <span begin="1:27.130" end="1:28.225">tir</span>
+      </p>
+      <p begin="1:28.353" end="1:30.756" ttm:agent="v1" itunes:key="L11">
+        <span begin="1:28.353" end="1:28.761">Tak </span>
+        <span begin="1:28.761" end="1:29.212">me</span>
+        <span begin="1:29.212" end="1:29.628">nga</span>
+        <span begin="1:29.628" end="1:30.756">pa</span>
+      </p>
+      <p begin="1:31.694" end="1:36.993" ttm:agent="v1" itunes:key="L12">
+        <span begin="1:31.694" end="1:32.113">Ku </span>
+        <span begin="1:32.113" end="1:32.481">ha</span>
+        <span begin="1:32.481" end="1:33.147">nya </span>
+        <span begin="1:33.147" end="1:33.398">ha</span>
+        <span begin="1:33.398" end="1:33.747">rus </span>
+        <span begin="1:33.747" end="1:34.179">te</span>
+        <span begin="1:34.179" end="1:34.598">ri</span>
+        <span begin="1:34.598" end="1:36.993">ma</span>
+      </p>
     </div>
     <div begin="1:39.516" end="1:56.998" itunes:songPart="Verse">
-      <p begin="1:39.516" end="1:47.927" itunes:key="L13" ttm:agent="v1"><span begin="1:39.516" end="1:40.657">Ter</span><span begin="1:40.657" end="1:42.006">sing</span><span begin="1:42.006" end="1:43.308">kir,</span> <span begin="1:43.308" end="1:43.689">tak</span> <span begin="1:43.689" end="1:44.073">u</span><span begin="1:44.073" end="1:44.508">sah</span> <span begin="1:44.508" end="1:45.774">per</span><span begin="1:45.774" end="1:47.006">mi</span><span begin="1:47.006" end="1:47.927">si</span></p>
-      <p begin="1:48.257" end="1:50.742" itunes:key="L14" ttm:agent="v1"><span begin="1:48.257" end="1:48.662">Tak</span> <span begin="1:48.662" end="1:49.062">me</span><span begin="1:49.062" end="1:49.513">nga</span><span begin="1:49.513" end="1:50.742">pa</span></p>
-      <p begin="1:51.574" end="1:56.998" itunes:key="L15" ttm:agent="v1"><span begin="1:51.574" end="1:51.958">Ba</span><span begin="1:51.958" end="1:52.358">ha</span><span begin="1:52.358" end="1:52.777">gia</span><span begin="1:52.777" end="1:53.193">lah</span> <span begin="1:53.193" end="1:53.577">ber</span><span begin="1:53.577" end="1:54.043">sa</span><span begin="1:54.043" end="1:54.443">ma</span><span begin="1:54.443" end="1:56.998">nya</span></p>
+      <p begin="1:39.516" end="1:47.927" ttm:agent="v1" itunes:key="L13">
+        <span begin="1:39.516" end="1:40.657">Ter</span>
+        <span begin="1:40.657" end="1:42.006">sing</span>
+        <span begin="1:42.006" end="1:43.308">kir, </span>
+        <span begin="1:43.308" end="1:43.689">tak </span>
+        <span begin="1:43.689" end="1:44.073">u</span>
+        <span begin="1:44.073" end="1:44.508">sah </span>
+        <span begin="1:44.508" end="1:45.774">per</span>
+        <span begin="1:45.774" end="1:47.006">mi</span>
+        <span begin="1:47.006" end="1:47.927">si</span>
+      </p>
+      <p begin="1:48.257" end="1:50.742" ttm:agent="v1" itunes:key="L14">
+        <span begin="1:48.257" end="1:48.662">Tak </span>
+        <span begin="1:48.662" end="1:49.062">me</span>
+        <span begin="1:49.062" end="1:49.513">nga</span>
+        <span begin="1:49.513" end="1:50.742">pa</span>
+      </p>
+      <p begin="1:51.574" end="1:56.998" ttm:agent="v1" itunes:key="L15">
+        <span begin="1:51.574" end="1:51.958">Ba</span>
+        <span begin="1:51.958" end="1:52.358">ha</span>
+        <span begin="1:52.358" end="1:52.777">gia</span>
+        <span begin="1:52.777" end="1:53.193">lah </span>
+        <span begin="1:53.193" end="1:53.577">ber</span>
+        <span begin="1:53.577" end="1:54.043">sa</span>
+        <span begin="1:54.043" end="1:54.443">ma</span>
+        <span begin="1:54.443" end="1:56.998">nya</span>
+      </p>
     </div>
     <div begin="1:58.932" end="2:15.929" itunes:songPart="Chorus">
-      <p begin="1:58.932" end="2:06.638" itunes:key="L16" ttm:agent="v1"><span begin="1:58.932" end="1:59.399">Su</span><span begin="1:59.399" end="2:00.628">dah</span><span begin="2:00.628" end="2:01.969">lah,</span> <span begin="2:01.969" end="2:02.335">ka</span><span begin="2:02.335" end="2:02.719">li</span> <span begin="2:02.719" end="2:03.119">i</span><span begin="2:03.119" end="2:03.503">ni</span> <span begin="2:03.503" end="2:03.919">a</span><span begin="2:03.919" end="2:04.369">ku</span> <span begin="2:04.369" end="2:05.636">ka</span><span begin="2:05.636" end="2:06.638">lah</span></p>
-      <p begin="2:06.867" end="2:11.070" itunes:key="L17" ttm:agent="v1"><span begin="2:06.867" end="2:07.226">Ke</span><span begin="2:07.226" end="2:07.626">hi</span><span begin="2:07.626" end="2:08.058">la</span><span begin="2:08.058" end="2:08.476">ngan</span> <span begin="2:08.476" end="2:08.892">mah</span><span begin="2:08.892" end="2:09.343">ko</span><span begin="2:09.343" end="2:11.070">ta</span></p>
-      <p begin="2:11.798" end="2:15.929" itunes:key="L18" ttm:agent="v1"><span begin="2:11.798" end="2:12.207">Kau</span> <span begin="2:12.207" end="2:12.639">dan</span> <span begin="2:12.639" end="2:13.039">di</span><span begin="2:13.039" end="2:13.458">a</span> <span begin="2:13.458" end="2:13.874">pe</span><span begin="2:13.874" end="2:14.290">me</span><span begin="2:14.290" end="2:14.767">nang</span><span begin="2:14.767" end="2:15.929">nya</span></p>
+      <p begin="1:58.932" end="2:06.638" ttm:agent="v1" itunes:key="L16">
+        <span begin="1:58.932" end="1:59.399">Su</span>
+        <span begin="1:59.399" end="2:00.628">dah</span>
+        <span begin="2:00.628" end="2:01.969">lah, </span>
+        <span begin="2:01.969" end="2:02.335">ka</span>
+        <span begin="2:02.335" end="2:02.719">li </span>
+        <span begin="2:02.719" end="2:03.119">i</span>
+        <span begin="2:03.119" end="2:03.503">ni </span>
+        <span begin="2:03.503" end="2:03.919">a</span>
+        <span begin="2:03.919" end="2:04.369">ku </span>
+        <span begin="2:04.369" end="2:05.636">ka</span>
+        <span begin="2:05.636" end="2:06.638">lah</span>
+      </p>
+      <p begin="2:06.867" end="2:11.070" ttm:agent="v1" itunes:key="L17">
+        <span begin="2:06.867" end="2:07.226">Ke</span>
+        <span begin="2:07.226" end="2:07.626">hi</span>
+        <span begin="2:07.626" end="2:08.058">la</span>
+        <span begin="2:08.058" end="2:08.476">ngan </span>
+        <span begin="2:08.476" end="2:08.892">mah</span>
+        <span begin="2:08.892" end="2:09.343">ko</span>
+        <span begin="2:09.343" end="2:11.070">ta</span>
+      </p>
+      <p begin="2:11.798" end="2:15.929" ttm:agent="v1" itunes:key="L18">
+        <span begin="2:11.798" end="2:12.207">Kau </span>
+        <span begin="2:12.207" end="2:12.639">dan </span>
+        <span begin="2:12.639" end="2:13.039">di</span>
+        <span begin="2:13.039" end="2:13.458">a </span>
+        <span begin="2:13.458" end="2:13.874">pe</span>
+        <span begin="2:13.874" end="2:14.290">me</span>
+        <span begin="2:14.290" end="2:14.767">nang</span>
+        <span begin="2:14.767" end="2:15.929">nya</span>
+      </p>
     </div>
     <div begin="2:18.775" end="2:37.847" itunes:songPart="Chorus">
-      <p begin="2:18.775" end="2:26.325" itunes:key="L19" ttm:agent="v1"><span begin="2:18.775" end="2:19.295">Su</span><span begin="2:19.295" end="2:20.511">dah</span><span begin="2:20.511" end="2:21.772">lah,</span> <span begin="2:21.772" end="2:22.137">ka</span><span begin="2:22.137" end="2:22.553">li</span> <span begin="2:22.553" end="2:22.953">i</span><span begin="2:22.953" end="2:23.353">ni</span> <span begin="2:23.353" end="2:23.772">ku</span> <span begin="2:23.772" end="2:24.188">ber</span><span begin="2:24.188" end="2:25.454">se</span><span begin="2:25.454" end="2:26.325">rah</span></p>
-      <p begin="2:26.735" end="2:31.295" itunes:key="L20" ttm:agent="v1"><span begin="2:26.735" end="2:27.100">Ke</span><span begin="2:27.100" end="2:27.484">hi</span><span begin="2:27.484" end="2:27.919">la</span><span begin="2:27.919" end="2:28.319">ngan</span> <span begin="2:28.319" end="2:28.770">sega</span><span begin="2:28.770" end="2:29.234">la</span><span begin="2:29.234" end="2:31.295">nya</span></p>
-      <p begin="2:31.681" end="2:37.847" itunes:key="L21" ttm:agent="v1"><span begin="2:31.681" end="2:32.086">Kau</span> <span begin="2:32.086" end="2:32.521">dan</span> <span begin="2:32.521" end="2:32.937">di</span><span begin="2:32.937" end="2:33.337">a</span> <span begin="2:33.337" end="2:33.737">pe</span><span begin="2:33.737" end="2:34.172">me</span><span begin="2:34.172" end="2:34.572">nang</span><span begin="2:34.572" end="2:37.847">nya</span></p>
+      <p begin="2:18.775" end="2:26.325" ttm:agent="v1" itunes:key="L19">
+        <span begin="2:18.775" end="2:19.295">Su</span>
+        <span begin="2:19.295" end="2:20.511">dah</span>
+        <span begin="2:20.511" end="2:21.772">lah, </span>
+        <span begin="2:21.772" end="2:22.137">ka</span>
+        <span begin="2:22.137" end="2:22.553">li </span>
+        <span begin="2:22.553" end="2:22.953">i</span>
+        <span begin="2:22.953" end="2:23.353">ni </span>
+        <span begin="2:23.353" end="2:23.772">ku </span>
+        <span begin="2:23.772" end="2:24.188">ber</span>
+        <span begin="2:24.188" end="2:25.454">se</span>
+        <span begin="2:25.454" end="2:26.325">rah</span>
+      </p>
+      <p begin="2:26.735" end="2:31.295" ttm:agent="v1" itunes:key="L20">
+        <span begin="2:26.735" end="2:27.100">Ke</span>
+        <span begin="2:27.100" end="2:27.484">hi</span>
+        <span begin="2:27.484" end="2:27.919">la</span>
+        <span begin="2:27.919" end="2:28.319">ngan </span>
+        <span begin="2:28.319" end="2:28.770">sega</span>
+        <span begin="2:28.770" end="2:29.234">la</span>
+        <span begin="2:29.234" end="2:31.295">nya</span>
+      </p>
+      <p begin="2:31.681" end="2:37.847" ttm:agent="v1" itunes:key="L21">
+        <span begin="2:31.681" end="2:32.086">Kau </span>
+        <span begin="2:32.086" end="2:32.521">dan </span>
+        <span begin="2:32.521" end="2:32.937">di</span>
+        <span begin="2:32.937" end="2:33.337">a </span>
+        <span begin="2:33.337" end="2:33.737">pe</span>
+        <span begin="2:33.737" end="2:34.172">me</span>
+        <span begin="2:34.172" end="2:34.572">nang</span>
+        <span begin="2:34.572" end="2:37.847">nya</span>
+      </p>
     </div>
     <div begin="3:00.233" end="3:20.052" itunes:songPart="Bridge">
-      <p begin="3:00.233" end="3:04.793" itunes:key="L22" ttm:agent="v1"><span begin="3:00.233" end="3:00.633">Le</span><span begin="3:00.633" end="3:01.379">lah</span> <span begin="3:01.494" end="3:01.878">ha</span><span begin="3:01.878" end="3:02.635">rus</span> <span begin="3:02.712" end="3:03.094">bi</span><span begin="3:03.094" end="3:03.512">jak</span><span begin="3:03.512" end="3:03.960">sa</span><span begin="3:03.960" end="3:04.793">na</span></p>
-      <p begin="3:05.137" end="3:09.703" itunes:key="L23" ttm:agent="v1"><span begin="3:05.137" end="3:05.599">Sa</span><span begin="3:05.599" end="3:06.280">at</span> <span begin="3:06.428" end="3:06.828">ki</span><span begin="3:06.828" end="3:07.533">ta</span> <span begin="3:07.655" end="3:08.055">yang</span> <span begin="3:08.055" end="3:08.455">ter</span><span begin="3:08.455" end="3:08.938">lu</span><span begin="3:08.938" end="3:09.703">ka</span></p>
-      <p begin="3:10.159" end="3:14.601" itunes:key="L24" ttm:agent="v1"><span begin="3:10.159" end="3:10.578">Le</span><span begin="3:10.578" end="3:11.203">lah</span> <span begin="3:11.378" end="3:11.794">ha</span><span begin="3:11.794" end="3:12.529">rus</span> <span begin="3:12.629" end="3:13.029">bi</span><span begin="3:13.029" end="3:13.429">jak</span><span begin="3:13.429" end="3:13.895">sa</span><span begin="3:13.895" end="3:14.601">na</span></p>
-      <p begin="3:15.023" end="3:20.052" itunes:key="L25" ttm:agent="v1"><span begin="3:15.023" end="3:15.500">Sa</span><span begin="3:15.500" end="3:16.195">at</span> <span begin="3:16.351" end="3:16.751">ki</span><span begin="3:16.751" end="3:17.458">ta</span> <span begin="3:17.599" end="3:18.017">yang</span> <span begin="3:18.017" end="3:18.417">ter</span><span begin="3:18.417" end="3:18.884">lu</span><span begin="3:18.884" end="3:20.052">ka</span></p>
+      <p begin="3:00.233" end="3:04.793" ttm:agent="v1" itunes:key="L22">
+        <span begin="3:00.233" end="3:00.633">Le</span>
+        <span begin="3:00.633" end="3:01.379">lah </span>
+        <span begin="3:01.494" end="3:01.878">ha</span>
+        <span begin="3:01.878" end="3:02.635">rus </span>
+        <span begin="3:02.712" end="3:03.094">bi</span>
+        <span begin="3:03.094" end="3:03.512">jak</span>
+        <span begin="3:03.512" end="3:03.960">sa</span>
+        <span begin="3:03.960" end="3:04.793">na</span>
+      </p>
+      <p begin="3:05.137" end="3:09.703" ttm:agent="v1" itunes:key="L23">
+        <span begin="3:05.137" end="3:05.599">Sa</span>
+        <span begin="3:05.599" end="3:06.280">at </span>
+        <span begin="3:06.428" end="3:06.828">ki</span>
+        <span begin="3:06.828" end="3:07.533">ta </span>
+        <span begin="3:07.655" end="3:08.055">yang </span>
+        <span begin="3:08.055" end="3:08.455">ter</span>
+        <span begin="3:08.455" end="3:08.938">lu</span>
+        <span begin="3:08.938" end="3:09.703">ka</span>
+      </p>
+      <p begin="3:10.159" end="3:14.601" ttm:agent="v1" itunes:key="L24">
+        <span begin="3:10.159" end="3:10.578">Le</span>
+        <span begin="3:10.578" end="3:11.203">lah </span>
+        <span begin="3:11.378" end="3:11.794">ha</span>
+        <span begin="3:11.794" end="3:12.529">rus </span>
+        <span begin="3:12.629" end="3:13.029">bi</span>
+        <span begin="3:13.029" end="3:13.429">jak</span>
+        <span begin="3:13.429" end="3:13.895">sa</span>
+        <span begin="3:13.895" end="3:14.601">na</span>
+      </p>
+      <p begin="3:15.023" end="3:20.052" ttm:agent="v1" itunes:key="L25">
+        <span begin="3:15.023" end="3:15.500">Sa</span>
+        <span begin="3:15.500" end="3:16.195">at </span>
+        <span begin="3:16.351" end="3:16.751">ki</span>
+        <span begin="3:16.751" end="3:17.458">ta </span>
+        <span begin="3:17.599" end="3:18.017">yang </span>
+        <span begin="3:18.017" end="3:18.417">ter</span>
+        <span begin="3:18.417" end="3:18.884">lu</span>
+        <span begin="3:18.884" end="3:20.052">ka</span>
+      </p>
     </div>
     <div begin="3:18.439" end="3:36.311" itunes:songPart="Chorus">
-      <p begin="3:18.439" end="3:25.911" itunes:key="L26" ttm:agent="v1"><span begin="3:18.439" end="3:18.893">Su</span><span begin="3:18.893" end="3:20.114">dah</span><span begin="3:20.114" end="3:21.346">lah,</span> <span begin="3:21.346" end="3:21.765">ka</span><span begin="3:21.765" end="3:22.146">li</span> <span begin="3:22.146" end="3:22.549">i</span><span begin="3:22.549" end="3:22.965">ni</span> <span begin="3:22.965" end="3:23.365">a</span><span begin="3:23.365" end="3:23.813">ku</span> <span begin="3:23.813" end="3:25.098">ka</span><span begin="3:25.098" end="3:25.911">lah</span></p>
-      <p begin="3:26.315" end="3:30.957" itunes:key="L27" ttm:agent="v1"><span begin="3:26.315" end="3:26.687">Ke</span><span begin="3:26.687" end="3:27.068">hi</span><span begin="3:27.068" end="3:27.503">la</span><span begin="3:27.503" end="3:27.919">ngan</span> <span begin="3:27.919" end="3:28.335">mah</span><span begin="3:28.335" end="3:28.802">ko</span><span begin="3:28.802" end="3:30.957">ta</span></p>
-      <p begin="3:31.252" end="3:36.311" itunes:key="L28" ttm:agent="v1"><span begin="3:31.252" end="3:31.634">Kau</span> <span begin="3:31.634" end="3:32.069">dan</span> <span begin="3:32.069" end="3:32.485">di</span><span begin="3:32.485" end="3:32.901">a</span> <span begin="3:32.901" end="3:33.317">pe</span><span begin="3:33.317" end="3:33.752">me</span><span begin="3:33.752" end="3:34.179">nang</span><span begin="3:34.179" end="3:36.311">nya</span></p>
+      <p begin="3:18.439" end="3:25.911" ttm:agent="v1" itunes:key="L26">
+        <span begin="3:18.439" end="3:18.893">Su</span>
+        <span begin="3:18.893" end="3:20.114">dah</span>
+        <span begin="3:20.114" end="3:21.346">lah, </span>
+        <span begin="3:21.346" end="3:21.765">ka</span>
+        <span begin="3:21.765" end="3:22.146">li </span>
+        <span begin="3:22.146" end="3:22.549">i</span>
+        <span begin="3:22.549" end="3:22.965">ni </span>
+        <span begin="3:22.965" end="3:23.365">a</span>
+        <span begin="3:23.365" end="3:23.813">ku </span>
+        <span begin="3:23.813" end="3:25.098">ka</span>
+        <span begin="3:25.098" end="3:25.911">lah</span>
+      </p>
+      <p begin="3:26.315" end="3:30.957" ttm:agent="v1" itunes:key="L27">
+        <span begin="3:26.315" end="3:26.687">Ke</span>
+        <span begin="3:26.687" end="3:27.068">hi</span>
+        <span begin="3:27.068" end="3:27.503">la</span>
+        <span begin="3:27.503" end="3:27.919">ngan </span>
+        <span begin="3:27.919" end="3:28.335">mah</span>
+        <span begin="3:28.335" end="3:28.802">ko</span>
+        <span begin="3:28.802" end="3:30.957">ta</span>
+      </p>
+      <p begin="3:31.252" end="3:36.311" ttm:agent="v1" itunes:key="L28">
+        <span begin="3:31.252" end="3:31.634">Kau </span>
+        <span begin="3:31.634" end="3:32.069">dan </span>
+        <span begin="3:32.069" end="3:32.485">di</span>
+        <span begin="3:32.485" end="3:32.901">a </span>
+        <span begin="3:32.901" end="3:33.317">pe</span>
+        <span begin="3:33.317" end="3:33.752">me</span>
+        <span begin="3:33.752" end="3:34.179">nang</span>
+        <span begin="3:34.179" end="3:36.311">nya</span>
+      </p>
     </div>
     <div begin="3:38.235" end="3:59.782" itunes:songPart="Chorus">
-      <p begin="3:38.235" end="3:45.763" itunes:key="L29" ttm:agent="v1"><span begin="3:38.235" end="3:38.707">Su</span><span begin="3:38.707" end="3:39.939">dah</span><span begin="3:39.939" end="3:41.201">lah,</span> <span begin="3:41.201" end="3:41.569">ka</span><span begin="3:41.569" end="3:41.969">li</span> <span begin="3:41.969" end="3:42.385">i</span><span begin="3:42.385" end="3:42.836">ni</span> <span begin="3:42.836" end="3:43.252">ku</span> <span begin="3:43.252" end="3:43.652">ber</span><span begin="3:43.652" end="3:44.969">se</span><span begin="3:44.969" end="3:45.763">rah</span></p>
-      <p begin="3:46.176" end="3:50.674" itunes:key="L30" ttm:agent="v1"><span begin="3:46.176" end="3:46.524">Ke</span><span begin="3:46.524" end="3:46.924">hi</span><span begin="3:46.924" end="3:47.374">la</span><span begin="3:47.374" end="3:47.774">ngan</span> <span begin="3:47.774" end="3:48.190">sega</span><span begin="3:48.190" end="3:48.673">la</span><span begin="3:48.673" end="3:50.674">nya</span></p>
-      <p begin="3:51.137" end="3:55.613" itunes:key="L31" ttm:agent="v1"><span begin="3:51.137" end="3:51.521">Kau</span> <span begin="3:51.521" end="3:51.921">dan</span> <span begin="3:51.921" end="3:52.305">di</span><span begin="3:52.305" end="3:52.740">a</span> <span begin="3:52.740" end="3:53.140">pe</span><span begin="3:53.140" end="3:53.607">me</span><span begin="3:53.607" end="3:54.007">nang</span><span begin="3:54.007" end="3:55.613">nya</span></p>
-      <p begin="3:55.613" end="3:59.782" itunes:key="L32" ttm:agent="v1"><span begin="3:55.613" end="3:57.341">Sepatutnya</span> <span begin="3:57.341" end="3:57.741">kau</span> <span begin="3:57.741" end="3:58.223">ra</span><span begin="3:58.223" end="3:58.607">ya</span><span begin="3:58.607" end="3:59.782">kan</span></p>
+      <p begin="3:38.235" end="3:45.763" ttm:agent="v1" itunes:key="L29">
+        <span begin="3:38.235" end="3:38.707">Su</span>
+        <span begin="3:38.707" end="3:39.939">dah</span>
+        <span begin="3:39.939" end="3:41.201">lah, </span>
+        <span begin="3:41.201" end="3:41.569">ka</span>
+        <span begin="3:41.569" end="3:41.969">li </span>
+        <span begin="3:41.969" end="3:42.385">i</span>
+        <span begin="3:42.385" end="3:42.836">ni </span>
+        <span begin="3:42.836" end="3:43.252">ku </span>
+        <span begin="3:43.252" end="3:43.652">ber</span>
+        <span begin="3:43.652" end="3:44.969">se</span>
+        <span begin="3:44.969" end="3:45.763">rah</span>
+      </p>
+      <p begin="3:46.176" end="3:50.674" ttm:agent="v1" itunes:key="L30">
+        <span begin="3:46.176" end="3:46.524">Ke</span>
+        <span begin="3:46.524" end="3:46.924">hi</span>
+        <span begin="3:46.924" end="3:47.374">la</span>
+        <span begin="3:47.374" end="3:47.774">ngan </span>
+        <span begin="3:47.774" end="3:48.190">sega</span>
+        <span begin="3:48.190" end="3:48.673">la</span>
+        <span begin="3:48.673" end="3:50.674">nya</span>
+      </p>
+      <p begin="3:51.137" end="3:55.613" ttm:agent="v1" itunes:key="L31">
+        <span begin="3:51.137" end="3:51.521">Kau </span>
+        <span begin="3:51.521" end="3:51.921">dan </span>
+        <span begin="3:51.921" end="3:52.305">di</span>
+        <span begin="3:52.305" end="3:52.740">a </span>
+        <span begin="3:52.740" end="3:53.140">pe</span>
+        <span begin="3:53.140" end="3:53.607">me</span>
+        <span begin="3:53.607" end="3:54.007">nang</span>
+        <span begin="3:54.007" end="3:55.613">nya</span>
+      </p>
+      <p begin="3:55.613" end="3:59.782" ttm:agent="v1" itunes:key="L32">
+        <span begin="3:55.613" end="3:57.341">Sepatutnya </span>
+        <span begin="3:57.341" end="3:57.741">kau </span>
+        <span begin="3:57.741" end="3:58.223">ra</span>
+        <span begin="3:58.223" end="3:58.607">ya</span>
+        <span begin="3:58.607" end="3:59.782">kan</span>
+      </p>
     </div>
   </body>
 </tt>
