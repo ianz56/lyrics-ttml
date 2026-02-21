@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<tt:tt xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word" xml:lang="ko">
+<?xml version="1.0" encoding="utf-8"?>
+<tt:tt itunes:timing="Word" xml:lang="ko" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
   <tt:head>
     <tt:metadata>
       <ttm:agent type="person" xml:id="v1">
@@ -73,76 +73,424 @@
   </tt:head>
   <tt:body dur="3:27.740">
     <tt:div begin="12.003" end="34.006">
-      <tt:p begin="12.003" end="14.548" itunes:key="L1" ttm:agent="v1" x-roman="cheotnun oneun ireon ohue"><tt:span begin="12.003" end="12.648" x-roman="cheotnun">첫눈</tt:span> <tt:span begin="12.648" end="13.147" x-roman="oneun">오는</tt:span> <tt:span begin="13.147" end="13.544" x-roman="ireon">이런</tt:span> <tt:span begin="13.544" end="14.548" x-roman="ohue">오후에</tt:span></tt:p>
-      <tt:p begin="14.548" end="22.767" itunes:key="L2" ttm:agent="v1" x-roman="neoege jeonhwareul geol su man itdamyeon gippeul ten de"><tt:span begin="14.548" end="15.684" x-roman="neoege">너에게</tt:span> <tt:span begin="15.684" end="16.449" x-roman="jeonhwareul">전화를</tt:span> <tt:span begin="16.449" end="16.748" x-roman="geol">걸</tt:span> <tt:span begin="16.748" end="17.242" x-roman="su">수</tt:span><tt:span begin="17.474" end="18.268" x-roman="man">만</tt:span> <tt:span begin="18.268" end="19.002" x-roman="itdamyeon">있다면</tt:span> <tt:span begin="19.271" end="20.071" x-roman="gippeul">기쁠</tt:span> <tt:span begin="20.071" end="20.441" x-roman="ten">텐</tt:span><tt:span begin="20.441" end="22.767" x-roman="de">데</tt:span></tt:p>
-      <tt:p begin="23.625" end="26.122" itunes:key="L3" ttm:agent="v1" x-roman="beolsseo ilnyeoni jinatneunde"><tt:span begin="23.625" end="24.193" x-roman="beolsseo">벌써</tt:span> <tt:span begin="24.193" end="24.923" x-roman="ilnyeoni">일년이</tt:span> <tt:span begin="24.923" end="26.122" x-roman="jinatneunde">지났는데</tt:span></tt:p>
-      <tt:p begin="26.147" end="29.542" itunes:key="L4" ttm:agent="v1" x-roman="nan ajik miryeon gadeukhaeseo"><tt:span begin="26.147" end="26.545" x-roman="nan">난</tt:span> <tt:span begin="26.545" end="27.076" x-roman="ajik">아직</tt:span> <tt:span begin="27.243" end="28.046" x-roman="miryeon">미련</tt:span> <tt:span begin="28.046" end="29.542" x-roman="gadeukhaeseo">가득해서</tt:span></tt:p>
-      <tt:p begin="29.682" end="34.006" itunes:key="L5" ttm:agent="v1" x-roman="sseulsseulhae eoneusae honjat mal"><tt:span begin="29.682" end="30.589" x-roman="sseulsseulhae">쓸쓸해</tt:span> <tt:span begin="30.730" end="31.455" x-roman="eoneusae">어느새</tt:span> <tt:span begin="31.455" end="31.980" x-roman="honjat">혼잣</tt:span><tt:span begin="31.980" end="34.006" x-roman="mal">말</tt:span></tt:p>
+      <tt:p begin="12.003" end="14.548" ttm:agent="v1" itunes:key="L1" x-roman="cheotnun oneun ireon ohue">
+        <tt:span begin="12.003" end="12.648" x-roman="cheotnun">첫눈 </tt:span>
+        <tt:span begin="12.648" end="13.147" x-roman="oneun">오는 </tt:span>
+        <tt:span begin="13.147" end="13.544" x-roman="ireon">이런 </tt:span>
+        <tt:span begin="13.544" end="14.548" x-roman="ohue">오후에</tt:span>
+      </tt:p>
+      <tt:p begin="14.548" end="22.767" ttm:agent="v1" itunes:key="L2" x-roman="neoege jeonhwareul geol su man itdamyeon gippeul ten de">
+        <tt:span begin="14.548" end="15.684" x-roman="neoege">너에게 </tt:span>
+        <tt:span begin="15.684" end="16.449" x-roman="jeonhwareul">전화를 </tt:span>
+        <tt:span begin="16.449" end="16.748" x-roman="geol">걸 </tt:span>
+        <tt:span begin="16.748" end="17.242" x-roman="su">수</tt:span>
+        <tt:span begin="17.474" end="18.268" x-roman="man">만 </tt:span>
+        <tt:span begin="18.268" end="19.002" x-roman="itdamyeon">있다면 </tt:span>
+        <tt:span begin="19.271" end="20.071" x-roman="gippeul">기쁠 </tt:span>
+        <tt:span begin="20.071" end="20.441" x-roman="ten">텐</tt:span>
+        <tt:span begin="20.441" end="22.767" x-roman="de">데</tt:span>
+      </tt:p>
+      <tt:p begin="23.625" end="26.122" ttm:agent="v1" itunes:key="L3" x-roman="beolsseo ilnyeoni jinatneunde">
+        <tt:span begin="23.625" end="24.193" x-roman="beolsseo">벌써 </tt:span>
+        <tt:span begin="24.193" end="24.923" x-roman="ilnyeoni">일년이 </tt:span>
+        <tt:span begin="24.923" end="26.122" x-roman="jinatneunde">지났는데</tt:span>
+      </tt:p>
+      <tt:p begin="26.147" end="29.542" ttm:agent="v1" itunes:key="L4" x-roman="nan ajik miryeon gadeukhaeseo">
+        <tt:span begin="26.147" end="26.545" x-roman="nan">난 </tt:span>
+        <tt:span begin="26.545" end="27.076" x-roman="ajik">아직 </tt:span>
+        <tt:span begin="27.243" end="28.046" x-roman="miryeon">미련 </tt:span>
+        <tt:span begin="28.046" end="29.542" x-roman="gadeukhaeseo">가득해서</tt:span>
+      </tt:p>
+      <tt:p begin="29.682" end="34.006" ttm:agent="v1" itunes:key="L5" x-roman="sseulsseulhae eoneusae honjat mal">
+        <tt:span begin="29.682" end="30.589" x-roman="sseulsseulhae">쓸쓸해 </tt:span>
+        <tt:span begin="30.730" end="31.455" x-roman="eoneusae">어느새 </tt:span>
+        <tt:span begin="31.455" end="31.980" x-roman="honjat">혼잣</tt:span>
+        <tt:span begin="31.980" end="34.006" x-roman="mal">말</tt:span>
+      </tt:p>
     </tt:div>
     <tt:div begin="34.006" end="45.242">
-      <tt:p begin="34.006" end="38.062" itunes:key="L6" ttm:agent="v1" x-roman="1nyeon jeoneuro gal su itda myeon"><tt:span begin="35.489" end="35.686" x-roman="1nyeon">1년</tt:span> <tt:span begin="35.686" end="36.411" x-roman="jeoneuro">전으로</tt:span> <tt:span begin="36.411" end="36.822" x-roman="gal">갈</tt:span> <tt:span begin="36.822" end="37.045" x-roman="su">수</tt:span> <tt:span begin="37.045" end="37.356" x-roman="itda">있다</tt:span><tt:span begin="37.356" end="38.062" x-roman="myeon">면</tt:span> <tt:span ttm:role="x-bg"><tt:span begin="34.006" end="34.286" x-roman="(sigyereul">(시계를</tt:span> <tt:span begin="34.286" end="35.134" x-roman="doedol">되돌</tt:span><tt:span begin="35.134" end="36.649" x-roman="ryeo)">려)</tt:span></tt:span></tt:p>
-      <tt:p begin="37.002" end="40.989" itunes:key="L7" ttm:agent="v1" x-roman="jigeum urin dalrajyeosseul kka"><tt:span begin="38.350" end="38.590" x-roman="jigeum">지금</tt:span> <tt:span begin="38.590" end="39.174" x-roman="urin">우린</tt:span> <tt:span begin="39.382" end="40.304" x-roman="dalrajyeosseul">달라졌을</tt:span><tt:span begin="40.304" end="40.989" x-roman="kka">까</tt:span> <tt:span ttm:role="x-bg"><tt:span begin="37.002" end="37.640" x-roman="(maeumeul">(마음을</tt:span> <tt:span begin="37.640" end="38.008" x-roman="doedol">되돌</tt:span><tt:span begin="38.008" end="39.547" x-roman="ryeo)">려)</tt:span></tt:span></tt:p>
-      <tt:p begin="40.447" end="45.242" itunes:key="L8" ttm:agent="v1" x-roman="Yeah babo gateun soriji geuraedo manyak"><tt:span begin="40.447" end="40.591">Yeah</tt:span> <tt:span begin="40.591" end="40.986" x-roman="babo">바보</tt:span> <tt:span begin="40.986" end="41.500" x-roman="gateun">같은</tt:span> <tt:span begin="41.500" end="42.708" x-roman="soriji">소리지</tt:span> <tt:span begin="43.019" end="43.456" x-roman="geuraedo">그래도</tt:span> <tt:span begin="43.456" end="45.242" x-roman="manyak">만약</tt:span></tt:p>
+      <tt:p begin="34.006" end="38.062" ttm:agent="v1" itunes:key="L6" x-roman="1nyeon jeoneuro gal su itda myeon">
+        <tt:span begin="35.489" end="35.686" x-roman="1nyeon">1년 </tt:span>
+        <tt:span begin="35.686" end="36.411" x-roman="jeoneuro">전으로 </tt:span>
+        <tt:span begin="36.411" end="36.822" x-roman="gal">갈 </tt:span>
+        <tt:span begin="36.822" end="37.045" x-roman="su">수 </tt:span>
+        <tt:span begin="37.045" end="37.356" x-roman="itda">있다</tt:span>
+        <tt:span begin="37.356" end="38.062" x-roman="myeon">면 </tt:span>
+        <tt:span ttm:role="x-bg">
+          <tt:span begin="34.006" end="34.286" x-roman="(sigyereul">(시계를 </tt:span>
+          <tt:span begin="34.286" end="35.134" x-roman="doedol">되돌</tt:span>
+          <tt:span begin="35.134" end="36.649" x-roman="ryeo)">려)</tt:span>
+        </tt:span>
+      </tt:p>
+      <tt:p begin="37.002" end="40.989" ttm:agent="v1" itunes:key="L7" x-roman="jigeum urin dalrajyeosseul kka">
+        <tt:span begin="38.350" end="38.590" x-roman="jigeum">지금 </tt:span>
+        <tt:span begin="38.590" end="39.174" x-roman="urin">우린 </tt:span>
+        <tt:span begin="39.382" end="40.304" x-roman="dalrajyeosseul">달라졌을</tt:span>
+        <tt:span begin="40.304" end="40.989" x-roman="kka">까 </tt:span>
+        <tt:span ttm:role="x-bg">
+          <tt:span begin="37.002" end="37.640" x-roman="(maeumeul">(마음을 </tt:span>
+          <tt:span begin="37.640" end="38.008" x-roman="doedol">되돌</tt:span>
+          <tt:span begin="38.008" end="39.547" x-roman="ryeo)">려)</tt:span>
+        </tt:span>
+      </tt:p>
+      <tt:p begin="40.447" end="45.242" ttm:agent="v1" itunes:key="L8" x-roman="Yeah babo gateun soriji geuraedo manyak">
+        <tt:span begin="40.447" end="40.591">Yeah </tt:span>
+        <tt:span begin="40.591" end="40.986" x-roman="babo">바보 </tt:span>
+        <tt:span begin="40.986" end="41.500" x-roman="gateun">같은 </tt:span>
+        <tt:span begin="41.500" end="42.708" x-roman="soriji">소리지 </tt:span>
+        <tt:span begin="43.019" end="43.456" x-roman="geuraedo">그래도 </tt:span>
+        <tt:span begin="43.456" end="45.242" x-roman="manyak">만약</tt:span>
+      </tt:p>
     </tt:div>
     <tt:div begin="45.563" end="1:11.283">
-      <tt:p begin="45.563" end="48.486" itunes:key="L9" ttm:agent="v1" x-roman="neoreul mannamyeon nunmul cha olra"><tt:span begin="45.563" end="46.025" x-roman="neoreul">너를</tt:span> <tt:span begin="46.025" end="46.598" x-roman="mannamyeon">만나면</tt:span> <tt:span begin="46.721" end="47.289" x-roman="nunmul">눈물</tt:span> <tt:span begin="47.289" end="47.632" x-roman="cha">차</tt:span> <tt:span begin="47.632" end="48.486" x-roman="olra">올라</tt:span></tt:p>
-      <tt:p begin="48.506" end="51.287" itunes:key="L10" ttm:agent="v1" x-roman="babo gateun nan amu mal mothae"><tt:span begin="48.506" end="48.908" x-roman="babo">바보</tt:span> <tt:span begin="48.908" end="49.273" x-roman="gateun">같은</tt:span> <tt:span begin="49.273" end="49.577" x-roman="nan">난</tt:span> <tt:span begin="49.639" end="50.148" x-roman="amu">아무</tt:span> <tt:span begin="50.148" end="50.508" x-roman="mal">말</tt:span> <tt:span begin="50.508" end="51.287" x-roman="mothae">못해</tt:span></tt:p>
-      <tt:p begin="51.407" end="54.603" itunes:key="L11" ttm:agent="v1" x-roman="malhae jwo meri meri keuriseuma seu"><tt:span begin="51.407" end="52.148" x-roman="malhae">말해</tt:span> <tt:span begin="52.148" end="52.556" x-roman="jwo">줘</tt:span> <tt:span begin="52.556" end="53.082" x-roman="meri">메리</tt:span> <tt:span begin="53.082" end="53.623" x-roman="meri">메리</tt:span> <tt:span begin="53.623" end="54.113" x-roman="keuriseuma">크리스마</tt:span><tt:span begin="54.113" end="54.603" x-roman="seu">스</tt:span></tt:p>
-      <tt:p begin="54.703" end="57.780" itunes:key="L12" ttm:agent="v1" x-roman="annyeong jal jinaeneun geoji"><tt:span begin="54.703" end="55.420" x-roman="annyeong">안녕</tt:span> <tt:span begin="55.420" end="55.719" x-roman="jal">잘</tt:span> <tt:span begin="55.719" end="56.553" x-roman="jinaeneun">지내는</tt:span> <tt:span begin="56.553" end="57.780" x-roman="geoji">거지</tt:span></tt:p>
-      <tt:p begin="57.229" end="1:00.229" itunes:key="L13" ttm:agent="v1" x-roman="nuni naeri myeon meongdeun gaseum i"><tt:span begin="57.229" end="57.655" x-roman="nuni">눈이</tt:span> <tt:span begin="57.655" end="58.021" x-roman="naeri">내리</tt:span><tt:span begin="58.021" end="58.348" x-roman="myeon">면</tt:span> <tt:span begin="58.348" end="58.913" x-roman="meongdeun">멍든</tt:span> <tt:span begin="58.913" end="59.418" x-roman="gaseum">가슴</tt:span><tt:span begin="59.418" end="1:00.229" x-roman="i">이</tt:span></tt:p>
-      <tt:p begin="1:00.104" end="1:03.380" itunes:key="L14" ttm:agent="v1" x-roman="modu hayake da deopyeojige doelkka"><tt:span begin="1:00.104" end="1:00.506" x-roman="modu">모두</tt:span> <tt:span begin="1:00.506" end="1:01.045" x-roman="hayake">하얗게</tt:span> <tt:span begin="1:01.045" end="1:01.208" x-roman="da">다</tt:span> <tt:span begin="1:01.208" end="1:02.307" x-roman="deopyeojige">덮여지게</tt:span> <tt:span begin="1:02.307" end="1:03.380" x-roman="doelkka">될까</tt:span></tt:p>
-      <tt:p begin="1:03.049" end="1:06.481" itunes:key="L15" ttm:agent="v1" x-roman="mianhae jalhae juji mothae"><tt:span begin="1:03.049" end="1:04.080" x-roman="mianhae">미안해</tt:span> <tt:span begin="1:04.080" end="1:04.677" x-roman="jalhae">잘해</tt:span> <tt:span begin="1:04.677" end="1:05.211" x-roman="juji">주지</tt:span> <tt:span begin="1:05.211" end="1:06.481" x-roman="mothae">못해</tt:span></tt:p>
-      <tt:p begin="1:05.868" end="1:11.283" itunes:key="L16" ttm:agent="v1" x-roman="huhoeman gadeuk gadeuk haetdeon geu keuriseuma seu"><tt:span begin="1:05.868" end="1:06.980" x-roman="huhoeman">후회만</tt:span> <tt:span begin="1:06.980" end="1:07.513" x-roman="gadeuk">가득</tt:span> <tt:span begin="1:07.513" end="1:08.111" x-roman="gadeuk">가득</tt:span> <tt:span begin="1:08.111" end="1:09.046" x-roman="haetdeon">했던</tt:span> <tt:span begin="1:09.540" end="1:09.744" x-roman="geu">그</tt:span> <tt:span begin="1:09.744" end="1:10.811" x-roman="keuriseuma">크리스마</tt:span><tt:span begin="1:10.811" end="1:11.283" x-roman="seu">스</tt:span></tt:p>
+      <tt:p begin="45.563" end="48.486" ttm:agent="v1" itunes:key="L9" x-roman="neoreul mannamyeon nunmul cha olra">
+        <tt:span begin="45.563" end="46.025" x-roman="neoreul">너를 </tt:span>
+        <tt:span begin="46.025" end="46.598" x-roman="mannamyeon">만나면 </tt:span>
+        <tt:span begin="46.721" end="47.289" x-roman="nunmul">눈물 </tt:span>
+        <tt:span begin="47.289" end="47.632" x-roman="cha">차 </tt:span>
+        <tt:span begin="47.632" end="48.486" x-roman="olra">올라</tt:span>
+      </tt:p>
+      <tt:p begin="48.506" end="51.287" ttm:agent="v1" itunes:key="L10" x-roman="babo gateun nan amu mal mothae">
+        <tt:span begin="48.506" end="48.908" x-roman="babo">바보 </tt:span>
+        <tt:span begin="48.908" end="49.273" x-roman="gateun">같은 </tt:span>
+        <tt:span begin="49.273" end="49.577" x-roman="nan">난 </tt:span>
+        <tt:span begin="49.639" end="50.148" x-roman="amu">아무 </tt:span>
+        <tt:span begin="50.148" end="50.508" x-roman="mal">말 </tt:span>
+        <tt:span begin="50.508" end="51.287" x-roman="mothae">못해</tt:span>
+      </tt:p>
+      <tt:p begin="51.407" end="54.603" ttm:agent="v1" itunes:key="L11" x-roman="malhae jwo meri meri keuriseuma seu">
+        <tt:span begin="51.407" end="52.148" x-roman="malhae">말해 </tt:span>
+        <tt:span begin="52.148" end="52.556" x-roman="jwo">줘 </tt:span>
+        <tt:span begin="52.556" end="53.082" x-roman="meri">메리 </tt:span>
+        <tt:span begin="53.082" end="53.623" x-roman="meri">메리 </tt:span>
+        <tt:span begin="53.623" end="54.113" x-roman="keuriseuma">크리스마</tt:span>
+        <tt:span begin="54.113" end="54.603" x-roman="seu">스</tt:span>
+      </tt:p>
+      <tt:p begin="54.703" end="57.780" ttm:agent="v1" itunes:key="L12" x-roman="annyeong jal jinaeneun geoji">
+        <tt:span begin="54.703" end="55.420" x-roman="annyeong">안녕 </tt:span>
+        <tt:span begin="55.420" end="55.719" x-roman="jal">잘 </tt:span>
+        <tt:span begin="55.719" end="56.553" x-roman="jinaeneun">지내는 </tt:span>
+        <tt:span begin="56.553" end="57.780" x-roman="geoji">거지</tt:span>
+      </tt:p>
+      <tt:p begin="57.229" end="1:00.229" ttm:agent="v1" itunes:key="L13" x-roman="nuni naeri myeon meongdeun gaseum i">
+        <tt:span begin="57.229" end="57.655" x-roman="nuni">눈이 </tt:span>
+        <tt:span begin="57.655" end="58.021" x-roman="naeri">내리</tt:span>
+        <tt:span begin="58.021" end="58.348" x-roman="myeon">면 </tt:span>
+        <tt:span begin="58.348" end="58.913" x-roman="meongdeun">멍든 </tt:span>
+        <tt:span begin="58.913" end="59.418" x-roman="gaseum">가슴</tt:span>
+        <tt:span begin="59.418" end="1:00.229" x-roman="i">이</tt:span>
+      </tt:p>
+      <tt:p begin="1:00.104" end="1:03.380" ttm:agent="v1" itunes:key="L14" x-roman="modu hayake da deopyeojige doelkka">
+        <tt:span begin="1:00.104" end="1:00.506" x-roman="modu">모두 </tt:span>
+        <tt:span begin="1:00.506" end="1:01.045" x-roman="hayake">하얗게 </tt:span>
+        <tt:span begin="1:01.045" end="1:01.208" x-roman="da">다 </tt:span>
+        <tt:span begin="1:01.208" end="1:02.307" x-roman="deopyeojige">덮여지게 </tt:span>
+        <tt:span begin="1:02.307" end="1:03.380" x-roman="doelkka">될까</tt:span>
+      </tt:p>
+      <tt:p begin="1:03.049" end="1:06.481" ttm:agent="v1" itunes:key="L15" x-roman="mianhae jalhae juji mothae">
+        <tt:span begin="1:03.049" end="1:04.080" x-roman="mianhae">미안해 </tt:span>
+        <tt:span begin="1:04.080" end="1:04.677" x-roman="jalhae">잘해 </tt:span>
+        <tt:span begin="1:04.677" end="1:05.211" x-roman="juji">주지 </tt:span>
+        <tt:span begin="1:05.211" end="1:06.481" x-roman="mothae">못해</tt:span>
+      </tt:p>
+      <tt:p begin="1:05.868" end="1:11.283" ttm:agent="v1" itunes:key="L16" x-roman="huhoeman gadeuk gadeuk haetdeon geu keuriseuma seu">
+        <tt:span begin="1:05.868" end="1:06.980" x-roman="huhoeman">후회만 </tt:span>
+        <tt:span begin="1:06.980" end="1:07.513" x-roman="gadeuk">가득 </tt:span>
+        <tt:span begin="1:07.513" end="1:08.111" x-roman="gadeuk">가득 </tt:span>
+        <tt:span begin="1:08.111" end="1:09.046" x-roman="haetdeon">했던 </tt:span>
+        <tt:span begin="1:09.540" end="1:09.744" x-roman="geu">그 </tt:span>
+        <tt:span begin="1:09.744" end="1:10.811" x-roman="keuriseuma">크리스마</tt:span>
+        <tt:span begin="1:10.811" end="1:11.283" x-roman="seu">스</tt:span>
+      </tt:p>
     </tt:div>
     <tt:div begin="1:15.722" end="1:38.463">
-      <tt:p begin="1:15.722" end="1:18.322" itunes:key="L17" ttm:agent="v1" x-roman="bulbit gadeukhan geori geori"><tt:span begin="1:15.722" end="1:16.247" x-roman="bulbit">불빛</tt:span> <tt:span begin="1:16.247" end="1:16.950" x-roman="gadeukhan">가득한</tt:span> <tt:span begin="1:16.950" end="1:17.478" x-roman="geori">거리</tt:span><tt:span begin="1:17.478" end="1:18.322" x-roman="geori">거리</tt:span></tt:p>
-      <tt:p begin="1:18.569" end="1:25.569" itunes:key="L18" ttm:agent="v1" x-roman="honja georeosseo dadeul haengbokhae boyeo"><tt:span begin="1:18.569" end="1:19.257" x-roman="honja">혼자</tt:span> <tt:span begin="1:19.257" end="1:21.263" x-roman="georeosseo">걸었어</tt:span> <tt:span begin="1:21.796" end="1:22.588" x-roman="dadeul">다들</tt:span> <tt:span begin="1:22.761" end="1:23.625" x-roman="haengbokhae">행복해</tt:span> <tt:span begin="1:23.625" end="1:25.569" x-roman="boyeo">보여</tt:span></tt:p>
-      <tt:p begin="1:27.249" end="1:29.688" itunes:key="L19" ttm:agent="v1" x-roman="neoneun eonjena gonggicheoreom"><tt:span begin="1:27.249" end="1:27.807" x-roman="neoneun">너는</tt:span> <tt:span begin="1:27.807" end="1:28.474" x-roman="eonjena">언제나</tt:span> <tt:span begin="1:28.474" end="1:29.688" x-roman="gonggicheoreom">공기처럼</tt:span></tt:p>
-      <tt:p begin="1:29.765" end="1:35.466" itunes:key="L20" ttm:agent="v1" x-roman="isseo jul georan chakgage meongcheonghi bonae"><tt:span begin="1:29.765" end="1:30.451" x-roman="isseo">있어</tt:span> <tt:span begin="1:30.451" end="1:30.792" x-roman="jul">줄</tt:span> <tt:span begin="1:30.792" end="1:31.517" x-roman="georan">거란</tt:span> <tt:span begin="1:31.517" end="1:32.787" x-roman="chakgage">착각에</tt:span> <tt:span begin="1:33.352" end="1:34.211" x-roman="meongcheonghi">멍청히</tt:span> <tt:span begin="1:34.507" end="1:35.466" x-roman="bonae">보내</tt:span></tt:p>
-      <tt:p begin="1:36.263" end="1:38.463" itunes:key="L21" ttm:agent="v1" x-roman="naega neomu mianhae"><tt:span begin="1:36.263" end="1:36.777" x-roman="naega">내가</tt:span> <tt:span begin="1:37.343" end="1:37.615" x-roman="neomu">너무</tt:span> <tt:span begin="1:37.615" end="1:38.463" x-roman="mianhae">미안해</tt:span></tt:p>
+      <tt:p begin="1:15.722" end="1:18.322" ttm:agent="v1" itunes:key="L17" x-roman="bulbit gadeukhan geori geori">
+        <tt:span begin="1:15.722" end="1:16.247" x-roman="bulbit">불빛 </tt:span>
+        <tt:span begin="1:16.247" end="1:16.950" x-roman="gadeukhan">가득한 </tt:span>
+        <tt:span begin="1:16.950" end="1:17.478" x-roman="geori">거리</tt:span>
+        <tt:span begin="1:17.478" end="1:18.322" x-roman="geori">거리</tt:span>
+      </tt:p>
+      <tt:p begin="1:18.569" end="1:25.569" ttm:agent="v1" itunes:key="L18" x-roman="honja georeosseo dadeul haengbokhae boyeo">
+        <tt:span begin="1:18.569" end="1:19.257" x-roman="honja">혼자 </tt:span>
+        <tt:span begin="1:19.257" end="1:21.263" x-roman="georeosseo">걸었어 </tt:span>
+        <tt:span begin="1:21.796" end="1:22.588" x-roman="dadeul">다들 </tt:span>
+        <tt:span begin="1:22.761" end="1:23.625" x-roman="haengbokhae">행복해 </tt:span>
+        <tt:span begin="1:23.625" end="1:25.569" x-roman="boyeo">보여</tt:span>
+      </tt:p>
+      <tt:p begin="1:27.249" end="1:29.688" ttm:agent="v1" itunes:key="L19" x-roman="neoneun eonjena gonggicheoreom">
+        <tt:span begin="1:27.249" end="1:27.807" x-roman="neoneun">너는 </tt:span>
+        <tt:span begin="1:27.807" end="1:28.474" x-roman="eonjena">언제나 </tt:span>
+        <tt:span begin="1:28.474" end="1:29.688" x-roman="gonggicheoreom">공기처럼</tt:span>
+      </tt:p>
+      <tt:p begin="1:29.765" end="1:35.466" ttm:agent="v1" itunes:key="L20" x-roman="isseo jul georan chakgage meongcheonghi bonae">
+        <tt:span begin="1:29.765" end="1:30.451" x-roman="isseo">있어 </tt:span>
+        <tt:span begin="1:30.451" end="1:30.792" x-roman="jul">줄 </tt:span>
+        <tt:span begin="1:30.792" end="1:31.517" x-roman="georan">거란 </tt:span>
+        <tt:span begin="1:31.517" end="1:32.787" x-roman="chakgage">착각에 </tt:span>
+        <tt:span begin="1:33.352" end="1:34.211" x-roman="meongcheonghi">멍청히 </tt:span>
+        <tt:span begin="1:34.507" end="1:35.466" x-roman="bonae">보내</tt:span>
+      </tt:p>
+      <tt:p begin="1:36.263" end="1:38.463" ttm:agent="v1" itunes:key="L21" x-roman="naega neomu mianhae">
+        <tt:span begin="1:36.263" end="1:36.777" x-roman="naega">내가 </tt:span>
+        <tt:span begin="1:37.343" end="1:37.615" x-roman="neomu">너무 </tt:span>
+        <tt:span begin="1:37.615" end="1:38.463" x-roman="mianhae">미안해</tt:span>
+      </tt:p>
     </tt:div>
     <tt:div begin="1:37.803" end="1:49.043">
-      <tt:p begin="1:37.803" end="1:41.746" itunes:key="L22" ttm:agent="v1" x-roman="jinago namyeon neomu sojung hae"><tt:span begin="1:39.093" end="1:39.531" x-roman="jinago">지나고</tt:span> <tt:span begin="1:39.531" end="1:40.053" x-roman="namyeon">나면</tt:span> <tt:span begin="1:40.053" end="1:40.597" x-roman="neomu">너무</tt:span> <tt:span begin="1:40.597" end="1:40.917" x-roman="sojung">소중</tt:span><tt:span begin="1:40.917" end="1:41.746" x-roman="hae">해</tt:span> <tt:span ttm:role="x-bg"><tt:span begin="1:37.803" end="1:38.096" x-roman="(neomu">(너무</tt:span> <tt:span begin="1:38.096" end="1:38.459" x-roman="heunhan">흔한</tt:span> <tt:span begin="1:38.459" end="1:40.295" x-roman="yaegi)">얘기)</tt:span></tt:span></tt:p>
-      <tt:p begin="1:40.589" end="1:44.542" itunes:key="L23" ttm:agent="v1" x-roman="wae geuttaeneun moreuneun geol kka"><tt:span begin="1:41.918" end="1:42.049" x-roman="wae">왜</tt:span> <tt:span begin="1:42.049" end="1:42.754" x-roman="geuttaeneun">그때는</tt:span> <tt:span begin="1:43.011" end="1:43.685" x-roman="moreuneun">모르는</tt:span> <tt:span begin="1:43.685" end="1:43.864" x-roman="geol">걸</tt:span><tt:span begin="1:43.864" end="1:44.542" x-roman="kka">까</tt:span> <tt:span ttm:role="x-bg"><tt:span begin="1:40.589" end="1:40.978" x-roman="(hangsang">(항상</tt:span> <tt:span begin="1:40.978" end="1:41.538" x-roman="jinachi">지나치</tt:span><tt:span begin="1:41.538" end="1:42.909" x-roman="ji)">지)</tt:span></tt:span></tt:p>
-      <tt:p begin="1:44.209" end="1:49.043" itunes:key="L24" ttm:agent="v1" x-roman="jigeumeun dareul geoya malhae jugo pa"><tt:span begin="1:44.209" end="1:44.972" x-roman="jigeumeun">지금은</tt:span> <tt:span begin="1:44.972" end="1:45.570" x-roman="dareul">다를</tt:span> <tt:span begin="1:45.570" end="1:46.369" x-roman="geoya">거야</tt:span> <tt:span begin="1:46.609" end="1:46.972" x-roman="malhae">말해</tt:span> <tt:span begin="1:46.972" end="1:47.342" x-roman="jugo">주고</tt:span><tt:span begin="1:47.342" end="1:49.043" x-roman="pa">파</tt:span></tt:p>
+      <tt:p begin="1:37.803" end="1:41.746" ttm:agent="v1" itunes:key="L22" x-roman="jinago namyeon neomu sojung hae">
+        <tt:span begin="1:39.093" end="1:39.531" x-roman="jinago">지나고 </tt:span>
+        <tt:span begin="1:39.531" end="1:40.053" x-roman="namyeon">나면 </tt:span>
+        <tt:span begin="1:40.053" end="1:40.597" x-roman="neomu">너무 </tt:span>
+        <tt:span begin="1:40.597" end="1:40.917" x-roman="sojung">소중</tt:span>
+        <tt:span begin="1:40.917" end="1:41.746" x-roman="hae">해 </tt:span>
+        <tt:span ttm:role="x-bg">
+          <tt:span begin="1:37.803" end="1:38.096" x-roman="(neomu">(너무 </tt:span>
+          <tt:span begin="1:38.096" end="1:38.459" x-roman="heunhan">흔한 </tt:span>
+          <tt:span begin="1:38.459" end="1:40.295" x-roman="yaegi)">얘기)</tt:span>
+        </tt:span>
+      </tt:p>
+      <tt:p begin="1:40.589" end="1:44.542" ttm:agent="v1" itunes:key="L23" x-roman="wae geuttaeneun moreuneun geol kka">
+        <tt:span begin="1:41.918" end="1:42.049" x-roman="wae">왜 </tt:span>
+        <tt:span begin="1:42.049" end="1:42.754" x-roman="geuttaeneun">그때는 </tt:span>
+        <tt:span begin="1:43.011" end="1:43.685" x-roman="moreuneun">모르는 </tt:span>
+        <tt:span begin="1:43.685" end="1:43.864" x-roman="geol">걸</tt:span>
+        <tt:span begin="1:43.864" end="1:44.542" x-roman="kka">까 </tt:span>
+        <tt:span ttm:role="x-bg">
+          <tt:span begin="1:40.589" end="1:40.978" x-roman="(hangsang">(항상 </tt:span>
+          <tt:span begin="1:40.978" end="1:41.538" x-roman="jinachi">지나치</tt:span>
+          <tt:span begin="1:41.538" end="1:42.909" x-roman="ji)">지)</tt:span>
+        </tt:span>
+      </tt:p>
+      <tt:p begin="1:44.209" end="1:49.043" ttm:agent="v1" itunes:key="L24" x-roman="jigeumeun dareul geoya malhae jugo pa">
+        <tt:span begin="1:44.209" end="1:44.972" x-roman="jigeumeun">지금은 </tt:span>
+        <tt:span begin="1:44.972" end="1:45.570" x-roman="dareul">다를 </tt:span>
+        <tt:span begin="1:45.570" end="1:46.369" x-roman="geoya">거야 </tt:span>
+        <tt:span begin="1:46.609" end="1:46.972" x-roman="malhae">말해 </tt:span>
+        <tt:span begin="1:46.972" end="1:47.342" x-roman="jugo">주고</tt:span>
+        <tt:span begin="1:47.342" end="1:49.043" x-roman="pa">파</tt:span>
+      </tt:p>
     </tt:div>
     <tt:div begin="1:49.304" end="2:14.903">
-      <tt:p begin="1:49.304" end="1:52.149" itunes:key="L25" ttm:agent="v1" x-roman="neoreul mannamyeon nunmul cha olra"><tt:span begin="1:49.304" end="1:49.663" x-roman="neoreul">너를</tt:span> <tt:span begin="1:49.663" end="1:50.399" x-roman="mannamyeon">만나면</tt:span> <tt:span begin="1:50.399" end="1:50.938" x-roman="nunmul">눈물</tt:span> <tt:span begin="1:50.938" end="1:51.268" x-roman="cha">차</tt:span> <tt:span begin="1:51.268" end="1:52.149" x-roman="olra">올라</tt:span></tt:p>
-      <tt:p begin="1:52.163" end="1:55.025" itunes:key="L26" ttm:agent="v1" x-roman="babo gateun nan amu mal mothae"><tt:span begin="1:52.163" end="1:52.520" x-roman="babo">바보</tt:span> <tt:span begin="1:52.520" end="1:52.854" x-roman="gateun">같은</tt:span> <tt:span begin="1:52.854" end="1:53.286" x-roman="nan">난</tt:span> <tt:span begin="1:53.286" end="1:53.790" x-roman="amu">아무</tt:span> <tt:span begin="1:53.790" end="1:54.123" x-roman="mal">말</tt:span> <tt:span begin="1:54.123" end="1:55.025" x-roman="mothae">못해</tt:span></tt:p>
-      <tt:p begin="1:55.025" end="1:58.286" itunes:key="L27" ttm:agent="v1" x-roman="malhae jwo meri meri keuriseuma seu"><tt:span begin="1:55.025" end="1:55.743" x-roman="malhae">말해</tt:span> <tt:span begin="1:55.743" end="1:56.183" x-roman="jwo">줘</tt:span> <tt:span begin="1:56.183" end="1:56.751" x-roman="meri">메리</tt:span> <tt:span begin="1:56.751" end="1:57.276" x-roman="meri">메리</tt:span> <tt:span begin="1:57.276" end="1:58.012" x-roman="keuriseuma">크리스마</tt:span><tt:span begin="1:58.012" end="1:58.286" x-roman="seu">스</tt:span></tt:p>
-      <tt:p begin="1:58.286" end="2:01.385" itunes:key="L28" ttm:agent="v1" x-roman="annyeong jal jinaeneun geoji"><tt:span begin="1:58.286" end="1:59.050" x-roman="annyeong">안녕</tt:span> <tt:span begin="1:59.050" end="1:59.348" x-roman="jal">잘</tt:span> <tt:span begin="1:59.348" end="2:00.244" x-roman="jinaeneun">지내는</tt:span> <tt:span begin="2:00.244" end="2:01.385" x-roman="geoji">거지</tt:span></tt:p>
-      <tt:p begin="2:00.861" end="2:03.728" itunes:key="L29" ttm:agent="v1" x-roman="nuni naeri myeon meongdeun gaseum i"><tt:span begin="2:00.861" end="2:01.271" x-roman="nuni">눈이</tt:span> <tt:span begin="2:01.271" end="2:01.601" x-roman="naeri">내리</tt:span><tt:span begin="2:01.601" end="2:01.943" x-roman="myeon">면</tt:span> <tt:span begin="2:01.943" end="2:02.508" x-roman="meongdeun">멍든</tt:span> <tt:span begin="2:02.508" end="2:03.009" x-roman="gaseum">가슴</tt:span><tt:span begin="2:03.009" end="2:03.728" x-roman="i">이</tt:span></tt:p>
-      <tt:p begin="2:03.728" end="2:07.005" itunes:key="L30" ttm:agent="v1" x-roman="modu hayake da deopyeojige doelkka"><tt:span begin="2:03.728" end="2:04.107" x-roman="modu">모두</tt:span> <tt:span begin="2:04.107" end="2:04.634" x-roman="hayake">하얗게</tt:span> <tt:span begin="2:04.634" end="2:04.906" x-roman="da">다</tt:span> <tt:span begin="2:04.906" end="2:05.941" x-roman="deopyeojige">덮여지게</tt:span> <tt:span begin="2:05.941" end="2:07.005" x-roman="doelkka">될까</tt:span></tt:p>
-      <tt:p begin="2:06.645" end="2:10.168" itunes:key="L31" ttm:agent="v1" x-roman="nunmurinji nun ttaemuninji"><tt:span begin="2:06.645" end="2:08.088" x-roman="nunmurinji">눈물인지</tt:span> <tt:span begin="2:08.088" end="2:08.285" x-roman="nun">눈</tt:span> <tt:span begin="2:08.285" end="2:10.168" x-roman="ttaemuninji">때문인지</tt:span></tt:p>
-      <tt:p begin="2:09.520" end="2:14.903" itunes:key="L32" ttm:agent="v1" x-roman="jeomjeom neo meolri meolri boideon geu keuriseuma seu"><tt:span begin="2:09.520" end="2:10.224" x-roman="jeomjeom">점점</tt:span> <tt:span begin="2:10.224" end="2:10.587" x-roman="neo">너</tt:span> <tt:span begin="2:10.587" end="2:11.195" x-roman="meolri">멀리</tt:span> <tt:span begin="2:11.195" end="2:11.685" x-roman="meolri">멀리</tt:span> <tt:span begin="2:11.685" end="2:12.759" x-roman="boideon">보이던</tt:span> <tt:span begin="2:13.157" end="2:13.360" x-roman="geu">그</tt:span> <tt:span begin="2:13.360" end="2:14.352" x-roman="keuriseuma">크리스마</tt:span><tt:span begin="2:14.352" end="2:14.903" x-roman="seu">스</tt:span></tt:p>
+      <tt:p begin="1:49.304" end="1:52.149" ttm:agent="v1" itunes:key="L25" x-roman="neoreul mannamyeon nunmul cha olra">
+        <tt:span begin="1:49.304" end="1:49.663" x-roman="neoreul">너를 </tt:span>
+        <tt:span begin="1:49.663" end="1:50.399" x-roman="mannamyeon">만나면 </tt:span>
+        <tt:span begin="1:50.399" end="1:50.938" x-roman="nunmul">눈물 </tt:span>
+        <tt:span begin="1:50.938" end="1:51.268" x-roman="cha">차 </tt:span>
+        <tt:span begin="1:51.268" end="1:52.149" x-roman="olra">올라</tt:span>
+      </tt:p>
+      <tt:p begin="1:52.163" end="1:55.025" ttm:agent="v1" itunes:key="L26" x-roman="babo gateun nan amu mal mothae">
+        <tt:span begin="1:52.163" end="1:52.520" x-roman="babo">바보 </tt:span>
+        <tt:span begin="1:52.520" end="1:52.854" x-roman="gateun">같은 </tt:span>
+        <tt:span begin="1:52.854" end="1:53.286" x-roman="nan">난 </tt:span>
+        <tt:span begin="1:53.286" end="1:53.790" x-roman="amu">아무 </tt:span>
+        <tt:span begin="1:53.790" end="1:54.123" x-roman="mal">말 </tt:span>
+        <tt:span begin="1:54.123" end="1:55.025" x-roman="mothae">못해</tt:span>
+      </tt:p>
+      <tt:p begin="1:55.025" end="1:58.286" ttm:agent="v1" itunes:key="L27" x-roman="malhae jwo meri meri keuriseuma seu">
+        <tt:span begin="1:55.025" end="1:55.743" x-roman="malhae">말해 </tt:span>
+        <tt:span begin="1:55.743" end="1:56.183" x-roman="jwo">줘 </tt:span>
+        <tt:span begin="1:56.183" end="1:56.751" x-roman="meri">메리 </tt:span>
+        <tt:span begin="1:56.751" end="1:57.276" x-roman="meri">메리 </tt:span>
+        <tt:span begin="1:57.276" end="1:58.012" x-roman="keuriseuma">크리스마</tt:span>
+        <tt:span begin="1:58.012" end="1:58.286" x-roman="seu">스</tt:span>
+      </tt:p>
+      <tt:p begin="1:58.286" end="2:01.385" ttm:agent="v1" itunes:key="L28" x-roman="annyeong jal jinaeneun geoji">
+        <tt:span begin="1:58.286" end="1:59.050" x-roman="annyeong">안녕 </tt:span>
+        <tt:span begin="1:59.050" end="1:59.348" x-roman="jal">잘 </tt:span>
+        <tt:span begin="1:59.348" end="2:00.244" x-roman="jinaeneun">지내는 </tt:span>
+        <tt:span begin="2:00.244" end="2:01.385" x-roman="geoji">거지</tt:span>
+      </tt:p>
+      <tt:p begin="2:00.861" end="2:03.728" ttm:agent="v1" itunes:key="L29" x-roman="nuni naeri myeon meongdeun gaseum i">
+        <tt:span begin="2:00.861" end="2:01.271" x-roman="nuni">눈이 </tt:span>
+        <tt:span begin="2:01.271" end="2:01.601" x-roman="naeri">내리</tt:span>
+        <tt:span begin="2:01.601" end="2:01.943" x-roman="myeon">면 </tt:span>
+        <tt:span begin="2:01.943" end="2:02.508" x-roman="meongdeun">멍든 </tt:span>
+        <tt:span begin="2:02.508" end="2:03.009" x-roman="gaseum">가슴</tt:span>
+        <tt:span begin="2:03.009" end="2:03.728" x-roman="i">이</tt:span>
+      </tt:p>
+      <tt:p begin="2:03.728" end="2:07.005" ttm:agent="v1" itunes:key="L30" x-roman="modu hayake da deopyeojige doelkka">
+        <tt:span begin="2:03.728" end="2:04.107" x-roman="modu">모두 </tt:span>
+        <tt:span begin="2:04.107" end="2:04.634" x-roman="hayake">하얗게 </tt:span>
+        <tt:span begin="2:04.634" end="2:04.906" x-roman="da">다 </tt:span>
+        <tt:span begin="2:04.906" end="2:05.941" x-roman="deopyeojige">덮여지게 </tt:span>
+        <tt:span begin="2:05.941" end="2:07.005" x-roman="doelkka">될까</tt:span>
+      </tt:p>
+      <tt:p begin="2:06.645" end="2:10.168" ttm:agent="v1" itunes:key="L31" x-roman="nunmurinji nun ttaemuninji">
+        <tt:span begin="2:06.645" end="2:08.088" x-roman="nunmurinji">눈물인지 </tt:span>
+        <tt:span begin="2:08.088" end="2:08.285" x-roman="nun">눈 </tt:span>
+        <tt:span begin="2:08.285" end="2:10.168" x-roman="ttaemuninji">때문인지</tt:span>
+      </tt:p>
+      <tt:p begin="2:09.520" end="2:14.903" ttm:agent="v1" itunes:key="L32" x-roman="jeomjeom neo meolri meolri boideon geu keuriseuma seu">
+        <tt:span begin="2:09.520" end="2:10.224" x-roman="jeomjeom">점점 </tt:span>
+        <tt:span begin="2:10.224" end="2:10.587" x-roman="neo">너 </tt:span>
+        <tt:span begin="2:10.587" end="2:11.195" x-roman="meolri">멀리 </tt:span>
+        <tt:span begin="2:11.195" end="2:11.685" x-roman="meolri">멀리 </tt:span>
+        <tt:span begin="2:11.685" end="2:12.759" x-roman="boideon">보이던 </tt:span>
+        <tt:span begin="2:13.157" end="2:13.360" x-roman="geu">그 </tt:span>
+        <tt:span begin="2:13.360" end="2:14.352" x-roman="keuriseuma">크리스마</tt:span>
+        <tt:span begin="2:14.352" end="2:14.903" x-roman="seu">스</tt:span>
+      </tt:p>
     </tt:div>
     <tt:div begin="2:13.869" end="2:37.588">
-      <tt:p begin="2:13.869" end="2:16.202" itunes:key="L33" ttm:agent="v1" x-roman="jeongmal singihan iriya"><tt:span begin="2:13.869" end="2:14.394" x-roman="jeongmal">정말</tt:span> <tt:span begin="2:14.394" end="2:15.133" x-roman="singihan">신기한</tt:span> <tt:span begin="2:15.133" end="2:16.202" x-roman="iriya">일이야</tt:span></tt:p>
-      <tt:p begin="2:16.202" end="2:23.647" itunes:key="L34" ttm:agent="v1" x-roman="neoui saenggakmaneuro nunmul cha heureuni marya"><tt:span begin="2:16.202" end="2:16.887" x-roman="neoui">너의</tt:span> <tt:span begin="2:17.133" end="2:18.463" x-roman="saenggakmaneuro">생각만으로</tt:span> <tt:span begin="2:18.463" end="2:19.135" x-roman="nunmul">눈물</tt:span> <tt:span begin="2:19.135" end="2:20.759" x-roman="cha">차</tt:span> <tt:span begin="2:21.132" end="2:21.762" x-roman="heureuni">흐르니</tt:span> <tt:span begin="2:21.762" end="2:23.647" x-roman="marya">말야</tt:span></tt:p>
-      <tt:p begin="2:23.209" end="2:26.748" itunes:key="L35" ttm:agent="v1" x-roman="Tears are falling, falling, falling"><tt:span begin="2:23.209" end="2:23.419">Tears</tt:span> <tt:span begin="2:23.419" end="2:23.614">are</tt:span> <tt:span begin="2:23.614" end="2:24.183">falling,</tt:span> <tt:span begin="2:24.183" end="2:24.718">falling,</tt:span> <tt:span begin="2:24.718" end="2:26.748">falling</tt:span></tt:p>
-      <tt:p begin="2:24.795" end="2:27.361" itunes:key="L36" ttm:agent="v1" x-roman="dasi neoegero gago sipeo"><tt:span begin="2:24.795" end="2:25.072" x-roman="dasi">다시</tt:span> <tt:span begin="2:25.072" end="2:25.840" x-roman="neoegero">너에게로</tt:span> <tt:span begin="2:25.840" end="2:26.080" x-roman="gago">가고</tt:span> <tt:span begin="2:26.080" end="2:27.361" x-roman="sipeo">싶어</tt:span></tt:p>
-      <tt:p begin="2:27.580" end="2:30.286" itunes:key="L37" ttm:agent="v1" x-roman="museun irideun hal su isseo"><tt:span begin="2:27.580" end="2:27.970" x-roman="museun">무슨</tt:span> <tt:span begin="2:27.970" end="2:28.637" x-roman="irideun">일이든</tt:span> <tt:span begin="2:28.637" end="2:28.832" x-roman="hal">할</tt:span> <tt:span begin="2:28.832" end="2:29.107" x-roman="su">수</tt:span> <tt:span begin="2:29.307" end="2:30.286" x-roman="isseo">있어</tt:span></tt:p>
-      <tt:p begin="2:30.464" end="2:37.588" itunes:key="L38" ttm:agent="v1" x-roman="jigeumkkaji salmi modu sarajinda hae do Girl"><tt:span begin="2:30.464" end="2:32.133" x-roman="jigeumkkaji">지금까지</tt:span> <tt:span begin="2:32.133" end="2:32.949" x-roman="salmi">삶이</tt:span> <tt:span begin="2:33.003" end="2:33.361" x-roman="modu">모두</tt:span> <tt:span begin="2:33.361" end="2:34.179" x-roman="sarajinda">사라진다</tt:span> <tt:span begin="2:34.363" end="2:34.510" x-roman="hae">해</tt:span><tt:span begin="2:34.510" end="2:36.687" x-roman="do">도</tt:span> <tt:span begin="2:36.687" end="2:37.588">Girl</tt:span></tt:p>
+      <tt:p begin="2:13.869" end="2:16.202" ttm:agent="v1" itunes:key="L33" x-roman="jeongmal singihan iriya">
+        <tt:span begin="2:13.869" end="2:14.394" x-roman="jeongmal">정말 </tt:span>
+        <tt:span begin="2:14.394" end="2:15.133" x-roman="singihan">신기한 </tt:span>
+        <tt:span begin="2:15.133" end="2:16.202" x-roman="iriya">일이야</tt:span>
+      </tt:p>
+      <tt:p begin="2:16.202" end="2:23.647" ttm:agent="v1" itunes:key="L34" x-roman="neoui saenggakmaneuro nunmul cha heureuni marya">
+        <tt:span begin="2:16.202" end="2:16.887" x-roman="neoui">너의 </tt:span>
+        <tt:span begin="2:17.133" end="2:18.463" x-roman="saenggakmaneuro">생각만으로 </tt:span>
+        <tt:span begin="2:18.463" end="2:19.135" x-roman="nunmul">눈물 </tt:span>
+        <tt:span begin="2:19.135" end="2:20.759" x-roman="cha">차 </tt:span>
+        <tt:span begin="2:21.132" end="2:21.762" x-roman="heureuni">흐르니 </tt:span>
+        <tt:span begin="2:21.762" end="2:23.647" x-roman="marya">말야</tt:span>
+      </tt:p>
+      <tt:p begin="2:23.209" end="2:26.748" ttm:agent="v1" itunes:key="L35" x-roman="Tears are falling, falling, falling">
+        <tt:span begin="2:23.209" end="2:23.419">Tears </tt:span>
+        <tt:span begin="2:23.419" end="2:23.614">are </tt:span>
+        <tt:span begin="2:23.614" end="2:24.183">falling, </tt:span>
+        <tt:span begin="2:24.183" end="2:24.718">falling, </tt:span>
+        <tt:span begin="2:24.718" end="2:26.748">falling</tt:span>
+      </tt:p>
+      <tt:p begin="2:24.795" end="2:27.361" ttm:agent="v1" itunes:key="L36" x-roman="dasi neoegero gago sipeo">
+        <tt:span begin="2:24.795" end="2:25.072" x-roman="dasi">다시 </tt:span>
+        <tt:span begin="2:25.072" end="2:25.840" x-roman="neoegero">너에게로 </tt:span>
+        <tt:span begin="2:25.840" end="2:26.080" x-roman="gago">가고 </tt:span>
+        <tt:span begin="2:26.080" end="2:27.361" x-roman="sipeo">싶어</tt:span>
+      </tt:p>
+      <tt:p begin="2:27.580" end="2:30.286" ttm:agent="v1" itunes:key="L37" x-roman="museun irideun hal su isseo">
+        <tt:span begin="2:27.580" end="2:27.970" x-roman="museun">무슨 </tt:span>
+        <tt:span begin="2:27.970" end="2:28.637" x-roman="irideun">일이든 </tt:span>
+        <tt:span begin="2:28.637" end="2:28.832" x-roman="hal">할 </tt:span>
+        <tt:span begin="2:28.832" end="2:29.107" x-roman="su">수 </tt:span>
+        <tt:span begin="2:29.307" end="2:30.286" x-roman="isseo">있어</tt:span>
+      </tt:p>
+      <tt:p begin="2:30.464" end="2:37.588" ttm:agent="v1" itunes:key="L38" x-roman="jigeumkkaji salmi modu sarajinda hae do Girl">
+        <tt:span begin="2:30.464" end="2:32.133" x-roman="jigeumkkaji">지금까지 </tt:span>
+        <tt:span begin="2:32.133" end="2:32.949" x-roman="salmi">삶이 </tt:span>
+        <tt:span begin="2:33.003" end="2:33.361" x-roman="modu">모두 </tt:span>
+        <tt:span begin="2:33.361" end="2:34.179" x-roman="sarajinda">사라진다 </tt:span>
+        <tt:span begin="2:34.363" end="2:34.510" x-roman="hae">해</tt:span>
+        <tt:span begin="2:34.510" end="2:36.687" x-roman="do">도 </tt:span>
+        <tt:span begin="2:36.687" end="2:37.588">Girl</tt:span>
+      </tt:p>
     </tt:div>
     <tt:div begin="2:35.562" end="2:59.424">
-      <tt:p begin="2:35.562" end="2:38.402" itunes:key="L39" ttm:agent="v1" x-roman="neoreul mannamyeon nunmul cha olra"><tt:span begin="2:35.562" end="2:35.877" x-roman="neoreul">너를</tt:span> <tt:span begin="2:35.877" end="2:36.501" x-roman="mannamyeon">만나면</tt:span> <tt:span begin="2:36.645" end="2:37.147" x-roman="nunmul">눈물</tt:span> <tt:span begin="2:37.147" end="2:37.546" x-roman="cha">차</tt:span> <tt:span begin="2:37.546" end="2:38.402" x-roman="olra">올라</tt:span></tt:p>
-      <tt:p begin="2:38.465" end="2:41.267" itunes:key="L40" ttm:agent="v1" x-roman="babo gateun nan amu mal mothae"><tt:span begin="2:38.465" end="2:38.790" x-roman="babo">바보</tt:span> <tt:span begin="2:38.790" end="2:39.156" x-roman="gateun">같은</tt:span> <tt:span begin="2:39.156" end="2:39.521" x-roman="nan">난</tt:span> <tt:span begin="2:39.521" end="2:40.057" x-roman="amu">아무</tt:span> <tt:span begin="2:40.057" end="2:40.390" x-roman="mal">말</tt:span> <tt:span begin="2:40.390" end="2:41.267" x-roman="mothae">못해</tt:span></tt:p>
-      <tt:p begin="2:41.324" end="2:44.560" itunes:key="L41" ttm:agent="v1" x-roman="malhae jwo meri meri keuriseuma seu"><tt:span begin="2:41.324" end="2:42.009" x-roman="malhae">말해</tt:span> <tt:span begin="2:42.009" end="2:42.449" x-roman="jwo">줘</tt:span> <tt:span begin="2:42.449" end="2:42.975" x-roman="meri">메리</tt:span> <tt:span begin="2:42.975" end="2:43.714" x-roman="meri">메리</tt:span> <tt:span begin="2:43.714" end="2:44.314" x-roman="keuriseuma">크리스마</tt:span><tt:span begin="2:44.314" end="2:44.560" x-roman="seu">스</tt:span></tt:p>
-      <tt:p begin="2:44.560" end="2:47.724" itunes:key="L42" ttm:agent="v1" x-roman="annyeong jal jinaeneun geoji"><tt:span begin="2:44.560" end="2:45.308" x-roman="annyeong">안녕</tt:span> <tt:span begin="2:45.308" end="2:45.649" x-roman="jal">잘</tt:span> <tt:span begin="2:45.649" end="2:46.449" x-roman="jinaeneun">지내는</tt:span> <tt:span begin="2:46.449" end="2:47.724" x-roman="geoji">거지</tt:span></tt:p>
-      <tt:p begin="2:47.845" end="2:52.208" itunes:key="L43" ttm:agent="v1" x-roman="Baby girl, ooh- yeah-"><tt:span begin="2:47.845" end="2:48.343">Baby</tt:span> <tt:span begin="2:48.343" end="2:49.276">girl,</tt:span> <tt:span begin="2:49.276" end="2:51.149">ooh-</tt:span> <tt:span begin="2:51.570" end="2:52.208">yeah-</tt:span></tt:p>
-      <tt:p begin="2:47.143" end="2:49.982" itunes:key="L44" ttm:agent="v1" x-roman="nuni naeri myeon meongdeun gaseum i"><tt:span begin="2:47.143" end="2:47.853" x-roman="nuni">눈이</tt:span> <tt:span begin="2:47.853" end="2:48.208" x-roman="naeri">내리</tt:span><tt:span begin="2:48.208" end="2:48.563" x-roman="myeon">면</tt:span> <tt:span begin="2:48.563" end="2:49.272" x-roman="meongdeun">멍든</tt:span> <tt:span begin="2:49.272" end="2:49.627" x-roman="gaseum">가슴</tt:span><tt:span begin="2:49.627" end="2:49.982" x-roman="i">이</tt:span></tt:p>
-      <tt:p begin="2:49.982" end="2:53.205" itunes:key="L45" ttm:agent="v1" x-roman="modu hayake da deopyeojige doelkka"><tt:span begin="2:49.982" end="2:50.329" x-roman="modu">모두</tt:span> <tt:span begin="2:50.329" end="2:50.896" x-roman="hayake">하얗게</tt:span> <tt:span begin="2:50.896" end="2:51.133" x-roman="da">다</tt:span> <tt:span begin="2:51.133" end="2:52.168" x-roman="deopyeojige">덮여지게</tt:span> <tt:span begin="2:52.168" end="2:53.205" x-roman="doelkka">될까</tt:span></tt:p>
-      <tt:p begin="2:52.903" end="2:56.267" itunes:key="L46" ttm:agent="v1" x-roman="mianhae jalhae juji mothae"><tt:span begin="2:52.903" end="2:53.951" x-roman="mianhae">미안해</tt:span> <tt:span begin="2:53.951" end="2:54.516" x-roman="jalhae">잘해</tt:span> <tt:span begin="2:54.516" end="2:55.076" x-roman="juji">주지</tt:span> <tt:span begin="2:55.076" end="2:56.267" x-roman="mothae">못해</tt:span></tt:p>
-      <tt:p begin="2:55.780" end="2:59.424" itunes:key="L47" ttm:agent="v1" x-roman="huhoeman gadeuk gadeuk haetdeon"><tt:span begin="2:55.780" end="2:56.850" x-roman="huhoeman">후회만</tt:span> <tt:span begin="2:56.850" end="2:57.447" x-roman="gadeuk">가득</tt:span> <tt:span begin="2:57.447" end="2:57.980" x-roman="gadeuk">가득</tt:span> <tt:span begin="2:57.980" end="2:59.424" x-roman="haetdeon">했던</tt:span></tt:p>
+      <tt:p begin="2:35.562" end="2:38.402" ttm:agent="v1" itunes:key="L39" x-roman="neoreul mannamyeon nunmul cha olra">
+        <tt:span begin="2:35.562" end="2:35.877" x-roman="neoreul">너를 </tt:span>
+        <tt:span begin="2:35.877" end="2:36.501" x-roman="mannamyeon">만나면 </tt:span>
+        <tt:span begin="2:36.645" end="2:37.147" x-roman="nunmul">눈물 </tt:span>
+        <tt:span begin="2:37.147" end="2:37.546" x-roman="cha">차 </tt:span>
+        <tt:span begin="2:37.546" end="2:38.402" x-roman="olra">올라</tt:span>
+      </tt:p>
+      <tt:p begin="2:38.465" end="2:41.267" ttm:agent="v1" itunes:key="L40" x-roman="babo gateun nan amu mal mothae">
+        <tt:span begin="2:38.465" end="2:38.790" x-roman="babo">바보 </tt:span>
+        <tt:span begin="2:38.790" end="2:39.156" x-roman="gateun">같은 </tt:span>
+        <tt:span begin="2:39.156" end="2:39.521" x-roman="nan">난 </tt:span>
+        <tt:span begin="2:39.521" end="2:40.057" x-roman="amu">아무 </tt:span>
+        <tt:span begin="2:40.057" end="2:40.390" x-roman="mal">말 </tt:span>
+        <tt:span begin="2:40.390" end="2:41.267" x-roman="mothae">못해</tt:span>
+      </tt:p>
+      <tt:p begin="2:41.324" end="2:44.560" ttm:agent="v1" itunes:key="L41" x-roman="malhae jwo meri meri keuriseuma seu">
+        <tt:span begin="2:41.324" end="2:42.009" x-roman="malhae">말해 </tt:span>
+        <tt:span begin="2:42.009" end="2:42.449" x-roman="jwo">줘 </tt:span>
+        <tt:span begin="2:42.449" end="2:42.975" x-roman="meri">메리 </tt:span>
+        <tt:span begin="2:42.975" end="2:43.714" x-roman="meri">메리 </tt:span>
+        <tt:span begin="2:43.714" end="2:44.314" x-roman="keuriseuma">크리스마</tt:span>
+        <tt:span begin="2:44.314" end="2:44.560" x-roman="seu">스</tt:span>
+      </tt:p>
+      <tt:p begin="2:44.560" end="2:47.724" ttm:agent="v1" itunes:key="L42" x-roman="annyeong jal jinaeneun geoji">
+        <tt:span begin="2:44.560" end="2:45.308" x-roman="annyeong">안녕 </tt:span>
+        <tt:span begin="2:45.308" end="2:45.649" x-roman="jal">잘 </tt:span>
+        <tt:span begin="2:45.649" end="2:46.449" x-roman="jinaeneun">지내는 </tt:span>
+        <tt:span begin="2:46.449" end="2:47.724" x-roman="geoji">거지</tt:span>
+      </tt:p>
+      <tt:p begin="2:47.845" end="2:52.208" ttm:agent="v1" itunes:key="L43" x-roman="Baby girl, ooh- yeah-">
+        <tt:span begin="2:47.845" end="2:48.343">Baby </tt:span>
+        <tt:span begin="2:48.343" end="2:49.276">girl, </tt:span>
+        <tt:span begin="2:49.276" end="2:51.149">ooh- </tt:span>
+        <tt:span begin="2:51.570" end="2:52.208">yeah-</tt:span>
+      </tt:p>
+      <tt:p begin="2:47.143" end="2:49.982" ttm:agent="v1" itunes:key="L44" x-roman="nuni naeri myeon meongdeun gaseum i">
+        <tt:span begin="2:47.143" end="2:47.853" x-roman="nuni">눈이 </tt:span>
+        <tt:span begin="2:47.853" end="2:48.208" x-roman="naeri">내리</tt:span>
+        <tt:span begin="2:48.208" end="2:48.563" x-roman="myeon">면 </tt:span>
+        <tt:span begin="2:48.563" end="2:49.272" x-roman="meongdeun">멍든 </tt:span>
+        <tt:span begin="2:49.272" end="2:49.627" x-roman="gaseum">가슴</tt:span>
+        <tt:span begin="2:49.627" end="2:49.982" x-roman="i">이</tt:span>
+      </tt:p>
+      <tt:p begin="2:49.982" end="2:53.205" ttm:agent="v1" itunes:key="L45" x-roman="modu hayake da deopyeojige doelkka">
+        <tt:span begin="2:49.982" end="2:50.329" x-roman="modu">모두 </tt:span>
+        <tt:span begin="2:50.329" end="2:50.896" x-roman="hayake">하얗게 </tt:span>
+        <tt:span begin="2:50.896" end="2:51.133" x-roman="da">다 </tt:span>
+        <tt:span begin="2:51.133" end="2:52.168" x-roman="deopyeojige">덮여지게 </tt:span>
+        <tt:span begin="2:52.168" end="2:53.205" x-roman="doelkka">될까</tt:span>
+      </tt:p>
+      <tt:p begin="2:52.903" end="2:56.267" ttm:agent="v1" itunes:key="L46" x-roman="mianhae jalhae juji mothae">
+        <tt:span begin="2:52.903" end="2:53.951" x-roman="mianhae">미안해 </tt:span>
+        <tt:span begin="2:53.951" end="2:54.516" x-roman="jalhae">잘해 </tt:span>
+        <tt:span begin="2:54.516" end="2:55.076" x-roman="juji">주지 </tt:span>
+        <tt:span begin="2:55.076" end="2:56.267" x-roman="mothae">못해</tt:span>
+      </tt:p>
+      <tt:p begin="2:55.780" end="2:59.424" ttm:agent="v1" itunes:key="L47" x-roman="huhoeman gadeuk gadeuk haetdeon">
+        <tt:span begin="2:55.780" end="2:56.850" x-roman="huhoeman">후회만 </tt:span>
+        <tt:span begin="2:56.850" end="2:57.447" x-roman="gadeuk">가득 </tt:span>
+        <tt:span begin="2:57.447" end="2:57.980" x-roman="gadeuk">가득 </tt:span>
+        <tt:span begin="2:57.980" end="2:59.424" x-roman="haetdeon">했던</tt:span>
+      </tt:p>
     </tt:div>
     <tt:div begin="2:58.667" end="3:24.267">
-      <tt:p begin="2:58.667" end="3:01.549" itunes:key="L48" ttm:agent="v1" x-roman="neoreul mannamyeon nunmul cha olra"><tt:span begin="2:58.667" end="2:59.009" x-roman="neoreul">너를</tt:span> <tt:span begin="2:59.009" end="2:59.777" x-roman="mannamyeon">만나면</tt:span> <tt:span begin="2:59.777" end="3:00.311" x-roman="nunmul">눈물</tt:span> <tt:span begin="3:00.311" end="3:00.684" x-roman="cha">차</tt:span> <tt:span begin="3:00.684" end="3:01.549" x-roman="olra">올라</tt:span></tt:p>
-      <tt:p begin="3:02.640" end="3:04.505" itunes:key="L49" ttm:agent="v1" x-roman="amu mal mothae"><tt:span begin="3:02.640" end="3:03.208" x-roman="amu">아무</tt:span> <tt:span begin="3:03.208" end="3:03.539" x-roman="mal">말</tt:span> <tt:span begin="3:03.539" end="3:04.505" x-roman="mothae">못해</tt:span></tt:p>
-      <tt:p begin="3:05.543" end="3:10.881" itunes:key="L50" ttm:agent="v1" x-roman="meri meri keuriseuma seu jal jinaeneun geoji"><tt:span begin="3:05.543" end="3:06.122" x-roman="meri">메리</tt:span> <tt:span begin="3:06.122" end="3:06.687" x-roman="meri">메리</tt:span> <tt:span begin="3:06.687" end="3:07.455" x-roman="keuriseuma">크리스마</tt:span><tt:span begin="3:07.455" end="3:08.019" x-roman="seu">스</tt:span> <tt:span begin="3:08.453" end="3:08.752" x-roman="jal">잘</tt:span> <tt:span begin="3:08.752" end="3:09.653" x-roman="jinaeneun">지내는</tt:span> <tt:span begin="3:09.917" end="3:10.881" x-roman="geoji">거지</tt:span></tt:p>
-      <tt:p begin="3:10.249" end="3:13.106" itunes:key="L51" ttm:agent="v1" x-roman="nuni naeri myeon meongdeun gaseum i"><tt:span begin="3:10.249" end="3:10.639" x-roman="nuni">눈이</tt:span> <tt:span begin="3:10.639" end="3:10.937" x-roman="naeri">내리</tt:span><tt:span begin="3:10.937" end="3:11.366" x-roman="myeon">면</tt:span> <tt:span begin="3:11.366" end="3:11.902" x-roman="meongdeun">멍든</tt:span> <tt:span begin="3:11.902" end="3:12.404" x-roman="gaseum">가슴</tt:span><tt:span begin="3:12.404" end="3:13.106" x-roman="i">이</tt:span></tt:p>
-      <tt:p begin="3:13.106" end="3:16.387" itunes:key="L52" ttm:agent="v1" x-roman="modu hayake da deopyeojige doelkka"><tt:span begin="3:13.106" end="3:13.503" x-roman="modu">모두</tt:span> <tt:span begin="3:13.503" end="3:14.072" x-roman="hayake">하얗게</tt:span> <tt:span begin="3:14.072" end="3:14.266" x-roman="da">다</tt:span> <tt:span begin="3:14.266" end="3:15.301" x-roman="deopyeojige">덮여지게</tt:span> <tt:span begin="3:15.301" end="3:16.387" x-roman="doelkka">될까</tt:span></tt:p>
-      <tt:p begin="3:16.026" end="3:19.742" itunes:key="L53" ttm:agent="v1" x-roman="nunmurinji nun ttaemuninji"><tt:span begin="3:16.026" end="3:17.490" x-roman="nunmurinji">눈물인지</tt:span> <tt:span begin="3:17.490" end="3:17.664" x-roman="nun">눈</tt:span> <tt:span begin="3:17.664" end="3:19.742" x-roman="ttaemuninji">때문인지</tt:span></tt:p>
-      <tt:p begin="3:18.906" end="3:24.267" itunes:key="L54" ttm:agent="v1" x-roman="jeomjeom neo meolri meolri boideon geu keuriseuma seu"><tt:span begin="3:18.906" end="3:19.666" x-roman="jeomjeom">점점</tt:span> <tt:span begin="3:19.666" end="3:19.997" x-roman="neo">너</tt:span> <tt:span begin="3:19.997" end="3:20.562" x-roman="meolri">멀리</tt:span> <tt:span begin="3:20.562" end="3:21.081" x-roman="meolri">멀리</tt:span> <tt:span begin="3:21.081" end="3:22.288" x-roman="boideon">보이던</tt:span> <tt:span begin="3:22.568" end="3:22.760" x-roman="geu">그</tt:span> <tt:span begin="3:22.760" end="3:23.784" x-roman="keuriseuma">크리스마</tt:span><tt:span begin="3:23.784" end="3:24.267" x-roman="seu">스</tt:span></tt:p>
+      <tt:p begin="2:58.667" end="3:01.549" ttm:agent="v1" itunes:key="L48" x-roman="neoreul mannamyeon nunmul cha olra">
+        <tt:span begin="2:58.667" end="2:59.009" x-roman="neoreul">너를 </tt:span>
+        <tt:span begin="2:59.009" end="2:59.777" x-roman="mannamyeon">만나면 </tt:span>
+        <tt:span begin="2:59.777" end="3:00.311" x-roman="nunmul">눈물 </tt:span>
+        <tt:span begin="3:00.311" end="3:00.684" x-roman="cha">차 </tt:span>
+        <tt:span begin="3:00.684" end="3:01.549" x-roman="olra">올라</tt:span>
+      </tt:p>
+      <tt:p begin="3:02.640" end="3:04.505" ttm:agent="v1" itunes:key="L49" x-roman="amu mal mothae">
+        <tt:span begin="3:02.640" end="3:03.208" x-roman="amu">아무 </tt:span>
+        <tt:span begin="3:03.208" end="3:03.539" x-roman="mal">말 </tt:span>
+        <tt:span begin="3:03.539" end="3:04.505" x-roman="mothae">못해</tt:span>
+      </tt:p>
+      <tt:p begin="3:05.543" end="3:10.881" ttm:agent="v1" itunes:key="L50" x-roman="meri meri keuriseuma seu jal jinaeneun geoji">
+        <tt:span begin="3:05.543" end="3:06.122" x-roman="meri">메리 </tt:span>
+        <tt:span begin="3:06.122" end="3:06.687" x-roman="meri">메리 </tt:span>
+        <tt:span begin="3:06.687" end="3:07.455" x-roman="keuriseuma">크리스마</tt:span>
+        <tt:span begin="3:07.455" end="3:08.019" x-roman="seu">스 </tt:span>
+        <tt:span begin="3:08.453" end="3:08.752" x-roman="jal">잘 </tt:span>
+        <tt:span begin="3:08.752" end="3:09.653" x-roman="jinaeneun">지내는 </tt:span>
+        <tt:span begin="3:09.917" end="3:10.881" x-roman="geoji">거지</tt:span>
+      </tt:p>
+      <tt:p begin="3:10.249" end="3:13.106" ttm:agent="v1" itunes:key="L51" x-roman="nuni naeri myeon meongdeun gaseum i">
+        <tt:span begin="3:10.249" end="3:10.639" x-roman="nuni">눈이 </tt:span>
+        <tt:span begin="3:10.639" end="3:10.937" x-roman="naeri">내리</tt:span>
+        <tt:span begin="3:10.937" end="3:11.366" x-roman="myeon">면 </tt:span>
+        <tt:span begin="3:11.366" end="3:11.902" x-roman="meongdeun">멍든 </tt:span>
+        <tt:span begin="3:11.902" end="3:12.404" x-roman="gaseum">가슴</tt:span>
+        <tt:span begin="3:12.404" end="3:13.106" x-roman="i">이</tt:span>
+      </tt:p>
+      <tt:p begin="3:13.106" end="3:16.387" ttm:agent="v1" itunes:key="L52" x-roman="modu hayake da deopyeojige doelkka">
+        <tt:span begin="3:13.106" end="3:13.503" x-roman="modu">모두 </tt:span>
+        <tt:span begin="3:13.503" end="3:14.072" x-roman="hayake">하얗게 </tt:span>
+        <tt:span begin="3:14.072" end="3:14.266" x-roman="da">다 </tt:span>
+        <tt:span begin="3:14.266" end="3:15.301" x-roman="deopyeojige">덮여지게 </tt:span>
+        <tt:span begin="3:15.301" end="3:16.387" x-roman="doelkka">될까</tt:span>
+      </tt:p>
+      <tt:p begin="3:16.026" end="3:19.742" ttm:agent="v1" itunes:key="L53" x-roman="nunmurinji nun ttaemuninji">
+        <tt:span begin="3:16.026" end="3:17.490" x-roman="nunmurinji">눈물인지 </tt:span>
+        <tt:span begin="3:17.490" end="3:17.664" x-roman="nun">눈 </tt:span>
+        <tt:span begin="3:17.664" end="3:19.742" x-roman="ttaemuninji">때문인지</tt:span>
+      </tt:p>
+      <tt:p begin="3:18.906" end="3:24.267" ttm:agent="v1" itunes:key="L54" x-roman="jeomjeom neo meolri meolri boideon geu keuriseuma seu">
+        <tt:span begin="3:18.906" end="3:19.666" x-roman="jeomjeom">점점 </tt:span>
+        <tt:span begin="3:19.666" end="3:19.997" x-roman="neo">너 </tt:span>
+        <tt:span begin="3:19.997" end="3:20.562" x-roman="meolri">멀리 </tt:span>
+        <tt:span begin="3:20.562" end="3:21.081" x-roman="meolri">멀리 </tt:span>
+        <tt:span begin="3:21.081" end="3:22.288" x-roman="boideon">보이던 </tt:span>
+        <tt:span begin="3:22.568" end="3:22.760" x-roman="geu">그 </tt:span>
+        <tt:span begin="3:22.760" end="3:23.784" x-roman="keuriseuma">크리스마</tt:span>
+        <tt:span begin="3:23.784" end="3:24.267" x-roman="seu">스</tt:span>
+      </tt:p>
     </tt:div>
   </tt:body>
 </tt:tt>
