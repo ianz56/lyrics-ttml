@@ -4,10 +4,12 @@ on:
   push:
     paths:
       - '**/*.ttml'
+      - '!minify/**/*.ttml'
       - 'lint_ttml.py'
   pull_request:
     paths:
       - '**/*.ttml'
+      - '!minify/**/*.ttml'
       - 'lint_ttml.py'
 
 jobs:

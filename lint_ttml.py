@@ -591,7 +591,10 @@ def lint_warnings(content, filepath):
 def find_ttml_files(base_dir="."):
     """Find all .ttml files recursively, excluding test_*.ttml at root."""
     files = []
-    for dirpath, _dirnames, filenames in os.walk(base_dir):
+    for dirpath, dirnames, filenames in os.walk(base_dir):
+        if 'minify' in dirnames:
+            dirnames.remove('minify')
+            
         for f in filenames:
             if f.endswith(".ttml"):
                 full = os.path.join(dirpath, f)
