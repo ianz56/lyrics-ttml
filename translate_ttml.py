@@ -188,7 +188,7 @@ def main():
         if current_trans:
             print(f"Current  : {current_trans}")
             
-        prompt = "Translation (Enter: keep, [number]: jump, '-': delete, 'q': quit): "
+        prompt = "Translation (Enter: keep, [number]: jump, '-': delete, 'a': print all, 'q': quit): "
         try:
             user_input = input(prompt).strip()
         except (EOFError, KeyboardInterrupt):
@@ -198,6 +198,17 @@ def main():
         if user_input.lower() == 'q':
             save = False
             break
+        elif user_input.lower() == 'a':
+            print("\n" + "="*50)
+            print("                ALL TEXT (FOR COPY/PASTE)")
+            print("="*50)
+            for idx, u in enumerate(units):
+                u_orig = extract_original_text(u).strip()
+                u_is_bg = next((v for k, v in u.attrs if k == "ttm:role"), None) == "x-bg"
+                u_prefix = "[BG] " if u_is_bg else ""
+                print(f"[{idx+1}] {u_prefix}{u_orig}")
+            print("="*50 + "\n")
+            continue
         elif user_input == '-':
             set_translation_text(unit, "", uses_prefix)
         elif user_input.isdigit():
