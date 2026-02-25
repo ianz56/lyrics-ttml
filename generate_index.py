@@ -22,11 +22,11 @@ index = []
 
 print("Scanning files...")
 for root, dirs, files in os.walk("."):
+    # Modifying dirs in-place will prune the search tree.
+    # We skip hidden directories and the 'minify' directory.
+    dirs[:] = [d for d in dirs if not d.startswith(".") and d != "minify"]
+
     if root == ".":
-        continue
-    
-    # Skip hidden directories like .git
-    if os.path.basename(root).startswith("."):
         continue
 
     folder = os.path.basename(root)
