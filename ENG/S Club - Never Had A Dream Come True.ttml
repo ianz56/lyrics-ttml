@@ -13,6 +13,7 @@
         <span begin="00:18.186" end="00:18.690">got </span>
         <span begin="00:18.690" end="00:19.221">some</span>
         <span begin="00:19.221" end="00:20.070">thing</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Setiap orang punya sesuatu</span>
       </p>
       <p begin="00:20.565" end="00:23.622" ttm:agent="v1" itunes:key="L2">
         <span begin="00:20.565" end="00:20.733">They </span>
@@ -21,6 +22,7 @@
         <span begin="00:21.462" end="00:22.192">leave </span>
         <span begin="00:22.192" end="00:22.437">be</span>
         <span begin="00:22.437" end="00:23.622">hind</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Yang harus mereka tinggalkan</span>
       </p>
       <p begin="00:25.197" end="00:27.830" ttm:agent="v1" itunes:key="L3">
         <span begin="00:25.197" end="00:25.392">One </span>
@@ -30,6 +32,7 @@
         <span begin="00:26.564" end="00:26.831">yes</span>
         <span begin="00:26.831" end="00:27.087">ter</span>
         <span begin="00:27.087" end="00:27.830">day</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Satu penyesalan dari kemarin</span>
       </p>
       <p begin="00:28.077" end="00:31.715" ttm:agent="v1" itunes:key="L4">
         <span begin="00:28.077" end="00:28.254">That </span>
@@ -39,6 +42,7 @@
         <span begin="00:29.277" end="00:29.951">grow </span>
         <span begin="00:29.951" end="00:30.237">with </span>
         <span begin="00:30.237" end="00:31.715">time</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Yang sepertinya semakin besar seiring waktu</span>
       </p>
       <p begin="00:31.977" end="00:35.352" ttm:agent="v1" itunes:key="L5">
         <span begin="00:31.977" end="00:32.130">There's </span>
@@ -56,7 +60,9 @@
           <span begin="00:35.393" end="00:35.626">won</span>
           <span begin="00:35.626" end="00:35.873">der</span>
           <span begin="00:35.873" end="00:36.526">ing)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Atau bertanya-tanya)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Tak ada gunanya menoleh ke belakang atau bertanya-tanya</span>
       </p>
       <p begin="00:35.888" end="00:39.308" ttm:agent="v1" itunes:key="L6">
         <span begin="00:35.888" end="00:36.112">How </span>
@@ -73,7 +79,9 @@
           <span begin="00:39.271" end="00:39.534">might </span>
           <span begin="00:39.534" end="00:39.744">have </span>
           <span begin="00:39.744" end="00:40.299">been)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Atau mungkin dulu)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Bagaimana keadaan sekarang atau mungkin dulu</span>
       </p>
       <p begin="00:39.755" end="00:46.780" ttm:agent="v1" itunes:key="L7">
         <span begin="00:39.755" end="00:40.230">All </span>
@@ -90,6 +98,7 @@
         <span begin="00:45.180" end="00:45.604">let </span>
         <span begin="00:45.604" end="00:46.169">you </span>
         <span begin="00:46.169" end="00:46.780">go</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Semua ini aku tahu, tapi aku tetap tidak bisa menemukan cara untuk melepaskanmu</span>
       </p>
       <p begin="00:46.889" end="00:50.625" ttm:agent="v1" itunes:key="L8">
         <span begin="00:46.889" end="00:47.086">I </span>
@@ -99,6 +108,7 @@
         <span begin="00:48.088" end="00:48.959">dream </span>
         <span begin="00:48.959" end="00:49.919">come </span>
         <span begin="00:49.919" end="00:50.625">true</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Aku tidak pernah memiliki mimpi yang terwujud</span>
       </p>
       <p begin="00:50.962" end="00:54.517" ttm:agent="v1" itunes:key="L9">
         <span begin="00:50.962" end="00:51.142">'Til </span>
@@ -108,6 +118,7 @@
         <span begin="00:51.906" end="00:52.845">I </span>
         <span begin="00:52.845" end="00:53.865">found </span>
         <span begin="00:53.865" end="00:54.517">you</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Sampai hari aku menemukanmu</span>
       </p>
       <p begin="00:54.936" end="00:59.406" ttm:agent="v1" itunes:key="L10">
         <span begin="00:54.936" end="00:55.356">Even </span>
@@ -119,6 +130,7 @@
         <span begin="00:57.786" end="00:58.274">I've </span>
         <span begin="00:58.274" end="00:58.746">moved </span>
         <span begin="00:58.746" end="00:59.406">on</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Meskipun begitu, aku berpura-pura bahwa aku sudah melupakan</span>
       </p>
       <p begin="00:59.578" end="01:02.445" ttm:agent="v1" itunes:key="L11">
         <span begin="00:59.578" end="00:59.781">You'll </span>
@@ -128,6 +140,7 @@
         <span begin="01:01.251" end="01:01.656">my </span>
         <span begin="01:01.656" end="01:02.166">ba</span>
         <span begin="01:02.166" end="01:02.445">by</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Kamu akan selalu menjadi milikku</span>
       </p>
       <p begin="01:02.445" end="01:06.270" ttm:agent="v1" itunes:key="L12">
         <span begin="01:02.445" end="01:02.632">I </span>
@@ -145,7 +158,9 @@
           <span begin="01:05.635" end="01:05.892">words </span>
           <span begin="01:05.892" end="01:06.061">to </span>
           <span begin="01:06.061" end="01:06.880">say)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Tidak pernah menemukan kata-kata untuk diucapkan)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Aku tidak pernah menemukan kata-kata untuk mengatakannya</span>
       </p>
       <p begin="01:06.621" end="01:10.101" ttm:agent="v1" itunes:key="L13">
         <span begin="01:06.621" end="01:06.801">You're </span>
@@ -165,7 +180,9 @@
           <span begin="01:09.350" end="01:09.995">about </span>
           <span begin="01:09.995" end="01:10.482">each </span>
           <span begin="01:10.482" end="01:11.930">day)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Kau adalah orang yang aku pikirkan setiap hari)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Kau adalah orang yang aku pikirkan setiap hari</span>
       </p>
       <p begin="01:10.510" end="01:14.980" ttm:agent="v1" itunes:key="L14">
         <span begin="01:10.510" end="01:10.670">And </span>
@@ -179,6 +196,7 @@
         <span begin="01:13.390" end="01:13.873">takes </span>
         <span begin="01:13.873" end="01:14.350">me </span>
         <span begin="01:14.350" end="01:14.980">to</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Dan aku tahu, tak peduli ke mana hidup membawaku</span>
       </p>
       <p begin="01:15.175" end="01:23.478" ttm:agent="v1" itunes:key="L15">
         <span begin="01:15.175" end="01:15.340">A </span>
@@ -192,6 +210,7 @@
         <span begin="01:19.729" end="01:20.242">with </span>
         <span begin="01:20.242" end="01:22.412">you, </span>
         <span begin="01:22.412" end="01:23.478">yeah</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Sebagian dari diriku akan selalu bersamamu</span>
       </p>
       <p begin="01:27.553" end="01:30.320" ttm:agent="v1" itunes:key="L16">
         <span begin="01:27.553" end="01:28.056">Some</span>
@@ -200,6 +219,7 @@
         <span begin="01:28.790" end="01:29.004">my </span>
         <span begin="01:29.004" end="01:29.249">me</span>
         <span begin="01:29.249" end="01:30.320">mory</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Di suatu tempat dalam ingatanku</span>
       </p>
       <p begin="01:30.779" end="01:34.300" ttm:agent="v1" itunes:key="L17">
         <span begin="01:30.779" end="01:30.961">I've </span>
@@ -208,6 +228,7 @@
         <span begin="01:31.697" end="01:32.377">sense </span>
         <span begin="01:32.377" end="01:32.669">of </span>
         <span begin="01:32.669" end="01:34.300">time</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Aku telah kehilangan rasa waktu</span>
       </p>
       <p begin="01:35.661" end="01:37.780" ttm:agent="v1" itunes:key="L18">
         <span begin="01:35.661" end="01:35.811">And </span>
@@ -216,6 +237,7 @@
         <span begin="01:36.531" end="01:36.711">can </span>
         <span begin="01:36.711" end="01:37.292">never </span>
         <span begin="01:37.292" end="01:37.780">be</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Dan besok takkan pernah ada</span>
       </p>
       <p begin="01:38.148" end="01:42.304" ttm:agent="v1" itunes:key="L19">
         <span begin="01:38.148" end="01:38.282">'Cause </span>
@@ -227,6 +249,7 @@
         <span begin="01:40.480" end="01:41.162">fills </span>
         <span begin="01:41.162" end="01:41.667">my </span>
         <span begin="01:41.667" end="01:42.304">mind</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Karena kemarinlah yang memenuhi pikiranku</span>
       </p>
       <p begin="01:42.214" end="01:45.660" ttm:agent="v1" itunes:key="L20">
         <span begin="01:42.214" end="01:42.471">There's </span>
@@ -242,7 +265,9 @@
           <span begin="01:45.166" end="01:45.652">(Or </span>
           <span begin="01:45.652" end="01:46.127">wonder</span>
           <span begin="01:46.127" end="01:46.687">ing)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Atau bertanya-tanya)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Tak ada gunanya menoleh ke belakang atau bertanya-tanya</span>
       </p>
       <p begin="01:46.119" end="01:49.524" ttm:agent="v1" itunes:key="L21">
         <span begin="01:46.119" end="01:46.354">How </span>
@@ -259,7 +284,9 @@
           <span begin="01:49.522" end="01:49.809">might </span>
           <span begin="01:49.809" end="01:50.032">have </span>
           <span begin="01:50.032" end="01:50.663">been)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Atau mungkin dulu)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Bagaimana seharusnya sekarang atau mungkin pernah ada</span>
       </p>
       <p begin="01:50.034" end="01:58.860" ttm:agent="v1" itunes:key="L22">
         <span begin="01:50.034" end="01:50.472">All </span>
@@ -276,6 +303,7 @@
         <span begin="01:55.335" end="01:55.815">let </span>
         <span begin="01:55.815" end="01:56.767">you </span>
         <span begin="01:56.767" end="01:58.860">go</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Semua ini aku tahu, tapi aku tetap tidak bisa menemukan cara untuk melepaskanmu</span>
       </p>
       <p begin="01:59.040" end="02:02.850" ttm:agent="v1" itunes:key="L23">
         <span begin="01:59.040" end="01:59.257">I </span>
@@ -285,6 +313,7 @@
         <span begin="02:00.195" end="02:01.155">dream </span>
         <span begin="02:01.155" end="02:02.107">come </span>
         <span begin="02:02.107" end="02:02.850">true</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Aku tidak pernah memiliki mimpi yang terwujud</span>
       </p>
       <p begin="02:03.137" end="02:06.699" ttm:agent="v1" itunes:key="L24">
         <span begin="02:03.137" end="02:03.362">'Til </span>
@@ -294,6 +323,7 @@
         <span begin="02:04.119" end="02:05.057">I </span>
         <span begin="02:05.057" end="02:06.026">found </span>
         <span begin="02:06.026" end="02:06.699">you</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Sampai hari aku menemukanmu</span>
       </p>
       <p begin="02:07.112" end="02:11.597" ttm:agent="v1" itunes:key="L25">
         <span begin="02:07.112" end="02:07.340">Even </span>
@@ -305,6 +335,7 @@
         <span begin="02:09.999" end="02:10.487">I've </span>
         <span begin="02:10.487" end="02:10.982">moved </span>
         <span begin="02:10.982" end="02:11.597">on</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Meskipun begitu, aku berpura-pura bahwa aku sudah melupakan</span>
       </p>
       <p begin="02:11.738" end="02:14.654" ttm:agent="v1" itunes:key="L26">
         <span begin="02:11.738" end="02:11.941">You'll </span>
@@ -314,6 +345,7 @@
         <span begin="02:13.464" end="02:13.856">my </span>
         <span begin="02:13.856" end="02:14.398">ba</span>
         <span begin="02:14.398" end="02:14.654">by</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Kamu akan selalu menjadi milikku</span>
       </p>
       <p begin="02:14.638" end="02:18.501" ttm:agent="v1" itunes:key="L27">
         <span begin="02:14.638" end="02:14.867">I </span>
@@ -330,7 +362,9 @@
           <span begin="02:17.820" end="02:18.036">words </span>
           <span begin="02:18.036" end="02:18.284">to </span>
           <span begin="02:18.284" end="02:19.071">say)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Tidak pernah menemukan kata-kata untuk diucapkan)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Aku tidak pernah menemukan kata-kata untuk mengatakannya</span>
       </p>
       <p begin="02:18.750" end="02:22.327" ttm:agent="v1" itunes:key="L28">
         <span begin="02:18.750" end="02:19.012">You're </span>
@@ -350,7 +384,9 @@
           <span begin="02:21.452" end="02:22.255">about </span>
           <span begin="02:22.255" end="02:22.675">each </span>
           <span begin="02:22.675" end="02:24.219">day)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Kau adalah orang yang aku pikirkan setiap hari)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Kau adalah orang yang aku pikirkan setiap hari</span>
       </p>
       <p begin="02:22.712" end="02:27.156" ttm:agent="v1" itunes:key="L29">
         <span begin="02:22.712" end="02:22.915">And </span>
@@ -364,6 +400,7 @@
         <span begin="02:25.568" end="02:26.065">takes </span>
         <span begin="02:26.065" end="02:26.550">me </span>
         <span begin="02:26.550" end="02:27.156">to</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Dan aku tahu, tak peduli ke mana hidup membawaku</span>
       </p>
       <p begin="02:27.380" end="02:31.330" ttm:agent="v1" itunes:key="L30">
         <span begin="02:27.380" end="02:27.538">A </span>
@@ -374,6 +411,7 @@
         <span begin="02:29.482" end="02:29.958">al</span>
         <span begin="02:29.958" end="02:30.475">ways </span>
         <span begin="02:30.475" end="02:31.330">be</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Kau akan selalu menjadi</span>
       </p>
       <p begin="02:32.184" end="02:35.750" ttm:agent="v1" itunes:key="L31">
         <span begin="02:32.184" end="02:32.404">You'll </span>
@@ -385,6 +423,7 @@
         <span begin="02:34.357" end="02:34.862">fills </span>
         <span begin="02:34.862" end="02:35.349">my </span>
         <span begin="02:35.349" end="02:35.750">head</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Kamu akan selalu menjadi mimpi yang mengisi pikiranku</span>
       </p>
       <p begin="02:35.871" end="02:39.600" ttm:agent="v1" itunes:key="L32">
         <span begin="02:35.871" end="02:36.058">Yes </span>
@@ -400,6 +439,7 @@
         <span begin="02:38.504" end="02:38.747">oh </span>
         <span begin="02:38.747" end="02:38.995">ba</span>
         <span begin="02:38.995" end="02:39.600">by</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Ya, kamu akan, katakanlah kamu akan, kamu tahu kamu akan</span>
       </p>
       <p begin="02:40.033" end="02:46.280" ttm:agent="v1" itunes:key="L33">
         <span begin="02:40.033" end="02:40.250">You'll </span>
@@ -414,6 +454,7 @@
         <span begin="02:43.685" end="02:44.138">ver </span>
         <span begin="02:44.138" end="02:44.588">for</span>
         <span begin="02:44.588" end="02:46.280">get</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Kamu akan selalu menjadi orang yang aku tahu takkan pernah aku lupakan</span>
       </p>
       <p begin="02:46.607" end="02:50.061" ttm:agent="v1" itunes:key="L34">
         <span begin="02:46.607" end="02:46.795">There's </span>
@@ -429,7 +470,9 @@
           <span begin="02:49.583" end="02:50.003">(Or </span>
           <span begin="02:50.003" end="02:50.431">wonder</span>
           <span begin="02:50.431" end="02:51.196">ing)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Atau bertanya-tanya)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Tak ada gunanya menoleh ke belakang atau bertanya-tanya</span>
       </p>
       <p begin="02:50.597" end="02:53.936" ttm:agent="v1" itunes:key="L35">
         <span begin="02:50.597" end="02:50.958">Because </span>
@@ -444,7 +487,9 @@
           <span begin="02:53.479" end="02:53.876">(And </span>
           <span begin="02:53.876" end="02:54.311">funny </span>
           <span begin="02:54.311" end="02:54.972">thing)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Dan hal yang lucu)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Karena cinta adalah hal yang aneh dan lucu</span>
       </p>
       <p begin="02:54.432" end="03:02.607" ttm:agent="v1" itunes:key="L36">
         <span begin="02:54.432" end="02:54.897">No </span>
@@ -461,6 +506,7 @@
         <span begin="02:59.674" end="03:00.162">say </span>
         <span begin="03:00.162" end="03:00.655">good</span>
         <span begin="03:00.655" end="03:02.607">bye</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Tidak peduli seberapa keras aku mencoba, aku tidak bisa mengucapkan selamat tinggal</span>
       </p>
       <p begin="03:03.649" end="03:05.271" ttm:agent="v1" itunes:key="L37">
         <span begin="03:03.649" end="03:03.999">No, </span>
@@ -476,6 +522,7 @@
         <span begin="03:06.557" end="03:07.468">dream </span>
         <span begin="03:07.468" end="03:08.463">come </span>
         <span begin="03:08.463" end="03:09.089">true</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Aku tidak pernah memiliki mimpi yang terwujud</span>
       </p>
       <p begin="03:09.493" end="03:13.063" ttm:agent="v1" itunes:key="L39">
         <span begin="03:09.493" end="03:09.720">'Til </span>
@@ -485,6 +532,7 @@
         <span begin="03:10.355" end="03:11.428">I </span>
         <span begin="03:11.428" end="03:12.388">found </span>
         <span begin="03:12.388" end="03:13.063">you</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Sampai hari aku menemukanmu</span>
       </p>
       <p begin="03:13.405" end="03:17.891" ttm:agent="v1" itunes:key="L40">
         <span begin="03:13.405" end="03:13.823">Even </span>
@@ -496,6 +544,7 @@
         <span begin="03:16.334" end="03:16.809">I've </span>
         <span begin="03:16.809" end="03:17.281">moved </span>
         <span begin="03:17.281" end="03:17.891">on</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Meskipun begitu, aku berpura-pura bahwa aku sudah melupakan</span>
       </p>
       <p begin="03:18.109" end="03:20.970" ttm:agent="v1" itunes:key="L41">
         <span begin="03:18.109" end="03:18.330">You'll </span>
@@ -505,6 +554,7 @@
         <span begin="03:19.713" end="03:20.200">my </span>
         <span begin="03:20.200" end="03:20.749">ba</span>
         <span begin="03:20.749" end="03:20.970">by</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Kamu akan selalu menjadi milikku</span>
       </p>
       <p begin="03:20.970" end="03:24.808" ttm:agent="v1" itunes:key="L42">
         <span begin="03:20.970" end="03:21.240">I </span>
@@ -521,7 +571,9 @@
           <span begin="03:24.159" end="03:24.407">words </span>
           <span begin="03:24.407" end="03:24.630">to </span>
           <span begin="03:24.630" end="03:25.395">say)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Tidak pernah menemukan kata-kata untuk diucapkan)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Aku tidak pernah menemukan kata-kata untuk mengatakannya</span>
       </p>
       <p begin="03:25.159" end="03:28.789" ttm:agent="v1" itunes:key="L43">
         <span begin="03:25.159" end="03:25.347">You're </span>
@@ -541,7 +593,9 @@
           <span begin="03:27.860" end="03:28.608">about </span>
           <span begin="03:28.608" end="03:29.028">each </span>
           <span begin="03:29.028" end="03:30.513">day)</span>
+          <span ttm:role="x-translation" xml:lang="id-ID">(Kau adalah orang yang aku pikirkan setiap hari)</span>
         </span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Kau adalah orang yang aku pikirkan setiap hari</span>
       </p>
       <p begin="03:29.064" end="03:33.489" ttm:agent="v1" itunes:key="L44">
         <span begin="03:29.064" end="03:29.259">And </span>
@@ -555,6 +609,7 @@
         <span begin="03:31.920" end="03:32.400">takes </span>
         <span begin="03:32.400" end="03:32.897">me </span>
         <span begin="03:32.897" end="03:33.489">to</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Dan aku tahu, tak peduli ke mana hidup membawaku</span>
       </p>
       <p begin="03:33.715" end="03:37.363" ttm:agent="v1" itunes:key="L45">
         <span begin="03:33.715" end="03:33.898">A </span>
@@ -565,6 +620,7 @@
         <span begin="03:35.793" end="03:36.269">al</span>
         <span begin="03:36.269" end="03:36.799">ways </span>
         <span begin="03:36.799" end="03:37.363">be</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Sebagian dari diriku akan selalu</span>
       </p>
       <p begin="03:37.616" end="03:46.714" ttm:agent="v1" itunes:key="L46">
         <span begin="03:37.616" end="03:37.826">A </span>
@@ -577,6 +633,7 @@
         <span begin="03:40.758" end="03:41.671">be </span>
         <span begin="03:42.556" end="03:43.364">with </span>
         <span begin="03:43.364" end="03:46.714">you</span>
+        <span ttm:role="x-translation" xml:lang="id-ID">Sebagian dari diriku akan selalu bersamamu</span>
       </p>
     </div>
   </body>
