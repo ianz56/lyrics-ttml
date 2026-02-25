@@ -81,12 +81,14 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
     
     words = []
     background_words = []
-    translations = []
+    translations = []  # list of (is_bg: bool, text: str)
+    bg_begin_time = None  # Track when BG vocal starts
     
     # Track apakah ada spasi sebelum span berikutnya
     # Spasi ditandai oleh 'tail' property dari elemen sebelumnya
     def process_spans(parent_elem, word_list, is_bg=False):
         """Process semua span dalam parent element dan track spasi."""
+        nonlocal bg_begin_time
         for i, child in enumerate(parent_elem):
             tag_name = child.tag.split('}')[-1] if '}' in child.tag else child.tag
             
@@ -94,7 +96,11 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                 role = child.get(f'{{{namespaces.get("ttm", "")}}}role', '')
                 
                 if role == 'x-bg':
-                    # Background vocal
+                    # Background vocal - track its begin time
+                    bg_begin_str = child.get('begin', '')
+                    if bg_begin_str:
+                        bg_begin_time = parse_time(bg_begin_str)
+                    
                     if list(child):
                         # Has children, recurse
                         process_spans(child, background_words, is_bg=True)
@@ -124,7 +130,7 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                         # Auto-wrap background translation in parentheses if not already wrapped
                         if is_bg and not (clean_trans.startswith('(') and clean_trans.endswith(')')):
                             clean_trans = f"({clean_trans})"
-                        translations.append(clean_trans)
+                        translations.append((is_bg, clean_trans))
                 else:
                     raw_text = child.text or ""
                     if word_list and (raw_text.startswith(" ") or raw_text.startswith("\t") or raw_text.startswith("\n")):
@@ -136,7 +142,7 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
                     if word_data["isTranslation"]:
                          # Should have been caught by elif, but just in case
                          if word_data["text"]:
-                            translations.append(word_data["text"])
+                            translations.append((is_bg, word_data["text"]))
                          continue
                     
                     tail = child.tail or ""
@@ -214,7 +220,20 @@ def parse_paragraph(p_elem, namespaces: dict) -> dict:
         result["backgroundVocal"] = bg_obj
 
     if translations:
-        result["translation"] = " ".join(translations)
+        # Determine ordering: if BG starts before main vocal, BG translation first
+        # Otherwise, main translation first, BG translation last
+        main_begin = parse_time(begin)  # <p> begin = main vocal begin
+        bg_translations = [t for is_bg, t in translations if is_bg]
+        main_translations = [t for is_bg, t in translations if not is_bg]
+        
+        if bg_begin_time is not None and bg_begin_time < main_begin:
+            # BG starts first -> parenthesized BG translation comes before main
+            ordered = bg_translations + main_translations
+        else:
+            # Main starts first (or same time) -> main translation first, then BG
+            ordered = main_translations + bg_translations
+        
+        result["translation"] = " ".join(ordered)
     
     return result
 
