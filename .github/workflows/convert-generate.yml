@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,6 +36,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add JSON/ index.json
+          git add JSON/ index.json sitemap.xml index.html
           git diff --staged --quiet || git commit -m "Auto: Convert TTML to JSON and update index"
+          git pull --rebase origin main || true
           git push
