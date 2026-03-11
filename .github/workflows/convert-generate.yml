@@ -37,6 +37,10 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add JSON/ index.json sitemap.xml index.html
-          git diff --staged --quiet || git commit -m "Auto: Convert TTML to JSON and update index"
-          git pull --rebase origin main || true
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto: Convert TTML to JSON and update index"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main || true
+              git push && break || sleep 5
+            done
+          fi

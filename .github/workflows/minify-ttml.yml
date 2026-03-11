@@ -31,6 +31,10 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add minify/
-          git diff --staged --quiet || git commit -m "Auto: Minify TTML files"
-          git pull --rebase origin main || true
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto: Minify TTML files"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main || true
+              git push && break || sleep 5
+            done
+          fi
