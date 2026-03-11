@@ -2,6 +2,7 @@ import os
 import json
 import datetime
 import re
+import subprocess
 
 OUTPUT_FILE = "index.json"
 SITEMAP_FILE = "sitemap.xml"
@@ -45,13 +46,22 @@ for root, dirs, files in os.walk("."):
             artist = parts[0] if len(parts) > 1 else ""
             title = parts[1] if len(parts) > 1 else name
 
+            try:
+                git_log = subprocess.run(
+                    ['git', 'log', '-1', '--format=%cs', '--', path],
+                    capture_output=True, text=True, check=True
+                ).stdout.strip()
+                lastmod = git_log if git_log else datetime.date.fromtimestamp(os.path.getmtime(path)).isoformat()
+            except Exception:
+                lastmod = datetime.date.fromtimestamp(os.path.getmtime(path)).isoformat()
+
             entry = {
                 "artist": artist,
                 "title": title,
                 "lang": folder,
                 "path": path,
                 "jsonPath": json_path,
-                "lastmod": datetime.date.today().isoformat() # Using today as approximation if file stat is not critical
+                "lastmod": lastmod
             }
             index.append(entry)
 
