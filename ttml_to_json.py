@@ -466,6 +466,7 @@ def convert_all_to_json(base_dir: str = ".", force: bool = False):
         print(f"✗ Errors ({len(errors)}):")
         for err in errors:
             print(err)
+        sys.exit(1)
 
 
 def main():

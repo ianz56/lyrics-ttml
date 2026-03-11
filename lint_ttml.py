@@ -669,6 +669,7 @@ def main():
 
     total = len(files)
     changed = 0
+    errors_count = 0
     all_warnings = []
 
     for filepath in files:
@@ -676,6 +677,7 @@ def main():
             has_changes, warnings = process_file(filepath, fix=args.fix, check=args.check)
         except Exception as e:
             print(f"ERROR {filepath}: {e}")
+            errors_count += 1
             continue
 
         if has_changes:
@@ -709,6 +711,10 @@ def main():
                 print(f"    {w}")
 
     if args.check and changed > 0:
+        sys.exit(1)
+
+    if errors_count > 0:
+        print(f"\n{errors_count} file(s) had parsing errors.")
         sys.exit(1)
 
 
