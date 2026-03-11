@@ -20,6 +20,8 @@ print(f"--- Starting Auto Sync on {platform.system()} ---")
 run_command("git pull")
 run_command("python lint_ttml.py --all --fix")
 run_command("python ttml_to_json.py --all")
+run_command("python minify_ttml.py --src . --dest minify")
+run_command("python generate_index.py")
 
 # Check if there are any changes to commit
 status_check = subprocess.run("git status --porcelain", shell=True, capture_output=True, text=True)
