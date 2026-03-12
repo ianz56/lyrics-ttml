@@ -1,285 +1,425 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:amll="http://www.example.com/ns/amll" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+<tt itunes:timing="Word" xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
   <head>
     <metadata>
       <ttm:agent type="person" xml:id="v1"/>
     </metadata>
   </head>
-  <body dur="04:10.955">
-    <div begin="00:21.079" end="04:10.955">
-      <p begin="00:21.079" end="00:29.299" ttm:agent="v1" itunes:key="L1">
-        <span begin="00:21.079" end="00:21.279">Aku </span>
-        <span begin="00:21.494" end="00:21.760">ter</span>
-        <span begin="00:21.902" end="00:22.417">di</span>
-        <span begin="00:22.573" end="00:22.883">am </span>
-        <span begin="00:23.163" end="00:24.208">dalam </span>
-        <span begin="00:26.111" end="00:26.655">riuhnya </span>
-        <span begin="00:26.915" end="00:27.533">ke</span>
-        <span begin="00:27.651" end="00:29.299">ramaian</span>
+  <body dur="04:10.895">
+    <div begin="00:20.829" end="04:02.398">
+      <p begin="00:20.829" end="00:24.316" ttm:agent="v1" itunes:key="L1">
+        <span begin="00:20.829" end="00:21.159">A</span>
+        <span begin="00:21.159" end="00:21.481">ku </span>
+        <span begin="00:21.481" end="00:21.807">ter</span>
+        <span begin="00:21.807" end="00:22.468">di</span>
+        <span begin="00:22.468" end="00:23.086">am </span>
+        <span begin="00:23.206" end="00:23.476">da</span>
+        <span begin="00:23.476" end="00:24.316">lam</span>
       </p>
-      <p begin="00:31.193" end="00:40.503" ttm:agent="v1" itunes:key="L2">
-        <span begin="00:31.193" end="00:31.875">Tersamar </span>
-        <span begin="00:32.075" end="00:33.024">oleh </span>
-        <span begin="00:33.480" end="00:34.508">tawa, </span>
-        <span begin="00:36.276" end="00:36.660">bungkam </span>
-        <span begin="00:36.898" end="00:37.613">rasa </span>
-        <span begin="00:37.898" end="00:38.554">di</span>
-        <span begin="00:38.791" end="00:40.503">lema</span>
+      <p begin="00:26.049" end="00:29.371" ttm:agent="v1" itunes:key="L2">
+        <span begin="00:26.049" end="00:26.559">Riuh</span>
+        <span begin="00:26.559" end="00:26.866">nya </span>
+        <span begin="00:26.866" end="00:27.535">ke</span>
+        <span begin="00:27.535" end="00:28.201">ra</span>
+        <span begin="00:28.201" end="00:28.546">mai</span>
+        <span begin="00:28.546" end="00:29.371">an</span>
       </p>
-      <p begin="00:41.453" end="00:50.991" ttm:agent="v1" itunes:key="L3">
-        <span begin="00:41.453" end="00:41.789">Bukan </span>
-        <span begin="00:41.983" end="00:42.205">ku </span>
-        <span begin="00:42.363" end="00:42.857">tak </span>
-        <span begin="00:42.996" end="00:43.462">teri</span>
-        <span begin="00:43.647" end="00:45.007">ma </span>
-        <span begin="00:46.422" end="00:47.209">dirimu </span>
-        <span begin="00:47.418" end="00:47.850">yang </span>
-        <span begin="00:48.093" end="00:48.362">se</span>
-        <span begin="00:48.598" end="00:49.916">utuh</span>
-        <span begin="00:50.415" end="00:50.991">nya</span>
+      <p begin="00:31.196" end="00:34.596" ttm:agent="v1" itunes:key="L3">
+        <span begin="00:31.196" end="00:31.419">Ter</span>
+        <span begin="00:31.419" end="00:31.711">sa</span>
+        <span begin="00:31.711" end="00:32.026">mar </span>
+        <span begin="00:32.026" end="00:32.588">o</span>
+        <span begin="00:32.588" end="00:33.269">leh </span>
+        <span begin="00:33.269" end="00:33.624">ta</span>
+        <span begin="00:33.624" end="00:34.596">wa</span>
       </p>
-      <p begin="00:51.582" end="01:02.512" ttm:agent="v1" itunes:key="L4">
-        <span begin="00:51.582" end="00:52.038">Namun, </span>
-        <span begin="00:52.251" end="00:53.046">apa</span>
-        <span begin="00:53.151" end="00:53.529">lah </span>
-        <span begin="00:53.609" end="00:54.531">dayaku </span>
-        <span begin="00:54.716" end="00:55.391">bisa </span>
-        <span begin="00:56.735" end="00:57.286">hatimu </span>
-        <span begin="00:57.580" end="00:58.104">ber</span>
-        <span begin="00:58.336" end="00:59.141">sama</span>
-        <span begin="00:59.287" end="01:02.512">nya</span>
+      <p begin="00:36.164" end="00:40.438" ttm:agent="v1" itunes:key="L4">
+        <span begin="00:36.164" end="00:36.494">Bung</span>
+        <span begin="00:36.494" end="00:36.762">kam </span>
+        <span begin="00:36.762" end="00:37.105">ra</span>
+        <span begin="00:37.105" end="00:37.694">sa </span>
+        <span begin="00:37.871" end="00:38.696">di</span>
+        <span begin="00:38.696" end="00:39.101">le</span>
+        <span begin="00:39.101" end="00:40.438">ma</span>
       </p>
-      <p begin="01:04.300" end="01:13.323" ttm:agent="v1" itunes:key="L5">
-        <span begin="01:04.300" end="01:04.824">Aku </span>
-        <span begin="01:04.984" end="01:05.215">tak </span>
-        <span begin="01:05.387" end="01:05.824">mung</span>
-        <span begin="01:05.958" end="01:06.369">kin </span>
-        <span begin="01:06.583" end="01:06.819">bi</span>
-        <span begin="01:06.916" end="01:07.827">sa </span>
-        <span begin="01:09.440" end="01:10.155">bersaing </span>
-        <span begin="01:10.380" end="01:10.775">me</span>
-        <span begin="01:11.009" end="01:11.862">lawan</span>
-        <span begin="01:12.018" end="01:13.323">nya</span>
+      <p begin="00:41.384" end="00:44.984" ttm:agent="v1" itunes:key="L5">
+        <span begin="00:41.384" end="00:41.624">Bu</span>
+        <span begin="00:41.624" end="00:41.910">kan </span>
+        <span begin="00:41.910" end="00:42.212">ku </span>
+        <span begin="00:42.212" end="00:42.854">tak </span>
+        <span begin="00:42.854" end="00:43.200">te</span>
+        <span begin="00:43.200" end="00:43.571">ri</span>
+        <span begin="00:43.571" end="00:44.984">ma</span>
       </p>
-      <p begin="01:14.574" end="01:23.550" ttm:agent="v1" itunes:key="L6">
-        <span begin="01:14.574" end="01:14.912">Aku </span>
-        <span begin="01:15.118" end="01:15.374">tak </span>
-        <span begin="01:15.533" end="01:16.441">mungkin </span>
-        <span begin="01:16.710" end="01:17.015">sang</span>
-        <span begin="01:17.111" end="01:17.978">gup </span>
-        <span begin="01:18.619" end="01:19.774">berbinar </span>
-        <span begin="01:19.996" end="01:20.569">dalam </span>
-        <span begin="01:21.018" end="01:21.410">ba</span>
-        <span begin="01:21.545" end="01:21.821">yang</span>
-        <span begin="01:22.008" end="01:23.550">nya</span>
+      <p begin="00:46.393" end="00:51.002" ttm:agent="v1" itunes:key="L6">
+        <span begin="00:46.393" end="00:46.654">Di</span>
+        <span begin="00:46.654" end="00:46.988">ri</span>
+        <span begin="00:46.988" end="00:47.318">mu </span>
+        <span begin="00:47.318" end="00:47.834">yang </span>
+        <span begin="00:47.834" end="00:48.488">se</span>
+        <span begin="00:48.488" end="00:48.898">u</span>
+        <span begin="00:48.898" end="00:50.160">tuh</span>
+        <span begin="00:50.160" end="00:51.002">nya</span>
       </p>
-      <p begin="01:24.772" end="01:33.962" ttm:agent="v1" itunes:key="L7">
-        <span begin="01:24.772" end="01:25.156">Dia </span>
-        <span begin="01:25.234" end="01:25.524">yang </span>
-        <span begin="01:25.679" end="01:26.549">dulu </span>
-        <span begin="01:26.671" end="01:26.984">per</span>
-        <span begin="01:27.261" end="01:28.462">nah </span>
-        <span begin="01:29.809" end="01:30.712">sempurna </span>
-        <span begin="01:30.881" end="01:31.284">di </span>
-        <span begin="01:31.503" end="01:31.947">re</span>
-        <span begin="01:32.089" end="01:32.424">lung</span>
-        <span begin="01:32.552" end="01:33.962">mu</span>
+      <p begin="00:51.600" end="00:55.622" ttm:agent="v1" itunes:key="L7">
+        <span begin="00:51.600" end="00:51.827">Na</span>
+        <span begin="00:51.827" end="00:52.140">mun, </span>
+        <span begin="00:52.140" end="00:52.412">a</span>
+        <span begin="00:52.412" end="00:53.027">pa</span>
+        <span begin="00:53.027" end="00:53.387">lah </span>
+        <span begin="00:53.387" end="00:53.710">da</span>
+        <span begin="00:53.710" end="00:54.437">ya</span>
+        <span begin="00:54.437" end="00:54.722">ku </span>
+        <span begin="00:54.722" end="00:55.037">bi</span>
+        <span begin="00:55.037" end="00:55.622">sa</span>
       </p>
-      <p begin="01:34.971" end="01:43.900" ttm:agent="v1" itunes:key="L8">
-        <span begin="01:34.971" end="01:35.145">Tak </span>
-        <span begin="01:35.309" end="01:35.746">mungkin </span>
-        <span begin="01:35.917" end="01:36.409">ku </span>
-        <span begin="01:36.596" end="01:37.491">menjadi </span>
-        <span begin="01:37.793" end="01:38.809">jawara </span>
-        <span begin="01:39.051" end="01:39.370">di </span>
-        <span begin="01:39.580" end="01:40.362">lintas</span>
-        <span begin="01:40.518" end="01:40.755">an </span>
-        <span begin="01:41.051" end="01:41.521">yang </span>
-        <span begin="01:42.463" end="01:43.900">sama</span>
+      <p begin="00:56.627" end="01:02.350" ttm:agent="v1" itunes:key="L8">
+        <span begin="00:56.627" end="00:56.847">Ha</span>
+        <span begin="00:56.847" end="00:57.137">ti</span>
+        <span begin="00:57.137" end="00:57.422">mu </span>
+        <span begin="00:57.422" end="00:58.067">ber</span>
+        <span begin="00:58.067" end="00:58.840">sa</span>
+        <span begin="00:58.840" end="00:59.220">ma</span>
+        <span begin="00:59.220" end="01:02.350">nya</span>
       </p>
-      <p begin="01:46.658" end="01:57.380" ttm:agent="v1" itunes:key="L9">
-        <span begin="01:46.658" end="01:47.534">Bu</span>
-        <span begin="01:47.773" end="01:48.230">kan </span>
-        <span begin="01:48.461" end="01:48.618">ku </span>
-        <span begin="01:48.762" end="01:49.218">tak </span>
-        <span begin="01:49.373" end="01:49.817">teri</span>
-        <span begin="01:49.938" end="01:51.640">ma </span>
-        <span begin="01:52.831" end="01:53.552">dirimu </span>
-        <span begin="01:54.085" end="01:54.348">yang </span>
-        <span begin="01:54.521" end="01:54.872">se</span>
-        <span begin="01:55.092" end="01:56.386">utuh</span>
-        <span begin="01:56.678" end="01:57.380">nya</span>
+      <p begin="01:04.228" end="01:08.027" ttm:agent="v1" itunes:key="L9">
+        <span begin="01:04.228" end="01:04.510">A</span>
+        <span begin="01:04.510" end="01:04.828">ku </span>
+        <span begin="01:04.828" end="01:05.162">tak </span>
+        <span begin="01:05.162" end="01:05.860">mung</span>
+        <span begin="01:05.860" end="01:06.452">kin </span>
+        <span begin="01:06.452" end="01:06.767">bi</span>
+        <span begin="01:06.767" end="01:08.027">sa</span>
       </p>
-      <p begin="01:57.894" end="02:08.172" ttm:agent="v1" itunes:key="L10">
-        <span begin="01:57.894" end="01:58.359">Namun, </span>
-        <span begin="01:58.518" end="01:59.875">apalah </span>
-        <span begin="01:59.994" end="02:00.856">dayaku </span>
-        <span begin="02:01.065" end="02:02.192">bisa </span>
-        <span begin="02:03.034" end="02:04.373">hatimu </span>
-        <span begin="02:05.609" end="02:05.934">ber</span>
-        <span begin="02:06.158" end="02:07.250">sama</span>
-        <span begin="02:07.502" end="02:08.172">nya</span>
-        <span begin="02:03.054" end="02:07.576" ttm:role="x-bg">
-          <span begin="02:03.054" end="02:03.675">(Hatimu </span>
-          <span begin="02:03.941" end="02:04.375">ber</span>
-          <span begin="02:04.565" end="02:05.085">sama</span>
-          <span begin="02:05.252" end="02:07.576">nya)</span>
+      <p begin="01:09.415" end="01:13.240" ttm:agent="v1" itunes:key="L10">
+        <span begin="01:09.415" end="01:09.617">Ber</span>
+        <span begin="01:09.617" end="01:09.962">sa</span>
+        <span begin="01:09.962" end="01:10.270">ing </span>
+        <span begin="01:10.270" end="01:10.885">me</span>
+        <span begin="01:10.885" end="01:11.537">la</span>
+        <span begin="01:11.537" end="01:11.950">wan</span>
+        <span begin="01:11.950" end="01:13.240">nya</span>
+      </p>
+      <p begin="01:14.477" end="01:17.942" ttm:agent="v1" itunes:key="L11">
+        <span begin="01:14.477" end="01:14.728">A</span>
+        <span begin="01:14.728" end="01:15.028">ku </span>
+        <span begin="01:15.028" end="01:15.347">tak </span>
+        <span begin="01:15.347" end="01:16.022">mung</span>
+        <span begin="01:16.022" end="01:16.607">kin </span>
+        <span begin="01:16.607" end="01:16.997">sang</span>
+        <span begin="01:16.997" end="01:17.942">gup</span>
+      </p>
+      <p begin="01:18.617" end="01:23.852" ttm:agent="v1" itunes:key="L12">
+        <span begin="01:18.617" end="01:18.872">Ber</span>
+        <span begin="01:18.872" end="01:19.172">bi</span>
+        <span begin="01:19.172" end="01:19.862">nar </span>
+        <span begin="01:19.862" end="01:20.380">da</span>
+        <span begin="01:20.380" end="01:20.821">lam </span>
+        <span begin="01:20.821" end="01:21.317">ba</span>
+        <span begin="01:21.317" end="01:21.850">yang</span>
+        <span begin="01:21.850" end="01:23.852">nya</span>
+      </p>
+      <p begin="01:24.700" end="01:28.562" ttm:agent="v1" itunes:key="L13">
+        <span begin="01:24.700" end="01:25.232">Dia </span>
+        <span begin="01:25.232" end="01:25.547">yang </span>
+        <span begin="01:25.547" end="01:26.187">du</span>
+        <span begin="01:26.187" end="01:26.560">lu </span>
+        <span begin="01:26.560" end="01:27.238">per</span>
+        <span begin="01:27.238" end="01:28.562">nah</span>
+      </p>
+      <p begin="01:29.792" end="01:33.820" ttm:agent="v1" itunes:key="L14">
+        <span begin="01:29.792" end="01:30.070">Sem</span>
+        <span begin="01:30.070" end="01:30.400">pur</span>
+        <span begin="01:30.400" end="01:30.722">na </span>
+        <span begin="01:30.722" end="01:31.382">di </span>
+        <span begin="01:31.382" end="01:31.990">re</span>
+        <span begin="01:31.990" end="01:32.380">lung</span>
+        <span begin="01:32.380" end="01:33.820">mu</span>
+      </p>
+      <p begin="01:34.870" end="01:38.837" ttm:agent="v1" itunes:key="L15">
+        <span begin="01:34.870" end="01:35.110">Tak </span>
+        <span begin="01:35.110" end="01:35.410">mung</span>
+        <span begin="01:35.410" end="01:35.740">kin </span>
+        <span begin="01:35.740" end="01:36.407">ku </span>
+        <span begin="01:36.407" end="01:36.760">men</span>
+        <span begin="01:36.760" end="01:37.080">ja</span>
+        <span begin="01:37.080" end="01:37.660">di </span>
+        <span begin="01:37.660" end="01:38.069">ja</span>
+        <span begin="01:38.069" end="01:38.410">wa</span>
+        <span begin="01:38.410" end="01:38.837">ra</span>
+      </p>
+      <p begin="01:39.047" end="01:44.161" ttm:agent="v1" itunes:key="L16">
+        <span begin="01:39.047" end="01:39.325">Di </span>
+        <span begin="01:39.325" end="01:39.632">lin</span>
+        <span begin="01:39.632" end="01:40.247">ta</span>
+        <span begin="01:40.247" end="01:40.877">san </span>
+        <span begin="01:40.877" end="01:41.410">yang </span>
+        <span begin="01:42.465" end="01:42.880">sa</span>
+        <span begin="01:42.880" end="01:44.161">ma</span>
+      </p>
+      <p begin="01:46.712" end="01:51.521" ttm:agent="v1" itunes:key="L17">
+        <span begin="01:46.712" end="01:47.637">Bu</span>
+        <span begin="01:47.637" end="01:48.260">kan </span>
+        <span begin="01:48.260" end="01:48.629">ku </span>
+        <span begin="01:48.629" end="01:49.244">tak </span>
+        <span begin="01:49.244" end="01:49.787">teri</span>
+        <span begin="01:49.787" end="01:51.521">ma</span>
+      </p>
+      <p begin="01:52.726" end="01:57.604" ttm:agent="v1" itunes:key="L18">
+        <span begin="01:52.726" end="01:53.042">Di</span>
+        <span begin="01:53.042" end="01:53.327">ri</span>
+        <span begin="01:53.327" end="01:53.803">mu </span>
+        <span begin="01:54.056" end="01:54.485">yang </span>
+        <span begin="01:54.485" end="01:54.874">se</span>
+        <span begin="01:54.874" end="01:55.260">u</span>
+        <span begin="01:55.260" end="01:56.568">tuh</span>
+        <span begin="01:56.568" end="01:57.604">nya</span>
+      </p>
+      <p begin="01:57.912" end="02:02.532" ttm:agent="v1" itunes:key="L19">
+        <span begin="01:57.912" end="01:58.142">Na</span>
+        <span begin="01:58.142" end="01:58.459">mun, </span>
+        <span begin="01:58.459" end="01:58.801">a</span>
+        <span begin="01:58.801" end="01:59.404">pa</span>
+        <span begin="01:59.404" end="01:59.764">lah </span>
+        <span begin="01:59.764" end="02:00.092">da</span>
+        <span begin="02:00.092" end="02:00.719">ya</span>
+        <span begin="02:00.719" end="02:01.054">ku </span>
+        <span begin="02:01.054" end="02:01.392">bi</span>
+        <span begin="02:01.392" end="02:02.532">sa</span>
+      </p>
+      <p begin="02:02.989" end="02:08.037" ttm:agent="v1" itunes:key="L20">
+        <span begin="02:02.989" end="02:03.575">Ha</span>
+        <span begin="02:03.575" end="02:03.935">ti</span>
+        <span begin="02:03.935" end="02:04.782">mu </span>
+        <span begin="02:05.592" end="02:06.132">ber</span>
+        <span begin="02:06.132" end="02:06.787">sa</span>
+        <span begin="02:06.787" end="02:07.441">ma</span>
+        <span begin="02:07.441" end="02:08.037">nya</span>
+        <span begin="02:03.009" end="02:08.027" ttm:role="x-bg">
+          <span begin="02:03.009" end="02:03.302">(Ha</span>
+          <span begin="02:03.302" end="02:03.564">ti</span>
+          <span begin="02:03.564" end="02:03.902">mu </span>
+          <span begin="02:03.902" end="02:04.479">ber</span>
+          <span begin="02:04.479" end="02:04.832">sa</span>
+          <span begin="02:04.832" end="02:05.154">ma</span>
+          <span begin="02:05.154" end="02:08.027">nya)</span>
         </span>
       </p>
-      <p begin="02:08.111" end="02:17.192" ttm:agent="v1" itunes:key="L11">
-        <span begin="02:08.111" end="02:08.451">Aku </span>
-        <span begin="02:08.710" end="02:08.975">tak </span>
-        <span begin="02:09.095" end="02:09.588">mung</span>
-        <span begin="02:09.697" end="02:10.197">kin </span>
-        <span begin="02:10.355" end="02:10.588">bi</span>
-        <span begin="02:10.669" end="02:11.907">sa </span>
-        <span begin="02:13.313" end="02:13.947">bersaing </span>
-        <span begin="02:14.206" end="02:14.737">me</span>
-        <span begin="02:14.857" end="02:15.563">lawan</span>
-        <span begin="02:15.784" end="02:17.192">nya</span>
+      <p begin="02:08.027" end="02:11.867" ttm:agent="v1" itunes:key="L21">
+        <span begin="02:08.027" end="02:08.346">A</span>
+        <span begin="02:08.346" end="02:08.676">ku </span>
+        <span begin="02:08.676" end="02:08.973">tak </span>
+        <span begin="02:08.973" end="02:09.647">mung</span>
+        <span begin="02:09.647" end="02:10.263">kin </span>
+        <span begin="02:10.263" end="02:10.565">bi</span>
+        <span begin="02:10.565" end="02:11.867">sa</span>
       </p>
-      <p begin="02:18.338" end="02:28.122" ttm:agent="v1" itunes:key="L12">
-        <span begin="02:18.338" end="02:18.772">Aku </span>
-        <span begin="02:18.977" end="02:19.213">tak </span>
-        <span begin="02:19.370" end="02:20.281">mungkin </span>
-        <span begin="02:20.524" end="02:20.779">sang</span>
-        <span begin="02:20.911" end="02:22.120">gup </span>
-        <span begin="02:22.484" end="02:23.558">berbinar </span>
-        <span begin="02:23.766" end="02:24.176">da</span>
-        <span begin="02:24.273" end="02:24.672">lam </span>
-        <span begin="02:24.822" end="02:25.237">ba</span>
-        <span begin="02:25.361" end="02:25.606">yang</span>
-        <span begin="02:25.758" end="02:28.122">nya</span>
-        <span begin="02:24.995" end="02:30.187" ttm:role="x-bg">
-          <span begin="02:24.995" end="02:26.246">(Berbinar </span>
-          <span begin="02:26.411" end="02:26.934">dalam </span>
-          <span begin="02:27.040" end="02:27.480">ba</span>
-          <span begin="02:27.607" end="02:28.003">yang</span>
-          <span begin="02:28.232" end="02:30.187">nya)</span>
+      <p begin="02:13.187" end="02:17.373" ttm:agent="v1" itunes:key="L22">
+        <span begin="02:13.187" end="02:13.448">Ber</span>
+        <span begin="02:13.448" end="02:13.751">sa</span>
+        <span begin="02:13.751" end="02:14.046">ing </span>
+        <span begin="02:14.046" end="02:14.747">me</span>
+        <span begin="02:14.747" end="02:15.317">la</span>
+        <span begin="02:15.317" end="02:15.725">wan</span>
+        <span begin="02:15.725" end="02:17.373">nya</span>
+      </p>
+      <p begin="02:18.318" end="02:22.083" ttm:agent="v1" itunes:key="L23">
+        <span begin="02:18.318" end="02:18.581">A</span>
+        <span begin="02:18.581" end="02:18.858">ku </span>
+        <span begin="02:18.858" end="02:19.196">tak </span>
+        <span begin="02:19.196" end="02:19.848">mung</span>
+        <span begin="02:19.848" end="02:20.441">kin </span>
+        <span begin="02:20.441" end="02:20.868">sang</span>
+        <span begin="02:20.868" end="02:22.083">gup</span>
+      </p>
+      <p begin="02:22.481" end="02:27.978" ttm:agent="v1" itunes:key="L24">
+        <span begin="02:22.481" end="02:22.728">Ber</span>
+        <span begin="02:22.728" end="02:23.028">bi</span>
+        <span begin="02:23.028" end="02:23.666">nar </span>
+        <span begin="02:23.666" end="02:24.288">da</span>
+        <span begin="02:24.288" end="02:24.678">lam </span>
+        <span begin="02:24.678" end="02:25.098">ba</span>
+        <span begin="02:25.098" end="02:25.631">yang</span>
+        <span begin="02:25.631" end="02:27.978">nya</span>
+        <span begin="02:25.038" end="02:30.078" ttm:role="x-bg">
+          <span begin="02:25.038" end="02:25.346">(Ber</span>
+          <span begin="02:25.346" end="02:25.685">bi</span>
+          <span begin="02:25.685" end="02:26.246">nar </span>
+          <span begin="02:26.246" end="02:26.620">da</span>
+          <span begin="02:26.620" end="02:26.951">lam </span>
+          <span begin="02:26.951" end="02:27.491">ba</span>
+          <span begin="02:27.491" end="02:28.158">yang</span>
+          <span begin="02:28.158" end="02:30.078">nya)</span>
         </span>
       </p>
-      <p begin="02:28.269" end="02:37.861" ttm:agent="v1" itunes:key="L13">
-        <span begin="02:28.269" end="02:28.465">Oh, </span>
-        <span begin="02:28.608" end="02:28.861">dia </span>
-        <span begin="02:29.121" end="02:29.476">yang </span>
-        <span begin="02:29.602" end="02:30.069">du</span>
-        <span begin="02:30.207" end="02:30.491">lu </span>
-        <span begin="02:30.662" end="02:30.926">per</span>
-        <span begin="02:31.440" end="02:32.361">nah </span>
-        <span begin="02:33.636" end="02:34.494">sempurna </span>
-        <span begin="02:34.678" end="02:35.134">di </span>
-        <span begin="02:35.328" end="02:35.756">re</span>
-        <span begin="02:35.902" end="02:36.181">lung</span>
-        <span begin="02:36.377" end="02:37.861">mu</span>
+      <p begin="02:28.203" end="02:32.333" ttm:agent="v1" itunes:key="L25">
+        <span begin="02:28.203" end="02:28.485">Oh, </span>
+        <span begin="02:28.485" end="02:29.057">dia </span>
+        <span begin="02:29.057" end="02:29.423">yang </span>
+        <span begin="02:29.423" end="02:30.076">du</span>
+        <span begin="02:30.076" end="02:30.495">lu </span>
+        <span begin="02:30.495" end="02:31.210">per</span>
+        <span begin="02:31.210" end="02:32.333">nah</span>
       </p>
-      <p begin="02:38.801" end="02:48.435" ttm:agent="v1" itunes:key="L14">
-        <span begin="02:38.801" end="02:38.993">Tak </span>
-        <span begin="02:39.163" end="02:39.581">mungkin </span>
-        <span begin="02:39.737" end="02:40.218">ku </span>
-        <span begin="02:40.378" end="02:41.346">menjadi </span>
-        <span begin="02:41.596" end="02:42.622">jawara </span>
-        <span begin="02:42.894" end="02:43.198">di </span>
-        <span begin="02:43.330" end="02:44.108">lintas</span>
-        <span begin="02:44.319" end="02:44.635">an </span>
-        <span begin="02:44.846" end="02:45.389">yang </span>
-        <span begin="02:46.087" end="02:46.552">sa</span>
-        <span begin="02:46.660" end="02:48.435">ma</span>
+      <p begin="02:33.598" end="02:37.733" ttm:agent="v1" itunes:key="L26">
+        <span begin="02:33.598" end="02:33.941">Sem</span>
+        <span begin="02:33.941" end="02:34.230">pur</span>
+        <span begin="02:34.230" end="02:34.566">na </span>
+        <span begin="02:34.566" end="02:35.216">di </span>
+        <span begin="02:35.216" end="02:35.819">re</span>
+        <span begin="02:35.819" end="02:36.236">lung</span>
+        <span begin="02:36.236" end="02:37.733">mu</span>
       </p>
-      <p begin="02:48.790" end="02:58.434" ttm:agent="v1" itunes:key="L15">
-        <span begin="02:48.790" end="02:49.435">Kuat</span>
-        <span begin="02:49.600" end="02:49.942">kah </span>
-        <span begin="02:50.095" end="02:50.556">ku, </span>
-        <span begin="02:50.657" end="02:51.123">Tu</span>
-        <span begin="02:51.245" end="02:53.189">han, </span>
-        <span begin="02:53.779" end="02:54.523">jika </span>
-        <span begin="02:54.738" end="02:55.001">ku </span>
-        <span begin="02:55.000" end="02:55.550">men</span>
-        <span begin="02:55.669" end="02:56.130">cin</span>
-        <span begin="02:56.282" end="02:58.434">ta</span>
+      <p begin="02:38.708" end="02:42.626" ttm:agent="v1" itunes:key="L27">
+        <span begin="02:38.708" end="02:38.981">Tak </span>
+        <span begin="02:38.981" end="02:39.258">mung</span>
+        <span begin="02:39.258" end="02:39.641">kin </span>
+        <span begin="02:39.641" end="02:40.271">ku </span>
+        <span begin="02:40.271" end="02:40.601">men</span>
+        <span begin="02:40.601" end="02:40.946">ja</span>
+        <span begin="02:40.946" end="02:41.524">di </span>
+        <span begin="02:41.524" end="02:41.881">ja</span>
+        <span begin="02:41.881" end="02:42.250">wa</span>
+        <span begin="02:42.250" end="02:42.626">ra</span>
       </p>
-      <p begin="02:58.758" end="03:08.034" ttm:agent="v1" itunes:key="L16">
-        <span begin="02:58.758" end="02:59.164">Di</span>
-        <span begin="02:59.290" end="02:59.672">ang</span>
-        <span begin="02:59.836" end="03:00.047">gap </span>
-        <span begin="03:00.185" end="03:00.919">tak </span>
-        <span begin="03:01.145" end="03:01.356">ad</span>
-        <span begin="03:01.468" end="03:08.034">a?</span>
+      <p begin="02:42.894" end="02:48.410" ttm:agent="v1" itunes:key="L28">
+        <span begin="02:42.894" end="02:43.207">Di </span>
+        <span begin="02:43.207" end="02:43.524">lin</span>
+        <span begin="02:43.524" end="02:44.094">ta</span>
+        <span begin="02:44.094" end="02:44.676">san </span>
+        <span begin="02:44.676" end="02:45.804">yang </span>
+        <span begin="02:46.035" end="02:46.403">sa</span>
+        <span begin="02:46.403" end="02:48.410">ma</span>
       </p>
-      <p begin="03:12.015" end="03:21.546" ttm:agent="v1" itunes:key="L17">
-        <span begin="03:12.015" end="03:12.249">Aku </span>
-        <span begin="03:12.525" end="03:12.692">tak </span>
-        <span begin="03:12.900" end="03:13.381">mung</span>
-        <span begin="03:13.524" end="03:13.968">kin </span>
-        <span begin="03:14.173" end="03:14.376">bi</span>
-        <span begin="03:14.485" end="03:15.691">sa </span>
-        <span begin="03:17.122" end="03:17.807">bersaing </span>
-        <span begin="03:18.002" end="03:18.509">me</span>
-        <span begin="03:18.692" end="03:19.381">lawan</span>
-        <span begin="03:19.593" end="03:21.546">nya</span>
+      <p begin="02:48.702" end="02:53.090" ttm:agent="v1" itunes:key="L29">
+        <span begin="02:48.702" end="02:48.949">Ku</span>
+        <span begin="02:48.949" end="02:49.475">at</span>
+        <span begin="02:49.475" end="02:49.892">kah </span>
+        <span begin="02:49.892" end="02:50.478">ku, </span>
+        <span begin="02:50.478" end="02:51.136">Tu</span>
+        <span begin="02:51.136" end="02:53.090">han</span>
       </p>
-      <p begin="03:22.208" end="03:31.992" ttm:agent="v1" itunes:key="L18">
-        <span begin="03:22.208" end="03:22.465">Aku </span>
-        <span begin="03:22.724" end="03:22.943">tak </span>
-        <span begin="03:23.099" end="03:23.659">mung</span>
-        <span begin="03:23.793" end="03:24.124">kin </span>
-        <span begin="03:24.361" end="03:24.587">sang</span>
-        <span begin="03:24.718" end="03:25.675">gup </span>
-        <span begin="03:26.317" end="03:27.533">berbinar </span>
-        <span begin="03:27.652" end="03:27.842">di </span>
-        <span begin="03:27.977" end="03:28.203">da</span>
-        <span begin="03:28.288" end="03:28.999">lam </span>
-        <span begin="03:29.842" end="03:30.439">bayang-</span>
-        <span begin="03:30.794" end="03:31.404">bayang</span>
-        <span begin="03:31.677" end="03:31.992">nya</span>
-        <span begin="03:32.428" end="03:36.660" ttm:role="x-bg">
-          <span begin="03:32.428" end="03:32.832">(Dia </span>
-          <span begin="03:33.004" end="03:33.242">yang </span>
-          <span begin="03:33.392" end="03:34.105">dulu </span>
-          <span begin="03:34.410" end="03:35.170">pernah </span>
-          <span begin="03:35.604" end="03:35.888">sem</span>
-          <span begin="03:36.035" end="03:36.660">purna)</span>
+      <p begin="02:53.740" end="02:58.361" ttm:agent="v1" itunes:key="L30">
+        <span begin="02:53.740" end="02:54.024">Ji</span>
+        <span begin="02:54.024" end="02:54.633">ka </span>
+        <span begin="02:54.633" end="02:54.954">ku </span>
+        <span begin="02:54.954" end="02:55.584">men</span>
+        <span begin="02:55.584" end="02:56.214">cin</span>
+        <span begin="02:56.214" end="02:58.361">ta</span>
+      </p>
+      <p begin="02:58.876" end="03:07.964" ttm:agent="v1" itunes:key="L31">
+        <span begin="02:58.876" end="02:59.122">Di</span>
+        <span begin="02:59.122" end="02:59.721">ang</span>
+        <span begin="02:59.721" end="03:00.073">gap </span>
+        <span begin="03:00.073" end="03:01.001">tak </span>
+        <span begin="03:01.001" end="03:01.356">a</span>
+        <span begin="03:01.356" end="03:07.964">da?</span>
+      </p>
+      <p begin="03:11.934" end="03:15.587" ttm:agent="v1" itunes:key="L32">
+        <span begin="03:11.934" end="03:12.204">A</span>
+        <span begin="03:12.204" end="03:12.502">ku </span>
+        <span begin="03:12.502" end="03:12.848">tak </span>
+        <span begin="03:12.848" end="03:13.461">mung</span>
+        <span begin="03:13.461" end="03:14.087">kin </span>
+        <span begin="03:14.087" end="03:14.421">bi</span>
+        <span begin="03:14.421" end="03:15.587">sa</span>
+      </p>
+      <p begin="03:17.047" end="03:21.504" ttm:agent="v1" itunes:key="L33">
+        <span begin="03:17.047" end="03:17.296">Ber</span>
+        <span begin="03:17.296" end="03:17.631">sa</span>
+        <span begin="03:17.631" end="03:17.934">ing </span>
+        <span begin="03:17.934" end="03:18.550">me</span>
+        <span begin="03:18.550" end="03:19.148">la</span>
+        <span begin="03:19.148" end="03:19.577">wan</span>
+        <span begin="03:19.577" end="03:21.504">nya</span>
+      </p>
+      <p begin="03:22.148" end="03:25.791" ttm:agent="v1" itunes:key="L34">
+        <span begin="03:22.148" end="03:22.385">A</span>
+        <span begin="03:22.385" end="03:22.644">ku </span>
+        <span begin="03:22.644" end="03:22.996">tak </span>
+        <span begin="03:22.996" end="03:23.574">mung</span>
+        <span begin="03:23.574" end="03:24.221">kin </span>
+        <span begin="03:24.221" end="03:24.612">sang</span>
+        <span begin="03:24.612" end="03:25.791">gup</span>
+      </p>
+      <p begin="03:26.293" end="03:32.505" ttm:agent="v1" itunes:key="L35">
+        <span begin="03:26.293" end="03:26.543">Ber</span>
+        <span begin="03:26.543" end="03:26.853">bi</span>
+        <span begin="03:26.853" end="03:27.468">nar </span>
+        <span begin="03:27.468" end="03:27.773">di </span>
+        <span begin="03:27.773" end="03:28.130">da</span>
+        <span begin="03:28.130" end="03:29.282">lam </span>
+        <span begin="03:29.803" end="03:30.193">ba</span>
+        <span begin="03:30.193" end="03:30.723">yang-</span>
+        <span begin="03:30.723" end="03:31.041">ba</span>
+        <span begin="03:31.041" end="03:31.609">yang</span>
+        <span begin="03:31.609" end="03:32.505">nya</span>
+      </p>
+      <p begin="03:36.411" end="03:42.447" ttm:agent="v1" itunes:key="L36">
+        <span begin="03:36.411" end="03:37.083">Sem</span>
+        <span begin="03:37.083" end="03:37.658">pur</span>
+        <span begin="03:37.658" end="03:38.332">na </span>
+        <span begin="03:38.332" end="03:38.962">di </span>
+        <span begin="03:38.962" end="03:39.314">re</span>
+        <span begin="03:39.314" end="03:39.692">lung</span>
+        <span begin="03:39.692" end="03:42.447">mu</span>
+        <span begin="03:32.332" end="03:36.967" ttm:role="x-bg">
+          <span begin="03:32.332" end="03:32.857">(Dia </span>
+          <span begin="03:32.857" end="03:33.187">yang </span>
+          <span begin="03:33.187" end="03:33.862">du</span>
+          <span begin="03:33.862" end="03:34.293">lu, </span>
+          <span begin="03:34.867" end="03:35.162">du</span>
+          <span begin="03:35.162" end="03:35.522">lu </span>
+          <span begin="03:35.522" end="03:35.864">sem</span>
+          <span begin="03:35.864" end="03:36.422">pur</span>
+          <span begin="03:36.422" end="03:36.967">na)</span>
         </span>
       </p>
-      <p begin="03:36.478" end="03:42.417" ttm:agent="v1" itunes:key="L19">
-        <span begin="03:36.478" end="03:36.998">Sem</span>
-        <span begin="03:37.209" end="03:38.225">purna </span>
-        <span begin="03:38.409" end="03:38.799">di </span>
-        <span begin="03:39.129" end="03:39.652">relung</span>
-        <span begin="03:39.787" end="03:42.417">mu</span>
+      <p begin="03:42.564" end="03:46.475" ttm:agent="v1" itunes:key="L37">
+        <span begin="03:42.564" end="03:42.873">Tak </span>
+        <span begin="03:42.873" end="03:43.171">mung</span>
+        <span begin="03:43.171" end="03:43.496">kin </span>
+        <span begin="03:43.496" end="03:43.955">ku </span>
+        <span begin="03:44.172" end="03:44.434">men</span>
+        <span begin="03:44.434" end="03:44.742">ja</span>
+        <span begin="03:44.742" end="03:45.342">di </span>
+        <span begin="03:45.342" end="03:45.721">ja</span>
+        <span begin="03:45.721" end="03:46.062">wa</span>
+        <span begin="03:46.062" end="03:46.475">ra</span>
       </p>
-      <p begin="03:42.627" end="03:55.371" ttm:agent="v1" itunes:key="L20">
-        <span begin="03:42.627" end="03:42.864">Tak </span>
-        <span begin="03:43.003" end="03:43.526">mungkin </span>
-        <span begin="03:43.631" end="03:44.142">ku </span>
-        <span begin="03:44.282" end="03:45.283">menjadi </span>
-        <span begin="03:45.435" end="03:46.505">jawara </span>
-        <span begin="03:46.744" end="03:47.026">di </span>
-        <span begin="03:47.172" end="03:47.804">linta</span>
-        <span begin="03:48.012" end="03:48.326">san </span>
-        <span begin="03:48.610" end="03:49.232">yang </span>
-        <span begin="03:49.938" end="03:50.139">sa</span>
-        <span begin="03:50.322" end="03:55.371">ma</span>
-        <span begin="03:52.502" end="04:02.916" ttm:role="x-bg">
-          <span begin="03:52.502" end="03:53.221">(Kuat</span>
-          <span begin="03:53.423" end="03:53.678">kah </span>
-          <span begin="03:53.797" end="03:54.193">ku, </span>
-          <span begin="03:54.414" end="03:54.818">Tu</span>
-          <span begin="03:55.023" end="03:57.167">han, </span>
-          <span begin="03:57.609" end="03:58.309">jika </span>
-          <span begin="03:58.521" end="03:58.795">ku </span>
-          <span begin="03:58.946" end="03:59.384">men</span>
-          <span begin="03:59.573" end="04:00.001">cin</span>
-          <span begin="04:02.916" end="04:02.916">ta?)</span>
+      <p begin="03:46.707" end="03:54.919" ttm:agent="v1" itunes:key="L38">
+        <span begin="03:46.707" end="03:46.992">Di </span>
+        <span begin="03:46.992" end="03:47.299">lin</span>
+        <span begin="03:47.299" end="03:47.869">ta</span>
+        <span begin="03:47.869" end="03:48.447">san </span>
+        <span begin="03:48.447" end="03:49.377">yang </span>
+        <span begin="03:49.849" end="03:50.198">sa</span>
+        <span begin="03:50.198" end="03:54.919">ma</span>
+        <span begin="03:52.445" end="03:56.765" ttm:role="x-bg">
+          <span begin="03:52.445" end="03:52.738">(Ku</span>
+          <span begin="03:52.738" end="03:53.293">at</span>
+          <span begin="03:53.293" end="03:53.675">kah </span>
+          <span begin="03:53.675" end="03:54.290">ku, </span>
+          <span begin="03:54.290" end="03:54.958">Tu</span>
+          <span begin="03:54.958" end="03:56.765">han)</span>
         </span>
       </p>
-      <p begin="04:01.772" end="04:10.955" ttm:agent="v1" itunes:key="L21">
-        <span begin="04:01.772" end="04:02.414">Di </span>
-        <span begin="04:03.035" end="04:03.425">lin</span>
-        <span begin="04:03.622" end="04:03.887">tas</span>
-        <span begin="04:03.965" end="04:04.359">an </span>
-        <span begin="04:04.509" end="04:05.241">yang </span>
-        <span begin="04:07.163" end="04:08.185">sa</span>
-        <span begin="04:08.277" end="04:10.955">ma</span>
+      <p begin="04:01.700" end="04:10.895" ttm:agent="v1" itunes:key="L39">
+        <span begin="04:01.700" end="04:02.525">Di </span>
+        <span begin="04:02.998" end="04:03.523">lin</span>
+        <span begin="04:03.523" end="04:03.853">ta</span>
+        <span begin="04:03.853" end="04:04.415">san </span>
+        <span begin="04:04.415" end="04:05.413">yang </span>
+        <span begin="04:07.093" end="04:08.247">sa</span>
+        <span begin="04:08.247" end="04:10.895">ma</span>
+        <span begin="03:57.553" end="04:02.398" ttm:role="x-bg">
+          <span begin="03:57.553" end="03:57.838">(Ji</span>
+          <span begin="03:57.838" end="03:58.408">ka </span>
+          <span begin="03:58.408" end="03:58.813">ku </span>
+          <span begin="03:58.813" end="03:59.458">men</span>
+          <span begin="03:59.458" end="04:00.088">cin</span>
+          <span begin="04:00.088" end="04:02.398">ta?)</span>
+        </span>
       </p>
     </div>
   </body>
