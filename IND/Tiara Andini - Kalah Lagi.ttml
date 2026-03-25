@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:amll="http://www.example.com/ns/amll" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+<tt itunes:timing="Word" xmlns="http://www.w3.org/ns/ttml" xmlns:amll="http://www.example.com/ns/amll" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling">
   <head>
     <metadata>
       <ttm:agent type="person" xml:id="v1"/>
@@ -255,10 +255,15 @@
         <span begin="02:58.903" end="02:59.257">di</span>
         <span begin="02:59.257" end="02:59.657">ri</span>
         <span begin="02:59.657" end="03:01.832">nya</span>
-        <span begin="02:51.144" end="02:52.312" ttm:role="x-bg">
-          <span begin="02:51.144" end="02:51.541">(Ha</span>
-          <span begin="02:51.541" end="02:51.910">ti</span>
-          <span begin="02:51.910" end="02:52.312">mu)</span>
+        <span begin="02:49.350" end="02:52.312" ttm:role="x-bg">
+          <span begin="02:49.350" end="02:49.597">(Yang </span>
+          <span begin="02:49.597" end="02:49.755">tu</span>
+          <span begin="02:49.755" end="02:50.190">lus </span>
+          <span begin="02:50.190" end="02:50.625">da</span>
+          <span begin="02:50.625" end="02:51.075">ri </span>
+          <span begin="02:51.075" end="02:51.503">ha</span>
+          <span begin="02:51.503" end="02:51.945">ti</span>
+          <span begin="02:51.945" end="02:52.312">mu)</span>
         </span>
       </p>
       <p begin="03:03.147" end="03:09.551" ttm:agent="v1" itunes:key="L22">

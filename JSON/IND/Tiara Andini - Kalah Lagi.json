@@ -2256,12 +2256,62 @@
       "agent": "v1",
       "key": "L21",
       "backgroundVocal": {
-        "text": "(Hatimu)",
+        "text": "(Yang tulus dari hatimu)",
         "words": [
           {
-            "text": "(Ha",
-            "begin": 171.144,
-            "end": 171.541,
+            "text": "(Yang",
+            "begin": 169.35,
+            "end": 169.597,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "tu",
+            "begin": 169.597,
+            "end": 169.755,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "lus",
+            "begin": 169.755,
+            "end": 170.19,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "da",
+            "begin": 170.19,
+            "end": 170.625,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          },
+          {
+            "text": "ri",
+            "begin": 170.625,
+            "end": 171.075,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "ha",
+            "begin": 171.075,
+            "end": 171.503,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
@@ -2270,8 +2320,8 @@
           },
           {
             "text": "ti",
-            "begin": 171.541,
-            "end": 171.91,
+            "begin": 171.503,
+            "end": 171.945,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
@@ -2280,7 +2330,7 @@
           },
           {
             "text": "mu)",
-            "begin": 171.91,
+            "begin": 171.945,
             "end": 172.312,
             "isBackground": true,
             "isTranslation": false,
