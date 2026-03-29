@@ -1,0 +1,5062 @@
+{
+  "metadata": {
+    "agents": [
+      {
+        "id": "v1",
+        "type": "person"
+      }
+    ],
+    "artist": "Neck Deep",
+    "title": "December",
+    "sourceFile": "Neck Deep - December.ttml"
+  },
+  "duration": 213.168,
+  "lines": [
+    {
+      "begin": 5.278,
+      "end": 8.503,
+      "text": "Stumbled 'round the block a thousand times",
+      "words": [
+        {
+          "text": "Stumbled",
+          "begin": 5.278,
+          "end": 5.721,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "'round",
+          "begin": 5.721,
+          "end": 6.172,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 6.172,
+          "end": 6.591,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "block",
+          "begin": 6.591,
+          "end": 7.02,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 7.02,
+          "end": 7.453,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thou",
+          "begin": 7.453,
+          "end": 7.721,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sand",
+          "begin": 7.721,
+          "end": 8.121,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "times",
+          "begin": 8.121,
+          "end": 8.503,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L1",
+      "translation": "Ribuan kali aku bolak-balik tidak jelas di sekitar sini"
+    },
+    {
+      "begin": 8.503,
+      "end": 11.766,
+      "text": "You missed every call that I had tried",
+      "words": [
+        {
+          "text": "You",
+          "begin": 8.503,
+          "end": 8.713,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "missed",
+          "begin": 8.713,
+          "end": 9.103,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "every",
+          "begin": 9.103,
+          "end": 9.758,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "call",
+          "begin": 9.758,
+          "end": 10.318,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 10.318,
+          "end": 10.59,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 10.59,
+          "end": 10.941,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "had",
+          "begin": 10.941,
+          "end": 11.391,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "tried",
+          "begin": 11.391,
+          "end": 11.766,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L2",
+      "translation": "Kamu abaikan semua panggilan yang aku coba lakukan"
+    },
+    {
+      "begin": 11.766,
+      "end": 13.221,
+      "text": "So now I'm giving up",
+      "words": [
+        {
+          "text": "So",
+          "begin": 11.766,
+          "end": 12.014,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "now",
+          "begin": 12.014,
+          "end": 12.195,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 12.195,
+          "end": 12.442,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "giving",
+          "begin": 12.442,
+          "end": 12.824,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "up",
+          "begin": 12.824,
+          "end": 13.221,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L3",
+      "translation": "Jadi sekarang, aku menyerah"
+    },
+    {
+      "begin": 13.499,
+      "end": 16.334,
+      "text": "A heartbreak in mid-December",
+      "words": [
+        {
+          "text": "A",
+          "begin": 13.499,
+          "end": 13.686,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "heart",
+          "begin": 13.686,
+          "end": 14.054,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "break",
+          "begin": 14.054,
+          "end": 14.497,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 14.497,
+          "end": 14.728,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mid-",
+          "begin": 14.728,
+          "end": 15.086,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "De",
+          "begin": 15.086,
+          "end": 15.462,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "cem",
+          "begin": 15.462,
+          "end": 15.906,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 15.906,
+          "end": 16.334,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L4",
+      "translation": "Pertengahan Desember yang meruntuhkan jiwa"
+    },
+    {
+      "begin": 16.334,
+      "end": 17.798,
+      "text": "You don't give a fuck",
+      "words": [
+        {
+          "text": "You",
+          "begin": 16.334,
+          "end": 16.566,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "don't",
+          "begin": 16.566,
+          "end": 16.821,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "give",
+          "begin": 16.821,
+          "end": 17.091,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 17.091,
+          "end": 17.316,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "fuck",
+          "begin": 17.316,
+          "end": 17.798,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L5",
+      "translation": "Kamu tak peduli sedikit pun"
+    },
+    {
+      "begin": 18.091,
+      "end": 20.221,
+      "text": "You'd never remember me",
+      "words": [
+        {
+          "text": "You'd",
+          "begin": 18.091,
+          "end": 18.255,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "never",
+          "begin": 18.255,
+          "end": 18.804,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "re",
+          "begin": 18.804,
+          "end": 19.059,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mem",
+          "begin": 19.059,
+          "end": 19.358,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 19.358,
+          "end": 19.661,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 19.661,
+          "end": 20.221,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L6",
+      "translation": "Kamu bahkan tak akan pernah mengingatku lagi"
+    },
+    {
+      "begin": 20.746,
+      "end": 23.566,
+      "text": "While you're pulling on his jeans",
+      "words": [
+        {
+          "text": "While",
+          "begin": 20.746,
+          "end": 21.068,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you're",
+          "begin": 21.068,
+          "end": 21.563,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "pulling",
+          "begin": 21.563,
+          "end": 22.141,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 22.141,
+          "end": 22.55,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "his",
+          "begin": 22.55,
+          "end": 22.958,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "jeans",
+          "begin": 22.958,
+          "end": 23.566,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L7",
+      "translation": "Ketika kau larut dalam bayangannya"
+    },
+    {
+      "begin": 24.012,
+      "end": 27.736,
+      "text": "Getting lost in the big city",
+      "words": [
+        {
+          "text": "Getting",
+          "begin": 24.012,
+          "end": 24.623,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lost",
+          "begin": 24.623,
+          "end": 25.043,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 25.043,
+          "end": 25.45,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 25.45,
+          "end": 25.675,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "big",
+          "begin": 25.675,
+          "end": 26.041,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ci",
+          "begin": 26.041,
+          "end": 26.903,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ty",
+          "begin": 26.903,
+          "end": 27.736,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L8",
+      "translation": "Terjerat dalam riuh yang tak mengenal hening"
+    },
+    {
+      "begin": 27.736,
+      "end": 30.584,
+      "text": "I was looking out our window",
+      "words": [
+        {
+          "text": "I",
+          "begin": 27.736,
+          "end": 27.968,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 27.968,
+          "end": 28.237,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "look",
+          "begin": 28.237,
+          "end": 28.426,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ing",
+          "begin": 28.426,
+          "end": 28.816,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "out",
+          "begin": 28.816,
+          "end": 29.146,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "our",
+          "begin": 29.146,
+          "end": 29.566,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "win",
+          "begin": 29.566,
+          "end": 29.986,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "dow",
+          "begin": 29.986,
+          "end": 30.584,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L9",
+      "translation": "Aku menatap keluar jendela"
+    },
+    {
+      "begin": 31.495,
+      "end": 34.337,
+      "text": "Watching all the cars go",
+      "words": [
+        {
+          "text": "Watch",
+          "begin": 31.495,
+          "end": 31.697,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ing",
+          "begin": 31.697,
+          "end": 32.08,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "all",
+          "begin": 32.08,
+          "end": 32.672,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 32.672,
+          "end": 32.935,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cars",
+          "begin": 32.935,
+          "end": 33.43,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "go",
+          "begin": 33.43,
+          "end": 34.337,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L10",
+      "translation": "Hiruk-pikuk kota menelan kesunyian"
+    },
+    {
+      "begin": 34.337,
+      "end": 37.39,
+      "text": "Wondering if I'll see Chicago",
+      "words": [
+        {
+          "text": "Wondering",
+          "begin": 34.337,
+          "end": 34.69,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 34.69,
+          "end": 34.982,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'll",
+          "begin": 34.982,
+          "end": 35.327,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "see",
+          "begin": 35.327,
+          "end": 35.942,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "Chi",
+          "begin": 35.942,
+          "end": 36.182,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ca",
+          "begin": 36.182,
+          "end": 36.647,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "go",
+          "begin": 36.647,
+          "end": 37.39,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L11",
+      "translation": "Penuh tanya apakah aku akan sampai"
+    },
+    {
+      "begin": 37.717,
+      "end": 40.884,
+      "text": "Or a sunset on the west coast",
+      "words": [
+        {
+          "text": "Or",
+          "begin": 37.717,
+          "end": 37.927,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 37.927,
+          "end": 38.122,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sun",
+          "begin": 38.122,
+          "end": 38.49,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "set",
+          "begin": 38.49,
+          "end": 38.907,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 38.907,
+          "end": 39.315,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 39.315,
+          "end": 39.562,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "west",
+          "begin": 39.562,
+          "end": 40.118,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "coast",
+          "begin": 40.118,
+          "end": 40.884,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L12",
+      "translation": "Atau sekadar melihat senja di barat"
+    },
+    {
+      "begin": 41.264,
+      "end": 44.129,
+      "text": "Or will I die in the cold?",
+      "words": [
+        {
+          "text": "Or",
+          "begin": 41.264,
+          "end": 41.392,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "will",
+          "begin": 41.392,
+          "end": 41.645,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 41.645,
+          "end": 41.969,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "die",
+          "begin": 41.969,
+          "end": 42.397,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 42.397,
+          "end": 42.824,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 42.824,
+          "end": 43.217,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "cold?",
+          "begin": 43.217,
+          "end": 44.129,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L13",
+      "translation": "Atau aku bakal mati di tengah kedinginan ini?"
+    },
+    {
+      "begin": 44.696,
+      "end": 47.515,
+      "text": "Feeling blue and alone",
+      "words": [
+        {
+          "text": "Feeling",
+          "begin": 44.696,
+          "end": 45.3,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "blue",
+          "begin": 45.3,
+          "end": 45.689,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 45.689,
+          "end": 46.094,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "alone",
+          "begin": 46.094,
+          "end": 47.515,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L14",
+      "translation": "Merasa sedih dan kesepian"
+    },
+    {
+      "begin": 47.813,
+      "end": 53.969,
+      "text": "I wonder if you'll ever hear this song on your stereo",
+      "words": [
+        {
+          "text": "I",
+          "begin": 47.813,
+          "end": 48.024,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wonder",
+          "begin": 48.024,
+          "end": 48.611,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "if",
+          "begin": 48.611,
+          "end": 49.011,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'll",
+          "begin": 49.011,
+          "end": 49.631,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ever",
+          "begin": 49.631,
+          "end": 50.243,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hear",
+          "begin": 50.243,
+          "end": 50.654,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "this",
+          "begin": 50.654,
+          "end": 51.261,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "song",
+          "begin": 51.261,
+          "end": 51.691,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 51.691,
+          "end": 51.974,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 51.974,
+          "end": 52.229,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ste",
+          "begin": 52.229,
+          "end": 52.671,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "reo",
+          "begin": 52.671,
+          "end": 53.969,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L15",
+      "translation": "Aku bertanya, apakah kau akan mendengar suaraku di antara kebisingan"
+    },
+    {
+      "begin": 53.586,
+      "end": 56.819,
+      "text": "I hope you get your ballroom floor",
+      "words": [
+        {
+          "text": "I",
+          "begin": 53.586,
+          "end": 53.765,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hope",
+          "begin": 53.765,
+          "end": 54.036,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 54.036,
+          "end": 54.383,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "get",
+          "begin": 54.383,
+          "end": 54.771,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 54.771,
+          "end": 55.169,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ball",
+          "begin": 55.169,
+          "end": 55.572,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "room",
+          "begin": 55.572,
+          "end": 56.031,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "floor",
+          "begin": 56.031,
+          "end": 56.819,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L16",
+      "translation": "Aku harap kau dapatkan segalanya"
+    },
+    {
+      "begin": 56.916,
+      "end": 60.141,
+      "text": "Your perfect house with rose red doors",
+      "words": [
+        {
+          "text": "Your",
+          "begin": 56.916,
+          "end": 57.114,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "per",
+          "begin": 57.114,
+          "end": 57.381,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fect",
+          "begin": 57.381,
+          "end": 57.711,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "house",
+          "begin": 57.711,
+          "end": 58.086,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 58.086,
+          "end": 58.484,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rose",
+          "begin": 58.484,
+          "end": 58.917,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "red",
+          "begin": 58.917,
+          "end": 59.354,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "doors",
+          "begin": 59.354,
+          "end": 60.141,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L17",
+      "translation": "Rumah impian dengan pintu merah itu"
+    },
+    {
+      "begin": 60.411,
+      "end": 63.501,
+      "text": "I'm the last thing you'd remember",
+      "words": [
+        {
+          "text": "I'm",
+          "begin": 60.411,
+          "end": 60.815,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 60.815,
+          "end": 61.026,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "last",
+          "begin": 61.026,
+          "end": 61.413,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thing",
+          "begin": 61.413,
+          "end": 61.814,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'd",
+          "begin": 61.814,
+          "end": 62.478,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "re",
+          "begin": 62.478,
+          "end": 62.751,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mem",
+          "begin": 62.751,
+          "end": 63.119,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 63.119,
+          "end": 63.501,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L18",
+      "translation": "Aku jadi kenangan terakhir yang tersisa"
+    },
+    {
+      "begin": 63.501,
+      "end": 66.841,
+      "text": "It's been a long, lonely December",
+      "words": [
+        {
+          "text": "It's",
+          "begin": 63.501,
+          "end": 63.711,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "been",
+          "begin": 63.711,
+          "end": 63.966,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 63.966,
+          "end": 64.274,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long,",
+          "begin": 64.274,
+          "end": 64.746,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lone",
+          "begin": 64.746,
+          "end": 65.159,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 65.159,
+          "end": 65.734,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "De",
+          "begin": 65.734,
+          "end": 65.974,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "cem",
+          "begin": 65.974,
+          "end": 66.389,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 66.389,
+          "end": 66.841,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L19",
+      "translation": "Desember ini terasa panjang dan sunyi"
+    },
+    {
+      "begin": 66.841,
+      "end": 69.996,
+      "text": "I wish I'd known that less is more",
+      "words": [
+        {
+          "text": "I",
+          "begin": 66.841,
+          "end": 67.056,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 67.056,
+          "end": 67.289,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'd",
+          "begin": 67.289,
+          "end": 67.611,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "known",
+          "begin": 67.611,
+          "end": 68.001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 68.001,
+          "end": 68.42,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "less",
+          "begin": 68.42,
+          "end": 68.856,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 68.856,
+          "end": 69.261,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "more",
+          "begin": 69.261,
+          "end": 69.996,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L20",
+      "translation": "Aku harap dulu kusadari arti sederhana"
+    },
+    {
+      "begin": 70.176,
+      "end": 73.281,
+      "text": "But I was passed out on the floor",
+      "words": [
+        {
+          "text": "But",
+          "begin": 70.176,
+          "end": 70.331,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 70.331,
+          "end": 70.484,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 70.484,
+          "end": 70.971,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "passed",
+          "begin": 70.971,
+          "end": 71.331,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "out",
+          "begin": 71.331,
+          "end": 71.772,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 71.772,
+          "end": 72.17099999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 72.17099999999999,
+          "end": 72.539,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "floor",
+          "begin": 72.539,
+          "end": 73.281,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L21",
+      "translation": "Namun aku jatuh, tak berdaya"
+    },
+    {
+      "begin": 73.536,
+      "end": 76.71600000000001,
+      "text": "And that's the last thing I remember",
+      "words": [
+        {
+          "text": "And",
+          "begin": 73.536,
+          "end": 73.656,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that's",
+          "begin": 73.656,
+          "end": 74.054,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 74.054,
+          "end": 74.249,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "last",
+          "begin": 74.249,
+          "end": 74.72,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thing",
+          "begin": 74.72,
+          "end": 75.111,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 75.111,
+          "end": 75.69200000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "re",
+          "begin": 75.69200000000001,
+          "end": 75.974,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mem",
+          "begin": 75.974,
+          "end": 76.349,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 76.349,
+          "end": 76.71600000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L22",
+      "translation": "Itu jadi akhir ingatanku"
+    },
+    {
+      "begin": 76.71600000000001,
+      "end": 80.729,
+      "text": "It's been a long, lonely December",
+      "words": [
+        {
+          "text": "It's",
+          "begin": 76.71600000000001,
+          "end": 76.949,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "been",
+          "begin": 76.949,
+          "end": 77.20400000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 77.20400000000001,
+          "end": 77.556,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long,",
+          "begin": 77.556,
+          "end": 77.99,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lone",
+          "begin": 77.99,
+          "end": 78.381,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 78.381,
+          "end": 78.996,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "De",
+          "begin": 78.996,
+          "end": 79.26599999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "cem",
+          "begin": 79.26599999999999,
+          "end": 79.619,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 79.619,
+          "end": 80.729,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L23",
+      "translation": "Desember ini terasa panjang dan sunyi"
+    },
+    {
+      "begin": 79.85900000000001,
+      "end": 84.554,
+      "text": "Cast me aside to show yourself in a better light",
+      "words": [
+        {
+          "text": "Cast",
+          "begin": 79.85900000000001,
+          "end": 80.211,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 80.211,
+          "end": 80.46600000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "aside",
+          "begin": 80.46600000000001,
+          "end": 81.28399999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 81.28399999999999,
+          "end": 81.644,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "show",
+          "begin": 81.644,
+          "end": 82.049,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 82.049,
+          "end": 82.649,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "self",
+          "begin": 82.649,
+          "end": 83.114,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 83.114,
+          "end": 83.339,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 83.339,
+          "end": 83.489,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "better",
+          "begin": 83.489,
+          "end": 83.916,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "light",
+          "begin": 83.916,
+          "end": 84.554,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L24",
+      "translation": "Kau lepaskan aku demi bayanganmu sendiri"
+    },
+    {
+      "begin": 84.644,
+      "end": 91.449,
+      "text": "I came out grieving, barely breathing, and you came out alright",
+      "words": [
+        {
+          "text": "I",
+          "begin": 84.644,
+          "end": 84.981,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "came",
+          "begin": 84.981,
+          "end": 85.37,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "out",
+          "begin": 85.37,
+          "end": 85.791,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "grie",
+          "begin": 85.791,
+          "end": 86.279,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ving,",
+          "begin": 86.279,
+          "end": 86.622,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "bare",
+          "begin": 86.622,
+          "end": 87.06700000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 87.06700000000001,
+          "end": 87.517,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "brea",
+          "begin": 87.517,
+          "end": 87.982,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "thing,",
+          "begin": 87.982,
+          "end": 88.357,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "and",
+          "begin": 88.357,
+          "end": 88.661,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 88.661,
+          "end": 89.319,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "came",
+          "begin": 89.319,
+          "end": 89.78399999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "out",
+          "begin": 89.78399999999999,
+          "end": 90.197,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "alright",
+          "begin": 90.197,
+          "end": 91.449,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L25",
+      "translation": "Aku hancur sesak dalam duka dan kau pergi tanpa luka"
+    },
+    {
+      "begin": 91.791,
+      "end": 94.896,
+      "text": "But I'm sure you'll take his hand",
+      "words": [
+        {
+          "text": "But",
+          "begin": 91.791,
+          "end": 92.009,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'm",
+          "begin": 92.009,
+          "end": 92.39099999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "sure",
+          "begin": 92.39099999999999,
+          "end": 92.87100000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'll",
+          "begin": 92.87100000000001,
+          "end": 93.261,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "take",
+          "begin": 93.261,
+          "end": 93.681,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "his",
+          "begin": 93.681,
+          "end": 94.101,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hand",
+          "begin": 94.101,
+          "end": 94.896,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L26",
+      "translation": "Aku tahu kau akan memilihnya"
+    },
+    {
+      "begin": 95.076,
+      "end": 98.408,
+      "text": "I hope he's better than I ever could've been",
+      "words": [
+        {
+          "text": "I",
+          "begin": 95.076,
+          "end": 95.188,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hope",
+          "begin": 95.188,
+          "end": 95.413,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "he's",
+          "begin": 95.413,
+          "end": 95.804,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "better",
+          "begin": 95.804,
+          "end": 96.343,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "than",
+          "begin": 96.343,
+          "end": 96.606,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 96.606,
+          "end": 96.831,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ever",
+          "begin": 96.831,
+          "end": 97.393,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "could've",
+          "begin": 97.393,
+          "end": 97.828,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "been",
+          "begin": 97.828,
+          "end": 98.408,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L27",
+      "translation": "Aku harap dia lebih baik dariku"
+    },
+    {
+      "begin": 98.408,
+      "end": 101.67,
+      "text": "My mistakes were not intentions",
+      "words": [
+        {
+          "text": "My",
+          "begin": 98.408,
+          "end": 98.82900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "mis",
+          "begin": 98.82900000000001,
+          "end": 99.062,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "takes",
+          "begin": 99.062,
+          "end": 99.488,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "were",
+          "begin": 99.488,
+          "end": 99.917,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "not",
+          "begin": 99.917,
+          "end": 100.314,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 100.314,
+          "end": 100.73400000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ten",
+          "begin": 100.73400000000001,
+          "end": 101.13900000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "tions",
+          "begin": 101.13900000000001,
+          "end": 101.67,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L28",
+      "translation": "Kesalahanku bukanlah niat buruk"
+    },
+    {
+      "begin": 101.67,
+      "end": 107.372,
+      "text": "This is a list of my confessions I couldn't say",
+      "words": [
+        {
+          "text": "This",
+          "begin": 101.67,
+          "end": 101.878,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 101.878,
+          "end": 102.15,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 102.15,
+          "end": 102.42,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "list",
+          "begin": 102.42,
+          "end": 102.787,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 102.787,
+          "end": 103.245,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 103.245,
+          "end": 103.59700000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "con",
+          "begin": 103.59700000000001,
+          "end": 103.995,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fes",
+          "begin": 103.995,
+          "end": 104.38499999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "sions",
+          "begin": 104.38499999999999,
+          "end": 104.827,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 104.827,
+          "end": 105.11699999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "couldn't",
+          "begin": 105.11699999999999,
+          "end": 106.14,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "say",
+          "begin": 106.14,
+          "end": 107.372,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L29",
+      "translation": "Ini pengakuan terakhir yang tak terucap"
+    },
+    {
+      "begin": 114.66,
+      "end": 121.091,
+      "text": "Pain is never permanent, but tonight it's killing me",
+      "words": [
+        {
+          "text": "Pain",
+          "begin": 114.66,
+          "end": 114.825,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 114.825,
+          "end": 115.05799999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ne",
+          "begin": 115.05799999999999,
+          "end": 115.245,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ver",
+          "begin": 115.245,
+          "end": 115.613,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "per",
+          "begin": 115.613,
+          "end": 116.048,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ma",
+          "begin": 116.048,
+          "end": 116.408,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "nent,",
+          "begin": 116.408,
+          "end": 116.82,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "but",
+          "begin": 116.82,
+          "end": 117.263,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "to",
+          "begin": 117.263,
+          "end": 117.45,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "night",
+          "begin": 117.45,
+          "end": 117.908,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "it's",
+          "begin": 117.908,
+          "end": 118.327,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "killing",
+          "begin": 118.327,
+          "end": 118.71000000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "me",
+          "begin": 118.71000000000001,
+          "end": 121.091,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L30",
+      "translation": "Rasa sakit tak selamanya, tapi malam ini seakan membunuhku"
+    },
+    {
+      "begin": 119.745,
+      "end": 123.03,
+      "text": "I hope you get your ballroom floor",
+      "words": [
+        {
+          "text": "I",
+          "begin": 119.745,
+          "end": 119.963,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hope",
+          "begin": 119.963,
+          "end": 120.254,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 120.254,
+          "end": 120.594,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "get",
+          "begin": 120.594,
+          "end": 120.972,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 120.972,
+          "end": 121.38,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ball",
+          "begin": 121.38,
+          "end": 121.805,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "room",
+          "begin": 121.805,
+          "end": 122.25,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "floor",
+          "begin": 122.25,
+          "end": 123.03,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L31",
+      "translation": "Aku harap kau dapatkan segalanya"
+    },
+    {
+      "begin": 123.188,
+      "end": 126.32300000000001,
+      "text": "Your perfect house with rose red doors",
+      "words": [
+        {
+          "text": "Your",
+          "begin": 123.188,
+          "end": 123.323,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "per",
+          "begin": 123.323,
+          "end": 123.63,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fect",
+          "begin": 123.63,
+          "end": 123.951,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "house",
+          "begin": 123.951,
+          "end": 124.35,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 124.35,
+          "end": 124.733,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rose",
+          "begin": 124.733,
+          "end": 125.153,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "red",
+          "begin": 125.153,
+          "end": 125.55799999999999,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "doors",
+          "begin": 125.55799999999999,
+          "end": 126.32300000000001,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L32",
+      "translation": "Rumah impian dengan pintu merah itu"
+    },
+    {
+      "begin": 126.632,
+      "end": 129.698,
+      "text": "I'm the last thing you'd remember",
+      "words": [
+        {
+          "text": "I'm",
+          "begin": 126.632,
+          "end": 127.005,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 127.005,
+          "end": 127.223,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "last",
+          "begin": 127.223,
+          "end": 127.628,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thing",
+          "begin": 127.628,
+          "end": 128.018,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'd",
+          "begin": 128.018,
+          "end": 128.7,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "re",
+          "begin": 128.7,
+          "end": 128.94,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mem",
+          "begin": 128.94,
+          "end": 129.308,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 129.308,
+          "end": 129.698,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L33",
+      "translation": "Aku jadi kenangan terakhir yang tersisa"
+    },
+    {
+      "begin": 129.698,
+      "end": 133.035,
+      "text": "It's been a long, lonely December",
+      "words": [
+        {
+          "text": "It's",
+          "begin": 129.698,
+          "end": 129.908,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "been",
+          "begin": 129.908,
+          "end": 130.155,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 130.155,
+          "end": 130.553,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long,",
+          "begin": 130.553,
+          "end": 130.98,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lone",
+          "begin": 130.98,
+          "end": 131.37,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 131.37,
+          "end": 131.918,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "De",
+          "begin": 131.918,
+          "end": 132.218,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "cem",
+          "begin": 132.218,
+          "end": 132.602,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 132.602,
+          "end": 133.035,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L34",
+      "translation": "Desember ini terasa panjang dan sunyi"
+    },
+    {
+      "begin": 133.035,
+      "end": 136.202,
+      "text": "I wish I'd known that less is more",
+      "words": [
+        {
+          "text": "I",
+          "begin": 133.035,
+          "end": 133.221,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 133.221,
+          "end": 133.451,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'd",
+          "begin": 133.451,
+          "end": 133.838,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "known",
+          "begin": 133.838,
+          "end": 134.235,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 134.235,
+          "end": 134.618,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "less",
+          "begin": 134.618,
+          "end": 135.053,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 135.053,
+          "end": 135.495,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "more",
+          "begin": 135.495,
+          "end": 136.202,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L35",
+      "translation": "Aku harap dulu kusadari arti sederhana"
+    },
+    {
+      "begin": 136.403,
+      "end": 139.5,
+      "text": "But I was passed out on the floor",
+      "words": [
+        {
+          "text": "But",
+          "begin": 136.403,
+          "end": 136.561,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 136.561,
+          "end": 136.703,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 136.703,
+          "end": 137.145,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "passed",
+          "begin": 137.145,
+          "end": 137.49,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "out",
+          "begin": 137.49,
+          "end": 137.948,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 137.948,
+          "end": 138.377,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 138.377,
+          "end": 138.81,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "floor",
+          "begin": 138.81,
+          "end": 139.5,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L36",
+      "translation": "Namun aku jatuh, tak berdaya"
+    },
+    {
+      "begin": 139.733,
+      "end": 142.913,
+      "text": "And that's the last thing I remember",
+      "words": [
+        {
+          "text": "And",
+          "begin": 139.733,
+          "end": 139.875,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that's",
+          "begin": 139.875,
+          "end": 140.258,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 140.258,
+          "end": 140.49,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "last",
+          "begin": 140.49,
+          "end": 140.926,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thing",
+          "begin": 140.926,
+          "end": 141.346,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 141.346,
+          "end": 141.946,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "re",
+          "begin": 141.946,
+          "end": 142.201,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mem",
+          "begin": 142.201,
+          "end": 142.572,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 142.572,
+          "end": 142.913,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L37",
+      "translation": "Itu jadi akhir ingatanku"
+    },
+    {
+      "begin": 142.913,
+      "end": 146.933,
+      "text": "It's been a long, lonely December",
+      "words": [
+        {
+          "text": "It's",
+          "begin": 142.913,
+          "end": 143.14600000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "been",
+          "begin": 143.14600000000002,
+          "end": 143.468,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 143.468,
+          "end": 143.828,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long,",
+          "begin": 143.828,
+          "end": 144.226,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lone",
+          "begin": 144.226,
+          "end": 144.633,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 144.633,
+          "end": 145.228,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "De",
+          "begin": 145.228,
+          "end": 145.488,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "cem",
+          "begin": 145.488,
+          "end": 145.861,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 145.861,
+          "end": 146.933,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L38",
+      "translation": "Desember ini terasa panjang dan sunyi"
+    },
+    {
+      "begin": 159.546,
+      "end": 162.481,
+      "text": "I miss your face, you're in my head",
+      "words": [
+        {
+          "text": "I",
+          "begin": 159.546,
+          "end": 159.756,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miss",
+          "begin": 159.756,
+          "end": 160.003,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 160.003,
+          "end": 160.348,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "face,",
+          "begin": 160.348,
+          "end": 160.986,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you're",
+          "begin": 160.986,
+          "end": 161.308,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 161.308,
+          "end": 161.601,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 161.601,
+          "end": 161.953,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "head",
+          "begin": 161.953,
+          "end": 162.481,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L39",
+      "translation": "Aku rindu dirimu, terus bergema di pikiranku"
+    },
+    {
+      "begin": 162.63400000000001,
+      "end": 165.677,
+      "text": "There's so many things that I should've said",
+      "words": [
+        {
+          "text": "There's",
+          "begin": 162.63400000000001,
+          "end": 162.84199999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 162.84199999999998,
+          "end": 163.037,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "many",
+          "begin": 163.037,
+          "end": 163.57999999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "things",
+          "begin": 163.57999999999998,
+          "end": 164.267,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 164.267,
+          "end": 164.484,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 164.484,
+          "end": 164.68099999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "should've",
+          "begin": 164.68099999999998,
+          "end": 165.04399999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "said",
+          "begin": 165.04399999999998,
+          "end": 165.677,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L40",
+      "translation": "Banyak hal yang tak sempat terucap"
+    },
+    {
+      "begin": 166.202,
+      "end": 171.617,
+      "text": "A year of suffering, a lesson learned",
+      "words": [
+        {
+          "text": "A",
+          "begin": 166.202,
+          "end": 166.314,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "year",
+          "begin": 166.314,
+          "end": 166.577,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 166.577,
+          "end": 166.945,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "suf",
+          "begin": 166.945,
+          "end": 167.28199999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fering,",
+          "begin": 167.28199999999998,
+          "end": 167.69400000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 167.69400000000002,
+          "end": 167.958,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lesson",
+          "begin": 167.958,
+          "end": 169.202,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "learned",
+          "begin": 169.202,
+          "end": 171.617,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L41",
+      "translation": "Setahun penuh luka, jadi pelajaran yang tak ternilai"
+    },
+    {
+      "begin": 172.79399999999998,
+      "end": 175.862,
+      "text": "I miss your face, you're in my head",
+      "words": [
+        {
+          "text": "I",
+          "begin": 172.79399999999998,
+          "end": 172.982,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "miss",
+          "begin": 172.982,
+          "end": 173.222,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 173.222,
+          "end": 173.574,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "face,",
+          "begin": 173.574,
+          "end": 174.399,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you're",
+          "begin": 174.399,
+          "end": 174.624,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "in",
+          "begin": 174.624,
+          "end": 174.849,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "my",
+          "begin": 174.849,
+          "end": 175.202,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "head",
+          "begin": 175.202,
+          "end": 175.862,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L42",
+      "translation": "Aku rindu dirimu, terus bergema di pikiranku"
+    },
+    {
+      "begin": 175.862,
+      "end": 178.989,
+      "text": "There's so many things that I should've said",
+      "words": [
+        {
+          "text": "There's",
+          "begin": 175.862,
+          "end": 176.042,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "so",
+          "begin": 176.042,
+          "end": 176.237,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "many",
+          "begin": 176.237,
+          "end": 176.814,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "things",
+          "begin": 176.814,
+          "end": 177.489,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 177.489,
+          "end": 177.692,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 177.692,
+          "end": 177.915,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "should've",
+          "begin": 177.915,
+          "end": 178.281,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "said",
+          "begin": 178.281,
+          "end": 178.989,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L43",
+      "translation": "Banyak hal yang tak sempat terucap"
+    },
+    {
+      "begin": 179.424,
+      "end": 185.087,
+      "text": "A year of suffering, a lesson learned",
+      "words": [
+        {
+          "text": "A",
+          "begin": 179.424,
+          "end": 179.567,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "year",
+          "begin": 179.567,
+          "end": 179.784,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "of",
+          "begin": 179.784,
+          "end": 180.159,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "suf",
+          "begin": 180.159,
+          "end": 180.573,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fering,",
+          "begin": 180.573,
+          "end": 180.944,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 180.944,
+          "end": 181.187,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lesson",
+          "begin": 181.187,
+          "end": 182.469,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "learned",
+          "begin": 182.469,
+          "end": 185.087,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L44",
+      "translation": "Setahun penuh luka, jadi pelajaran yang tak ternilai"
+    },
+    {
+      "begin": 185.987,
+      "end": 189.212,
+      "text": "I hope you get your ballroom floor",
+      "words": [
+        {
+          "text": "I",
+          "begin": 185.987,
+          "end": 186.175,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "hope",
+          "begin": 186.175,
+          "end": 186.429,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you",
+          "begin": 186.429,
+          "end": 186.857,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "get",
+          "begin": 186.857,
+          "end": 187.239,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "your",
+          "begin": 187.239,
+          "end": 187.646,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "ball",
+          "begin": 187.646,
+          "end": 188.042,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "room",
+          "begin": 188.042,
+          "end": 188.488,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "floor",
+          "begin": 188.488,
+          "end": 189.212,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L45",
+      "translation": "Aku harap kau dapatkan segalanya"
+    },
+    {
+      "begin": 189.377,
+      "end": 192.519,
+      "text": "Your perfect house with rose red doors",
+      "words": [
+        {
+          "text": "Your",
+          "begin": 189.377,
+          "end": 189.527,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "per",
+          "begin": 189.527,
+          "end": 189.682,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "fect",
+          "begin": 189.682,
+          "end": 190.082,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "house",
+          "begin": 190.082,
+          "end": 190.52,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "with",
+          "begin": 190.52,
+          "end": 190.944,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "rose",
+          "begin": 190.944,
+          "end": 191.394,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "red",
+          "begin": 191.394,
+          "end": 191.792,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "doors",
+          "begin": 191.792,
+          "end": 192.519,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L46",
+      "translation": "Rumah impian dengan pintu merah itu"
+    },
+    {
+      "begin": 192.872,
+      "end": 195.909,
+      "text": "I'm the last thing you'd remember",
+      "words": [
+        {
+          "text": "I'm",
+          "begin": 192.872,
+          "end": 193.202,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 193.202,
+          "end": 193.442,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "last",
+          "begin": 193.442,
+          "end": 193.832,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thing",
+          "begin": 193.832,
+          "end": 194.264,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "you'd",
+          "begin": 194.264,
+          "end": 194.897,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "re",
+          "begin": 194.897,
+          "end": 195.144,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mem",
+          "begin": 195.144,
+          "end": 195.527,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 195.527,
+          "end": 195.909,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L47",
+      "translation": "Aku jadi kenangan terakhir yang tersisa"
+    },
+    {
+      "begin": 195.909,
+      "end": 199.656,
+      "text": "It's been a long, lonely December",
+      "words": [
+        {
+          "text": "It's",
+          "begin": 195.909,
+          "end": 196.143,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "been",
+          "begin": 196.143,
+          "end": 196.337,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 196.337,
+          "end": 196.727,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long,",
+          "begin": 196.727,
+          "end": 197.144,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lone",
+          "begin": 197.144,
+          "end": 197.559,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 197.559,
+          "end": 198.137,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "De",
+          "begin": 198.137,
+          "end": 198.422,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "cem",
+          "begin": 198.422,
+          "end": 198.802,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 198.802,
+          "end": 199.656,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L48",
+      "translation": "Desember ini terasa panjang dan sunyi"
+    },
+    {
+      "begin": 199.252,
+      "end": 202.412,
+      "text": "I wish I'd known that less is more",
+      "words": [
+        {
+          "text": "I",
+          "begin": 199.252,
+          "end": 199.427,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "wish",
+          "begin": 199.427,
+          "end": 199.704,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I'd",
+          "begin": 199.704,
+          "end": 200.057,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "known",
+          "begin": 200.057,
+          "end": 200.447,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that",
+          "begin": 200.447,
+          "end": 200.835,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "less",
+          "begin": 200.835,
+          "end": 201.242,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "is",
+          "begin": 201.242,
+          "end": 201.722,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "more",
+          "begin": 201.722,
+          "end": 202.412,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L49",
+      "backgroundVocal": {
+        "text": "(I miss you, but I wish you well)",
+        "words": [
+          {
+            "text": "(I",
+            "begin": 199.281,
+            "end": 199.484,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "miss",
+            "begin": 199.484,
+            "end": 199.794,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "you,",
+            "begin": 199.794,
+            "end": 200.571,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "but",
+            "begin": 200.826,
+            "end": 200.954,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "I",
+            "begin": 200.954,
+            "end": 201.125,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "wish",
+            "begin": 201.125,
+            "end": 201.389,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "you",
+            "begin": 201.389,
+            "end": 201.749,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "well)",
+            "begin": 201.749,
+            "end": 202.52100000000002,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      },
+      "translation": "Aku harap dulu kusadari arti sederhana (Aku rindu, tapi biarlah kebahagiaan memilihmu)"
+    },
+    {
+      "begin": 202.589,
+      "end": 205.986,
+      "text": "But I was passed out on the floor",
+      "words": [
+        {
+          "text": "But",
+          "begin": 202.589,
+          "end": 202.754,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 202.754,
+          "end": 202.89600000000002,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "was",
+          "begin": 202.89600000000002,
+          "end": 203.35399999999998,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "passed",
+          "begin": 203.35399999999998,
+          "end": 203.74,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "out",
+          "begin": 203.74,
+          "end": 204.156,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "on",
+          "begin": 204.156,
+          "end": 204.584,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 204.584,
+          "end": 205.011,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "floor",
+          "begin": 205.011,
+          "end": 205.986,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L50",
+      "backgroundVocal": {
+        "text": "(I miss you, but I wish you well)",
+        "words": [
+          {
+            "text": "(I",
+            "begin": 202.574,
+            "end": 202.776,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "miss",
+            "begin": 202.776,
+            "end": 203.159,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "you,",
+            "begin": 203.159,
+            "end": 203.828,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "but",
+            "begin": 204.02100000000002,
+            "end": 204.209,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "I",
+            "begin": 204.209,
+            "end": 204.39600000000002,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "wish",
+            "begin": 204.39600000000002,
+            "end": 204.681,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "you",
+            "begin": 204.681,
+            "end": 205.094,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "well)",
+            "begin": 205.094,
+            "end": 205.919,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      },
+      "translation": "(Aku rindu, tapi biarlah kebahagiaan memilihmu) Namun aku jatuh, tak berdaya"
+    },
+    {
+      "begin": 205.931,
+      "end": 209.441,
+      "text": "And that's the last thing I remember",
+      "words": [
+        {
+          "text": "And",
+          "begin": 205.931,
+          "end": 206.089,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "that's",
+          "begin": 206.089,
+          "end": 206.493,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "the",
+          "begin": 206.493,
+          "end": 206.696,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "last",
+          "begin": 206.696,
+          "end": 207.169,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "thing",
+          "begin": 207.169,
+          "end": 207.539,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "I",
+          "begin": 207.539,
+          "end": 208.136,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "re",
+          "begin": 208.136,
+          "end": 208.414,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "mem",
+          "begin": 208.414,
+          "end": 208.804,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 208.804,
+          "end": 209.441,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L51",
+      "backgroundVocal": {
+        "text": "(I miss you, yeah, I miss you)",
+        "words": [
+          {
+            "text": "(I",
+            "begin": 205.894,
+            "end": 206.109,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "miss",
+            "begin": 206.109,
+            "end": 206.469,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "you,",
+            "begin": 206.469,
+            "end": 207.11599999999999,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "yeah,",
+            "begin": 207.34,
+            "end": 207.536,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "I",
+            "begin": 207.536,
+            "end": 207.701,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "miss",
+            "begin": 207.701,
+            "end": 208.00900000000001,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
+          },
+          {
+            "text": "you)",
+            "begin": 208.00900000000001,
+            "end": 209.576,
+            "isBackground": true,
+            "isTranslation": false,
+            "hasLeadingSpace": false,
+            "hasTrailingSpace": false,
+            "hasSpaceAfter": false
+          }
+        ]
+      },
+      "translation": "(Aku rindu, ya, aku merindukanmu) Itu jadi akhir ingatanku"
+    },
+    {
+      "begin": 209.209,
+      "end": 213.168,
+      "text": "It's been a long, lonely December",
+      "words": [
+        {
+          "text": "It's",
+          "begin": 209.209,
+          "end": 209.411,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "been",
+          "begin": 209.411,
+          "end": 209.671,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "a",
+          "begin": 209.671,
+          "end": 209.996,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "long,",
+          "begin": 209.996,
+          "end": 210.424,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "lone",
+          "begin": 210.424,
+          "end": 210.829,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ly",
+          "begin": 210.829,
+          "end": 211.444,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": true,
+          "hasSpaceAfter": true
+        },
+        {
+          "text": "De",
+          "begin": 211.444,
+          "end": 211.692,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "cem",
+          "begin": 211.692,
+          "end": 212.076,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        },
+        {
+          "text": "ber",
+          "begin": 212.076,
+          "end": 213.168,
+          "isBackground": false,
+          "isTranslation": false,
+          "hasLeadingSpace": false,
+          "hasTrailingSpace": false,
+          "hasSpaceAfter": false
+        }
+      ],
+      "agent": "v1",
+      "key": "L52",
+      "translation": "Desember ini terasa panjang dan sunyi"
+    }
+  ],
+  "totalLines": 52
+}
