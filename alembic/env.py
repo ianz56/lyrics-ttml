@@ -10,7 +10,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from app.config import get_settings
 from app.database import Base
-from app.models import Song, LyricLine, Translation  # noqa: F401 — register models
+from app.models import Song, LyricLine, Translation, LyricVersion  # noqa: F401 — register models
 
 # Alembic Config object
 config = context.config

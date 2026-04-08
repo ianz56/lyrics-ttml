@@ -48,6 +48,12 @@ class Song(Base):
         cascade="all, delete-orphan",
         order_by="LyricLine.line_index",
     )
+    lyric_versions = relationship(
+        "LyricVersion",
+        back_populates="song",
+        cascade="all, delete-orphan",
+        order_by="LyricVersion.version",
+    )
 
     __table_args__ = (
         UniqueConstraint("artist", "title", "language", name="uq_song_artist_title_lang"),
@@ -119,3 +125,32 @@ class Translation(Base):
 
     def __repr__(self):
         return f"<Translation(id={self.id}, line_id={self.lyric_line_id}, lang='{self.language_code}')>"
+
+
+class LyricVersion(Base):
+    """A versioned snapshot of all lyric_lines for a song."""
+
+    __tablename__ = "lyric_versions"
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    song_id = Column(
+        Integer, ForeignKey("songs.id", ondelete="CASCADE"), nullable=False, index=True
+    )
+    version = Column(Integer, nullable=False)
+    change_note = Column(Text, nullable=True)
+    snapshot = Column(JSONB, nullable=False)
+    created_at = Column(
+        DateTime(timezone=True),
+        nullable=False,
+        default=lambda: datetime.now(timezone.utc),
+    )
+
+    # Relationships
+    song = relationship("Song", back_populates="lyric_versions")
+
+    __table_args__ = (
+        UniqueConstraint("song_id", "version", name="uq_lyric_version_song_ver"),
+    )
+
+    def __repr__(self):
+        return f"<LyricVersion(id={self.id}, song_id={self.song_id}, v={self.version})>"

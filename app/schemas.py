@@ -86,3 +86,82 @@ class SearchResponse(BaseModel):
     query: str
     total: int
     songs: list[SongListItem]
+
+
+# ─── Version Schemas ──────────────────────────────────────────────────────────
+
+
+class VersionListItem(BaseModel):
+    """Compact version info without full snapshot."""
+
+    id: int
+    version: int
+    change_note: Optional[str] = None
+    created_at: datetime
+
+    model_config = {"from_attributes": True}
+
+
+class VersionDetailResponse(BaseModel):
+    """Full version with snapshot data."""
+
+    id: int
+    version: int
+    change_note: Optional[str] = None
+    snapshot: Any
+    created_at: datetime
+
+    model_config = {"from_attributes": True}
+
+
+class VersionListResponse(BaseModel):
+    """List of versions for a song."""
+
+    song_id: int
+    total: int
+    versions: list[VersionListItem]
+
+
+class RollbackRequest(BaseModel):
+    """Request body for rollback."""
+
+    version: int
+
+
+class SnapshotRequest(BaseModel):
+    """Request body for manual snapshot."""
+
+    change_note: Optional[str] = None
+
+
+class RollbackResponse(BaseModel):
+    """Response after rollback."""
+
+    message: str
+    backup_version: int
+    rolled_back_to: int
+
+
+# ─── Update Lyrics Schemas ───────────────────────────────────────────────────
+
+
+class LyricLineUpdate(BaseModel):
+    """A single lyric line in an update request."""
+
+    line_index: int
+    begin_time: float
+    end_time: float
+    text: str = ""
+    agent: Optional[str] = None
+    key: Optional[str] = None
+    words_json: Optional[Any] = None
+    bg_vocal_json: Optional[Any] = None
+    romanization: Optional[str] = None
+    translations: Optional[list[dict]] = None  # [{"language_code": "id", "text": "..."}]
+
+
+class UpdateLyricsRequest(BaseModel):
+    """Request body for updating all lyric lines of a song."""
+
+    lines: list[LyricLineUpdate]
+    change_note: Optional[str] = None

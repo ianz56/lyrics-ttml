@@ -9,6 +9,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.config import get_settings
 from app.routes.songs import router as songs_router, search_router
+from app.routes.versions import router as versions_router
 
 
 def create_app() -> FastAPI:
@@ -38,6 +39,7 @@ def create_app() -> FastAPI:
     # Register routers
     app.include_router(songs_router)
     app.include_router(search_router)
+    app.include_router(versions_router)
 
     @app.get("/", tags=["health"])
     async def root():

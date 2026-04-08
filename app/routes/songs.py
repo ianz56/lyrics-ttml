@@ -4,6 +4,7 @@ Song API Endpoints
 GET  /songs           — List all songs (paginated, filterable)
 GET  /songs/{id}      — Get full song with lyrics, translations
 POST /songs           — Upload a TTML file → parse & store
+PUT  /songs/{id}/lines — Update lyric lines (auto-snapshots before update)
 GET  /search          — Search songs by query string
 """
 
@@ -12,7 +13,7 @@ import tempfile
 from typing import Optional
 
 from fastapi import APIRouter, Depends, HTTPException, Query, UploadFile, File, Form
-from sqlalchemy import func, or_, select
+from sqlalchemy import delete, func, or_, select
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.orm import selectinload
 
@@ -24,8 +25,10 @@ from app.schemas import (
     SongDetailResponse,
     LyricLineResponse,
     SearchResponse,
+    UpdateLyricsRequest,
 )
 from app.services.parser import parse_ttml_content
+from app.services.versioning import create_version
 
 router = APIRouter(prefix="/songs", tags=["songs"])
 
@@ -223,6 +226,90 @@ async def create_song(
     full_query = (
         select(Song)
         .where(Song.id == song.id)
+        .options(
+            selectinload(Song.lyric_lines).selectinload(LyricLine.translations)
+        )
+    )
+    full_result = await db.execute(full_query)
+    full_song = full_result.scalar_one()
+
+    return SongDetailResponse(
+        id=full_song.id,
+        artist=full_song.artist,
+        title=full_song.title,
+        language=full_song.language,
+        duration=full_song.duration,
+        source_file=full_song.source_file,
+        metadata_json=full_song.metadata_json,
+        created_at=full_song.created_at,
+        updated_at=full_song.updated_at,
+        lines=[
+            LyricLineResponse.model_validate(line) for line in full_song.lyric_lines
+        ],
+    )
+
+
+# ─── PUT /songs/{id}/lines ───────────────────────────────────────────────────
+
+
+@router.put("/{song_id}/lines", response_model=SongDetailResponse)
+async def update_lyrics(
+    song_id: int,
+    body: UpdateLyricsRequest,
+    db: AsyncSession = Depends(get_db),
+):
+    """Update all lyric lines for a song. Automatically snapshots the current state first."""
+    # Ensure song exists
+    song_query = select(Song).where(Song.id == song_id)
+    result = await db.execute(song_query)
+    song = result.scalar_one_or_none()
+    if not song:
+        raise HTTPException(status_code=404, detail="Song not found")
+
+    # Auto-snapshot current state before applying update
+    change_note = body.change_note or "Auto-snapshot before lyric update"
+    try:
+        await create_version(db, song_id, change_note)
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+
+    # Delete existing lyric_lines (CASCADE deletes translations)
+    await db.execute(delete(LyricLine).where(LyricLine.song_id == song_id))
+    await db.flush()
+
+    # Create new lines from request body
+    for line_data in body.lines:
+        lyric_line = LyricLine(
+            song_id=song_id,
+            line_index=line_data.line_index,
+            begin_time=line_data.begin_time,
+            end_time=line_data.end_time,
+            text=line_data.text,
+            agent=line_data.agent,
+            key=line_data.key,
+            words_json=line_data.words_json,
+            bg_vocal_json=line_data.bg_vocal_json,
+            romanization=line_data.romanization,
+        )
+        db.add(lyric_line)
+        await db.flush()
+
+        # Create translations if provided
+        if line_data.translations:
+            for trans in line_data.translations:
+                translation = Translation(
+                    lyric_line_id=lyric_line.id,
+                    language_code=trans.get("language_code", "en"),
+                    text=trans.get("text", ""),
+                )
+                db.add(translation)
+
+    await db.flush()
+
+    # Re-fetch full song for response
+    full_query = (
+        select(Song)
+        .where(Song.id == song_id)
         .options(
             selectinload(Song.lyric_lines).selectinload(LyricLine.translations)
         )
