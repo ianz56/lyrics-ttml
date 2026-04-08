@@ -25,7 +25,7 @@ COPY MYS/ ./MYS/
 COPY SUN/ ./SUN/
 COPY ELRC/ ./ELRC/
 
-EXPOSE 8000
+EXPOSE 8001
 
 # Default command: run the API server
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8001"]

@@ -26,12 +26,12 @@ services:
     container_name: lyrics_ttml_api
     restart: unless-stopped
     ports:
-      - "${APP_PORT:-8000}:8000"
+      - "${APP_PORT:-8001}:8001"
     environment:
       DATABASE_URL: postgresql+asyncpg://${POSTGRES_USER:-lyrics}:${POSTGRES_PASSWORD:-lyrics}@db:5432/${POSTGRES_DB:-lyrics_ttml}
       DATABASE_URL_SYNC: postgresql+psycopg2://${POSTGRES_USER:-lyrics}:${POSTGRES_PASSWORD:-lyrics}@db:5432/${POSTGRES_DB:-lyrics_ttml}
       APP_HOST: "0.0.0.0"
-      APP_PORT: "8000"
+      APP_PORT: "8001"
     depends_on:
       db:
         condition: service_healthy
@@ -40,7 +40,7 @@ services:
       sh -c "
         alembic upgrade head &&
         python import_ttml.py &&
-        uvicorn app.main:app --host 0.0.0.0 --port 8000
+        uvicorn app.main:app --host 0.0.0.0 --port 8001
       "
 
 volumes:
