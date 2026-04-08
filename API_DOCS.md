@@ -14,14 +14,21 @@ REST API server for TTML (Timed Text Markup Language) lyric files. Provides word
   - [GET /songs](#get-songs)
   - [GET /songs/{id}](#get-songsid)
   - [POST /songs](#post-songs)
+  - [PUT /songs/{id}/lines](#put-songsidlines)
   - [GET /search](#get-search)
   - [GET /health](#get-health)
+- [Version Control](#version-control)
+  - [GET /songs/{id}/versions](#get-songsidversions)
+  - [GET /songs/{id}/versions/{ver}](#get-songsidversionsver)
+  - [POST /songs/{id}/versions/snapshot](#post-songsidversionssnapshot)
+  - [POST /songs/{id}/versions/rollback](#post-songsidversionsrollback)
 - [Data Models](#data-models)
   - [Song](#song)
   - [Lyric Line](#lyric-line)
   - [Word Timing](#word-timing)
   - [Background Vocal](#background-vocal)
   - [Translation](#translation)
+  - [Lyric Version](#lyric-version)
 - [Language Codes](#language-codes)
 - [Database Schema](#database-schema)
 - [Running the Server](#running-the-server)
@@ -377,6 +384,75 @@ print(response.json()["id"]) # 139
 
 ---
 
+### PUT /songs/{id}/lines
+
+Replace all lyric lines for a song. **Automatically creates a version snapshot** of the current lyrics before applying the update.
+
+**Path Parameters:**
+
+| Parameter | Type | Description |
+|-----------|------|-------------|
+| `id`      | int  | Song ID     |
+
+**Request Body:** `application/json`
+
+| Field         | Type   | Required | Description                        |
+|--------------|--------|----------|-------------------------------------|
+| `lines`       | array  | ✅       | Array of lyric line objects         |
+| `change_note` | string | No       | Description of the change           |
+
+Each line object:
+
+| Field          | Type   | Required | Description                        |
+|---------------|--------|----------|-------------------------------------|
+| `line_index`   | int    | ✅       | Position in song (0-indexed)       |
+| `begin_time`   | float  | ✅       | Start time in seconds              |
+| `end_time`     | float  | ✅       | End time in seconds                |
+| `text`         | string | No       | Line text (default: `""`)          |
+| `agent`        | string | No       | Vocal agent                        |
+| `key`          | string | No       | Line key                           |
+| `words_json`   | array  | No       | Word-level timing data             |
+| `bg_vocal_json`| object | No       | Background vocal data              |
+| `romanization` | string | No       | Romanized text                     |
+| `translations` | array  | No       | `[{"language_code": "id", "text": "..."}]` |
+
+**Example — Update lyrics:**
+
+```bash
+curl -X PUT "http://localhost:8001/songs/1/lines" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "change_note": "Fixed timing on first line",
+    "lines": [
+      {
+        "line_index": 0,
+        "begin_time": 13.135,
+        "end_time": 15.04,
+        "text": "All is said and done",
+        "agent": "v1",
+        "key": "L1",
+        "translations": [{"language_code": "id", "text": "Semua sudah selesai"}]
+      },
+      {
+        "line_index": 1,
+        "begin_time": 15.258,
+        "end_time": 19.383,
+        "text": "But it was fun breaking us to pieces",
+        "agent": "v1",
+        "key": "L2"
+      }
+    ]
+  }'
+```
+
+Returns the updated song (same format as `GET /songs/{id}`).
+
+> HTTP 200 OK
+
+> **Note:** Before overwriting, the current lyrics are automatically saved as a version snapshot with the provided `change_note`. You can always rollback to the previous state.
+
+---
+
 ### GET /search
 
 Search songs by artist name, song title, or lyric text content. Searches artist and title first, then falls back to searching within lyric lines.
@@ -494,6 +570,175 @@ curl "http://localhost:8001/health"
 
 ---
 
+## Version Control
+
+Every song has a version history. Snapshots are created automatically when lyrics are updated via `PUT /songs/{id}/lines`, and can also be created manually. You can view any past version and rollback to it.
+
+### GET /songs/{id}/versions
+
+List all version snapshots for a song (metadata only, no snapshot data).
+
+```bash
+curl "http://localhost:8001/songs/1/versions"
+```
+
+```json
+{
+  "song_id": 1,
+  "total": 3,
+  "versions": [
+    {
+      "id": 1,
+      "version": 1,
+      "change_note": "Initial snapshot",
+      "created_at": "2026-04-08T04:04:11.671635Z"
+    },
+    {
+      "id": 2,
+      "version": 2,
+      "change_note": "Fixed timing on chorus",
+      "created_at": "2026-04-08T04:04:29.495794Z"
+    },
+    {
+      "id": 3,
+      "version": 3,
+      "change_note": "Auto-backup before rollback to v1",
+      "created_at": "2026-04-08T04:04:29.569818Z"
+    }
+  ]
+}
+```
+
+**Error — Song not found:**
+
+```json
+{ "detail": "Song with id 99999 not found" }
+```
+
+> HTTP 404
+
+---
+
+### GET /songs/{id}/versions/{ver}
+
+Get the full snapshot data for a specific version. The `snapshot` field contains the complete array of lyric lines as they existed at that point in time.
+
+```bash
+curl "http://localhost:8001/songs/1/versions/1"
+```
+
+```json
+{
+  "id": 1,
+  "version": 1,
+  "change_note": "Initial snapshot",
+  "snapshot": [
+    {
+      "line_index": 0,
+      "begin_time": 13.135,
+      "end_time": 15.04,
+      "text": "All is said and done",
+      "agent": "v1",
+      "key": "L1",
+      "words_json": [
+        { "text": "All", "begin": 13.135, "end": 13.405, "hasSpaceAfter": true, "isBackground": false },
+        { "text": "is",  "begin": 13.405, "end": 13.773, "hasSpaceAfter": true, "isBackground": false }
+      ],
+      "bg_vocal_json": null,
+      "romanization": null,
+      "translations": [
+        { "language_code": "id", "text": "Semua sudah terucap dan selesai" }
+      ]
+    }
+  ],
+  "created_at": "2026-04-08T04:04:11.671635Z"
+}
+```
+
+**Error — Version not found:**
+
+```json
+{ "detail": "Version 99 not found for song 1" }
+```
+
+> HTTP 404
+
+---
+
+### POST /songs/{id}/versions/snapshot
+
+Manually create a snapshot of the current lyric lines without making any changes.
+
+**Request Body:** `application/json`
+
+| Field         | Type   | Required | Description              |
+|--------------|--------|----------|---------------------------|
+| `change_note` | string | No       | Description of the snapshot |
+
+```bash
+curl -X POST "http://localhost:8001/songs/1/versions/snapshot" \
+  -H "Content-Type: application/json" \
+  -d '{"change_note": "Snapshot before major edit"}'
+```
+
+```json
+{
+  "id": 4,
+  "version": 4,
+  "change_note": "Snapshot before major edit",
+  "snapshot": [ ... ],
+  "created_at": "2026-04-08T04:10:00.000000Z"
+}
+```
+
+> HTTP 201 Created
+
+---
+
+### POST /songs/{id}/versions/rollback
+
+Rollback a song's lyrics to a previous version. This is a safe operation — it **automatically creates a backup snapshot** of the current state before overwriting.
+
+**Request Body:** `application/json`
+
+| Field     | Type | Required | Description                    |
+|----------|------|----------|--------------------------------|
+| `version` | int  | ✅       | Version number to rollback to  |
+
+```bash
+curl -X POST "http://localhost:8001/songs/1/versions/rollback" \
+  -H "Content-Type: application/json" \
+  -d '{"version": 1}'
+```
+
+```json
+{
+  "message": "Rolled back to version 1. Current state backed up as version 5.",
+  "backup_version": 5,
+  "rolled_back_to": 1
+}
+```
+
+> HTTP 200 OK
+
+**How rollback works:**
+
+1. Creates a backup snapshot of the current lyrics (assigned the next version number)
+2. Deletes all current `lyric_lines` for the song
+3. Recreates `lyric_lines` and `translations` from the target version's snapshot
+
+You can always undo a rollback by rolling back to the backup version.
+
+**Error — Version not found:**
+
+```json
+{ "detail": "Version 99 not found for song 1" }
+```
+
+> HTTP 404
+
+---
+
 ## Data Models
 
 ### Song
@@ -560,6 +805,18 @@ When a lyric line has an overlapping background vocal (e.g., backup singers), th
 | `language_code` | string | Translation language (e.g., `id` for Indonesian) |
 | `text`          | string | Translated line text               |
 
+### Lyric Version
+
+| Field         | Type     | Description                                 |
+|--------------|----------|---------------------------------------------|
+| `id`          | integer  | Version record ID                           |
+| `version`     | integer  | Version number (auto-incremented per song)  |
+| `change_note` | string   | Description of what changed (optional)      |
+| `snapshot`    | array    | Full array of lyric line objects at that point in time |
+| `created_at`  | datetime | When the snapshot was created                |
+
+> **Note:** Version numbers are scoped per song and auto-increment (1, 2, 3...). The `snapshot` field is only included in the detail endpoint (`GET /versions/{ver}`), not in the list endpoint.
+
 ---
 
 ## Language Codes
@@ -577,25 +834,25 @@ When a lyric line has an overlapping background vocal (e.g., backup singers), th
 ## Database Schema
 
 ```
-┌─────────────────────┐
-│       songs          │
-├─────────────────────┤
-│ id (PK)             │
-│ artist              │──┐
-│ title               │  │ UNIQUE(artist, title, language)
-│ language            │──┘
-│ source_file         │
-│ duration            │
-│ metadata_json       │
-│ created_at          │
-│ updated_at          │
-└────────┬────────────┘
-         │ 1:N
-┌────────▼────────────┐
-│    lyric_lines       │
-├─────────────────────┤
-│ id (PK)             │
-│ song_id (FK)        │
+┌─────────────────────┐       ┌─────────────────────┐
+│       songs          │       │   lyric_versions     │
+├─────────────────────┤       ├─────────────────────┤
+│ id (PK)             │◄──┐   │ id (PK)             │
+│ artist              │   │   │ song_id (FK)────────│──┘
+│ title               │   │   │ version             │
+│ language            │   │   │ change_note         │
+│ source_file         │   │   │ snapshot (JSONB)    │
+│ duration            │   │   │ created_at          │
+│ metadata_json       │   │   └─────────────────────┘
+│ created_at          │   │   UNIQUE(song_id, version)
+│ updated_at          │   │
+└────────┬────────────┘   │
+         │ 1:N            │
+┌────────▼────────────┐   │
+│    lyric_lines       │   │
+├─────────────────────┤   │
+│ id (PK)             │   │
+│ song_id (FK)────────│───┘
 │ line_index          │
 │ begin_time          │
 │ end_time            │
