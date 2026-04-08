@@ -222,7 +222,11 @@ async def create_song(
                 language_code="id",
                 text=translation_text,
             )
-            db.add(translation)
+        db.add(translation)
+
+    # Automatically create initial snapshot of the upload
+    await db.flush()
+    await create_version(db, song.id, "Initial upload snapshot")
 
     # Re-fetch with eager loading for response
     await db.flush()
