@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lyrics TTML — Admin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ── Reset & Variables ──────────────────────────────────────────── */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:       #0b0e14;
+  --surface:  #12161f;
+  --surface2: #1a1f2e;
+  --border:   #252b3b;
+  --text:     #e2e8f0;
+  --text2:    #94a3b8;
+  --accent:   #6366f1;
+  --accent2:  #818cf8;
+  --green:    #34d399;
+  --red:      #f87171;
+  --orange:   #fb923c;
+  --yellow:   #fbbf24;
+  --radius:   10px;
+  --shadow:   0 4px 24px rgba(0,0,0,.35);
+}
+html{font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--text);font-size:14px;line-height:1.5}
+a{color:var(--accent2);text-decoration:none}
+button{font-family:inherit;cursor:pointer}
+input,select,textarea{font-family:inherit;font-size:inherit}
+
+/* ── Layout ─────────────────────────────────────────────────────── */
+body{display:flex;height:100vh;overflow:hidden}
+#sidebar{width:220px;min-width:220px;background:var(--surface);border-right:1px solid var(--border);display:flex;flex-direction:column;padding:20px 0}
+#sidebar .logo{padding:0 20px 24px;font-size:16px;font-weight:700;letter-spacing:-.3px;display:flex;align-items:center;gap:8px}
+#sidebar .logo span{font-size:22px}
+#sidebar nav{flex:1}
+#sidebar nav a{display:flex;align-items:center;gap:10px;padding:10px 20px;color:var(--text2);font-weight:500;border-left:3px solid transparent;transition:all .15s}
+#sidebar nav a:hover{color:var(--text);background:var(--surface2)}
+#sidebar nav a.active{color:var(--accent2);border-left-color:var(--accent);background:rgba(99,102,241,.08)}
+#sidebar nav a .icon{font-size:18px;width:24px;text-align:center}
+#sidebar .sidebar-footer{padding:16px 20px;border-top:1px solid var(--border);font-size:12px;color:var(--text2)}
+#sidebar .sidebar-footer a{color:var(--accent2);font-size:12px}
+
+#main{flex:1;overflow-y:auto;padding:28px 32px}
+#main h1{font-size:22px;font-weight:700;margin-bottom:20px;letter-spacing:-.3px}
+
+/* ── Cards ──────────────────────────────────────────────────────── */
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:14px;margin-bottom:24px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px;transition:border-color .15s}
+.card:hover{border-color:var(--accent)}
+.card .card-label{font-size:12px;color:var(--text2);text-transform:uppercase;letter-spacing:.5px;margin-bottom:6px}
+.card .card-value{font-size:28px;font-weight:700}
+.card .card-value.en{color:var(--accent2)} .card .card-value.id{color:var(--green)}
+.card .card-value.ko{color:var(--orange)} .card .card-value.ms{color:var(--yellow)}
+.card .card-value.su{color:var(--red)}
+
+/* ── Table ──────────────────────────────────────────────────────── */
+.table-wrap{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden}
+table{width:100%;border-collapse:collapse;font-size:13px}
+thead{background:var(--surface2)}
+th{text-align:left;padding:10px 14px;font-weight:600;color:var(--text2);font-size:11px;text-transform:uppercase;letter-spacing:.5px}
+td{padding:10px 14px;border-top:1px solid var(--border)}
+tr:hover td{background:rgba(255,255,255,.02)}
+.lang-badge{display:inline-block;padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;text-transform:uppercase}
+.lang-badge.en{background:rgba(99,102,241,.15);color:var(--accent2)}
+.lang-badge.id{background:rgba(52,211,153,.15);color:var(--green)}
+.lang-badge.ko{background:rgba(251,146,60,.15);color:var(--orange)}
+.lang-badge.ms{background:rgba(251,191,36,.15);color:var(--yellow)}
+.lang-badge.su{background:rgba(248,113,113,.15);color:var(--red)}
+
+/* ── Buttons ────────────────────────────────────────────────────── */
+.btn{display:inline-flex;align-items:center;gap:6px;padding:7px 14px;border-radius:7px;font-size:13px;font-weight:500;border:1px solid var(--border);background:var(--surface2);color:var(--text);transition:all .15s}
+.btn:hover{border-color:var(--accent);color:var(--accent2)}
+.btn-primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn-primary:hover{background:var(--accent2);border-color:var(--accent2)}
+.btn-danger{border-color:rgba(248,113,113,.3);color:var(--red)}
+.btn-danger:hover{background:rgba(248,113,113,.1);border-color:var(--red)}
+.btn-sm{padding:4px 10px;font-size:12px}
+.btn-group{display:flex;gap:6px}
+
+/* ── Inputs ─────────────────────────────────────────────────────── */
+.input{padding:8px 12px;border-radius:7px;border:1px solid var(--border);background:var(--surface2);color:var(--text);outline:none;transition:border-color .15s}
+.input:focus{border-color:var(--accent)}
+.input-group{display:flex;gap:10px;margin-bottom:18px;flex-wrap:wrap}
+select.input{appearance:auto}
+
+/* ── Toolbar ────────────────────────────────────────────────────── */
+.toolbar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:18px}
+.toolbar .left{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.pagination{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--text2)}
+.pagination button{padding:5px 10px;border-radius:6px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:12px}
+.pagination button:disabled{opacity:.35;cursor:default}
+.pagination button:not(:disabled):hover{border-color:var(--accent);color:var(--accent2)}
+
+/* ── Upload Zone ────────────────────────────────────────────────── */
+.drop-zone{border:2px dashed var(--border);border-radius:var(--radius);padding:44px 24px;text-align:center;color:var(--text2);transition:all .2s;cursor:pointer;margin-bottom:18px}
+.drop-zone:hover,.drop-zone.dragover{border-color:var(--accent);background:rgba(99,102,241,.05);color:var(--accent2)}
+.drop-zone .dz-icon{font-size:36px;margin-bottom:8px}
+.drop-zone p{font-size:13px;margin-top:4px}
+.upload-list{margin-top:14px}
+.upload-item{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;background:var(--surface);border:1px solid var(--border);border-radius:8px;margin-bottom:8px;font-size:13px}
+.upload-item .status{font-weight:600;font-size:12px}
+.upload-item .status.ok{color:var(--green)} .upload-item .status.err{color:var(--red)} .upload-item .status.pending{color:var(--text2)}
+
+/* ── Song Detail ────────────────────────────────────────────────── */
+.detail-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px;flex-wrap:wrap;gap:10px}
+.detail-header .meta h2{font-size:20px;font-weight:700;margin-bottom:2px}
+.detail-header .meta p{color:var(--text2);font-size:13px}
+.detail-section{margin-bottom:24px}
+.detail-section h3{font-size:14px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--text2);margin-bottom:10px}
+.lyrics-preview{max-height:320px;overflow-y:auto;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px}
+.lyric-row{display:flex;gap:10px;padding:4px 0;font-size:13px;border-bottom:1px solid var(--border)}
+.lyric-row:last-child{border-bottom:none}
+.lyric-row .time{color:var(--accent2);font-family:monospace;min-width:60px;font-size:12px}
+.lyric-row .text{flex:1}
+.edit-form{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px;display:grid;grid-template-columns:1fr 1fr 120px auto;gap:10px;align-items:end}
+.edit-form label{font-size:12px;color:var(--text2);display:block;margin-bottom:4px}
+.edit-form .input{width:100%}
+
+/* ── Toast ──────────────────────────────────────────────────────── */
+#toast{position:fixed;bottom:24px;right:24px;z-index:9999;display:flex;flex-direction:column;gap:8px}
+.toast-msg{padding:12px 18px;border-radius:8px;font-size:13px;font-weight:500;box-shadow:var(--shadow);animation:slideIn .25s ease}
+.toast-msg.success{background:#065f46;color:#a7f3d0;border:1px solid #10b981}
+.toast-msg.error{background:#7f1d1d;color:#fca5a5;border:1px solid #ef4444}
+@keyframes slideIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+
+/* ── Spinner ────────────────────────────────────────────────────── */
+.spinner{display:inline-block;width:18px;height:18px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .6s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.loading-block{display:flex;justify-content:center;padding:40px}
+.empty-state{text-align:center;padding:40px;color:var(--text2);font-size:14px}
+
+/* ── Responsive ─────────────────────────────────────────────────── */
+@media(max-width:768px){
+  #sidebar{width:60px;min-width:60px}
+  #sidebar .logo span:last-child,#sidebar nav a span:not(.icon),#sidebar .sidebar-footer{display:none}
+  #sidebar nav a{justify-content:center;padding:12px 0;border-left:none;border-bottom:3px solid transparent}
+  #sidebar nav a.active{border-bottom-color:var(--accent);border-left-color:transparent}
+  #main{padding:18px 16px}
+  .edit-form{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<!-- ── Sidebar ───────────────────────────────────────────────────── -->
+<aside id="sidebar">
+  <div class="logo"><span>🎵</span> <span>Lyrics TTML</span></div>
+  <nav>
+    <a href="#dashboard" data-page="dashboard"><span class="icon">📊</span> <span>Dashboard</span></a>
+    <a href="#songs" data-page="songs"><span class="icon">🎶</span> <span>Songs</span></a>
+    <a href="#upload" data-page="upload"><span class="icon">📤</span> <span>Upload</span></a>
+  </nav>
+  <div class="sidebar-footer">v1.0 · <a href="/docs" target="_blank">API Docs</a></div>
+</aside>
+
+<!-- ── Main Content ─────────────────────────────────────────────── -->
+<div id="main">
+  <div id="page-dashboard" class="page"></div>
+  <div id="page-songs" class="page"></div>
+  <div id="page-upload" class="page"></div>
+  <div id="page-song-detail" class="page"></div>
+</div>
+
+<!-- ── Toast Container ──────────────────────────────────────────── -->
+<div id="toast"></div>
+
+<script>
+/* ═══════════════════════════════════════════════════════════════════
+   CONFIG
+   ═══════════════════════════════════════════════════════════════════ */
+const API_BASE = window.location.origin;
+const LANGUAGES = [
+  { code: 'en', name: 'English' },
+  { code: 'id', name: 'Indonesian' },
+  { code: 'ko', name: 'Korean' },
+  { code: 'ms', name: 'Malay' },
+  { code: 'su', name: 'Sundanese' },
+];
+
+/* ═══════════════════════════════════════════════════════════════════
+   HELPERS
+   ═══════════════════════════════════════════════════════════════════ */
+function toast(msg, type = 'success') {
+  const el = document.createElement('div');
+  el.className = `toast-msg ${type}`;
+  el.textContent = msg;
+  document.getElementById('toast').appendChild(el);
+  setTimeout(() => el.remove(), 3500);
+}
+
+async function api(path, opts = {}) {
+  try {
+    const res = await fetch(`${API_BASE}${path}`, opts);
+    if (res.status === 204) return null;
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.detail || `HTTP ${res.status}`);
+    return data;
+  } catch (e) {
+    toast(e.message, 'error');
+    throw e;
+  }
+}
+
+function fmtDuration(s) {
+  if (!s) return '—';
+  const m = Math.floor(s / 60), sec = Math.floor(s % 60);
+  return `${m}:${String(sec).padStart(2, '0')}`;
+}
+
+function fmtTime(s) {
+  const m = Math.floor(s / 60), sec = (s % 60).toFixed(1);
+  return `${m}:${sec.padStart(4, '0')}`;
+}
+
+function fmtDate(d) {
+  return new Date(d).toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+}
+
+function langBadge(code) {
+  return `<span class="lang-badge ${code}">${code}</span>`;
+}
+
+function loading() { return '<div class="loading-block"><div class="spinner"></div></div>'; }
+function empty(msg) { return `<div class="empty-state">${msg}</div>`; }
+
+/* ═══════════════════════════════════════════════════════════════════
+   ROUTER
+   ═══════════════════════════════════════════════════════════════════ */
+function getRoute() {
+  const hash = location.hash.slice(1) || 'dashboard';
+  const [page, ...rest] = hash.split('/');
+  return { page, param: rest.join('/') };
+}
+
+function navigate(hash) { location.hash = hash; }
+
+function router() {
+  const { page, param } = getRoute();
+  document.querySelectorAll('.page').forEach(p => p.style.display = 'none');
+  document.querySelectorAll('#sidebar nav a').forEach(a => a.classList.remove('active'));
+
+  let target = page;
+  if (page === 'song-detail') target = 'songs'; // highlight Songs when viewing detail
+
+  const nav = document.querySelector(`#sidebar nav a[data-page="${target}"]`);
+  if (nav) nav.classList.add('active');
+
+  const el = document.getElementById(`page-${page}`);
+  if (el) {
+    el.style.display = 'block';
+    switch (page) {
+      case 'dashboard':  renderDashboard(); break;
+      case 'songs':      renderSongs(); break;
+      case 'upload':     renderUpload(); break;
+      case 'song-detail': renderSongDetail(param); break;
+      default: navigate('dashboard');
+    }
+  } else {
+    navigate('dashboard');
+  }
+}
+
+window.addEventListener('hashchange', router);
+window.addEventListener('DOMContentLoaded', router);
+
+/* ═══════════════════════════════════════════════════════════════════
+   DASHBOARD
+   ═══════════════════════════════════════════════════════════════════ */
+async function renderDashboard() {
+  const el = document.getElementById('page-dashboard');
+  el.innerHTML = `<h1>Dashboard</h1>${loading()}`;
+
+  try {
+    const all = await api('/songs?per_page=1');
+    const counts = {};
+    for (const l of LANGUAGES) {
+      const d = await api(`/songs?language=${l.code}&per_page=1`);
+      counts[l.code] = d.total;
+    }
+    const recent = await api('/songs?per_page=5');
+
+    el.innerHTML = `
+      <h1>Dashboard</h1>
+      <div class="cards">
+        <div class="card"><div class="card-label">Total Songs</div><div class="card-value">${all.total}</div></div>
+        ${LANGUAGES.map(l => `<div class="card"><div class="card-label">${l.name}</div><div class="card-value ${l.code}">${counts[l.code]}</div></div>`).join('')}
+      </div>
+      <div class="detail-section">
+        <h3>Recently Added</h3>
+        <div class="table-wrap"><table>
+          <thead><tr><th>Title</th><th>Artist</th><th>Lang</th><th>Duration</th></tr></thead>
+          <tbody>
+            ${recent.songs.map(s => `<tr style="cursor:pointer" onclick="navigate('song-detail/${s.id}')">
+              <td>${s.title}</td><td>${s.artist}</td><td>${langBadge(s.language)}</td><td>${fmtDuration(s.duration)}</td>
+            </tr>`).join('')}
+          </tbody>
+        </table></div>
+      </div>`;
+  } catch (e) { el.innerHTML = `<h1>Dashboard</h1>${empty('Failed to load dashboard')}`; }
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   SONGS LIST
+   ═══════════════════════════════════════════════════════════════════ */
+let songsState = { page: 1, perPage: 15, lang: '', query: '' };
+
+async function renderSongs() {
+  const el = document.getElementById('page-songs');
+  el.innerHTML = `<h1>Songs</h1>
+    <div class="toolbar">
+      <div class="left">
+        <input id="s-search" class="input" placeholder="Search songs…" style="width:240px" value="${songsState.query}">
+        <select id="s-lang" class="input">
+          <option value="">All Languages</option>
+          ${LANGUAGES.map(l => `<option value="${l.code}" ${songsState.lang === l.code ? 'selected' : ''}>${l.name}</option>`).join('')}
+        </select>
+      </div>
+      <div class="pagination" id="s-pagination"></div>
+    </div>
+    <div id="s-table">${loading()}</div>`;
+
+  document.getElementById('s-search').addEventListener('keydown', e => {
+    if (e.key === 'Enter') { songsState.query = e.target.value; songsState.page = 1; fetchSongs(); }
+  });
+  document.getElementById('s-lang').addEventListener('change', e => {
+    songsState.lang = e.target.value; songsState.query = ''; document.getElementById('s-search').value = ''; songsState.page = 1; fetchSongs();
+  });
+  fetchSongs();
+}
+
+async function fetchSongs() {
+  const tableEl = document.getElementById('s-table');
+  const pagEl = document.getElementById('s-pagination');
+  tableEl.innerHTML = loading();
+
+  try {
+    let data;
+    if (songsState.query) {
+      data = await api(`/search?q=${encodeURIComponent(songsState.query)}&limit=100`);
+      data = { total: data.total, songs: data.songs, page: 1, per_page: 100 };
+    } else {
+      let url = `/songs?page=${songsState.page}&per_page=${songsState.perPage}`;
+      if (songsState.lang) url += `&language=${songsState.lang}`;
+      data = await api(url);
+    }
+
+    if (!data.songs.length) { tableEl.innerHTML = empty('No songs found'); pagEl.innerHTML = ''; return; }
+
+    const totalPages = Math.ceil(data.total / (data.per_page || songsState.perPage));
+    tableEl.innerHTML = `<div class="table-wrap"><table>
+      <thead><tr><th>ID</th><th>Title</th><th>Artist</th><th>Lang</th><th>Duration</th><th>Actions</th></tr></thead>
+      <tbody>${data.songs.map(s => `<tr>
+        <td>${s.id}</td><td>${s.title}</td><td>${s.artist}</td>
+        <td>${langBadge(s.language)}</td><td>${fmtDuration(s.duration)}</td>
+        <td class="btn-group">
+          <button class="btn btn-sm" onclick="navigate('song-detail/${s.id}')">View</button>
+          <button class="btn btn-sm btn-danger" onclick="deleteSong(${s.id},'${s.title.replace(/'/g,"\\'")}')">Delete</button>
+        </td>
+      </tr>`).join('')}</tbody>
+    </table></div>`;
+
+    if (!songsState.query) {
+      pagEl.innerHTML = `
+        <button ${songsState.page <= 1 ? 'disabled' : ''} onclick="songsState.page--;fetchSongs()">← Prev</button>
+        <span>Page ${songsState.page} of ${totalPages}</span>
+        <button ${songsState.page >= totalPages ? 'disabled' : ''} onclick="songsState.page++;fetchSongs()">Next →</button>`;
+    } else { pagEl.innerHTML = `<span>${data.total} results</span>`; }
+  } catch (e) { tableEl.innerHTML = empty('Failed to load songs'); }
+}
+
+async function deleteSong(id, title) {
+  if (!confirm(`Delete "${title}"?\nThis cannot be undone.`)) return;
+  try {
+    await api(`/songs/${id}`, { method: 'DELETE' });
+    toast(`Deleted: ${title}`);
+    fetchSongs();
+  } catch (e) { /* toast already shown */ }
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   UPLOAD
+   ═══════════════════════════════════════════════════════════════════ */
+function renderUpload() {
+  const el = document.getElementById('page-upload');
+  el.innerHTML = `<h1>Upload TTML Files</h1>
+    <div class="input-group">
+      <select id="u-lang" class="input">
+        ${LANGUAGES.map(l => `<option value="${l.code}">${l.name} (${l.code})</option>`).join('')}
+      </select>
+    </div>
+    <div class="drop-zone" id="u-drop">
+      <div class="dz-icon">📁</div>
+      <strong>Drop .ttml files here</strong>
+      <p>or click to browse</p>
+      <input type="file" id="u-file" accept=".ttml" multiple hidden>
+    </div>
+    <button class="btn btn-primary" id="u-btn" disabled>Upload Files</button>
+    <div class="upload-list" id="u-list"></div>`;
+
+  const dropZone = document.getElementById('u-drop');
+  const fileInput = document.getElementById('u-file');
+  const uploadBtn = document.getElementById('u-btn');
+  let files = [];
+
+  dropZone.addEventListener('click', () => fileInput.click());
+  dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('dragover'); });
+  dropZone.addEventListener('dragleave', () => dropZone.classList.remove('dragover'));
+  dropZone.addEventListener('drop', e => { e.preventDefault(); dropZone.classList.remove('dragover'); addFiles(e.dataTransfer.files); });
+  fileInput.addEventListener('change', () => { addFiles(fileInput.files); fileInput.value = ''; });
+
+  function addFiles(fl) {
+    for (const f of fl) {
+      if (!f.name.endsWith('.ttml')) { toast(`Skipped: ${f.name} (not .ttml)`, 'error'); continue; }
+      if (!files.find(x => x.name === f.name)) files.push(f);
+    }
+    renderFileList();
+  }
+
+  function renderFileList() {
+    const list = document.getElementById('u-list');
+    list.innerHTML = files.map((f, i) => `<div class="upload-item" id="u-item-${i}">
+      <span>${f.name}</span><span class="status pending">Ready</span>
+    </div>`).join('');
+    uploadBtn.disabled = files.length === 0;
+  }
+
+  uploadBtn.addEventListener('click', async () => {
+    const lang = document.getElementById('u-lang').value;
+    uploadBtn.disabled = true;
+    for (let i = 0; i < files.length; i++) {
+      const statusEl = document.querySelector(`#u-item-${i} .status`);
+      statusEl.textContent = 'Uploading…'; statusEl.className = 'status pending';
+      try {
+        const fd = new FormData();
+        fd.append('file', files[i]);
+        fd.append('language', lang);
+        await api('/songs', { method: 'POST', body: fd });
+        statusEl.textContent = '✓ Done'; statusEl.className = 'status ok';
+      } catch (e) {
+        statusEl.textContent = e.message; statusEl.className = 'status err';
+      }
+    }
+    files = [];
+    uploadBtn.disabled = true;
+    toast('Upload batch complete');
+  });
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   SONG DETAIL
+   ═══════════════════════════════════════════════════════════════════ */
+async function renderSongDetail(id) {
+  const el = document.getElementById('page-song-detail');
+  el.innerHTML = loading();
+
+  try {
+    const song = await api(`/songs/${id}`);
+    let versionsHtml = '';
+    try {
+      const verData = await api(`/songs/${id}/versions`);
+      if (verData.versions.length) {
+        versionsHtml = `<div class="table-wrap"><table>
+          <thead><tr><th>Ver</th><th>Note</th><th>Created</th><th>Action</th></tr></thead>
+          <tbody>${verData.versions.map(v => `<tr>
+            <td><strong>v${v.version}</strong></td>
+            <td>${v.change_note || '—'}</td>
+            <td>${fmtDate(v.created_at)}</td>
+            <td><button class="btn btn-sm" onclick="rollback(${id},${v.version})">Rollback</button></td>
+          </tr>`).join('')}</tbody>
+        </table></div>`;
+      } else { versionsHtml = empty('No versions yet'); }
+    } catch (e) { versionsHtml = empty('Could not load versions'); }
+
+    el.innerHTML = `
+      <div class="detail-header">
+        <div class="meta">
+          <h2>${song.title}</h2>
+          <p>${song.artist} · ${langBadge(song.language)} · ${fmtDuration(song.duration)}</p>
+        </div>
+        <button class="btn" onclick="navigate('songs')">← Back to Songs</button>
+      </div>
+
+      <div class="detail-section">
+        <h3>Edit Metadata</h3>
+        <div class="edit-form">
+          <div><label>Title</label><input class="input" id="d-title" value="${song.title.replace(/"/g,'&quot;')}"></div>
+          <div><label>Artist</label><input class="input" id="d-artist" value="${song.artist.replace(/"/g,'&quot;')}"></div>
+          <div><label>Language</label>
+            <select class="input" id="d-lang">
+              ${LANGUAGES.map(l => `<option value="${l.code}" ${song.language === l.code ? 'selected' : ''}>${l.code}</option>`).join('')}
+            </select>
+          </div>
+          <div><label>&nbsp;</label><button class="btn btn-primary" onclick="saveMeta(${id})">Save</button></div>
+        </div>
+      </div>
+
+      <div class="detail-section">
+        <h3>Lyric Lines (${song.lines.length})</h3>
+        <div class="lyrics-preview">
+          ${song.lines.length ? song.lines.map(l => `<div class="lyric-row">
+            <span class="time">${fmtTime(l.begin_time)}</span>
+            <span class="text">${l.text || '<em style="color:var(--text2)">(instrumental)</em>'}</span>
+          </div>`).join('') : empty('No lyric lines')}
+        </div>
+      </div>
+
+      <div class="detail-section">
+        <h3>Version History</h3>
+        <div style="margin-bottom:10px">
+          <button class="btn btn-sm" onclick="takeSnapshot(${id})">📸 Take Snapshot</button>
+        </div>
+        ${versionsHtml}
+      </div>`;
+  } catch (e) {
+    el.innerHTML = `<button class="btn" onclick="navigate('songs')">← Back</button>${empty('Song not found or failed to load')}`;
+  }
+}
+
+async function saveMeta(id) {
+  const title = document.getElementById('d-title').value.trim();
+  const artist = document.getElementById('d-artist').value.trim();
+  const language = document.getElementById('d-lang').value;
+  if (!title || !artist) { toast('Title and artist cannot be empty', 'error'); return; }
+  try {
+    await api(`/songs/${id}`, {
+      method: 'PATCH',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ title, artist, language }),
+    });
+    toast('Metadata updated');
+    renderSongDetail(id);
+  } catch (e) { /* toast shown */ }
+}
+
+async function takeSnapshot(id) {
+  const note = prompt('Snapshot note (optional):');
+  try {
+    await api(`/songs/${id}/versions/snapshot`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ change_note: note || null }),
+    });
+    toast('Snapshot created');
+    renderSongDetail(id);
+  } catch (e) { /* toast shown */ }
+}
+
+async function rollback(songId, version) {
+  if (!confirm(`Rollback to version ${version}?\n\nA backup of the current state will be saved automatically.`)) return;
+  try {
+    const res = await api(`/songs/${songId}/versions/rollback`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ version }),
+    });
+    toast(res.message);
+    renderSongDetail(songId);
+  } catch (e) { /* toast shown */ }
+}
+</script>
+</body>
+</html>

@@ -1,11 +1,13 @@
 """
 Song API Endpoints
 
-GET  /songs           — List all songs (paginated, filterable)
-GET  /songs/{id}      — Get full song with lyrics, translations
-POST /songs           — Upload a TTML file → parse & store
-PUT  /songs/{id}/lines — Update lyric lines (auto-snapshots before update)
-GET  /search          — Search songs by query string
+GET    /songs           — List all songs (paginated, filterable)
+GET    /songs/{id}      — Get full song with lyrics, translations
+POST   /songs           — Upload a TTML file → parse & store
+PATCH  /songs/{id}      — Update song metadata
+DELETE /songs/{id}      — Delete a song
+PUT    /songs/{id}/lines — Update lyric lines (auto-snapshots before update)
+GET    /search          — Search songs by query string
 """
 
 import os
@@ -26,6 +28,7 @@ from app.schemas import (
     LyricLineResponse,
     SearchResponse,
     UpdateLyricsRequest,
+    SongUpdateRequest,
 )
 from app.services.parser import parse_ttml_content
 from app.services.versioning import create_version
@@ -247,6 +250,50 @@ async def create_song(
             LyricLineResponse.model_validate(line) for line in full_song.lyric_lines
         ],
     )
+
+
+# ─── PATCH /songs/{id} ───────────────────────────────────────────────────
+
+
+@router.patch("/{song_id}", response_model=SongListItem)
+async def update_song(
+    song_id: int,
+    body: SongUpdateRequest,
+    db: AsyncSession = Depends(get_db),
+):
+    """Update song metadata (artist, title, language)."""
+    result = await db.execute(select(Song).where(Song.id == song_id))
+    song = result.scalar_one_or_none()
+    if not song:
+        raise HTTPException(status_code=404, detail="Song not found")
+
+    if body.artist is not None:
+        song.artist = body.artist
+    if body.title is not None:
+        song.title = body.title
+    if body.language is not None:
+        song.language = body.language
+
+    await db.flush()
+    return SongListItem.model_validate(song)
+
+
+# ─── DELETE /songs/{id} ──────────────────────────────────────────────────
+
+
+@router.delete("/{song_id}", status_code=204)
+async def delete_song(
+    song_id: int,
+    db: AsyncSession = Depends(get_db),
+):
+    """Delete a song and all its lyric lines, translations, and versions."""
+    result = await db.execute(select(Song).where(Song.id == song_id))
+    song = result.scalar_one_or_none()
+    if not song:
+        raise HTTPException(status_code=404, detail="Song not found")
+
+    await db.delete(song)
+    await db.flush()
 
 
 # ─── PUT /songs/{id}/lines ───────────────────────────────────────────────────

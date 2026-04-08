@@ -16,6 +16,7 @@ COPY app/ ./app/
 COPY alembic/ ./alembic/
 COPY alembic.ini .
 COPY import_ttml.py .
+COPY admin/ ./admin/
 
 # Copy TTML source files for the import script
 COPY ENG/ ./ENG/

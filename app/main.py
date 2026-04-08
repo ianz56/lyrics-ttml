@@ -6,6 +6,7 @@ FastAPI application that serves TTML lyrics as structured data.
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 
 from app.config import get_settings
 from app.routes.songs import router as songs_router, search_router
@@ -52,6 +53,9 @@ def create_app() -> FastAPI:
     @app.get("/health", tags=["health"])
     async def health():
         return {"status": "ok"}
+
+    # Mount admin panel static files
+    app.mount("/admin", StaticFiles(directory="admin", html=True), name="admin")
 
     return app
 

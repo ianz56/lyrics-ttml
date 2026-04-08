@@ -165,3 +165,12 @@ class UpdateLyricsRequest(BaseModel):
 
     lines: list[LyricLineUpdate]
     change_note: Optional[str] = None
+
+
+class SongUpdateRequest(BaseModel):
+    """Request body for updating song metadata."""
+
+    artist: Optional[str] = None
+    title: Optional[str] = None
+    language: Optional[str] = None
+
