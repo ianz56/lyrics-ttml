@@ -1,2 +1,8 @@
 __pycache__
 experiment
+.env
+venv/
+*.pyc
+*.pyo
+.pytest_cache/
+postgres_data/
