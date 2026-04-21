@@ -2249,10 +2249,10 @@
       "agent": "v1",
       "key": "L27",
       "backgroundVocal": {
-        "text": "(Angin, tolong sampaikan rindu)",
+        "text": "Angin, tolong sampaikan rindu",
         "words": [
           {
-            "text": "(Ang",
+            "text": "Ang",
             "begin": 204.885,
             "end": 205.023,
             "isBackground": true,
@@ -2322,7 +2322,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "du)",
+            "text": "du",
             "begin": 207.985,
             "end": 211.083,
             "isBackground": true,
@@ -2413,15 +2413,15 @@
       "agent": "v1",
       "key": "L28",
       "backgroundVocal": {
-        "text": "( Hujan, rintikkan kalbu membeku)",
+        "text": "Hujan, rintikkan kalbu membeku",
         "words": [
           {
-            "text": "( Hujan,",
+            "text": "Hujan,",
             "begin": 211.766,
             "end": 212.352,
             "isBackground": true,
             "isTranslation": false,
-            "hasLeadingSpace": false,
+            "hasLeadingSpace": true,
             "hasTrailingSpace": true,
             "hasSpaceAfter": true
           },
@@ -2476,7 +2476,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "ku)",
+            "text": "ku",
             "begin": 215.32,
             "end": 217.314,
             "isBackground": true,
@@ -2725,10 +2725,10 @@
       "agent": "v1",
       "key": "L31",
       "backgroundVocal": {
-        "text": "(Angin, angin)",
+        "text": "Angin, angin",
         "words": [
           {
-            "text": "(Ang",
+            "text": "Ang",
             "begin": 230.226,
             "end": 230.673,
             "isBackground": true,
@@ -2758,7 +2758,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "in)",
+            "text": "in",
             "begin": 232.378,
             "end": 235.04,
             "isBackground": true,

@@ -1190,10 +1190,10 @@
       "agent": "v1",
       "key": "L12",
       "backgroundVocal": {
-        "text": "(Tak ada yang tersakiti  )",
+        "text": "Tak ada yang tersakiti",
         "words": [
           {
-            "text": "(Tak",
+            "text": "Tak",
             "begin": 132.56,
             "end": 132.859,
             "isBackground": true,
@@ -1253,14 +1253,14 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "ti  )",
+            "text": "ti",
             "begin": 135.48,
             "end": 136.501,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
-            "hasTrailingSpace": false,
-            "hasSpaceAfter": false
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
           }
         ]
       }
@@ -1463,10 +1463,10 @@
       "agent": "v1",
       "key": "L14",
       "backgroundVocal": {
-        "text": "(Bebaskan hati ini  )",
+        "text": "Bebaskan hati ini",
         "words": [
           {
-            "text": "(Be",
+            "text": "Be",
             "begin": 147.761,
             "end": 148.37,
             "isBackground": true,
@@ -1526,14 +1526,14 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "ni  )",
+            "text": "ni",
             "begin": 154.254,
             "end": 154.765,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
-            "hasTrailingSpace": false,
-            "hasSpaceAfter": false
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
           }
         ]
       }
@@ -1766,10 +1766,10 @@
       "agent": "v1",
       "key": "L16",
       "backgroundVocal": {
-        "text": "(Tak menyatu  )",
+        "text": "Tak menyatu",
         "words": [
           {
-            "text": "(Tak",
+            "text": "Tak",
             "begin": 169.265,
             "end": 169.952,
             "isBackground": true,
@@ -1799,14 +1799,14 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "tu  )",
+            "text": "tu",
             "begin": 171.308,
             "end": 172.122,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
-            "hasTrailingSpace": false,
-            "hasSpaceAfter": false
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
           }
         ]
       }
@@ -2039,10 +2039,10 @@
       "agent": "v1",
       "key": "L18",
       "backgroundVocal": {
-        "text": "(Hati tak berbentuk lagi  )",
+        "text": "Hati tak berbentuk lagi",
         "words": [
           {
-            "text": "(Ha",
+            "text": "Ha",
             "begin": 189.243,
             "end": 189.902,
             "isBackground": true,
@@ -2112,14 +2112,14 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "gi  )",
+            "text": "gi",
             "begin": 196.401,
             "end": 197.119,
             "isBackground": true,
             "isTranslation": false,
             "hasLeadingSpace": false,
-            "hasTrailingSpace": false,
-            "hasSpaceAfter": false
+            "hasTrailingSpace": true,
+            "hasSpaceAfter": true
           }
         ]
       }

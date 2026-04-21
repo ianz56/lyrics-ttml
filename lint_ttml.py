@@ -344,17 +344,17 @@ def format_node(node, indent, uses_prefix, inside_p=False, force_inline=False):
 
     # <p> tag or bg wrapper: each span on its own line, inter-span spaces merged into spans
     if is_p or is_bg_wrapper:
-        def clean_double_parens(nodes):
+        def clean_bg_text(nodes):
             for n in nodes:
                 if isinstance(n, str):
-                    yield n.replace("((", "(").replace("))", ")")
+                    yield n.replace("(", "").replace(")", "")
                 elif isinstance(n, XMLNode):
-                    n.children = list(clean_double_parens(n.children))
+                    n.children = list(clean_bg_text(n.children))
                     yield n
                     
         children = list(node.children)
         if is_bg_wrapper:
-            children = list(clean_double_parens(children))
+            children = list(clean_bg_text(children))
             
         clean_children = []
 

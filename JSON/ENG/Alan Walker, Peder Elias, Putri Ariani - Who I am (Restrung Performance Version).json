@@ -2965,10 +2965,10 @@
       "agent": "v2",
       "key": "L41",
       "backgroundVocal": {
-        "text": "(Hey-yeah)",
+        "text": "Hey-yeah",
         "words": [
           {
-            "text": "(Hey-",
+            "text": "Hey-",
             "begin": 169.954,
             "end": 170.325,
             "isBackground": true,
@@ -2978,7 +2978,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "yeah)",
+            "text": "yeah",
             "begin": 170.325,
             "end": 170.97899999999998,
             "isBackground": true,
@@ -3168,10 +3168,10 @@
       "agent": "v2",
       "key": "L43",
       "backgroundVocal": {
-        "text": "(Hey, hey-yeah, hey-yeah)",
+        "text": "Hey, hey-yeah, hey-yeah",
         "words": [
           {
-            "text": "(Hey,",
+            "text": "Hey,",
             "begin": 179.825,
             "end": 180.531,
             "isBackground": true,
@@ -3211,7 +3211,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "yeah)",
+            "text": "yeah",
             "begin": 182.031,
             "end": 182.629,
             "isBackground": true,

@@ -2460,10 +2460,10 @@
       "agent": "v1",
       "key": "L32",
       "backgroundVocal": {
-        "text": "(Sulitnya menjamu)",
+        "text": "Sulitnya menjamu",
         "words": [
           {
-            "text": "(Sulit",
+            "text": "Sulit",
             "begin": 245.083,
             "end": 245.86,
             "isBackground": true,
@@ -2493,7 +2493,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "jamu)",
+            "text": "jamu",
             "begin": 246.769,
             "end": 247.957,
             "isBackground": true,

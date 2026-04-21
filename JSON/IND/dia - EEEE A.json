@@ -987,10 +987,10 @@
       "agent": "v1",
       "key": "L15",
       "backgroundVocal": {
-        "text": "(Engkol!)",
+        "text": "Engkol!",
         "words": [
           {
-            "text": "(Eng",
+            "text": "Eng",
             "begin": 52.749,
             "end": 52.91,
             "isBackground": true,
@@ -1000,7 +1000,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "kol!)",
+            "text": "kol!",
             "begin": 52.91,
             "end": 53.354,
             "isBackground": true,
@@ -1880,10 +1880,10 @@
       "agent": "v1",
       "key": "L27",
       "backgroundVocal": {
-        "text": "(dia)",
+        "text": "dia",
         "words": [
           {
-            "text": "(dia)",
+            "text": "dia",
             "begin": 95.088,
             "end": 95.328,
             "isBackground": true,

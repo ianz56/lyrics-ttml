@@ -2200,10 +2200,10 @@
       "agent": "v1",
       "key": "L32",
       "backgroundVocal": {
-        "text": "(You are the reason)",
+        "text": "You are the reason",
         "words": [
           {
-            "text": "(You",
+            "text": "You",
             "begin": 149.855,
             "end": 150.208,
             "isBackground": true,
@@ -2243,7 +2243,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "son)",
+            "text": "son",
             "begin": 151.13,
             "end": 157.274,
             "isBackground": true,

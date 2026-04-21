@@ -402,10 +402,10 @@
       "agent": "v1",
       "key": "L6",
       "backgroundVocal": {
-        "text": "(시계를 되돌려)",
+        "text": "시계를 되돌려",
         "words": [
           {
-            "text": "(시계를",
+            "text": "시계를",
             "begin": 34.006,
             "end": 34.286,
             "isBackground": true,
@@ -425,7 +425,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "려)",
+            "text": "려",
             "begin": 35.134,
             "end": 36.649,
             "isBackground": true,
@@ -491,10 +491,10 @@
       "agent": "v1",
       "key": "L7",
       "backgroundVocal": {
-        "text": "(마음을 되돌려)",
+        "text": "마음을 되돌려",
         "words": [
           {
-            "text": "(마음을",
+            "text": "마음을",
             "begin": 37.002,
             "end": 37.64,
             "isBackground": true,
@@ -514,7 +514,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "려)",
+            "text": "려",
             "begin": 38.008,
             "end": 39.547,
             "isBackground": true,
@@ -1500,10 +1500,10 @@
       "agent": "v1",
       "key": "L22",
       "backgroundVocal": {
-        "text": "(너무 흔한 얘기)",
+        "text": "너무 흔한 얘기",
         "words": [
           {
-            "text": "(너무",
+            "text": "너무",
             "begin": 97.803,
             "end": 98.096,
             "isBackground": true,
@@ -1523,7 +1523,7 @@
             "hasSpaceAfter": true
           },
           {
-            "text": "얘기)",
+            "text": "얘기",
             "begin": 98.459,
             "end": 100.295,
             "isBackground": true,
@@ -1600,10 +1600,10 @@
       "agent": "v1",
       "key": "L23",
       "backgroundVocal": {
-        "text": "(항상 지나치지)",
+        "text": "항상 지나치지",
         "words": [
           {
-            "text": "(항상",
+            "text": "항상",
             "begin": 100.589,
             "end": 100.97800000000001,
             "isBackground": true,
@@ -1623,7 +1623,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "지)",
+            "text": "지",
             "begin": 101.538,
             "end": 102.90899999999999,
             "isBackground": true,

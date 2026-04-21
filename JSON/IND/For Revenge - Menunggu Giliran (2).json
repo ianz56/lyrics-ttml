@@ -1766,10 +1766,10 @@
       "agent": "v2",
       "key": "L20",
       "backgroundVocal": {
-        "text": "(Ke mana arah pulangmu?)",
+        "text": "Ke mana arah pulangmu?",
         "words": [
           {
-            "text": "(Ke",
+            "text": "Ke",
             "begin": 159.778,
             "end": 160.072,
             "isBackground": true,
@@ -1839,7 +1839,7 @@
             "hasSpaceAfter": false
           },
           {
-            "text": "mu?)",
+            "text": "mu?",
             "begin": 164.779,
             "end": 165.71699999999998,
             "isBackground": true,
