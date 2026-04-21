@@ -42,7 +42,7 @@ for root, dirs, files in os.walk("."):
             json_path = f"./JSON/{folder}/{json_filename}"
 
             name = os.path.splitext(file)[0]
-            parts = name.split(" - ")
+            parts = name.split(" - ", 1)
             artist = parts[0] if len(parts) > 1 else ""
             title = parts[1] if len(parts) > 1 else name
 

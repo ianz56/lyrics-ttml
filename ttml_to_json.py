@@ -374,7 +374,7 @@ def ttml_to_json(ttml_path: str, output_path: str = None) -> dict:
     
     # Extract metadata dari filename
     filename = Path(ttml_path).stem
-    parts = filename.split(' - ')
+    parts = filename.split(' - ', 1)
     if len(parts) >= 2:
         result["metadata"]["artist"] = parts[0]
         result["metadata"]["title"] = parts[1]
