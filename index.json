@@ -434,17 +434,17 @@
   {
     "artist": "James Arthur & Anne-Marie",
     "title": "Rewrite the Stars",
-    "lang": "ENG",
-    "path": "./ENG/James Arthur & Anne-Marie - Rewrite the Stars.ttml",
-    "jsonPath": "./JSON/ENG/James Arthur & Anne-Marie - Rewrite the Stars.json",
+    "lang": "ELRC",
+    "path": "./ELRC/James Arthur & Anne-Marie - Rewrite the Stars.ttml",
+    "jsonPath": "./JSON/ELRC/James Arthur & Anne-Marie - Rewrite the Stars.json",
     "lastmod": "2026-02-21"
   },
   {
     "artist": "James Arthur & Anne-Marie",
     "title": "Rewrite the Stars",
-    "lang": "ELRC",
-    "path": "./ELRC/James Arthur & Anne-Marie - Rewrite the Stars.ttml",
-    "jsonPath": "./JSON/ELRC/James Arthur & Anne-Marie - Rewrite the Stars.json",
+    "lang": "ENG",
+    "path": "./ENG/James Arthur & Anne-Marie - Rewrite the Stars.ttml",
+    "jsonPath": "./JSON/ENG/James Arthur & Anne-Marie - Rewrite the Stars.json",
     "lastmod": "2026-02-21"
   },
   {
@@ -958,6 +958,14 @@
     "path": "./IND/Syarla - Kepada Yang Teristimewa.ttml",
     "jsonPath": "./JSON/IND/Syarla - Kepada Yang Teristimewa.json",
     "lastmod": "2026-04-21"
+  },
+  {
+    "artist": "Syarla",
+    "title": "Mengheningkan Cinta",
+    "lang": "IND",
+    "path": "./IND/Syarla - Mengheningkan Cinta.ttml",
+    "jsonPath": "./JSON/IND/Syarla - Mengheningkan Cinta.json",
+    "lastmod": "2026-04-24"
   },
   {
     "artist": "The 1975",
