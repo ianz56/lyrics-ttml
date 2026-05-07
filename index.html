@@ -1244,13 +1244,19 @@
         link.href = item.path;
         link.setAttribute('aria-label', `Open ${item.title} TTML`);
 
+        const minifyLink = document.createElement('a');
+        minifyLink.className = 'card__link card__link--minify';
+        minifyLink.textContent = 'MINIFY';
+        minifyLink.href = item.minifyPath;
+        minifyLink.setAttribute('aria-label', `Open ${item.title} Minified TTML`);
+
         const jsonLink = document.createElement('a');
         jsonLink.className = 'card__link card__link--json';
         jsonLink.textContent = 'JSON';
         jsonLink.href = item.jsonPath;
         jsonLink.setAttribute('aria-label', `Open ${item.title} JSON`);
 
-        links.append(link, jsonLink);
+        links.append(link, minifyLink, jsonLink);
         card.append(title, meta, links);
         fragment.appendChild(card);
       });
