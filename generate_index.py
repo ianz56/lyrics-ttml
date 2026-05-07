@@ -15,6 +15,7 @@ def generate_html_card(item):
   <div class="card__meta">{item['artist']} - {item['lang'].upper()}</div>
   <div class="card__links">
     <a class="card__link" href="{item['path']}" aria-label="Open {item['title']} TTML">TTML</a>
+    <a class="card__link card__link--minify" href="{item['minifyPath']}" aria-label="Open {item['title']} Minified TTML">MINIFY</a>
     <a class="card__link card__link--json" href="{item['jsonPath']}" aria-label="Open {item['title']} JSON">JSON</a>
   </div>
 </article>"""
@@ -40,6 +41,7 @@ for root, dirs, files in os.walk("."):
             # JSON path construction
             json_filename = os.path.splitext(file)[0] + ".json"
             json_path = f"./JSON/{folder}/{json_filename}"
+            minify_path = f"./minify/{folder}/{file}"
 
             name = os.path.splitext(file)[0]
             parts = name.split(" - ", 1)
@@ -60,6 +62,7 @@ for root, dirs, files in os.walk("."):
                 "title": title,
                 "lang": folder,
                 "path": path,
+                "minifyPath": minify_path,
                 "jsonPath": json_path,
                 "lastmod": lastmod
             }

@@ -233,6 +233,15 @@
       border-color: rgba(114, 180, 255, 0.4);
     }
 
+    .card__link--minify {
+      border-color: rgba(123, 224, 184, 0.4);
+    }
+
+    .card__link--minify:hover {
+      background: rgba(123, 224, 184, 0.12);
+      border-color: rgba(123, 224, 184, 0.7);
+    }
+
     .card__link--json:hover {
       background: rgba(114, 180, 255, 0.12);
       border-color: rgba(114, 180, 255, 0.7);
