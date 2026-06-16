@@ -4,6 +4,10 @@
       {
         "id": "v1",
         "type": "person"
+      },
+      {
+        "id": "v2",
+        "type": "other"
       }
     ],
     "artist": "Keisya Levronka",
@@ -1845,7 +1849,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "agent": "v1",
+      "agent": "v2",
       "key": "L24"
     },
     {
@@ -2013,7 +2017,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "agent": "v1",
+      "agent": "v2",
       "key": "L26"
     },
     {
@@ -2141,7 +2145,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "agent": "v1",
+      "agent": "v2",
       "key": "L28"
     },
     {
@@ -2180,7 +2184,7 @@
           "hasSpaceAfter": false
         }
       ],
-      "agent": "v1",
+      "agent": "v2",
       "key": "L29"
     },
     {
