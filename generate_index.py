@@ -69,7 +69,7 @@ for root, dirs, files in os.walk("."):
             index.append(entry)
 
 # Sort index
-index = sorted(index, key=lambda x: (x["artist"].lower(), x["title"].lower()))
+index = sorted(index, key=lambda x: (x["artist"].lower(), x["title"].lower(), x["lang"].lower()))
 
 # Write index.json
 print(f"Writing {OUTPUT_FILE}...")
