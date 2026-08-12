@@ -1,5 +1,14 @@
 [
   {
+    "artist": "",
+    "title": "lyrics_6774092983",
+    "lang": "apple",
+    "path": "./experiment/apple/lyrics_6774092983.ttml",
+    "minifyPath": "./minify/apple/lyrics_6774092983.ttml",
+    "jsonPath": "./JSON/apple/lyrics_6774092983.json",
+    "lastmod": "2026-08-12"
+  },
+  {
     "artist": "Alan Walker",
     "title": "Old Habits (From Delta Force Game)",
     "lang": "ENG",
@@ -1141,6 +1150,15 @@
     "minifyPath": "./minify/IND/Syarla - Mengheningkan Cinta.ttml",
     "jsonPath": "./JSON/IND/Syarla - Mengheningkan Cinta.json",
     "lastmod": "2026-04-24"
+  },
+  {
+    "artist": "Syarla",
+    "title": "Putar Arah",
+    "lang": "IND",
+    "path": "./IND/Syarla - Putar Arah.ttml",
+    "minifyPath": "./minify/IND/Syarla - Putar Arah.ttml",
+    "jsonPath": "./JSON/IND/Syarla - Putar Arah.json",
+    "lastmod": "2026-08-12"
   },
   {
     "artist": "The 1975",
